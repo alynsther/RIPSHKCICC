@@ -51,7 +51,7 @@ while option != 'q': # While the option is not 'q'
         #
 
     ##### Handle the line option
-    if option == 'l':
+    if option == 'l': #lol
         print()
 
         # Ask the user for the x and y location
