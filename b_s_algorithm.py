@@ -17,21 +17,20 @@ d = 0.9 #stock price goes down 10%
 l = 1 #stock price doesn't change
 
 def buyorsellstocks(current_p):
-	if current_p > sell_p and current_s >= sell_amount:
-		global current_l , current_s
-		current_l = current_l + sell_amount * current_p
-		current_s = current_s - sell_amount
-		print('Your current amount of stock is' , current_s)
-		print('Liquidity' , current_l , 'and Total amount', current_l + current_s*current_p)
-	elif current_p < buy_p and current_l > sell_amount * current_p:
-		global current_l , current_s
-		current_l = current_l - buy_amount * current_p
-		current_s = current_s + sell_amount
-		print('Your current amount of stock is' , current_s)
-		print('Liquidity' , current_l , 'and Total amount', current_l+ current_s*current_p)
-	else:
-		print('Your current amount of stock is' , current_s)
-		print('Liquidity' , current_l , 'and Total amount', current_l+ current_s*current_p)
+        global current_l , current_s
+        if current_p > sell_p and current_s >= sell_amount:
+                current_l = current_l + sell_amount * current_p
+                current_s = current_s - sell_amount
+                print('Your current amount of stock is' , current_s)
+                print('Liquidity' , current_l , 'and Total amount', current_l + current_s*current_p)
+        elif current_p < buy_p and current_l > sell_amount * current_p:
+                current_l = current_l - buy_amount * current_p
+                current_s = current_s + sell_amount
+                print('Your current amount of stock is' , current_s)
+                print('Liquidity' , current_l , 'and Total amount', current_l+ current_s*current_p)
+        else:
+                print('Your current amount of stock is' , current_s)
+                print('Liquidity' , current_l , 'and Total amount', current_l+ current_s*current_p)
 
 
 
