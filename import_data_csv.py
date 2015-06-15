@@ -6,7 +6,9 @@ aggregate_csv = {}	#Wanted the data to be a dictionary so that when you call the
 This function imports data from a certain sheet in a csv file
 It currently only works for certain col/row format of a .csv file just like the excel version I wrote earlier
 but it can be modified to accommodate other formats too
-This version fits the pattern of the bloomberg data that Leonard exported for us
+This version assumes that the first column is the time of each update of stock price
+and the second column refers to the open price, third column refers to the close price of the stock
+It still works if the .csv file isn't in this format, just some modifications on several lines of code would fix it.
 '''
 
 def import_from_csv(particular_stock_csv):
