@@ -11,6 +11,18 @@ and the second column refers to the open price, third column refers to the close
 It still works if the .csv file isn't in this format, just some modifications on several lines of code would fix it.
 '''
 
+
+
+def mainImportDataCsv():
+	particular_stock_csv = raw_input('Tell me the name of the stock that you want to import: ')			#You can directly input the file name if this program
+	aggregate_csv[str(particular_stock_csv)] = []														#is stored in the same directory as the .csv file
+	import_from_csv(particular_stock_csv)
+	print aggregate_csv 
+	print aggregate_csv.values()[0][1][3] #how elements of the dictionary are accessed
+	return aggregate_csv
+
+
+
 def import_from_csv(particular_stock_csv):
 	file_location_csv = raw_input('Tell me the directory of the .csv file you want to import: ')	#This is asking the for the location of the file
 	with open(str(file_location_csv)) as csvfile:														#Importing the csv file into a variable
@@ -31,7 +43,16 @@ def import_from_csv(particular_stock_csv):
 				cell[num] = float(cell[num])
 			
 
+
+#mainImportDataCsv()
+
+
+"""
+Original code from Allen
+
 particular_stock_csv = raw_input('Tell me the name of the stock that you want to import: ')			#You can directly input the file name if this program
 aggregate_csv[str(particular_stock_csv)] = []														#is stored in the same directory as the .csv file
 import_from_csv(particular_stock_csv)
 print aggregate_csv 
+print aggregate_csv.values()[0][1][3]
+"""
