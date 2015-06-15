@@ -6,6 +6,11 @@ import math
 import random
 def generateWt(t):
     return random.gauss(0,t**0.5)
+'''the t is the time period we want to consider and n is how many intermediate
+   prices we want to get, so the time step will be t/n
+   eg, if we want to get a daily stock price, we can set t=1,n=365
+   and choose mu to be the yearly drift and sigma to be the yearly violatility
+'''
 def generateSt(t,n,S0):
     stockprices=[]
     stockprices.append(S0)
