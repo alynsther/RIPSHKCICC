@@ -83,7 +83,7 @@ def export_to_csv(stock2push):
 
 def pandas_read_csv(stock2read):
 	file_location_csv = str(stock2read) + '.csv'
-	df = pd.read_csv(file_location_csv, index_col = 'Dates', parse_dates = True)
+	df = pd.read_csv(file_location_csv, index_col = 'Dates', parse_dates = True)  
 	print df.head()
 	df[['close', 'high', 'low', 'open']].plot()
 	plt.show()
