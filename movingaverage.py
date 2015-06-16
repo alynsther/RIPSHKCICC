@@ -38,7 +38,7 @@ def mainMA():
 	if movingaverage > differencereq:
 		print("buy")
 		return "b"
-	elif movingaverage < differencereq: 
+	elif movingaverage < -differencereq: 
 		print("sell")
 		return "s"
 	else:
