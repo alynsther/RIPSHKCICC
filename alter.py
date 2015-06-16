@@ -5,16 +5,10 @@ import pandas as pd
 from pandas import DataFrame
 import csv
 import matplotlib.pyplot as plt
+import os
 
 aggregate_csv = {}
 
-'''
-IMPORTANT:
-IN THIS VERSION, YOU HAVE TO DEL THE .CSV FILES GENERATED IN THE SAME FOLDER
-FOR INSTANCE,
-IF I PULLED 'AAPL' WHEN ASKED 'Please input the stock name: ', AND TYPED XXX WHEN ASKED 'Name a file to import the data: '
-YOU HAVE TO DELETE AAPL.csv AND XXX.csv AFTER RUNNING THE PROGRAM.
-'''
 
 '''
 What this program does is:
@@ -110,7 +104,8 @@ export_to_csv(stock2push)
 stock2read = raw_input('Stock2read: ')
 pandas_read_csv(stock2read)
 
-
+os.remove(str(stock2pull) + '.csv')
+os.remove(str(stock2read) + '.csv')
 
 
 

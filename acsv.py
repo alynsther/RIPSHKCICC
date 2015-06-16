@@ -3,17 +3,13 @@ import csv
 import pandas as pd 
 from pandas import DataFrame
 import matplotlib.pyplot as plt
+import os
 
 aggregate_csv = []	
 
 heading = ['Dates', 'Open', 'Last_price', 'RSI_9D', 'RSI_14D', 'RSI_30D']
 
 '''
-IMPORTANT:
-IN THIS VERSION, YOU HAVE TO DEL THE .CSV FILE GENERATED IN THE SAME FOLDER
-FOR INSTANCE,
-IF I TYPED XXX WHEN ASKED 'Name a file to import the data: '
-YOU HAVE TO DELETE XXX.csv AFTER RUNNING THE PROGRAM.
 SUGGESTIONS:
 USE THE l.csv FILE AS IMPORT SOURCE
 '''
@@ -74,5 +70,7 @@ export_to_csv(stock2push)
 
 stock2read = raw_input('Stock2read: ')
 pandas_read_csv(stock2read)
+
+os.remove(str(stock2push) + '.csv')
 
 
