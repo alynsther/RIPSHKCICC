@@ -1,4 +1,4 @@
-from pd import *
+from pandas import *
 from import_data_csv import *
 from sys import exit
 #from __future__ import division
@@ -34,11 +34,11 @@ def mainMA():
 	longma = int(raw_input('Enter the days for the long average: '))
 	differencereq = int(raw_input('Enter the difference required between short and long average to buy or sell:'))
 	init(aggData)
-	ma = MA(shortma, longma)
-	if rsi < entry_threshold:
+	movingaverage = MA(shortma, longma)
+	if movingaverage > differencereq:
 		print("buy")
 		return "b"
-	elif rsi > 100-entry_threshold: 
+	elif movingaverage < differencereq: 
 		print("sell")
 		return "s"
 	else:
@@ -87,4 +87,4 @@ def init(aggData):
 	
 
 
-mainRSI()
+mainMA()
