@@ -17,8 +17,8 @@ def mainImportDataCsv():
 	particular_stock_csv = raw_input('Tell me the name of the stock that you want to import: ')			#You can directly input the file name if this program
 	aggregate_csv[str(particular_stock_csv)] = []														#is stored in the same directory as the .csv file
 	import_from_csv(particular_stock_csv)
-	print aggregate_csv 
-	print aggregate_csv.values()[0][1][3] #how elements of the dictionary are accessed
+	# print aggregate_csv 
+	# print aggregate_csv.values()[0][1][3] #how elements of the dictionary are accessed
 	return aggregate_csv
 
 
