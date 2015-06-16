@@ -31,7 +31,7 @@ def mainPd():
 	year_e = int(raw_input('Ending year: '))
 	month_e = int(raw_input('Ending month: '))
 	day_e = int(raw_input('Ending day: '))
-
+        #S&P 500 is %5EGSPC
 	sp500 = pd.io.data.get_data_yahoo('%5EGSPC', 
 	start = datetime.datetime(year_s, month_s, day_s), 
 	end = datetime.datetime(year_e, month_e, day_e))
