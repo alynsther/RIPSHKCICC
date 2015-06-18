@@ -9,7 +9,7 @@
 '''
 import math
 import random
-def computesigma(historicalPrices):
+def computesigma(historicalPrices): #traditionally, numbers of days should be somewhere between 90 and 180 or the number of days over which we want to do the simulation
     days=len(historicalPrices)
     sum_u=0
     logreturn=[0]*(days-1)
@@ -21,7 +21,7 @@ def computesigma(historicalPrices):
     for i in range(len(logreturn)):
         sum_difference_square+=(logreturn[i]-average_u)**2
     v=(sum_difference_square/(len(logreturn)-1))**0.5     #unbiased estimator of the sd of the normal distribution
-    sigma=v/((1.0/365)**0.5)  # scale to be the yearly sigma
+    sigma=v/((1.0/252)**0.5)  # scale to be the yearly sigma, note that there are usually 252 trading days a year
     return sigma
 
 def computemu(historicalPrices):
@@ -33,7 +33,7 @@ def computemu(historicalPrices):
         sum_u+=logreturn[i]
     average_u=sum_u/(days-1)#unbiased estimator of mu of the normal distribution
     sigma=computesigma(historicalPrices)
-    mu=average_u*365+0.5*(sigma**2)  # result comes from ito's calculus
+    mu=average_u*252+0.5*(sigma**2)  # result comes from ito's calculus
     return mu
     
 def generateWt(t):
@@ -41,7 +41,7 @@ def generateWt(t):
 
 '''the t is the time period we want to consider and n is how many intermediate
    prices we want to get, so the time step will be t/n
-   eg, if we want to get a daily stock price, we can set t=1,n=365
+   eg, if we want to get a daily stock price, we can set t=1,n=252 as there are usually 252 trading days a year
    and choose mu to be the yearly drift and sigma to be the yearly violatility
 '''
 def generateSt(t,n,S0,historicalPrices):
