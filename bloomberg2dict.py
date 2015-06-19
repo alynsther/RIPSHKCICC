@@ -9,7 +9,7 @@ aggregate_csv = []
 
 stock_dict = {}
 
-heading = ['Dates', 'Open', 'Close', 'RSI_9D', 'RSI_14D', 'RSI_30D']
+heading = ['Dates', 'Close', 'Volume']
 
 '''
 SUGGESTIONS:
@@ -18,11 +18,7 @@ USE THE data_bloomberg.csv FILE AS IMPORT SOURCE
 
 '''
 This function converts the .csv file received from bloomberg into a dictionary where key: value is XXXSTOCK_Open : open prices or XXXSTOCK_Close : close prices
-It currently only works for certain col/row format of a .csv file just like the excel version I wrote earlier
-but it can be modified to accommodate other formats too
-This version assumes that the first column is the time of each update of stock price
-and the second column refers to the open price, third column refers to the close price of the stock
-It still works if the .csv file isn't in this format, just some modifications on several lines of code would fix it.
+Works for the RSI test.
 '''
 
 def stock2dict(file_location_csv, stock_name):
@@ -30,16 +26,11 @@ def stock2dict(file_location_csv, stock_name):
 		read_csv = csv.reader(csvfile, delimiter = ',')
 		aggregate_csv.insert(0, heading)
 		for row in read_csv:
-			del(row[0])
-			del(row[6])
-			del(row[6])
 			aggregate_csv.append(row)
-		del aggregate_csv[-5:]
-		del aggregate_csv[1]
 		try:
 			for cell in aggregate_csv:
-				if 'Open' not in cell:
-					for num in range(1, 6):
+				if 'Dates' not in cell:
+					for num in range(1, 4):
 						cell[num] = float(cell[num])
 		except Exception, e:
 			print "C't work: "
@@ -54,7 +45,7 @@ def stock2dict(file_location_csv, stock_name):
 	try:
 		stock_dict[str(stock_name) + '_Dates'] = df['Dates'].tolist()
 		stock_dict[str(stock_name) + '_Close'] = df['Close'].tolist()
-		stock_dict[str(stock_name) + '_Open'] = df['Open'].tolist()
+		stock_dict[str(stock_name) + '_Volume'] = df['Volume'].tolist()
 	except Exception, e:
 		print 'Cannot work: '
 
