@@ -11,7 +11,7 @@ calculates the rsi from input of n days and entry threshold
 date	open	last price	RSI_9D	RSI_14D	RSI_30D
 """
 
-#The initialization of lists
+#The initialization of lists from bloomberg format
 date = []
 open_price = []
 last_price = []
@@ -29,33 +29,41 @@ returns:
 """
 def mainRSI():
 	aggData = mainImportDataCsv()
+
 	# entry threshold and n is determined by the user
-	entry_threshold = int(raw_input('Enter the Entry Threshold: ')) 
+	entry_threshold = float(raw_input('Enter the Entry Threshold: ')) 
+	while entry_threshold < 0 or entry_threshold > 100:
+		print("The entry threshold is out of bounds, it needs to be between 0-100.")
+		entry_threshold = int(raw_input('Enter the Entry Threshold: ')) 
+
 	n_days = int(raw_input('Enter the n-day RSI, where n is an integer: '))
+	#check if n is within range
+	while n_days-1 > len(date) or n_days < 1:
+		print("The number of days is greater than the data available or it is invalid.")
+		n_days = int(raw_input('Enter the n-day RSI, where n is an integer: '))
+
+	rsi = [0]*n_days
+	signal = ["n"]*n_days
 	init(aggData)
-	rsi = RSI(n_days)
-	if rsi < entry_threshold:
-		print("buy")
-		return "b"
-	elif rsi > 100-entry_threshold: 
-		print("sell")
-		return "s"
+	
+	rsi = rsi + RSI(n_days)
+	for i in range(n, len(date))
+	if rsi[i] < entry_threshold:
+		signal.append("b")
+	elif rsi[i] > 100-entry_threshold: 
+		signal.append("s")
 	else:
-		print("neither")
-		return "n"
+		signal.append("n")
 
 
 
 #calculates RSI give n-days
 def RSI(n):
-	UC = []
-	DC = []
-	if n > len(date):
-		print(len(date))
-		print(n)
-		print("The number of days is greater than the data available.")
-		exit(0)
-	for t in range(1, n):
+	#the first element cannot be calulcuated
+	UC = [0]
+	DC = [0]
+	
+	for t in range(1, len(date)):
 		if last_price[t] > last_price[t-1] :
 			UC.append(last_price[t]-last_price[t-1]) 
 			DC.append(0.0)
@@ -65,6 +73,7 @@ def RSI(n):
 		else: 
 			UC.append(0.0)
 			DC.append(0.0)
+	for i in range(n, len(date))
 	AUC = sum(UC)/n					#make sure its a float
 	ADC = sum(DC)/n
 	print(AUC, 'AUC')
