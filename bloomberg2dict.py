@@ -48,12 +48,20 @@ def stock2dict(file_location_csv, stock_name):
 		stock_dict[str(stock_name) + '_Volume'] = df['Volume'].tolist()
 	except Exception, e:
 		print 'Cannot work: '
+	os.remove('temp.csv')
+	return stock_dict
 
-file_location_csv = raw_input('Tell me the name of the .csv file you want to import: ') + '.csv'
-stock_name = raw_input('Tell me the name of the stock: ')
-stock2dict(file_location_csv, stock_name)
-print stock_dict
 
-os.remove('temp.csv')
+# def mainBloomberg2dict():
+# 	file_location_csv = raw_input('Tell me the name of the .csv file you want to import: ') + '.csv'
+# 	#stocsk_name = raw_input('Tell me the name of the stock: ')
+# 	stock_name = 'Default'
+# 	os.remove('temp.csv')
+# 	return stock2dict(file_location_csv, stock_name)
+# 	#print stock_dict
+
+
+
+
 
 
