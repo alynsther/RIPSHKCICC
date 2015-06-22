@@ -30,7 +30,7 @@ def stock2dict(file_location_csv, stock_name):
 		try:
 			for cell in aggregate_csv:
 				if 'Dates' not in cell:
-					for num in range(1, 4):
+					for num in range(1, 3):
 						cell[num] = float(cell[num])
 		except Exception, e:
 			print "C't work: "
