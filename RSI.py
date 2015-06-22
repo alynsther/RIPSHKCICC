@@ -58,6 +58,7 @@ def mainRSI():
 
 
 #calculates RSI give n-days
+#consider EMA -- dont program yet though
 def RSI(n):
 	#the first element cannot be calulcuated
 	UC = [0]
@@ -100,7 +101,5 @@ def init(aggData):
 		RSI_14D.append(aggData.values()[0][i][4])
 	for i in range(len(aggData.values()[0])):
 		RSI_30D.append(aggData.values()[0][i][5])
-
-
 
 mainRSI()
