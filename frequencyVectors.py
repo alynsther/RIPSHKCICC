@@ -1,5 +1,7 @@
 #encoding=utf8
 
+import numpy
+
 def countWords(strlist):
     worep=""
     for j in range(len(strlist)):
@@ -18,8 +20,18 @@ def countWords(strlist):
             occurrences[i][j] = occurrences[i][j]/total
     return occurrences
 
-string=u"今天我起来得很晚上午我们做了一大堆没用的事情并且我现在特别困"
-string2=u"他他他他他"
-string3=u"abcd"
+string=u"我起来我们困"
+string2=u"他他"
+string3=u"ad"
 strlist=[string,string2,string3]
-print countWords(strlist)
+
+def calculateCov(frequencyVectors): #,priceVector):
+    a=[]
+    for i in range(len(frequencyVectors)):
+        a.append(frequencyVectors[i])
+    #a.append(priceVector)
+    x=numpy.array(a).T
+    y=numpy.cov(x).tolist()
+    length=len(y)
+    return y[length-1]
+print calculateCov(countWords(strlist))
