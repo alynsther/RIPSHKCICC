@@ -21,7 +21,10 @@ This function converts the .csv file received from bloomberg into a dictionary w
 Works for the RSI test.
 '''
 
-def stock2dict(file_location_csv, stock_name):
+def stock2dict():
+	file_location_csv = raw_input('Tell me the name of the .csv file you want to import: ') + '.csv'
+	stock_name = 'default'
+
 	with open(str(file_location_csv)) as csvfile:														#Importing the csv file into a variable
 		read_csv = csv.reader(csvfile, delimiter = ',')
 		aggregate_csv.insert(0, heading)
@@ -56,7 +59,6 @@ def stock2dict(file_location_csv, stock_name):
 # 	file_location_csv = raw_input('Tell me the name of the .csv file you want to import: ') + '.csv'
 # 	#stocsk_name = raw_input('Tell me the name of the stock: ')
 # 	stock_name = 'Default'
-# 	os.remove('temp.csv')
 # 	return stock2dict(file_location_csv, stock_name)
 # 	#print stock_dict
 
