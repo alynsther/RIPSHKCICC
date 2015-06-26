@@ -19,10 +19,11 @@ for i in range(5):
             u_line = u_line.replace(punctuations[j], '')
 
         string += u_line.rstrip()
-        string_list.append(string)
+    string_list.append(string)
         
 print 'string is: ' + string
 print 'string_list is' , string_list
+print string_list[0]
 
 
 '''
