@@ -1,14 +1,9 @@
 # encoding=utf8
 
 import nltk
-
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-
 letters = {}
-
-
-
 
 letterPositions={"a":[0,0,0,0,1],"b":[0,0,0,1,0],"c":[0,0,0,1,1],"d":[0,0,1,0,0],"e":[0,0,1,0,1],
                  "f":[0,0,1,1,0],"g":[0,0,1,1,1],"h":[0,1,0,0,0],"i":[0,1,0,0,1],"j":[0,1,0,1,0],
@@ -24,7 +19,8 @@ def remove_punc(text):
 	for i in range(len(str_list)):
 	    whole_str += str_list[i]
 
-	string = whole_str.translate(None, ',.!?+-!@#$%^&*'"'"'()~`{}|[]:;"<>/1234567890')
+	string = whole_str.translate(None, ',.!?+-!@#$%^&*'"'"'_()~`{}\|[]:;"<>/1234567890')
+
 	return string
 
 def import_from_txt():
@@ -37,53 +33,58 @@ def import_from_txt():
 	return text
 
 def move_points(string):
-        positionList = [[0,0,0,0,0]]
-        for j in range(len(string)):
-                currentPosition=[]
-                for i in range(5):
-                        currentPosition.append(0.5 * float(int(letterPositions[string[j]][i]) + float(positionList[j][i])))
-                positionList.append(currentPosition)
-        positionList.remove(positionList[0])
-        return positionList
+	positionList = [[0,0,0,0,0]]
+
+	for j in range(len(string)):
+		currentPosition = []
+		k = string[j]
+		for i in range(5):
+			currentPosition.append(0.5 * float(int(letterPositions[k][i]) + float(positionList[j][i])))
+		#print currentPosition
+		positionList.append(currentPosition)
+
+	return positionList
 
 def processing(positionList):
-        dic={}
-        for i in range(3):
-                for j in range(3):
-                        for k in range(3):
-                                for l in range(3):
-                                        for m in range(3):
-                                                dic[(i,j,k,l,m)]=0
-        for point in positionList:
-                dic[(int(point[0]*3)),int(point[1]*3),int(point[2]*3),int(point[3]*3),int(point[4]*3)]+=1
-        return dic
+	classPointList = [[0,0,0,0,0]]
+
+	for point in positionList:
+		classPoint = []
+		for i in range(5):
+			classPoint.append(int(float(point[i]) * 3))
+		classPointList.append(classPoint)
+
+	return classPointList
+		
+def classing(classPointList):
+    dic={}
+    for i in range(3):
+            for j in range(3):
+                    for k in range(3):
+                            for l in range(3):
+                                    for m in range(3):
+                                            dic[(i,j,k,l,m)]=0
+    for point in classPointList:
+            dic[(int(point[0])),int(point[1]),int(point[2]),int(point[3]),int(point[4])]+=1
+    return dic
 
 def frequencyDic(dic):
-        fd={}
-        total= sum(dic.values())
-        for i in range(3):
-                for j in range(3):
-                        for k in range(3):
-                                for l in range(3):
-                                        for m in range(3):
-                                                fd[(i,j,k,l,m)]=0
-        for key in fd:
-                fd[key]=dic[key]/float(total)
-        return fd
+    fd={}
+    total= sum(dic.values())
+    for i in range(3):
+            for j in range(3):
+                    for k in range(3):
+                            for l in range(3):
+                                    for m in range(3):
+                                            fd[(i,j,k,l,m)]=0
+    for key in fd:
+            fd[key]=dic[key]/float(total)
+    return fd
 
-letter = remove_punc(import_from_txt())
+print classing(processing(move_points(remove_punc(import_from_txt()))))
+print frequencyDic(classing(processing(move_points(remove_punc(import_from_txt())))))
 
-positionList=move_points(letter)
 
-d=processing(positionList)
 
-fd=frequencyDic(d)
-
-print d.values()
-print sum(processing(positionList).values())
-print fd
-print sum(fd.values())
-
-#print positionList
 
 
