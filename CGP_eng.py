@@ -58,12 +58,32 @@ def processing(positionList):
                 dic[(int(point[0]*3)),int(point[1]*3),int(point[2]*3),int(point[3]*3),int(point[4]*3)]+=1
         return dic
 
+def frequencyDic(dic):
+        fd={}
+        total= sum(dic.values())
+        for i in range(3):
+                for j in range(3):
+                        for k in range(3):
+                                for l in range(3):
+                                        for m in range(3):
+                                                fd[(i,j,k,l,m)]=0
+        for key in fd:
+                fd[key]=dic[key]/float(total)
+        return fd
+
 letter = remove_punc(import_from_txt())
+
 positionList=move_points(letter)
 
-print processing(positionList)
-print sum(processing(positionList).values())
+d=processing(positionList)
 
-print positionList
+fd=frequencyDic(d)
+
+print d.values()
+print sum(processing(positionList).values())
+print fd
+print sum(fd.values())
+
+#print positionList
 
 
