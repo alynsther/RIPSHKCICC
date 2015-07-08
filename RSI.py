@@ -55,8 +55,8 @@ def mainRSI():
 
 	# RSI calculated by taking account of previous 14 days so initialize the first 14 days to 0 and "n" first
 	rsi.extend([0]*n_days)  
-	signal = ["n"]*n_days 	#daily signals b,s,n
-	transaction = ["n"]*n_days # daily transactions: b,s,n
+	signal = ['n']*n_days 	#daily signals b,s,n
+	transaction = ['n']*n_days # daily transactions: b,s,n
 
 	aggData = stock2dict() #gets the data of the bloomberg file into a dictionary
 	init(aggData) #initialize the dictionary into lists of date, closing price and volume
@@ -66,30 +66,30 @@ def mainRSI():
 	#please refer to paper for buy/sell signal and transaction cues (p.5858: the first strategy)
 	for i in range(n_days, len(date)):
 		#accounts for the closing the opening position
-		if transaction[i-1] == "b":
+		if transaction[i-1] == 'b':
 			if rsi[i] > 50 or rsi[i] < entry_threshold:
-				transaction.append("s")
-				signal.append("n")
+				transaction.append('s')
+				signal.append('n')
 				passedB = False
 				passedS = False
 				continue
-		elif transaction[i-1] == "s":
+		elif transaction[i-1] == 's':
 			if rsi[i] < 50 or rsi[i] > 100-entry_threshold:
-				transaction.append("b")
-				signal.append("n")
+				transaction.append('b')
+				signal.append('n')
 				passedB = False
 				passedS = False
 				continue
 
 		#determines the signal
 		if rsi[i] < entry_threshold:
-			signal.append("b")
+			signal.append('b')
 			passedB = True
 		elif rsi[i] > 100-entry_threshold: 
-			signal.append("s")
+			signal.append('s')
 			passedS = True
 		else: 
-			signal.append("n")
+			signal.append('n')
 
 		#determines the transaction
 		if passedB and entry_threshold < rsi[i] and rsi[i] < 50:
@@ -97,24 +97,48 @@ def mainRSI():
 			passedS = False
 			passedB = False
 			continue
-		elif passedB and rsi[i] > 50:
-			transaction.append("n")
+		elif passedB and 100-entry_threshold > rsi[i] and rsi[i] > 50:
+			transaction.append('n')
 			passedS = False
+			passedB = False
+			continue
+		elif passedB and rsi[i] > 100-entry_threshold:
+			transaction.append('n')
+			signal.append('s')
+			passedS = True
 			passedB = False
 			continue
 
 		if passedS and 50 < rsi[i] and rsi[i] < 100-entry_threshold:
-			transaction.append("s")
+			transaction.append('s')
 			passedS = False
 			passedB = False
 			continue
-		elif passedS and rsi < 50:
-			transaction.append("n")
+		elif passedS and entry_threshold < rsi[i] and rsi[i] < 50:
+			transaction.append('n')
 			passedB = False
+			passedS = False
+			continue
+		elif passedS and rsi[i] < entry_threshold:
+			transaction.append('n')
+			signal.append('b')
+			passedB = True
 			passedS = False
 			continue
 
-		transaction.append("n")
+		transaction.append('n')
+
+	#print len(signal)
+
+	bigL = []
+	for j in range(19, len(date)):
+		 list1 = []
+		 list1.append(close[j])
+		 list1.append(signal[j])
+		 bigL.append(list1)
+
+	#print len(bigL)
+	print bigL
 
 	#starting on day 3/1/2004 which begins on index 19, it counts the number of signals
 	for i in range(19,len(date)):
@@ -125,7 +149,7 @@ def mainRSI():
 		else:
 			counterN += 1
 
-	print counterB, counterS, counterN
+	return bigL
 
 
 
@@ -180,7 +204,7 @@ def init(aggData):
 
 
 #runs the main function
-mainRSI()
+#mainRSI()
 
 
 
@@ -199,7 +223,58 @@ mainRSI()
 
 
 
+# #please refer to paper for buy/sell signal and transaction cues (p.5858: the first strategy)
+	# for i in range(n_days, len(date)):
+	# 	#accounts for the closing the opening position
+	# 	if transaction[i-1] == "b":
+	# 		if rsi[i] > 50 or rsi[i] < entry_threshold:
+	# 			transaction.append("s")
+	# 			signal.append("n")
+	# 			passedB = False
+	# 			passedS = False
+	# 			continue
+	# 	elif transaction[i-1] == "s":
+	# 		if rsi[i] < 50 or rsi[i] > 100-entry_threshold:
+	# 			transaction.append("b")
+	# 			signal.append("n")
+	# 			passedB = False
+	# 			passedS = False
+	# 			continue
 
+	# 	#determines the signal
+	# 	if rsi[i] < entry_threshold:
+	# 		signal.append("b")
+	# 		passedB = True
+	# 	elif rsi[i] > 100-entry_threshold: 
+	# 		signal.append("s")
+	# 		passedS = True
+	# 	else: 
+	# 		signal.append("n")
+
+	# 	#determines the transaction
+	# 	if passedB and entry_threshold < rsi[i] and rsi[i] < 50:
+	# 		transaction.append("b")
+	# 		passedS = False
+	# 		passedB = False
+	# 		continue
+	# 	elif passedB and rsi[i] > 50:
+	# 		transaction.append("n")
+	# 		passedS = False
+	# 		passedB = False
+	# 		continue
+
+	# 	if passedS and 50 < rsi[i] and rsi[i] < 100-entry_threshold:
+	# 		transaction.append("s")
+	# 		passedS = False
+	# 		passedB = False
+	# 		continue
+	# 	elif passedS and rsi < 50:
+	# 		transaction.append("n")
+	# 		passedB = False
+	# 		passedS = False
+	# 		continue
+
+	# 	transaction.append("n")
 
 # for i in range(len(aggData.values()[0])):
 # date.append(aggData.values()[0][i][0])

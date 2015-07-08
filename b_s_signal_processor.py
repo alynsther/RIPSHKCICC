@@ -1,3 +1,5 @@
+from RSI import *
+
 list2 = []
 open_list = []
 close_list = []
@@ -8,7 +10,12 @@ for signal in signals:
 	if signal == 'b' or 's':
 		list.append([stock_dict[str(stock_name) + '_Close'], signal])
 '''
+
 list1 = [[1, 'b'], [2, 'b'], [3, 's'], [4, 's'], [5, 'b'], [6, 'b'], [7, 'b'], [8, 'b'], [9, 's'], [10, 'b'], [11, 's'], [12, 'b'], [13, 's']]
+# list1 = mainRSI()
+# #print len(list1)
+# count = 0
+
 
 def position(list1):
 	if 'b' in list1[0]:
@@ -27,15 +34,21 @@ def position(list1):
 				list2.append(list1[0])
 				del list1[0]
 				break
+	count += 1
+	#print count
 	if list1 != []:	
 		position(list1)
 	return list2
+
+
 
 def listsum(numList):
     theSum = 0
     for i in numList:
         theSum = theSum + i
     return theSum
+
+
 
 def calculate():
 	for pos in range(len(list2)):
@@ -49,8 +62,14 @@ def calculate():
 		else:
 			pos_m.append(float(open_list[i][0] - close_list[i][0]))
 
+
+# list1 = mainRSI()
+# count = 0
+#print list1[0][1]
 position(list1)
+#print("pos")
 calculate()
+#print("calc")
 print pos_m
 print listsum(pos_m)
 
