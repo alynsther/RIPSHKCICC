@@ -18,18 +18,20 @@ for i in soup.findAll('time'):
 
 
 #finds all the links
+list_of_hyperlinks = ["www.bloomberg.com"]
 for i in soup.findAll('a'):
 	if i.has_attr('href'):
 		s = "www.bloomberg.com/" + i['href']
-			 goodstring = True
-			 #cleans up the useless strings
-			 for i in range(len(s)):
-				if s[i:i+4] == "http":
-			 		goodstring = False
-			 if(goodstring):
-				print(s)
+		goodstring = False
+		 #cleans up the useless strings
+		for i in range(len(s)):
+			if s[i:i+4] == "news":
+				goodstring = True
+		if(goodstring):
+			list_of_hyperlinks.append(s)
 
 
+print(set(list_of_hyperlinks))
 
 			
 #s = '''<time class="jlist_date_image" datetime="2015-04-02 14:30:12">Idag <span class="list_date">14:30</span></time>'''
