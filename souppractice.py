@@ -2,9 +2,10 @@ import urllib2
 from bs4 import BeautifulSoup, SoupStrainer
 import httplib2
 
-
+#open the article
 soup = BeautifulSoup(urllib2.urlopen('http://www.bloomberg.com/').read())
 #print(soup)
+#find things with time tag and attribute 'datetime.' doesn't work for all articles
 for i in soup.findAll('time'):
         if i.has_attr('datetime'):
             print(i['datetime'])
@@ -15,16 +16,18 @@ for i in soup.findAll('time'):
 #	if i.has_attr('src'):
 #		print(i['src'])
 
+
+#finds all the links
 for i in soup.findAll('a'):
 	if i.has_attr('href'):
 		s = "www.bloomberg.com/" + i['href']
-		print(i.title)
-			 # goodstring = True
-			 # for i in range(len(s)):
-				# if s[i:i+4] == "http":
-			 # 		goodstring = False
-			 #if(goodstring):
-		print(s)
+			 goodstring = True
+			 #cleans up the useless strings
+			 for i in range(len(s)):
+				if s[i:i+4] == "http":
+			 		goodstring = False
+			 if(goodstring):
+				print(s)
 
 
 
