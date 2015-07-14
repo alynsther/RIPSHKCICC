@@ -1,0 +1,2090 @@
+Updated July 13, 2014 6:54 p.m. ET
+
+VIENNA—Efforts to open the way to a final nuclear deal between Iran and world
+powers appeared to fall short after a day of intensive talks between the
+Iranian foreign minister and his U.S. and European counterparts.
+
+With a week left to a deadline for reaching a comprehensive deal, significant
+gaps remained, European foreign ministers said...
+
+Updated July 13, 2014 5:12 p.m. ET
+
+SHENZHEN, China—Star Wang was surprised last summer to hear that Intel Corp.,
+the world's biggest chip maker by revenue, wanted to talk business.
+
+Mr. Wang runs a small factory in this southern Chinese city, making tablet
+computers and printed circuit boards for local electronics brands in China and
+South America. His company, Shenzhen Hampoo Science & Technology Co., isn't
+well known, but it is exactly the kind of customer that...
+
+Updated July 13, 2014 8:11 p.m. ET 
+
+The Mets paused for this week's All-Star break with a record of 45-50, leaving
+them seven games out of first place in the National League East standings.
+This puts them on pace for 76.7 victories this season—or, even with some
+generous rounding, a total significantly below 90.
+
+It seems unfair to evaluate the Mets using that number as the standard.
+Considering the obvious flaws checkering their roster from the outset, they
+probably...
+
+Updated July 13, 2014 8:52 p.m. ET
+
+69 COMMENTS
+
+The password to my  [Twitter](http://quotes.wsj.com/TWTR)[ TWTR 1.60 %
+](http://quotes.wsj.com/TWTR) account, which has been mine since 2007 and
+through which I have published more than 51,000 tweets, is "christophermims."
+Knowing that won't help you hack it, however. In fact, I'm publishing my
+password to make a point: The password is finally dying, if we want it to.
+
+Before I outline why I'm so confident about the irrelevance of the password
+that I'm willing to give mine away, let's talk about what is already
+succeeding them, at least on a trial basis, on Google's corporate campus:
+device-based authentication.
+
+Google is working on an as-yet unnamed protocol that allows you to connect to
+your online accounts on any device by authenticating yourself with your
+smartphone. This could be a code sent to you, or even a "smart ring." In June,
+Google showed off one version of this scheme, in which a user's laptop can be
+unlocked by the mere presence of his or her smartphone. It might seem foolish
+to replace an authentication token that you keep in your head (a password)
+with one you keep in your pocket (like a phone) but consider: The former can
+be obtained by hackers, and the latter you can shut down the moment it goes
+missing.
+
+#### Recent WSJD Articles on Passwords
+
+  * ** [The Man Behind the First Computer Password: It's Become a Nightmare](http://blogs.wsj.com/digits/2014/05/21/the-man-behind-the-first-computer-password-its-become-a-nightmare/) **
+  * ** [Another Cyberattack? Follow These Password Tips From the Pros](http://blogs.wsj.com/digits/2014/05/21/another-cyberattack-follow-these-password-tips-from-the-pros/) **
+  * ** [Personal Tech Review: The Best Way to Manage All Your Passwords](http://online.wsj.com/news/articles/SB10001424052702303647204579545801399272852) **
+
+If you have either an iPhone or a newer Samsung phone running Android, it's
+simple to lock your phone remotely, even wipe it. So even if a thief gets his
+hands on the skeleton key to your accounts, you can disable it easily. Plus,
+your phone is itself locked (or should be) with a PIN code or even a
+fingerprint sensor.
+
+If you want to sample the early version of a post-password future, all you
+have to do is switch on a common security feature of every major Web service.
+It's available across all the Web giants, including every account offered by
+Google,  [Yahoo](http://quotes.wsj.com/YHOO),[ YHOO 0.82 %
+](http://quotes.wsj.com/YHOO) [Microsoft](http://quotes.wsj.com/MSFT),[ MSFT
+0.20 % ](http://quotes.wsj.com/MSFT) [Facebook](http://quotes.wsj.com/FB),[ FB
+2.41 % ](http://quotes.wsj.com/FB) Twitter and dozens of others, and yet
+surveys suggest more than half the public hasn't heard of it. It's called two-
+factor authentication. And if you have ever taken money out of your bank
+account at an ATM, you've already experienced it.
+
+Passwords are a uniquely terrible kind of single-factor authentication, in
+which the one factor identifying you as you is the password itself. If you've
+heard that longer, more complicated passwords are better than short ones,
+that's only a little bit true. That is because, on account of our limited
+memories, almost all of us re-use passwords across multiple accounts.
+
+Google doesn't like to get specific about this sort of thing, but it's very
+likely that one of the most common ways Gmail accounts are breached is that
+hackers get hold of a database of passwords from somewhere else—like the 145
+million  [eBay](http://quotes.wsj.com/EBAY)[ EBAY 0.97 %
+](http://quotes.wsj.com/EBAY) passwords that were breached earlier this
+year—and try them on the email addresses to which they are already linked.
+
+![](http://si.wsj.net/public/resources/images/OG-
+AB863_WSJDin_D_20140702162303.jpg) ENLARGE
+
+** [WSJD](http://online.wsj.com/news/technology) is the Journal's home for tech news, analysis and product reviews.**
+
+  * ** [Apple Responds to China Report on iPhone Location Feature](http://blogs.wsj.com/digits/2014/07/12/apple-responds-to-china-tv-report-on-iphone-location-feature/) **
+  * ** [Google Directors Wanted Page, Brin to Court Facebook Employees](http://blogs.wsj.com/digits/2014/07/14/google-directors-wanted-page-brin-to-court-facebook-employees/) **
+  * ** [For This Author, 10,000 Articles a Day Is a Good Day's Work](http://online.wsj.com/articles/for-this-author-10-000-wikipedia-articles-is-a-good-days-work-1405305001) **
+
+Be honest: Do you use a completely unique password for every single one of
+your email addresses and bank websites? Most of you just answered "no"—which
+means most of you are vulnerable.
+
+Currently, two-factor authentication solves the problem of the insecurity of
+password databases. The first factor might be something you know—like a
+password—and the second is something you have. In the case of an ATM, the
+thing you know is your PIN number, and the thing you have is the debit card
+itself.
+
+The way device-based authentication works for your email or online bank
+accounts is a little different: The thing you know is a password, and the
+thing you have is a smartphone. In most implementations of two-factor
+authentication, when you try to log in via the usual method, the website
+prompts you to enter in a (usually six digit) code that has just been texted
+to you. Because no one else in the world has your phone number, and the
+international system for sending texts is, according to experts, almost
+impossibly difficult to hack, the result is a login system that is much more
+secure than a password alone.
+
+But wait, there's more: Authentication through a text message (or in some
+cases an app on your smartphone, which has the advantage of working even when
+you have no cell signal) is so much better than a password alone that, in a
+sense, it makes the password obsolete. It's true that even two-factor
+authentication can be defeated by a handful of methods, but all of those
+methods are no more effective if your password is 256 characters long and made
+of only special characters than if it's 8 characters long and is in fact
+"password."
+
+This is one reason why companies like Telesign, which provides two-factor
+authentication services to "nine of the top 10 Web properties," says CEO
+Steve Jillings, are working on login systems that, like Google's system, do
+away with the password entirely. These systems will be revealed sometime this
+quarter, says Mr. Jillings. And competitors like Authy allow cellphones to
+wirelessly send two-factor authentication tokens to your PC, which makes
+logging in with this method almost as easy as logging in with a password.
+
+This isn't to say that two-factor authentication, and its more evolved cousin,
+device-based authentication, is a panacea. Security is an arms race, and if
+enough people switch to these new schemes, hackers will find their weaknesses.
+But in the meantime, if you want to experience a future in which remembering
+dozens of passwords, or relying on a service to do it for you, is a thing of
+the past, go turn on two-factor on the accounts that matter most.
+
+_ **Update:** By purposefully revealing his Twitter password, Christopher Mims
+invited hacking attempts, was hit by hundreds of login requests, and ended up
+unwittingly disclosing his phone number. Here's [what he
+learned](http://blogs.wsj.com/digits/2014/07/15/commentary-what-i-learned-and-
+what-you-should-know-after-i-published-my-twitter-password/)._
+
+**Write to **Christopher Mims at [christopher.mims@wsj.com](mailto:christopher.mims@wsj.com)
+
+  * 2 
+  * 1372 
+  *   *   *   * Save Article
+  * [Sign In to Save](https://id.wsj.com/access/50f57257bd7fb2d2f6629af5/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-password-is-finally-dying-heres-mine-1405298376)
+  * [Subscribe to WSJ](https://subscribe.wsj.com/awsjhpheader)
+  *   *   *   * Text Size
+  * Regular
+  * Medium
+  * Large
+  *   *   * Google+ 
+  * LinkedIn 
+  *   * Print
+
+69 comments
+
+ [ ![Livefyre](https://d3qdfnco3bamip.cloudfront.net/wjs/v3.0/images/lf-
+logo.png)](http://livefyre.com)
+
+  * [Get Livefyre](http://livefyre.com)
+  * [FAQ](http://support.livefyre.com)
+
+Sign in
+
+\+ Follow
+
+Post comment
+
+
+
+Link
+
+Newest | Oldest
+
+![Doug Parr](http://avatars.fyre.co/a/286/958257286bf78cde4b4c98f9fe44a7e8/50.
+jpg?v=1408119370)
+
+Doug Parr user 5pts
+
+Passwords and one time passwords are dead on arrival.  One need only read
+about the most recent breach in Europe called Emmental.  Here is some pretty
+good commentary on the subject:
+
+<http://www.paymentssource.com/news/interchange/retiring-one-time-passwords-
+for-good-3018573-1.html>
+
+![Adam James](http://avatars.fyre.co/a/286/8b87569378c103e1b29ad34e0285b7ee/50
+.jpg?v=1408119085)
+
+Adam James user 5pts
+
+With a little help from product like Hushio Key, people can easily deploy
+strong password for every single account.
+
+**[http://youtu.be/XTnkdoGusik**](https://mymail.sophos.net/owa/redir.aspx?C=NQMQMGQo1kK_wSwtQMaTrvIlz8qXeNEIud1aQTCKtFvulBpIELJzEJTphRc9TlypRwLC9AAEILk.&URL=http%3a%2f%2fyoutu.be%2fXTnkdoGusik)  
+
+![Frederick Wrightson](http://avatars.fyre.co/a/286/3f6df860e0d1cf3f4eacc7ea44
+a17ca6/50.jpg?v=1416424291)
+
+Frederick Wrightson subscriber 5pts
+
+For my company Netherlands ABN AMRO checking account, I have a little device
+into which I insert my chip enabled ATM card. It then requests my PIN, after
+which, it gives me a multi-digit numeric code, which I then enter into my
+account online login. Works pretty well and gives a feeling of security.
+
+![Sanjay Kumar](http://avatars.fyre.co/a/286/7fe8b7d1cb25b4cb22f2d660b095a1c6/
+50.jpg?v=1408117523)
+
+Sanjay Kumar subscriber 5pts
+
+This guy is totally cluless! Have you ever wiped your phone without a
+password? Does two factor authorization not use password ? Password
+authentication is not dead it is just being supplemented,
+
+![Charles Durkin](http://avatars.fyre.co/a/286/0c84454cc9d816004ee2cd95941696f
+6/50.jpg?v=1416364596)
+
+Charles Durkin subscriber 5pts
+
+Multifactor authentication schemes have been around for years, but adoption
+remains extremely limited. Why? The existing user name and password
+authentication method is baked into virtually all online applications and
+services. Shared secrets are the de facto standard for online identity. In
+order to move to a more secure digital ecosystem, online service providers and
+relying parties must agree to operate using similar standardized identity and
+authentication schemes.
+
+Years of government and private industry attempts to address the digital
+identity problem have failed due to a misalignment of costs and incentives.
+The market failure persists despite the clear need for a solution. This is not
+an uncommon condition when matters of public safety are concerned.
+
+The ideal solution would be a single digital identity standard that could be
+used to access all online accounts. Unfortunately, such a standard will likely
+require legislation, as the market cannot seem to produce one.
+
+![Donald Johnson](http://avatars.fyre.co/a/286/2cc7fbba59c8a0c384c15a61bf18a15
+e/50.jpg?v=1408118772)
+
+Donald Johnson subscriber 5pts
+
+"Be honest: Do you use a completely unique password for every single one of
+your email addresses and bank websites?"
+
+Yes, because password managers like KeePass help me with that. It's
+unfortunate most websites limit the amount of characters in a password and
+which characters are allowed.  I should be able to have spaces, all symbols,
+etc. with virtually no limit on the password length, assuming the guy who is
+coding the password box is a competent programmer.  
+
+![Dom Fried](https://lfavatar-a.akamaihd.net/a/286/7db4127b948070cb4498d2c0a95
+24309/50.jpg?v=1414535474)
+
+Dom Fried subscriber 5pts
+
+Not so fast. Your Android device can be hacked even if a text message is
+received securely. Many of the apps on the app store are viruses. (Ever wonder
+why a flashlight app needs full Internet access?)
+
+  
+
+The best thing is a physical device with no radio. Also very good is a piece
+of paper well hidden in your home. The issue with the latter is that you
+shouldn't take it out of your home. An example of the former is a YubiKey. I
+would prefer a physical device like a YubiKey,  but without even a USB port,
+just a display and a push button.
+
+![JOHN OLSTAD](https://lfavatar-a.akamaihd.net/a/286/222f0b2a8c7e7304df3a028c6
+204bc5d/50.jpg?v=1411097396)
+
+JOHN OLSTAD subscriber 5pts
+
+The password should be the digital  legal threshold of what is considered
+private and requires a search warrant to access.
+
+  
+
+The changes may be the future but Google, Yahoo, and the other providers have
+a patriotic responsibility to the Bill Of Rights to make sure what ever
+changes they bring are protective of an American's Right to Privacy.
+
+![Barnes Moore](http://avatars.fyre.co/a/286/5a8532cf6fe283e69d8929d603b8b2f7/
+50.jpg?v=1415257132)
+
+Barnes Moore subscriber 5pts
+
+Another method used by some banks is sending a one time passcode to your
+phone, or email thatexpires in a few minutes if not used. It's similar to the
+rsa token except that you don't need the token..
+
+![RON HARDIN](http://avatars.fyre.co/a/286/582cdbfacece02050291fc11a1c29424/50
+.jpg?v=1410559344)
+
+RON HARDIN user 5pts
+
+RSA has long had keyring tokens that display a number that changes every
+minute.  The place you use it for, usually where you work, knows what the
+number is and asks you for it.
+
+  
+
+They'd accept the previous number or the next, and by what you report knows
+whether your token is running slightly fast or slow, and keeps in sync with
+it.
+
+  
+
+The battery runs out in a few years and you get another one before that.  
+
+  
+
+It would be easy to have a single thrid party authentication service to make
+your device work for everybody who contracts with them.
+
+  
+
+The fact that banks don't use this long-available trick ought to be proof that
+they're not serious about security.  
+
+![Nancy Murphy](http://avatars.fyre.co/a/286/b30718ba0b7ea52848c7755f2d093095/
+50.jpg?v=1408118993)
+
+Nancy Murphy subscriber 5pts
+
+We had this system in the UAE.  Trouble is that if you don't have your phone,
+or if you are traveling to a location where your phone doesn't have a signal
+or if the  then you are locked out of doing anything. And if you change phone
+numbers or move before you tell the bank or credit card your new
+number....then you are unable to get to your account.  The loop goes...you
+will be sent a sms to your listed number...which no longer exists...they cant
+change your registered number without first sending you a sms to your existing
+registered number...
+
+![cybercom systems](http://avatars.fyre.co/a/286/4445b60531afcdbe1c2499da3347d
+bfe/50.jpg?v=1408116754)
+
+cybercom systems subscriber 5pts
+
+seriously? SMS for security? If this catches on the SMS system will be hacked
+in short order, if it hasn't already. It was never designed to be secure.
+
+A security token is a small device that creates a six-digit number to augment
+your password each time you log in. This is a much more secure system:
+<https://en.wikipedia.org/wiki/Security_token>  
+
+![Jillian Alexander](http://avatars.fyre.co/a/286/e1efe281c754b30c1b3865d5e634
+0ee6/50.jpg?v=1417449360)
+
+Jillian Alexander subscriber 5pts
+
+Clever passwords can outwit clever children.
+
+Using phone for authentication for all sites is opening up Pandora's Box. It
+would be sooooo easy for a mischievous child to take dad's phone and reset
+(i.e., remove) parental controls or access sites that are not age appropriate
+or othewise costly. Also, phone profiles can be cloned ... so, its one more
+device to be hacked and leveraged.
+
+So, what to do ...
+
+  
+
+Clear cookies. Clear temporary internet files. Every time you close your
+browser. Close your browser between searches and between each online activity.
+(Added benefit -- you will get more relevant search results, too.)
+
+  
+
+Use several email addresses ... differentiate by use-type. Do not register the
+most precious email addresses with retailers, marketing companies (i.e.,
+Google, Yahoo!). Use one account for all retailers, media (i.e., WSJ.com),
+other indirect communication; use one for business; and one for
+friends/family. Your valued contacts won't get spammed when your account is
+hacked.  
+
+  
+
+![David Ings](http://avatars.fyre.co/a/286/7f299a1ac39283bcc2e7f58169494929/50
+.jpg?v=1417660898)
+
+David Ings subscriber 5pts
+
+Quote: Be honest: Do you use a completely unique password for every single one
+of your email addresses and bank websites?
+
+Uh, yes - by using the 1Password password manager. And given its popularity
+and the popularity of similar programs, I would suggest the author needs to do
+some more homework.  
+
+![Terry Culkin](http://avatars.fyre.co/a/286/d15c6c0ffbc276bacd5b9062d8979de9/
+50.jpg?v=1408118981)
+
+Terry Culkin user 5pts
+
+This should be put in the humor section.  Secure passwords are needed.  Two
+factor authentication is great, of course if your phone works or have access
+to it!
+
+This Passwords Are Dead is similar to the 1990's when the people said Books
+where dead with the invention of the World Wide Web!
+
+Better security is great, but a secure password is what might save you.  Many
+people who are being hacked are the major companies who have these security
+measures!  Adobe, Target and many more have two factor authentication and
+still were hacked!
+
+It's more about being smart and not two factor.  Like not giving a password
+out to the public and using a Secure easy to remember but hard to hack
+password. I do not see every business owner in the world pricking their finger
+to access their smart phone! Since our blood would be the next logical step.
+
+![Binu Alex](http://avatars.fyre.co/a/286/15e244c369864b154486592b74f86671/50.
+jpg?v=1408116297)
+
+Binu Alex subscriber 5pts
+
+Attention-getter title! Two Factor Authentication and Device based
+authentication have been around for at least a decade. It is not a google
+invention as all the green WSJ reporters make everything sound these days.
+Anyone who is paying for a Wall Street Journal subscription is already using
+these techniques knowingly or unknowingly at their workplace, and to access
+most US banks and credit unions online.  Not the WSJ anymore that I used to
+consider a perk at work.
+
+![Mitchell Ross](https://lfavatar-a.akamaihd.net/a/286/e5c28e074634140af77e96c
+db3c594a7/50.jpg?v=1408117777)
+
+Mitchell Ross subscriber 5pts
+
+Actually this can easily be three factor;
+
+One: Phone unlocked by fingerprint (biometric)
+
+Two: Which then has stored via Dashlane or similar app, a long random password
+per site, and ...  
+
+Three: Then a short time (measured in something like 30 seconds expiration)
+next factor 6-10 character numeric string delivered to look like a phone
+number (something we are familiar with) of 3 characters, 3 characters, 4
+characters - thus easily copied from phone screen into authentication field.
+
+I would suggest that last factor not be delivered automatically via BlueTooth
+or similar PCN. Even though of short duration I like that gap between the
+phone and the keyboard to be kept just that - a gap.  
+
+  
+
+I'm already using the above - with an iPhone 5s.  I just need more web sites
+to use the so called second factor authentication. In my case, it's a third
+factor.
+
+  
+
+![Jack Ritchie](https://lfavatar-a.akamaihd.net/a/286/126ff1f16b14659c88b80ebb
+06bd47f2/50.jpg?v=1417997689)
+
+Jack Ritchie subscriber 5pts
+
+Using smart phones to replace passwords couldn't be a way to push smart phones
+sales could it? Google doesn't really care if you have an android phone
+anyway.   So I'm sure they're just interested in what's technically the best,
+not because it makes them money.
+
+  
+
+  
+
+![Patrick DesMarteau](http://avatars.fyre.co/a/286/372ce88ac3f5aab4252afd6b17c
+0134f/50.jpg?v=1408117757)
+
+Patrick DesMarteau subscriber 5pts
+
+And what happens if the battery dies?
+
+  
+
+Also elevates the mistake of forgetting the phone on the charger from a little
+annoying to a critical mistake.
+
+![ADAM HENDRICKS](https://lfavatar-a.akamaihd.net/a/286/f14caa34806b19c18af519
+e7e2faf1f8/50.jpg?v=1416797325)
+
+ADAM HENDRICKS subscriber 5pts
+
+1f y0u w@nt t0 h3v3 str0ng p@55w0rd5 th@t y0u w0n't 3@s1ly f0rg3t, th3n y0u
+n33d t0 w0rk w1th @ d1ff3r3nt @lph@b3t th@t w1ll b3 d1ff1cult to m1m1c @nd
+p3s0n@l s@y1ngs 0r mn3m0n1cs un1que to y0u.
+
+![Richard Butler](http://avatars.fyre.co/a/286/b80a3698e4cde269f1853925f134cd9
+4/50.jpg?v=1409702854)
+
+Richard Butler subscriber 5pts
+
+The odds are MUCH greater that your password will be obtained from the
+organizations that store this information on the cloud rather than from
+yourself.
+
+  
+
+This anxiety is waaaaay overblown.  Who cares if someone obtains your password
+for site XYZ.  They don't necessarily know where you bank or invest and those
+are the sites where security really matters.
+
+  
+
+Common sense precautions and not putting all of your log-in eggs in one basket
+will usually do the trick.
+
+![Chris Wade](http://avatars.fyre.co/a/286/aeceea67c9860a127f488882c4c87c05/50
+.jpg?v=1408118986)
+
+Chris Wade user 5pts
+
+YES! I use a unique password for everything!
+
+Banks, email, social media, everything.
+
+![Ignatius D'Anna](http://avatars.fyre.co/a/286/cb365412457ba3756508e62e51a2a4
+00/50.jpg?v=1408117754)
+
+Ignatius D'Anna subscriber 5pts
+
+Been using Google's 2-factor authentication for yrs.  Works great.  Can even
+bypass if by telling Google to trust certain devices, which expires
+periodically requiring the trust to be reset.
+
+  
+
+However, when using other web sites that rely on an email with sending a code
+it get annoying quick.  They are slow.
+
+  
+
+Only way I'm convinced the smartphone will be successful as part of the
+2-factor authentication is if a device would scan your smartphone each time
+requesting a manual entry from the owner of the web site account owner holding
+the smartphone device in hand at the moment it is scanned.  I don't see this
+happening, so 2-factor authentication using a device is worthless.  It can be
+hacked as all it relies on software.  All software can be hacked.
+
+  
+
+![Loren Thacker](http://avatars.fyre.co/a/286/f126f6532d98a33ac8f6ceec890e73f0
+/50.jpg?v=1408116430)
+
+Loren Thacker subscriber 5pts
+
+“Passwords are a uniquely terrible kind of single-factor authentication, in
+which the one factor identifying you as you is the password itself. If you've
+heard that longer, more complicated passwords are better than short ones,
+that's only a little bit true. That is because, on account of our limited
+memories, almost all of us re-use passwords across multiple accounts. … Be
+honest: Do you use a completely unique password for every single one of your
+email addresses and bank websites? Most of you just answered "no"—which means
+most of you are vulnerable.”  I use long (15+ characters) and complex (upper-
+and lower-case, numerals, and special characters) passwords for all of my
+logins AND I never use the same one twice (they are all unique).  In fact, I
+don’t know a single password in my head, except for the password account
+manager (I manage all of my passwords with a password manager).  I also use
+two-factor authentication for all critical accounts.  
+
+![Thomas Norian](http://avatars.fyre.co/a/286/1950cbe0506615cb750c8e92f8384fa6
+/50.jpg?v=1415375493)
+
+Thomas Norian subscriber 5pts
+
+I'd prefer a third party that pledges no interest in data mining and where
+gathing information about me is not  a part of their business model.  A bank
+or credit burea has at least regulations against sharing your personal
+information.  They could verify that you are a real person and give the end
+service that verification without needing to give any personal information
+about you.
+
+  
+
+I certainly don't want to be logged into Google or Twitter or Facebook to
+participate in discussions or to make sundry purchases... always.  At times
+I'm forced into disclosing my information but too often the third parties want
+access to your friends list or ask for it in a way that is easy to click.
+
+  
+
+Using my real name here at the WSJ feels reasonably consistent with "letters
+to editor" format .  It sends us a clear message that this is not discussion
+forum to explore odd thoughts.. Importantly, I am not asked or cajoled into
+sharing my lists of contacts and other online behavior with the WSJ.
+
+![Jim Ruiz](http://avatars.fyre.co/a/286/9759726e84c20df2ec3b46e4fc2a48f8/50.j
+pg?v=1415200661)
+
+Jim Ruiz user 5pts
+
+How ironic that "device-based authentication" works the same way as a key
+chain of keys.
+
+  
+
+A key chain of keys is "device-based authentication" too!
+
+  
+
+Too funny.  The more things change, the more they stay the same.  
+
+![Peter Von Nessi](https://lfavatar-a.akamaihd.net/a/286/7725fc29b103b22e9346d
+5d8902d5eee/50.jpg?v=1416702624)
+
+Peter Von Nessi subscriber 5pts
+
+Did I miss something here? The article explains new secure access technology
+to access your personal online accounts, but what prevents hackers from going
+after the sites you are accessing like Twitter, Facebook, etc.? They are
+potentially more lucrative and challenging than one's single account unless it
+was Warren Buffet's bank account.
+
+How many security breeches of major sites go unreported because the hackers
+are able to cover their tracks in getting in and out, in other words, "the
+perfect crime"?
+
+![WILLIAM ROYCE](http://avatars.fyre.co/a/286/64de20a59253a3f02694ffc6ea31c632
+/50.jpg?v=1408116097)
+
+WILLIAM ROYCE subscriber 5pts
+
+I have been using 2 factor with gmail and it works well.  It is only needed
+when you (or a hacker) try to log in to your email from another ip address,
+such as when you are traveling.  They also provide a short list of passwords
+you can use if you are not in cell phone range - you keep that list handy and
+each one can only be used once.  While others have been hacked on hotmail
+several times, I have not, so it is at the very least a big improvement.  I
+still don't trust mobile access to sensitive financial accounts, however.
+
+![Kirth Gersen](https://lfavatar-a.akamaihd.net/a/286/d715691d836dd70efdd242d0
+39e52d74/50.jpg?v=1418014009)
+
+Kirth Gersen subscriber 5pts
+
+2-factor pswds for anything other than possibly bank accounts, is impractical.
+
+You want to wait for a text msg every time you want to read WSJ online?
+
+  
+
+"wiping clean" a lost or stolen phone, probably requires  a pswd login at
+Apple's website ... are you going to make_that_  pswd be same as your name or
+'1234' ?!
+
+  
+
+![Ashley Wilson](http://avatars.fyre.co/a/286/5eeef350ca8b169ab82b336f3e05df92
+/50.jpg?v=1408118983)
+
+Ashley Wilson user 5pts
+
+   Like many other communication methods, when it comes to compromising SMS
+messages it makes the most sense to go after the endpoint- specifically your
+phone.  That being said, the network (NOT impossibly difficult to hack) was
+shown to have some weaknesses that allow the harvesting SMS data, which is not
+even encrypted in transmission:
+<https://www.defcon.org/images/defcon-21/dc-21-presentations/DePerry-
+Ritter/DEFCON-21-DePerry-Ritter-Femtocell-Updated.pdf>
+
+   Consider that there are apps on your phone (Android in particular) that
+want to access and manage your text messages, further broadening your attack
+surface for malicious apps, through malice or poor quality code (who is
+auditing this stuff anyway?) you may have a weak device that could ship your
+texts off to someone else.
+
+  
+
+     Can you log into your AT&T;/Verizon/T-Mobile account and send/receive
+text messages from the web?  Using the Motorola Connect app for Chrome?  SMS,
+then is not device-specific authentication.
+
+  
+
+     Just using SMS as a second factor for authentication is not enough- you
+still need to be smart about using strong passwords and securing your phone,
+and thinking about how many methods there are for accessing your SMS messages,
+whether through the convenience of your provider's web portal or other matters
+of convenience that may put your data at risk.
+
+  
+
+Sorry, there is no substitute for being pragmatic.
+
+![Louis T Klauder](https://lfavatar-a.akamaihd.net/a/286/276a8aa1b53d4b9a35899
+f8f640586a1/50.jpg?v=1416428647)
+
+Louis T Klauder subscriber 5pts
+
+keepass is another freely downloadable application that makes it easy to have
+a separate password for every online account. ('easy' assuming you are
+comfortable with PC conventions).
+
+![John Seiferth](http://avatars.fyre.co/a/286/6a1e91abd99d29976a2c182e31f10223
+/50.jpg?v=1405348938)
+
+John Seiferth profilePrivateuser 5pts
+
+"...with a PIN code or even a fingerprint sensor." "...the thing you know is
+your PIN number..." "...almost impossibly difficult to hack".
+
+  
+
+Are you seriously a writer for The Wall Street Journal?
+
+  
+
+You realize the acronym "PIN" stands for Personal Identification Number, don't
+you? Thus "Personal Identification Number code" and "Personal Identification
+Number number?" Is that what you meant to say?
+
+  
+
+Also, can something be "somewhat impossibly difficult to hack?" I think you
+were going for "...almost impossible to hack" or "...extremely difficult to
+hack."
+
+  
+
+Who is your editor?
+
+![Patrick Price](http://avatars.fyre.co/a/286/e61e810f5731cd1d413a65affd0ee9de
+/50.jpg?v=1408118981)
+
+Patrick Price subscriber 5pts
+
+Good article, just want to point out that pretty much any modern Android
+phones (running Ice Cream Sandwich or higher) can be remotely tracked, locked,
+and wiped through Android Device Manager. I see another user has pointed out
+the same for Windows phones.
+
+![JAMES JENNINGS](https://lfavatar-a.akamaihd.net/a/286/37d608775b08076d3c857e
+e82fa54043/50.jpg?v=1417281125)
+
+JAMES JENNINGS subscriber 5pts
+
+Passwords are unnecessary for the majority of free websites. Many of these do
+not use passwords at all. Those that do are probably mining data that they
+sell to advertisers.
+
+  
+
+I use Roboform as my password dababase. I have over 400 passwords; there may
+be a few duplicates from before the time I subscribed to Roboform, but none
+since. It generates passwords and fills in the registration form. Roboform is
+on a toolbar; all I have to do is click on the name or abbreviation of the
+site there and I am automatically logged in.
+
+  
+
+I would not like to have to keep my cellphone with me at all times. They are a
+nuisance, albeit necessary; I misplace it often and cannot find it until
+someone calls. I hope someone would come up with a reasonably-priced masculine
+looking purse. I use a small camera bag instead.  
+
+![William Ledsham](https://lfavatar-a.akamaihd.net/a/286/1c58e78e4acbb752cc4ce
+39695eaee9b/50.jpg?v=1418010101)
+
+William Ledsham subscriber 5pts
+
+Locks only keep honest people out. Obviously, you can slow people down, but
+you will never stop them.  
+
+![J Valentine](http://avatars.fyre.co/a/286/e7e289be33c9beeec57cdba86dcb3418/5
+0.jpg?v=1416855707)
+
+J Valentine subscriber 5pts
+
+I recall as a kid when they started to install door locks on cars and everyone
+said, now nobody will be able to break into your car...then 20-30  years they
+invented the wireless key fob that was going to eliminate all auto theft...and
+then they invented the microchip in the key fob that was required to start the
+car, which was the end-all solution.
+
+  
+
+Have we stopped auto theft?  Since the dawn of time, every time someone comes
+up with a way to stop thieves, they get smarter.  I'd be very careful about
+concluding device-based or two-factor authentication is going to be the
+panacea to forever ending digitally-based theft.  
+
+![Pamela Smith](http://avatars.fyre.co/a/286/61f8f8c0ad01393827be7930adedd6a0/
+50.jpg?v=1408115850)
+
+Pamela Smith subscriber 5pts
+
+most don't need passwords ! stupid to have passwords ! just something else to
+forget !  
+
+![Alan Willcox](https://lfavatar-a.akamaihd.net/a/286/2cd4b81748265b8ccfdedd05
+ae770dcd/50.jpg?v=1417787945)
+
+Alan Willcox subscriber 5pts
+
+That remote-lock/wipe stuff also works for Windows Phone.
+
+And for those of you mocking the writer's Twitter password, could it be that
+he changed it before publishing this article? Maybe the point is that it's
+pathetic.
+
+![Robert Boni](https://lfavatar-a.akamaihd.net/a/286/46832a845937b89466f620ffd
+5511282/50.jpg?v=1417613366)
+
+Robert Boni subscriber 5pts
+
+How about DNA authentication?
+
+![Daniel Morgan](http://avatars.fyre.co/a/286/a6cabfef2e46ec6360087ecd0a797066
+/50.jpg?v=1408116499)
+
+Daniel Morgan subscriber 5pts
+
+What kind of idiot would use their name as their password?
+
+![Gareth Andrews](https://lfavatar-a.akamaihd.net/a/286/f9310f9377f43d8e4b88fb
+dda0bd1693/50.jpg?v=1408116839)
+
+Gareth Andrews subscriber 5pts
+
+Gotta love the Edwardian certainty behind the writer's thinking.  It's
+entertaining, at least.  He seems to think we've come to an impenetrable way
+of maintaining security.
+
+  
+
+Seriously?  
+
+![Dom Fried](https://lfavatar-a.akamaihd.net/a/286/7db4127b948070cb4498d2c0a95
+24309/50.jpg?v=1414535474)
+
+Dom Fried subscriber 5pts
+
+[@Barnes Moore](http://online.wsj.com/user/profile/public/7ba27803-7562-4987-8
+d25-acf0260ac753)
+
+  
+
+Bank of America provides a card like a credit card that displays a number when
+you press a spot. Might be an LFSR or some such thing.
+
+![Thomas Van Susteren](http://avatars.fyre.co/a/286/d8768c931edefed6de77a9d1e8
+b4857b/50.jpg?v=1417625435)
+
+Thomas Van Susteren user 5pts
+
+[@Jillian Alexander](http://online.wsj.com/user/profile/public/JSAlex000) Hey!
+Thanks!  Really helpful advice and most of it really just comes down to
+"housekeeping" doesn't it?  Isn't this a lot like the inbox clutter?  Manage
+your inbox and don't keep it as storage or a calendar.  I am going to be more
+fastidious about "putting away my toys" when I shut down my computer.
+
+![Kirth Gersen](https://lfavatar-a.akamaihd.net/a/286/d715691d836dd70efdd242d0
+39e52d74/50.jpg?v=1418014009)
+
+Kirth Gersen subscriber 5pts
+
+[@Mitchell Ross](http://online.wsj.com/user/profile/public/fbc958e4-6f7c-
+4d8f-9152-16b428957c5c)
+
+BIG hassle just to access a pswd protected website (WSJ, Amazon, etc).
+
+  
+
+Or you could just start using a password manager app (phone , PC, or mac),
+like Keepass.
+
+  
+
+Much easier ...  
+
+![Jack Ritchie](https://lfavatar-a.akamaihd.net/a/286/126ff1f16b14659c88b80ebb
+06bd47f2/50.jpg?v=1417997689)
+
+Jack Ritchie subscriber 5pts
+
+[@Patrick DesMarteau](http://online.wsj.com/user/profile/public/0ca55561-4669-
+46d4-a555-715156747625) Or the TSA confiscates it,after the battery dies.
+
+  
+
+![Kevin Sharpe](http://avatars.fyre.co/a/286/989de0ab1e998ee74c0da55a18b950f6/
+50.jpg?v=1417473059)
+
+Kevin Sharpe subscriberprofilePrivate 5pts
+
+[@Ignatius D'Anna](http://online.wsj.com/user/profile/public/MEDIMMUNE_DAnnaI)
+
+Ignatius, you would probably enjoy listening to Steve Gibson talk about an
+authentication method he is developing.  The web page is:
+<https://www.grc.com/sqrl/sqrl.htm>.
+
+  
+
+And, he talks about it in many podcasts on This Week in Tech's Security Now
+podcast.  "<http://twit.tv/sn>"
+
+  
+
+Strong, best-practice crypto is his goal, to make it public domain not
+proprietary, and not not rely on a central certificate authority.
+
+![David Johnston](http://avatars.fyre.co/a/286/e150188a52a0e8b00d8649e0128ad7d
+9/50.jpg?v=1408116704)
+
+David Johnston subscriber 5pts
+
+[@Kirth Gersen](http://online.wsj.com/user/profile/public/d2dba6eb-
+7a00-4b1f-a743-e37e5f37b957) the account/billing section of the WSJ should be
+2-factor but not the main site. It isn't an all-or-nothing proposition.
+
+  
+
+And yes, there are some sites/passwords that you likely will need to make more
+un-guessable than others.  Though, even then critical accounts should be able
+to be offline authenticated - you know, where you actually talk to a person.
+
+  
+
+  
+
+![GREGORY WOJAK](http://avatars.fyre.co/a/286/459d2a9612c5967b451025a04826f498
+/50.jpg?v=1417311911)
+
+GREGORY WOJAK subscriber 5pts
+
+[@J Valentine](http://online.wsj.com/user/profile/public/jelarv)
+
+Unfortunately the best way to deter theft is not to have the 'ultimate
+solution', but to have a better system than most everyone else. Thieves like
+easy targets and tend to avoid difficult ones. It's like the quote about
+hikers escaping from a hungry bear. You don't have to be able to outrun the
+bear, just the slowest hiker.
+
+![Thomas Norian](http://avatars.fyre.co/a/286/1950cbe0506615cb750c8e92f8384fa6
+/50.jpg?v=1415375493)
+
+Thomas Norian subscriber 5pts
+
+@David Johnston @Kirth Gersen David, your point is important.  Sites like your
+email addresses that are used to reset other passwords are very important.
+Tools that allow us to make it more difficult for third parties to access some
+others are important and ultimately the choice in the matter should be left to
+the individual.
+
+  
+
+I might add that there already exists a type of two part identification from
+many services.  I've encountered many password protected places with highly
+sensitive or easily transferred assets accessed that recognize the device you
+are accessing them from and force you to answer additional questions or return
+and SMS only if they see access from a computer or phone that they have not
+seen before.  That is the "in-between" already in place.
+
+![Kevin Sharpe](http://avatars.fyre.co/a/286/989de0ab1e998ee74c0da55a18b950f6/
+50.jpg?v=1417473059)
+
+Kevin Sharpe subscriberprofilePrivate 5pts
+
+[@Thomas Norian](http://online.wsj.com/user/profile/public/STF)
+
+  
+
+If you read this article, and are interested enough to make a comment, you
+probably would enjoy reading about what happened to these three people:
+
+Naoki Hiroshima
+
+Josh Bryant
+
+Mat Honan
+
+  
+
+Evan Hahn maintains a good list of companies that offer two-factor
+authentication:
+
+<http://evanhahn.com/2fa/>  
+
+Show More Archives
+
+Advertisement
+
+####  Popular on WSJ
+
+## Popular on WSJ
+
+## Articles
+
+  * [ ![Lego Tries to Build a Better Brick](http://s.wsj.net/public/resources/images/BN-JI378_lego07_C_20150710174036.jpg) ](http://www.wsj.com/articles/lego-tries-to-build-a-better-brick-1436734774?mod=trending_now_1)
+
+####  [Lego Tries to Build a Better Brick](http://www.wsj.com/articles/lego-
+tries-to-build-a-better-brick-1436734774?mod=trending_now_1)
+
+  * [ ![Germany Flexes Its Muscles on Greece](http://s.wsj.net/public/resources/images/BN-JI676_GDEAL0_C_20150712194624.jpg) ](http://www.wsj.com/articles/greek-debt-crisis-europe-pushes-athens-to-brink-with-bailout-ultimatum-1436745387?mod=trending_now_2)
+
+####  [Germany Flexes Its Muscles on Greece](http://www.wsj.com/articles
+/greek-debt-crisis-europe-pushes-athens-to-brink-with-bailout-
+ultimatum-1436745387?mod=trending_now_2)
+
+  * [ ![The Right Way to Remember the Confederacy](http://s.wsj.net/public/resources/images/RV-AQ661_FLAG_C_20150710164224.jpg) ](http://www.wsj.com/articles/the-right-way-to-remember-the-confederacy-1436568855?mod=trending_now_3)
+
+####  [The Right Way to Remember the Confederacy](http://www.wsj.com/articles
+/the-right-way-to-remember-the-confederacy-1436568855?mod=trending_now_3)
+
+  * [ ![The Unaffordable Care Act](http://s.wsj.net/public/resources/images/BN-JI407_1costs_C_20150710184608.jpg) ](http://www.wsj.com/articles/the-unaffordable-care-act-1436569086?mod=trending_now_4)
+
+####  [Opinion: The Unaffordable Care Act](http://www.wsj.com/articles/the-
+unaffordable-care-act-1436569086?mod=trending_now_4)
+
+  * [ ![Mims: How Future Bitcoin Can Prevent a Future Greece](http://s.wsj.net/public/resources/images/BN-JI645_KEYWOR_C_20150712171933.jpg) ](http://www.wsj.com/articles/how-future-bitcoin-can-prevent-a-future-greece-1436744064?mod=trending_now_5)
+
+####  [Mims: How Future Bitcoin Can Prevent a Future
+Greece](http://www.wsj.com/articles/how-future-bitcoin-can-prevent-a-future-
+greece-1436744064?mod=trending_now_5)
+
+## Videos
+
+  * [
+
+![\[http://m.wsj.net/video/20150712/071215guzman/071215guzman_167x94.jpg\]](ht
+tp://m.wsj.net/video/20150712/071215guzman/071215guzman_167x94.jpg)
+](http://www.wsj.com/video/mexican-drug-lord-el-chapo-guzman-
+escapes/ED004F68-39F5-4851-9DB1-16F324F4BD85.html?mod=trending_now_video_1)
+
+#### [Mexican Drug Lord ‘El Chapo’ Guzmán Escapes](http://www.wsj.com/video
+/mexican-drug-lord-el-chapo-guzman-
+escapes/ED004F68-39F5-4851-9DB1-16F324F4BD85.html?mod=trending_now_video_1)
+
+  * [
+
+![\[http://m.wsj.net/video/20150712/071215mfinal/071215mfinal_167x94.jpg\]](ht
+tp://m.wsj.net/video/20150712/071215mfinal/071215mfinal_167x94.jpg)
+](http://www.wsj.com/video/djokovic-beats-federer-to-win-wimbledon-title
+/F51F834D-CB9B-426C-83A4-18110FA7132C.html?mod=trending_now_video_2)
+
+#### [Djokovic Beats Federer to Win Wimbledon Title](http://www.wsj.com/video
+/djokovic-beats-federer-to-win-wimbledon-title/F51F834D-CB9B-426C-
+83A4-18110FA7132C.html?mod=trending_now_video_2)
+
+  * [
+
+![\[http://m.wsj.net/video/20150709/070815jaglwe/070815jaglwe_167x94.jpg\]](ht
+tp://m.wsj.net/video/20150709/070815jaglwe/070815jaglwe_167x94.jpg)
+](http://www.wsj.com/video/time-lapse-jaguar-lightweight-e-type-sports-
+car/702CC741-FE49-4811-9D32-DFC0D5DDC21D.html?mod=trending_now_video_3)
+
+#### [Time-Lapse: Jaguar Lightweight E-Type Sports
+Car](http://www.wsj.com/video/time-lapse-jaguar-lightweight-e-type-sports-
+car/702CC741-FE49-4811-9D32-DFC0D5DDC21D.html?mod=trending_now_video_3)
+
+  * [
+
+![\[http://m.wsj.net/video/20150710/071015mastectomyv2/071015mastectomyv2_167x
+94.jpg\]](http://m.wsj.net/video/20150710/071015mastectomyv2/071015mastectomyv
+2_167x94.jpg) ](http://www.wsj.com/video/the-double-mastectomy-rebellion
+/BA7BC98D-E9FC-4EBD-9CF6-049CE1C5422F.html?mod=trending_now_video_4)
+
+#### [The Double Mastectomy Rebellion](http://www.wsj.com/video/the-double-
+mastectomy-rebellion/BA7BC98D-E9FC-4EBD-
+9CF6-049CE1C5422F.html?mod=trending_now_video_4)
+
+  * [
+
+![\[http://m.wsj.net/video/20150709/070915finnishbaseball2/070915finnishbaseba
+ll2_167x94.jpg\]](http://m.wsj.net/video/20150709/070915finnishbaseball2/07091
+5finnishbaseball2_167x94.jpg) ](http://www.wsj.com/video/inside-pesaepallo-
+finland-answer-to-baseball/2BBD77C4-3165-4C09-AF2A-
+38818D00DF24.html?mod=trending_now_video_5)
+
+#### [Inside Pesäpallo, Finland's Answer to Baseball](http://www.wsj.com/video
+/inside-pesaepallo-finland-answer-to-baseball/2BBD77C4-3165-4C09-AF2A-
+38818D00DF24.html?mod=trending_now_video_5)
+
+####  Editors' Picks
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI751_0713Ts_D_20150713043911.jpg)
+
+#### Europe Economy
+
+###
+
+[Eurozone Reaches Deal on Greece
+
+](http://www.wsj.com/articles/eurozone-leaders-reach-unanimous-agreement-on-
+greece-says-eus-tusk-1436771076?mod=WSJ_article_EditorsPicks_0)
+
+  * ![](http://s.wsj.net/public/resources/images/OG-AF096_201507_D_20150713011254.jpg)
+
+#### Stocks
+
+###
+
+[China Rally Gains Steam
+
+](http://www.wsj.com/articles/asian-shares-mostly-up-on-hopes-for-
+greece-1436749790?mod=WSJ_article_EditorsPicks_1)
+
+  * ![](http://s.wsj.net/public/resources/images/OG-AF095_201507_D_20150712221605.jpg)
+
+#### Markets
+
+###
+
+[Debt Load Digs Into Mining Industry
+
+](http://www.wsj.com/articles/debt-load-digs-into-mining-
+industry-1436729641?mod=WSJ_article_EditorsPicks_2)
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI487_cgraft_D_20150712052101.jpg)
+
+#### China
+
+###
+
+[Graft Probe Targets Vice President of China’s Highest Court
+
+](http://www.wsj.com/articles/graft-probe-targets-vice-president-of-chinas-
+highest-court-1436693940?mod=WSJ_article_EditorsPicks_3)
+
+  * ![](http://s.wsj.net/public/resources/images/BT-AD028_NINTEN_D_20150712224557.jpg)
+
+####  Obituary | 1959-2015
+
+###
+
+[Nintendo President Satoru Iwata Dies of Cancer
+
+](http://www.wsj.com/articles/nintendo-president-satoru-iwata-dies-of-
+cancer-1436747352?mod=WSJ_article_EditorsPicks_4)
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI497_0712ir_D_20150712100301.jpg)
+
+#### Middle East
+
+###
+
+[Europeans Press for Iran Deal Monday
+
+](http://www.wsj.com/articles/u-s-warns-major-issues-remain-in-iran-
+talks-1436712760?mod=WSJ_article_EditorsPicks_5)
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI588_0712sm_D_20150712153525.jpg)
+
+#### Tech
+
+###
+
+[Apple’s Share of Smartphone Industry’s Profits Soars to 92%
+
+](http://www.wsj.com/articles/apples-share-of-smartphone-industrys-profits-
+soars-to-92-1436727458?mod=WSJ_article_EditorsPicks_6)
+
+  * [
+
+![](http://m.wsj.net/video/20150713/071315greece/071315greece_512x288.jpg)
+
+PLAY ](http://www.wsj.com/video/eurozone-leaders-reach-deal-on-
+greece/E62B0376-E514-4BC2-BC56-7E4E8657EC63.html)
+
+#### World
+
+### [
+
+Eurozone Leaders Reach Deal on Greece
+
+](http://www.wsj.com/video/eurozone-leaders-reach-deal-on-
+greece/E62B0376-E514-4BC2-BC56-7E4E8657EC63.html)
+
+* [Wall Street Journal](http://www.wsj.com/)
+* Asia Edition
+
+  * [U.S.](http://www.wsj.com/)
+  * [Asia](http://www.wsj.com/)
+  * [Europe](http://www.wsj.com/)
+  * [India](http://www.wsj.com/)
+  * [America Latina](http://lat.wsj.com)
+  * [Brasil](http://br.wsj.com)
+  * 中国[ (China)](http://cn.wsj.com/gb/index.asp)
+  * 日本[ (Japan)](http://jp.wsj.com/)
+  * 한국[ (Korea)](http://kr.wsj.com/)
+
+Edition: U.S. Asia Europe India America Latina Brasil 中国 (China) 日本 (Japan) 한국
+(Korea)
+
+Text Size: Small Medium Large
+
+[Subscribe](https://subscribe.wsj.com/awsjhpfooter)[Sign In](https://id.wsj.co
+m/access/50f57257bd7fb2d2f6629af5/latest/login_standalone.html?url=http%3A%2F%
+2Fwww.wsj.com%2Farticles%2Fthe-password-is-finally-dying-heres-
+mine-1405298376)
+
+* [Customer Center](http://help.wsj.com/customer-service)
+* [Legal Policies](http://www.wsj.com/policy/legal-policies)
+
+* * [Subscribe](https://subscribe.wsj.com/awsjhpfooter)
+* [Sign In](https://id.wsj.com/access/50f57257bd7fb2d2f6629af5/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-password-is-finally-dying-heres-mine-1405298376)
+* TOP«
+
+* Subscribe
+
+* [Why Subscribe?](http://subscription.wsj.com/)
+* [WSJ+](http://www.wsjplus.com/)
+* [Corporate Subscriptions](http://subscription.wsj.com/corporate/)
+* [Apps](http://www.wsj.com/public/page/designtech-wsjModuleHome.html)
+* [Professor Journal](http://professor.wsj.com/)
+* [Student Journal](http://wsjstudent.com/)
+* Customer Service
+
+* [Customer Center](http://help.wsj.com/customer-service)
+* [Live Help](https://customercenter.wsj.com/livechat/chat?product=WSJ)
+* [Redesign Guided Tour](http://www.wsj.com/guidedtour/)
+* Tools & Features
+
+* [Emails & Alerts](http://www.wsj.com/public/page/email-setup.html)
+* [Guides](http://www.wsj.com/public/page/guides.html)
+* [My News](http://www.wsj.com/user/mynews/pages/reader)
+* [Portfolio](http://portfolio.wsj.com)
+* [RSS Feeds](http://www.wsj.com/public/page/rss_news_and_feeds.html)
+* [Topics](http://topics.wsj.com)
+* [Video Center](http://www.wsj.com/video)
+* [Watchlist](http://www.wsj.com/user/personalization/watchlist)
+* Ads
+
+* [Advertise](http://www.wsjmediakit.com)
+* [Advertise Locally](http://www.wsjlocal.com)
+* [Commercial Real Estate Ads](https://classifieds.wsj.com/ad/Commercial-Real-Estate-Ads)
+* [Place a Classified Ad](http://classifieds.wsj.com)
+* [Sell Your Business](https://classifieds.wsj.com/ad/Business-For-Sale-Ads)
+* [Sell Your Home](https://classifieds.wsj.com/ad/Residential-Real-Estate-Ads)
+* [Recruitment & Career Ads](https://classifieds.wsj.com/ad/Job-Ads)
+* More
+
+* [Content Partnerships](http://wsj.com/partner)
+* [Corrections](http://www.wsj.com/news/column/Corrections)
+* [Jobs at WSJ](http://www.dowjones.com/careers.asp)
+* [Make Time](http://www.wsj.com/maketime)
+* [News Archive](http://www.wsj.com/public/page/archive.html)
+* [Register for Free](https://id.wsj.com/access/50f57257bd7fb2d2f6629af5/latest/register_standalone.html)
+* [Reprints](http://www.djreprints.com)
+
+  * [Facebook](http://www.facebook.com/wsj)
+  * [Twitter](http://twitter.com/WSJ)
+  * [Google+](https://plus.google.com/117720626238470886461/posts)
+  * [LinkedIn](https://www.linkedin.com/company/the-wall-street-journal)
+  * [YouTube](http://www.youtube.com/user/WSJDigitalNetwork)
+  * [Podcasts](http://www.wsj.com/public/page/podcast.html)
+  * [GooglePlay](https://play.google.com/store/apps/details?id=wsj.reader_sp)
+  * [AppStore](https://itunes.apple.com/us/app/the-wall-street-journal./id364387007?mt=8)
+
+* Dow Jones Products
+* [Barron's](http://online.barrons.com/home-page)
+* [BigCharts](http://bigcharts.marketwatch.com)
+* [DJX](http://www.wsj.com/public/page/wsj-x-marketing.html)
+* [Dow Jones Newswires](http://new.dowjones.com/products/dj-news)
+* [Factiva](https://global.factiva.com/factivalogin/login.asp?productname=global)
+* [Financial News](http://www.efinancialnews.com)
+* [Mansion Global](http://mansionglobal.com)
+* [MarketWatch](http://www.marketwatch.com)
+* [Private Markets](http://pevc.dowjones.com)
+* [realtor.com](http://www.realtor.com)
+* [Risk & Compliance](https://djlogin.dowjones.com/login.asp?productname=rnc)
+* [WSJ Conference](http://www.wsj.com/conferences)
+* [WSJ Video](http://live.wsj.com)
+* [WSJ Wine](http://www.wsjwine.com)
+
+* [Privacy Policy](http://www.wsj.com/policy/privacy-policy)
+* [Cookie Policy](http://www.wsj.com/policy/cookie-policy)
+* [Copyright Policy](http://www.wsj.com/policy/copyright-policy)
+* [Data Policy](http://www.wsj.com/policy/data-policy)
+* [Subscriber Agreement & Terms of Use](http://www.wsj.com/policy/subscriber-agreement)
+* [Your Ad Choices](http://www.wsj.com/policy/cookie-policy#cookies_advertising)
+* Copyright (C)2015 [Dow Jones & Company](http://www.dowjones.com), Inc. All Rights Reserved.
+
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved
+
+This copy is for your personal, non-commercial use only. Distribution and use
+of this material are governed by our Subscriber Agreement and by copyright
+law. For non-personal use or to order multiple copies, please contact Dow
+Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+Updated July 13, 2014 8:14 p.m. ET
+
+LAS VEGAS—The Knicks and new team president Phil Jackson entered free agency
+this summer with one main priority: re-sign star forward Carmelo Anthony.
+
+The organization accomplished that task Sunday, as Anthony announced that he'd
+be returning to New York.
+
+The specifics of Anthony's new deal weren't released by the team. But Jackson,
+who had publicly implored Anthony to take less than a maximum contract to help
+with salary-cap...
+
+Updated July 13, 2014 8:23 p.m. ET
+
+2 COMMENTS
+
+_Rio de Janeiro_
+
+I covered the demolition of Spain. I witnessed the humiliation of Brazil. I
+saw the Luiz Suarez bite, the Arjen Robben dive, The James Rodriguez "giant
+insect" incident, The Miguel Herrera celebration, the Tim Howard 16-save game
+and the moment Neymar had his back broken. During the 2014 World Cup, I only
+attended 12 games. But for some reason, every one of them went bonkers.
+
+What's strange about being at a match in these kinds of moments is that the
+depth of the madness you've witnessed doesn't hit you right away. You remember
+the noise. You feel brief disorientation, followed by a short pause before
+your synapses begin to fire and connect.
+
+You always remember the things people say around you. "Did he just bite him?"
+someone asked after Uruguay's Luis Suárez crashed into Italy defender Giorgio
+Chiellini.
+
+[ ![](http://si.wsj.net/public/resources/images/OG-
+AB604_WORLDC_D_20140609150352.jpg) ENLARGE  ](http://www.wsj.com/worldcup)
+
+[ ![](http://si.wsj.net/public/resources/images/BN-
+DL891_0629ga_D_20140629132451.jpg)
+](/news/articles/SB10001424052702303473204580021181533084048)
+
+See the best photos from the World Cup. REUTERS
+
+  * ** [World Cup Final: Best Team vs. Best Player](http://online.wsj.com/articles/the-world-cup-final-the-best-team-vs-the-best-player-1405115575) **
+  * ** [Three Ways of Watching the World Cup Final](http://online.wsj.com/articles/three-ways-of-watching-the-world-cup-final-1405039492) **
+  * ** [Over $500 Million Later, Brazil's Maracanã Is Still Cursed](http://online.wsj.com/articles/the-legacy-of-the-iconic-maracana-will-likely-be-tied-to-its-high-cost-and-to-what-could-have-been-1405116704) **
+
+During the Massacre of the Mineirao, Brazil's 7-1 dismantling by the Germans,
+one colleague couldn't believe that soccer could allow this to happen. With
+every goal, he asked, "Does that one count?"
+
+My 12 matches account for only 18.75% of the contests at this World Cup. But I
+somehow saw 44 goals, which is 25.7% of the tournament's total. Part of the
+reason for this is the wide-open attacking style of play we've seen in Brazil.
+And part of it must be something they put in the water in the city of
+Salvador. In four games at the Arena Fonte Nova, I saw 20 goals.
+
+I can't say I was disappointed by the offensive fireworks. _Merci Les Bleus
+_for demolishing Switzerland. _Dank u Oranje _for lighting up Spain. And
+Germany—for what I watched you do to Portugal and Brazil, I can only say I'm
+glad you were gentle with the U.S.
+
+In addition to these scoring deluges, I was also treated to extraordinary
+shot-stopping performances by goalkeepers. I didn't think anyone could do a
+better impersonation of a ball-sucking magnet than Guillermo Ochoa during
+Mexico's 0-0 victory against Brazil—it was definitely a victory. Except then I
+saw Tim Howard against Belgium. With every surefire Belgian attack, he dug out
+another save, and followed it by howling at his defenders.
+
+![U.S. goalkeeper Tim Howard makes a save against
+Belgium.](http://si.wsj.net/public/resources/images/MK-
+CN793_CRAZIN_P_20140713181236.jpg) ENLARGE
+
+U.S. goalkeeper Tim Howard makes a save against Belgium. Associated Press
+
+The U.S. lost that Howard game, of course. But the goalkeeper still emerged as
+a hero. If that's not a sign that Americans are finally getting this sport,
+then I don't know what is.
+
+The strangest game of all is one that I nearly missed.
+
+After scrambling to get on a flight from Recife to Natal, which turned out to
+be a rocky little turboprop plane, I hopped into a cab at the airport 90
+minutes before kickoff. The driver, roughly 12 years old, knew I had to make
+it. He pulled on a couple of special driving sleeves (so he wouldn't get
+sunburn?) and floored it. He went close to 100 miles an hour for as long as he
+could without slipping into lanes of oncoming trucks. And once we hit traffic
+in Natal's steamy downtown, the cowboy at the wheel started running red
+lights. But he got me there, with 30 minutes to spare.
+
+All I could think was, "Please let this game be a quiet one! Couple of early
+goals, no controversy…."
+
+For 80 minutes, that's what I got. It stayed 0-0. Then Suarez bit someone.
+
+_Get me a rewrite!_
+
+From the media section of a soccer stadium, you miss the little details. So
+you have to discover them on a television screen like everybody else. I never
+saw the bite marks on Chiellini up close, even as the Italian tugged at his
+jersey to show them to the referee. I never saw Germany coach Jogi Löw pick
+his nose. And from way up in the press seats, I never saw the Japanese-horror-
+movie insect perched on the arm of Colombia's James Rodriguez after he scored
+a goal. I was far more worried about the egg-sized moth sitting quietly on the
+back of the guy sitting next to me. (He never noticed it and I wasn't about to
+anger that beast.)
+
+Another thing you learn is to appreciate the difficulty of real-time
+refereeing in a World Cup game. The tackle on Neymar that turned Juan Camilo
+Zuniga into Brazil's Public Enemy No. 1 didn't look like a vertebra-crunching
+knee to the back. Even as Neymar went off on a stretcher, there was no sense
+around the stadium that his tournament was done. Everyone was far more
+preoccupied by Brazil hanging onto its slender lead.
+
+If there's anything that all soccer writers hate, regardless of nationality,
+it's a late goal. I'm looking at you guys, Wesley Sneijder and Klaas Jan
+Huntelaar, or as I like to call you: the human "delete" keys. They both scored
+in the final six minutes to overcome a 1-0 deficit against Mexico in the round
+of 16. The Dutch were fun to watch at this tournament, but I'm not cool with
+those guys yet.
+
+I suppose it goes without saying that I was also present for Croatia vs.
+Mexico. You know—the game in which Mexico's coach, Miguel Herrera, celebrated
+the win by maniacally tackling people.
+
+The games aren't the only thing about this World Cup that was disorienting.
+Around two weeks ago in the airport in Recife, I actually lost track of where
+I was. Staring at an "arrivals" board full of Brazilian city names, I was sure
+I could have flown in from pretty much any of them just 15 minutes before.
+Salvador? Maybe. Belem? That was an airport I'd seen. Natal? Yeah, maybe
+Natal. It was only when I overheard someone say the word Fortaleza that it
+clicked. Fortaleza, that's where I was!
+
+Because this tournament was spread out between 12 cities in this enormous
+nation, I had to make 19 flights (and one seven-hour bus ride). In retrospect,
+it was insanity. No one should fly that much without earning an airline
+salary.
+
+![This tackle by Juan Camilo Zuniga of Colombia resulted in a World Cup-ending
+injury to Brazil's Neymar.](http://si.wsj.net/public/resources/images/BN-
+DO305_0706ne_P_20140706103349.jpg) ENLARGE
+
+This tackle by Juan Camilo Zuniga of Colombia resulted in a World Cup-ending
+injury to Brazil's Neymar. Getty Images
+
+But all of this set me up to see nearly every lunatic moment of this
+tournament. For that I'm incredibly grateful.
+
+And that was before I went to the final, all 120 manic minutes of it.
+
+**Write to **Joshua Robinson at [joshua.robinson@wsj.com](mailto:joshua.robinson@wsj.com)
+
+  *   *   *   *   *   * Save Article
+  * [Sign In to Save](https://id.wsj.com/access/50f57257bd7fb2d2f6629af5/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-craziness-of-the-world-cup-2014-1405266114)
+  * [Subscribe to WSJ](https://subscribe.wsj.com/awsjhpheader)
+  *   *   *   * Text Size
+  * Regular
+  * Medium
+  * Large
+  *   *   * Google+ 
+  * LinkedIn 
+  *   * Print
+
+2 comments
+
+ [ ![Livefyre](https://d3qdfnco3bamip.cloudfront.net/wjs/v3.0/images/lf-
+logo.png)](http://livefyre.com)
+
+  * [Get Livefyre](http://livefyre.com)
+  * [FAQ](http://support.livefyre.com)
+
+Sign in
+
+\+ Follow
+
+Post comment
+
+
+
+Link
+
+Newest | Oldest
+
+![Paul Grunwald](https://lfavatar-a.akamaihd.net/a/286/72a59e87e068e9e06dbe849
+493a6dd8b/50.jpg?v=1417966349)
+
+Paul Grunwald subscriber 5pts
+
+We need to put Tim Howard on the US Mexican border!
+
+![Alessandro Riolo](http://avatars.fyre.co/a/286/95a2a6cea1681c4ca580ee4c9028d
+033/50.jpg?v=1408118979)
+
+Alessandro Riolo user 5pts
+
+Joshua unfortunately those days airline salaries are generally much lower than
+WSJ journalist salaries ;)
+
+Show More Archives
+
+Advertisement
+
+####  Popular on WSJ
+
+## Popular on WSJ
+
+## Articles
+
+  * [ ![Lego Tries to Build a Better Brick](http://s.wsj.net/public/resources/images/BN-JI378_lego07_C_20150710174036.jpg) ](http://www.wsj.com/articles/lego-tries-to-build-a-better-brick-1436734774?mod=trending_now_1)
+
+####  [Lego Tries to Build a Better Brick](http://www.wsj.com/articles/lego-
+tries-to-build-a-better-brick-1436734774?mod=trending_now_1)
+
+  * [ ![Germany Flexes Its Muscles on Greece](http://s.wsj.net/public/resources/images/BN-JI676_GDEAL0_C_20150712194624.jpg) ](http://www.wsj.com/articles/greek-debt-crisis-europe-pushes-athens-to-brink-with-bailout-ultimatum-1436745387?mod=trending_now_2)
+
+####  [Germany Flexes Its Muscles on Greece](http://www.wsj.com/articles
+/greek-debt-crisis-europe-pushes-athens-to-brink-with-bailout-
+ultimatum-1436745387?mod=trending_now_2)
+
+  * [ ![The Right Way to Remember the Confederacy](http://s.wsj.net/public/resources/images/RV-AQ661_FLAG_C_20150710164224.jpg) ](http://www.wsj.com/articles/the-right-way-to-remember-the-confederacy-1436568855?mod=trending_now_3)
+
+####  [The Right Way to Remember the Confederacy](http://www.wsj.com/articles
+/the-right-way-to-remember-the-confederacy-1436568855?mod=trending_now_3)
+
+  * [ ![The Unaffordable Care Act](http://s.wsj.net/public/resources/images/BN-JI407_1costs_C_20150710184608.jpg) ](http://www.wsj.com/articles/the-unaffordable-care-act-1436569086?mod=trending_now_4)
+
+####  [Opinion: The Unaffordable Care Act](http://www.wsj.com/articles/the-
+unaffordable-care-act-1436569086?mod=trending_now_4)
+
+  * [ ![Mims: How Future Bitcoin Can Prevent a Future Greece](http://s.wsj.net/public/resources/images/BN-JI645_KEYWOR_C_20150712171933.jpg) ](http://www.wsj.com/articles/how-future-bitcoin-can-prevent-a-future-greece-1436744064?mod=trending_now_5)
+
+####  [Mims: How Future Bitcoin Can Prevent a Future
+Greece](http://www.wsj.com/articles/how-future-bitcoin-can-prevent-a-future-
+greece-1436744064?mod=trending_now_5)
+
+## Videos
+
+  * [
+
+![\[http://m.wsj.net/video/20150712/071215guzman/071215guzman_167x94.jpg\]](ht
+tp://m.wsj.net/video/20150712/071215guzman/071215guzman_167x94.jpg)
+](http://www.wsj.com/video/mexican-drug-lord-el-chapo-guzman-
+escapes/ED004F68-39F5-4851-9DB1-16F324F4BD85.html?mod=trending_now_video_1)
+
+#### [Mexican Drug Lord ‘El Chapo’ Guzmán Escapes](http://www.wsj.com/video
+/mexican-drug-lord-el-chapo-guzman-
+escapes/ED004F68-39F5-4851-9DB1-16F324F4BD85.html?mod=trending_now_video_1)
+
+  * [
+
+![\[http://m.wsj.net/video/20150712/071215mfinal/071215mfinal_167x94.jpg\]](ht
+tp://m.wsj.net/video/20150712/071215mfinal/071215mfinal_167x94.jpg)
+](http://www.wsj.com/video/djokovic-beats-federer-to-win-wimbledon-title
+/F51F834D-CB9B-426C-83A4-18110FA7132C.html?mod=trending_now_video_2)
+
+#### [Djokovic Beats Federer to Win Wimbledon Title](http://www.wsj.com/video
+/djokovic-beats-federer-to-win-wimbledon-title/F51F834D-CB9B-426C-
+83A4-18110FA7132C.html?mod=trending_now_video_2)
+
+  * [
+
+![\[http://m.wsj.net/video/20150709/070815jaglwe/070815jaglwe_167x94.jpg\]](ht
+tp://m.wsj.net/video/20150709/070815jaglwe/070815jaglwe_167x94.jpg)
+](http://www.wsj.com/video/time-lapse-jaguar-lightweight-e-type-sports-
+car/702CC741-FE49-4811-9D32-DFC0D5DDC21D.html?mod=trending_now_video_3)
+
+#### [Time-Lapse: Jaguar Lightweight E-Type Sports
+Car](http://www.wsj.com/video/time-lapse-jaguar-lightweight-e-type-sports-
+car/702CC741-FE49-4811-9D32-DFC0D5DDC21D.html?mod=trending_now_video_3)
+
+  * [
+
+![\[http://m.wsj.net/video/20150710/071015mastectomyv2/071015mastectomyv2_167x
+94.jpg\]](http://m.wsj.net/video/20150710/071015mastectomyv2/071015mastectomyv
+2_167x94.jpg) ](http://www.wsj.com/video/the-double-mastectomy-rebellion
+/BA7BC98D-E9FC-4EBD-9CF6-049CE1C5422F.html?mod=trending_now_video_4)
+
+#### [The Double Mastectomy Rebellion](http://www.wsj.com/video/the-double-
+mastectomy-rebellion/BA7BC98D-E9FC-4EBD-
+9CF6-049CE1C5422F.html?mod=trending_now_video_4)
+
+  * [
+
+![\[http://m.wsj.net/video/20150709/070915finnishbaseball2/070915finnishbaseba
+ll2_167x94.jpg\]](http://m.wsj.net/video/20150709/070915finnishbaseball2/07091
+5finnishbaseball2_167x94.jpg) ](http://www.wsj.com/video/inside-pesaepallo-
+finland-answer-to-baseball/2BBD77C4-3165-4C09-AF2A-
+38818D00DF24.html?mod=trending_now_video_5)
+
+#### [Inside Pesäpallo, Finland's Answer to Baseball](http://www.wsj.com/video
+/inside-pesaepallo-finland-answer-to-baseball/2BBD77C4-3165-4C09-AF2A-
+38818D00DF24.html?mod=trending_now_video_5)
+
+####  Editors' Picks
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI751_0713Ts_D_20150713043911.jpg)
+
+#### Europe Economy
+
+###
+
+[Eurozone Reaches Deal on Greece
+
+](http://www.wsj.com/articles/eurozone-leaders-reach-unanimous-agreement-on-
+greece-says-eus-tusk-1436771076?mod=WSJ_article_EditorsPicks_0)
+
+  * ![](http://s.wsj.net/public/resources/images/OG-AF096_201507_D_20150713011254.jpg)
+
+#### Stocks
+
+###
+
+[China Rally Gains Steam
+
+](http://www.wsj.com/articles/asian-shares-mostly-up-on-hopes-for-
+greece-1436749790?mod=WSJ_article_EditorsPicks_1)
+
+  * ![](http://s.wsj.net/public/resources/images/OG-AF095_201507_D_20150712221605.jpg)
+
+#### Markets
+
+###
+
+[Debt Load Digs Into Mining Industry
+
+](http://www.wsj.com/articles/debt-load-digs-into-mining-
+industry-1436729641?mod=WSJ_article_EditorsPicks_2)
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI487_cgraft_D_20150712052101.jpg)
+
+#### China
+
+###
+
+[Graft Probe Targets Vice President of China’s Highest Court
+
+](http://www.wsj.com/articles/graft-probe-targets-vice-president-of-chinas-
+highest-court-1436693940?mod=WSJ_article_EditorsPicks_3)
+
+  * ![](http://s.wsj.net/public/resources/images/BT-AD028_NINTEN_D_20150712224557.jpg)
+
+####  Obituary | 1959-2015
+
+###
+
+[Nintendo President Satoru Iwata Dies of Cancer
+
+](http://www.wsj.com/articles/nintendo-president-satoru-iwata-dies-of-
+cancer-1436747352?mod=WSJ_article_EditorsPicks_4)
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI497_0712ir_D_20150712100301.jpg)
+
+#### Middle East
+
+###
+
+[Europeans Press for Iran Deal Monday
+
+](http://www.wsj.com/articles/u-s-warns-major-issues-remain-in-iran-
+talks-1436712760?mod=WSJ_article_EditorsPicks_5)
+
+  * ![](http://s.wsj.net/public/resources/images/BN-JI588_0712sm_D_20150712153525.jpg)
+
+#### Tech
+
+###
+
+[Apple’s Share of Smartphone Industry’s Profits Soars to 92%
+
+](http://www.wsj.com/articles/apples-share-of-smartphone-industrys-profits-
+soars-to-92-1436727458?mod=WSJ_article_EditorsPicks_6)
+
+  * [
+
+![](http://m.wsj.net/video/20150713/071315greece/071315greece_512x288.jpg)
+
+PLAY ](http://www.wsj.com/video/eurozone-leaders-reach-deal-on-
+greece/E62B0376-E514-4BC2-BC56-7E4E8657EC63.html)
+
+#### World
+
+### [
+
+Eurozone Leaders Reach Deal on Greece
+
+](http://www.wsj.com/video/eurozone-leaders-reach-deal-on-
+greece/E62B0376-E514-4BC2-BC56-7E4E8657EC63.html)
+
+* [Wall Street Journal](http://www.wsj.com/)
+* Asia Edition
+
+  * [U.S.](http://www.wsj.com/)
+  * [Asia](http://www.wsj.com/)
+  * [Europe](http://www.wsj.com/)
+  * [India](http://www.wsj.com/)
+  * [America Latina](http://lat.wsj.com)
+  * [Brasil](http://br.wsj.com)
+  * 中国[ (China)](http://cn.wsj.com/gb/index.asp)
+  * 日本[ (Japan)](http://jp.wsj.com/)
+  * 한국[ (Korea)](http://kr.wsj.com/)
+
+Edition: U.S. Asia Europe India America Latina Brasil 中国 (China) 日本 (Japan) 한국
+(Korea)
+
+Text Size: Small Medium Large
+
+[Subscribe](https://subscribe.wsj.com/awsjhpfooter)[Sign In](https://id.wsj.co
+m/access/50f57257bd7fb2d2f6629af5/latest/login_standalone.html?url=http%3A%2F%
+2Fwww.wsj.com%2Farticles%2Fthe-craziness-of-the-world-cup-2014-1405266114)
+
+* [Customer Center](http://help.wsj.com/customer-service)
+* [Legal Policies](http://www.wsj.com/policy/legal-policies)
+
+* * [Subscribe](https://subscribe.wsj.com/awsjhpfooter)
+* [Sign In](https://id.wsj.com/access/50f57257bd7fb2d2f6629af5/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-craziness-of-the-world-cup-2014-1405266114)
+* TOP«
+
+* Subscribe
+
+* [Why Subscribe?](http://subscription.wsj.com/)
+* [WSJ+](http://www.wsjplus.com/)
+* [Corporate Subscriptions](http://subscription.wsj.com/corporate/)
+* [Apps](http://www.wsj.com/public/page/designtech-wsjModuleHome.html)
+* [Professor Journal](http://professor.wsj.com/)
+* [Student Journal](http://wsjstudent.com/)
+* Customer Service
+
+* [Customer Center](http://help.wsj.com/customer-service)
+* [Live Help](https://customercenter.wsj.com/livechat/chat?product=WSJ)
+* [Redesign Guided Tour](http://www.wsj.com/guidedtour/)
+* Tools & Features
+
+* [Emails & Alerts](http://www.wsj.com/public/page/email-setup.html)
+* [Guides](http://www.wsj.com/public/page/guides.html)
+* [My News](http://www.wsj.com/user/mynews/pages/reader)
+* [Portfolio](http://portfolio.wsj.com)
+* [RSS Feeds](http://www.wsj.com/public/page/rss_news_and_feeds.html)
+* [Topics](http://topics.wsj.com)
+* [Video Center](http://www.wsj.com/video)
+* [Watchlist](http://www.wsj.com/user/personalization/watchlist)
+* Ads
+
+* [Advertise](http://www.wsjmediakit.com)
+* [Advertise Locally](http://www.wsjlocal.com)
+* [Commercial Real Estate Ads](https://classifieds.wsj.com/ad/Commercial-Real-Estate-Ads)
+* [Place a Classified Ad](http://classifieds.wsj.com)
+* [Sell Your Business](https://classifieds.wsj.com/ad/Business-For-Sale-Ads)
+* [Sell Your Home](https://classifieds.wsj.com/ad/Residential-Real-Estate-Ads)
+* [Recruitment & Career Ads](https://classifieds.wsj.com/ad/Job-Ads)
+* More
+
+* [Content Partnerships](http://wsj.com/partner)
+* [Corrections](http://www.wsj.com/news/column/Corrections)
+* [Jobs at WSJ](http://www.dowjones.com/careers.asp)
+* [Make Time](http://www.wsj.com/maketime)
+* [News Archive](http://www.wsj.com/public/page/archive.html)
+* [Register for Free](https://id.wsj.com/access/50f57257bd7fb2d2f6629af5/latest/register_standalone.html)
+* [Reprints](http://www.djreprints.com)
+
+  * [Facebook](http://www.facebook.com/wsj)
+  * [Twitter](http://twitter.com/WSJ)
+  * [Google+](https://plus.google.com/117720626238470886461/posts)
+  * [LinkedIn](https://www.linkedin.com/company/the-wall-street-journal)
+  * [YouTube](http://www.youtube.com/user/WSJDigitalNetwork)
+  * [Podcasts](http://www.wsj.com/public/page/podcast.html)
+  * [GooglePlay](https://play.google.com/store/apps/details?id=wsj.reader_sp)
+  * [AppStore](https://itunes.apple.com/us/app/the-wall-street-journal./id364387007?mt=8)
+
+* Dow Jones Products
+* [Barron's](http://online.barrons.com/home-page)
+* [BigCharts](http://bigcharts.marketwatch.com)
+* [DJX](http://www.wsj.com/public/page/wsj-x-marketing.html)
+* [Dow Jones Newswires](http://new.dowjones.com/products/dj-news)
+* [Factiva](https://global.factiva.com/factivalogin/login.asp?productname=global)
+* [Financial News](http://www.efinancialnews.com)
+* [Mansion Global](http://mansionglobal.com)
+* [MarketWatch](http://www.marketwatch.com)
+* [Private Markets](http://pevc.dowjones.com)
+* [realtor.com](http://www.realtor.com)
+* [Risk & Compliance](https://djlogin.dowjones.com/login.asp?productname=rnc)
+* [WSJ Conference](http://www.wsj.com/conferences)
+* [WSJ Video](http://live.wsj.com)
+* [WSJ Wine](http://www.wsjwine.com)
+
+* [Privacy Policy](http://www.wsj.com/policy/privacy-policy)
+* [Cookie Policy](http://www.wsj.com/policy/cookie-policy)
+* [Copyright Policy](http://www.wsj.com/policy/copyright-policy)
+* [Data Policy](http://www.wsj.com/policy/data-policy)
+* [Subscriber Agreement & Terms of Use](http://www.wsj.com/policy/subscriber-agreement)
+* [Your Ad Choices](http://www.wsj.com/policy/cookie-policy#cookies_advertising)
+* Copyright (C)2015 [Dow Jones & Company](http://www.dowjones.com), Inc. All Rights Reserved.
+
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved
+
+This copy is for your personal, non-commercial use only. Distribution and use
+of this material are governed by our Subscriber Agreement and by copyright
+law. For non-personal use or to order multiple copies, please contact Dow
+Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+Updated July 13, 2014 10:52 p.m. ET 
+
+BEIJING—China's influential state broadcaster on Friday called a location-
+tracking function offered by Apple Inc.'s iPhone a "national security
+concern," in the latest sign of a backlash in the country against U.S.
+technology firms.
+
+In its national noon broadcast, state-run China Central Television criticized
+the "frequent locations" function in Apple's iOS 7 mobile operating system,
+which records time and location for the owner's movements. The report quoted
+researchers who said those with access to...
+
+Updated July 13, 2014 8:01 p.m. ET
+
+COPENHAGEN—Efforts to detect Alzheimer's disease earlier and more cheaply are
+focusing on signs of the ailment in the eye and sense of smell.
+
+Scientists have found that certain biological changes in the retina and lens
+of the eye, and in the sense of smell, may help predict whether people with no
+or minor memory issues may go on to develop the progressive brain disease,
+according to findings presented here Sunday at the Alzheimer's...
+
+Updated July 13, 2014 2:05 p.m. ET
+
+LONDON—Canadian plane maker Bombardier Inc. expects its CSeries jet to resume
+test flights in weeks, after trials were suspended following a major engine
+failure that damaged a test plane.
+
+"I think we have made substantial progress," Bombardier President and Chief
+Executive Pierre Beaudoin said in an interview. "Weeks from now we are going
+to be back in flight," he said, without giving a specific date.
+
+The...
+
+Updated July 13, 2014 7:20 p.m. ET
+
+BAGHDAD—Iraq's parliament failed to agree on a new speaker during its second
+session on Sunday, prolonging a political impasse that has dashed hopes of
+reaching a resolution to the worst security crisis since the U.S.-led invasion
+in 2003.
+
+U.S. diplomats and others have urged Iraqi politicians to reach a quick
+agreement over the three key government positions—the parliament speaker,
+president and prime minister—that are traditionally...
+
+Updated July 13, 2014 9:43 p.m. ET
+
+Internationally renowned conductor Lorin Maazel, who led the New York
+Philharmonic, the Cleveland Orchestra and others abroad, died Sunday at his
+home in Castleton, Va., at age 84.
+
+Mr. Maazel had been rehearsing for the annual Castleton Festival, which he had
+founded in 2009 with his wife, when he suffered complications from pneumonia,
+according to a statement from the festival.
+
+Born in Paris on March 6, 1930, Mr. Maazel was a...
+
+Updated July 13, 2014 8:00 p.m. ET
+
+Quitting a job often can be a good thing. But not enough workers have been
+doing it.
+
+During and after the recession, the U.S. economy has been too weak for many
+workers to undertake the sort of job-hopping that economists say is critical
+to building careers and advancing the nation's long-run growth prospects. The
+consequence: Even many Americans who have remained employed have stunted their
+earnings growth by staying pinned down to...
+
+Updated July 13, 2014 8:04 p.m. ET
+
+REGARDLESS OF WHAT investigators ultimately determine happened to Malaysia
+Airlines Flight 370, its disappearance already has prompted reassessment of
+some basic airline operating rules.
+
+Facing a groundswell of public concern, airlines and government safety experts
+want to change the way aircraft will be routinely tracked, and how emergency
+searches will be conducted in the future. But as they have done in the past,
+industry leaders...
+
+Updated July 13, 2014 7:50 p.m. ET
+
+Central-bank economic models failed to foresee the storm that devastated the
+global economy in 2008. Stephen Poloz, the head of Canada's central bank, the
+Bank of Canada, is trying an alternative approach he thinks will have better
+foresight: actual human beings.
+
+Since taking over in June 2013, Mr. Poloz has pushed staff and himself to look
+beyond models for on-the-ground evidence to understand Canada's economic
+challenges.
+
+...
+
+Updated July 13, 2014 7:43 p.m. ET
+
+RIO DE JANEIRO—Although Brazil's national soccer team flamed out in the
+semifinal of the World Cup, the country's leaders have some successes to
+celebrate. Airports functioned. Stadiums completed at the 11th hour hosted
+exciting soccer. Worries about potential protests proved unfounded.
+
+Now comes the hangover.
+
+Brazil is facing trials including the challenge of a moribund economy and
+potentially divisive presidential...
+
+Updated July 13, 2014 7:46 p.m. ET
+
+THE INTERNATIONAL AIR SHOW debut of the F-35 Joint Strike Fighter was always
+going to capture headlines, but lingering uncertainty over whether it would
+appear following a serious engine fire on one test jet last month has
+dominated coverage in the run-up to Farnborough.
+
+The jet is due to be declared combat ready by the U.S. Marine Corps in 12
+months, and F-35 supporters planned to use the show to shift the focus of the
+much-delayed...
+
+Updated July 13, 2014 4:46 p.m. ET
+
+VIENNA—The U.S. and Germany tried to play down tensions on Sunday as their top
+diplomats met for the first time since a fresh furor erupted over American
+espionage in Berlin in recent weeks.
+
+But new signs emerged that the outrage could have wide-ranging repercussions.
+
+U.S. Secretary of State John Kerry and German Foreign Minister...
+
+Updated July 13, 2014 9:57 p.m. ET
+
+A cutting-edge medication that can help prevent HIV in healthy individuals is
+gaining favor with government officials, including New York Gov. Andrew Cuomo.
+
+But in advocating for the drug, sold under the brand name Truvada, officials
+seeking to curtail HIV/AIDS infections are going up against some surprising
+opponents: high-profile AIDS activists who say they have serious questions
+about the drug's cultural and health impacts.
+
+...
+
+Updated July 13, 2014 3:15 p.m. ET
+
+LJUBLJANA, Slovenia—A recently formed center-left party in Slovenia, started
+by a newcomer in politics, scored a landslide victory in a parliamentary
+election Sunday amid voters' distrust in established parties and unease over
+state asset sales in this small euro zone-state, preliminary results of nearly
+90% of votes counted by the State Election Commission showed.
+
+The result, if confirmed, can make Miro Cerar, a 50-year-old law...
+
+Updated July 13, 2014 3:03 p.m. ET
+
+Swiss candymaker Chocoladefabriken Lindt & Spruengli AG is in talks to acquire
+Russell Stover, the U.S. boxed-chocolate seller, for close to $1.5 billion,
+according to people familiar with the matter.
+
+Discussions with Lindt were reported by the Financial Times.
+
+Russell Stover, known for its boxed chocolates, has annual sales of about...
+
+Updated July 13, 2014 4:26 p.m. ET
+
+Thousands of Palestinians fled their homes in northern Gaza for United Nations
+shelters after Israel warned them with leaflets and phone calls to evacuate
+ahead of an intensified offensive, the U.N. said.
+
+Ignoring calls from the territory's Hamas rulers to stay, columns of cars,
+donkey carts and scooters loaded with luggage packed escape routes from the
+town of Beit Lahiya on Sunday. Residents said that after hearing a fierce...
+
+Updated July 13, 2014 5:55 p.m. ET
+
+Engineering-services company URS Corp., a darling of some big-name investors
+that ended up disappointing them this year, said Sunday it agreed to be sold
+for $4 billion.
+
+Aecom Technology Corp. will pay the equivalent of $56.31 in cash and stock for
+each share of URS, the two sides announced Sunday. The deal would represent an
+8% premium to Friday's close for URS shares, which had been gaining in recent
+days amid takeover...
+
+Updated July 13, 2014 11:41 a.m. ET
+
+TOKYO—Japan's ruling party suffered a surprise setback in a regional election,
+exposing new political weakness for Prime Minister Shinzo Abe following his
+controversial push to ease restrictions on the country's military.
+
+Mr. Abe's Liberal Democratic Party was defeated in a vote on Sunday to fill
+the open governor's seat in western Shiga prefecture, following a hard-fought
+campaign where opponents worked to capitalize on the recent drop in the prime
+minister's public-support ratings. Beyond the military issue, Mr. Abe's...
+
+Updated July 13, 2014 7:50 p.m. ET
+
+It isn't that hard to see what is coming down the track for railroad
+operators.
+
+Their second-quarter results season kicks off this week with CSX Corp.
+Collectively, the big four—CSX, Norfolk Southern Corp., Kansas City Southern
+and Union Pacific Corp.—look set to deliver stellar numbers. Analysts forecast
+earnings per share to have increased...
+
+Updated July 13, 2014 12:04 p.m. ET
+
+When President Obama announced in May that he would withdraw all remaining
+U.S. forces from Afghanistan by the end of 2016, he insisted that "the future
+of Afghanistan must be decided by Afghans." True enough, though they could
+still use some help in that department too.
+
+Afghanistan's election commission declared Monday that former Finance Minister
+Ashraf Ghani leads Abdullah Abdullah, his rival in the country's runoff
+presidential vote, 56.4% to 43.6% in a preliminary vote count. Mr. Abdullah
+immediately...
+
+Updated July 13, 2014 8:04 p.m. ET
+
+Every July 12, after lighting hundreds of bonfires across the region,
+thousands of Northern Ireland unionists pass through the streets of Belfast
+and other towns and cities to commemorate the 1690 victory of King William III
+over his Catholic rival, King James, in the Battle of the Boyne. The
+centuries-old sectarian tensions and the triumphalist tone of the marches have
+in previous years triggered brutal violence and mass rioting.
+
+So it's a relief that this year's march passed peacefully. Only six people
+were arrested...
+
+Updated July 13, 2014 12:29 p.m. ET
+
+Congress has been working for more than a year to get to the bottom of the IRS
+political targeting scandal, and the Obama Administration has resisted across
+the board. So hurrah to the judicial branch, which this week stepped into the
+fray with orders that could force the IRS to start coughing up some answers.
+
+U.S. District Judge Emmet G. Sullivan on Thursday ordered the IRS to provide
+for him, within a month, a sworn declaration explaining how the agency came to
+lose two years' worth of email belonging to former Director...
+
+Updated July 13, 2014 3:24 p.m. ET
+
+PARIS—The French government said over the weekend that it was rearranging its
+military forces scattered across the Sahara to better combat Islamist
+militants threatening the stability of several Western African countries.
+
+French Defense Minister Jean-Yves Le Drian said Sunday that Paris would assign
+a broader, regional mission to the thousands of troops it deployed 18 months
+ago to Mali to help prevent the country from falling into...
+
+Updated July 13, 2014 6:56 p.m. ET
+
+ROME—Pope Francis said credible data indicate that around 2% of priests in the
+Catholic Church are pedophiles, a level he called "unsustainable" and that he
+pledged to fight with the necessary severity.
+
+In a conversation with Italian daily La Repubblica's founder, Eugenio
+Scalfari, published Sunday, the pope defined the sexual abuse of minors as a
+"leprosy" that the church must eradicate.
+
+"Many of my...
+
+Updated July 13, 2014 5:38 p.m. ET
+
+Wells Fargo & Co.'s latest set of earnings highlighted a problem facing the
+U.S. banking sector: too much money and not enough opportunities to lend
+profitably in a world of low interest rates.
+
+Second-quarter results at the nation's largest bank by market value met Wall
+Street's expectations but failed to soothe investor fears over persistent
+weakness in the mortgage market. The issue is likely to be a dominant theme
+next week...
+
+Updated July 13, 2014 5:38 p.m. ET
+
+The world has come a long way since 2008 when hundreds of thousands of Germans
+turned out to hear candidate Barack Obama speak in Berlin. On Thursday our
+German friends tossed out "the representative of the U.S. intelligence
+agencies," presumably the CIA station chief in Berlin.
+
+The expulsion of America's top spy would have been rare in East Germany during
+the Cold War, much less in an ally the U.S. is treaty-bound to defend.
+Thursday's order by Chancellor Angela Merkel's government reflects America's
+diminished...
+
+Updated July 13, 2014 4:45 p.m. ET
+
+BAKERSFIELD, Calif.—U.S. Rep. Kevin McCarthy sat at Luigi's Restaurant here on
+a recent Saturday, slicing through a rare steak, as politicians and business
+owners in his hometown took turns congratulating the incoming House majority
+leader.
+
+Anyone in search of Mr. McCarthy on weekends needs to look no further than
+Luigi's, one of this city's oldest family-run businesses. As the man who
+orchestrated a 2010 Republican takeover of Congress by targeting Democrats
+who, in his estimation, were out of touch with their districts,...
+
+Updated July 13, 2014 1:54 p.m. ET
+
+LONDON—Boeing Co. will offer a modified version of its 737, increasing the
+capacity of the jet to up to 200 seats as the company chases demand from low-
+cost carriers, Boeing's commercial unit chief executive announced today.
+
+The company signaled its intent to move ahead with the model here Sunday
+during a media round table with Ray Conner, Boeing's vice chairman and
+commercial airplane unit chief executive officer ahead of the...
+
