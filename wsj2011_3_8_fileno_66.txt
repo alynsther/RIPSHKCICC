@@ -1,0 +1,39 @@
+A major software attack on mobile phones has put pressure on  Google Inc. to do more to secure its online store for smartphone applications.
+
+The company behind the now ubiquitous Android operating system came under fire after computer-security experts last week uncovered more than 50 malicious applications that were uploaded to and distributed from Google's Android Market.
+
+Some security experts said the incident shows Google, which doesn't inspect Android apps before they are published, needs to do more to try to ensure the apps are safe before they are offered to smartphone users. 
+
+Google largely relies on users to rate apps and raise the alarm about any problems with them. It also requires consumers to give their consent for an app to access their personal data. But that approach isn't enough, according to  Chris Wysopal, chief technology officer of computer-security firm Veracode. "App stores need to get serious about vetting code before it is available for customer download," Mr. Wysopal wrote on his blog. 
+
+Google has said 58 malicious apps were uploaded to Android Market and then downloaded to around 260,000 devices before Google removed the affected apps last Tuesday evening. It isn't clear how many users activated the applications, a Google spokesman said.
+
+Unlike  Apple Inc.
+AAPL
+
+
+0.90
+%
+
+
+
+
+ or BlackBerry maker  Research In Motion Ltd., Google doesn't have employees dedicated to approving apps submitted to its store. Google said it removes apps that violate its policies, and has some internal measures to identify offenders. 
+
+While that may leave Google's Android Market more vulnerable in some respects, security experts say all mobile operating systems are open to similar kinds of attacks. In the past, Apple has also pulled apps from its App Store after they were discovered to send information about users and their phones to outside parties without the users' knowledge or consent. 
+
+The apps involved in the latest incident were corrupted versions of legitimate products from three different developers. The apps, which included Super Guitar Solo, Advanced Barcode Scanner, Bubble Shoot and dozens of others, were adulterated with a malicious code called "DroidDream" that could compromise sensitive personal data, including the IMSI number of the user's phone, a unique identifier that carriers try to protect. 
+
+The malware was configured to run between 11 p.m. and 8 a.m., when phone users were less likely to notice unusual activity, according to mobile-security provider Lookout, which detected several of the apps. 
+
+Mr. Wysopal, of Veracode, said the malware compromised many older Android devices it was installed on by gaining so-called root permissions, raising the risk they would download more malware on their own from sources other than the Android Market. Security experts said this is the first time they have seen a corrupt Android program gain such access.
+
+On March 5,  Rich Cannings, who heads Google's Android security team, wrote on a Google blog that the company had removed the bad apps from the Android Market, remotely removed them from affected devices, suspended the accounts of developers it believes were associated with the attacks, and contacted law enforcement about the incident. It also sent security updates to the devices involved that Google says prevents attackers from accessing any more information from them. 
+
+Google also said it is taking other steps to keep malicious applications out of the Android Market, but declined to specify those measures.
+
+The incident followed prior complaints about Android's alleged security vulnerabilities. A Rice University professor recently discovered that Android didn't automatically encrypt data that users send and receive when using Google's calendar service, meaning someone could exploit the system to obtain users' calendar data. A Google spokesman previously said Android soon would begin to encrypt the data.
+
+Still, Android's growth has continued unabated. It held 31.2% of the U.S. smartphone market in the three months ended in January, up from 23.5% the previous three months, while Research in Motion fell to second place, with 30.4%, followed by Apple, with 24.7%, according to comScore.
+
+ Write to  Amir Efrati at amir.efrati@wsj.com 

@@ -1,0 +1,79 @@
+  Intel Corp.
+INTC
+
+
+-0.32
+%
+
+
+
+
+ showed off what it called the most radical shift in semiconductor technology in more than fifty years, a design that could produce more powerful chips for gadgets without taxing their batteries.
+
+The company plans to change a key part of each chip into a vertical, fin-like structure, a similar principle to the way high-rise buildings pack more office space in a city. The parts being changed—transistors—are the building block of nearly all electronic products; today's microchips can contain billions of the tiny switching elements. 
+
+Intel said its latest technology could bring more computing power to smartphones and tablet computers as well as speed up corporate data centers—all while sharply reducing power consumption.
+
+Though rivals also have been exploring similar technologies, Intel is the first to commit to using the so-called 3-D approach in high-volume production, a gamble that analysts said could help Intel match the performance advantages of rivals that have largely kept Intel's chips out of the smartphone market.
+
+"We've been talking about these 3-D circuits for more than 10 years, but no one has had the confidence to move them into manufacturing," said  Dan Hutcheson, a chip-manufacturing specialist with the firm VLSI Research.
+
+Intel executives demonstrated working chips based on the new approach at a gathering Wednesday in San Francisco. They indicated the first microprocessors would likely be targeted for high-end desktop computers and server systems and arrive in early 2012.
+
+Two-dimensional, or planar, semiconductor manufacturing is an invention credited to industry pioneer Jean Hoerni while at Fairchild Semiconductor in 1959. It was chosen to make some of the first integrated circuits there by  Robert Noyce, who later co-founded Intel. 
+
+For decades, chip manufacturers have raced to shrink the size of components, which increases the performance of chips while decreasing the cost of each computing function. Competition has spurred companies to introduce ever-smaller processes every couple of years. 
+
+Intel executives say the shift to 3-D transistors brings more benefits than simply moving to a new generation of manufacturing technology. For example, if designers keep performance consumption constant, the new technology consumes half the power as Intel's existing production method. 
+
+"That is an unprecedented gain," said  Mark Bohr, who holds the title of Intel fellow and leads its development of new manufacturing processes. "We've never achieved that kind of performance gain at low voltage."
+
+Chip designers have long worked in more than two dimensions, with transistors topped by layers of interconnecting wiring. Intel's shift relates to a part of each transistor that determines how fast electricity flows and how much current may leak out, affecting power consumption. 
+
+Intel engineers replaced a flat channel for conducting electrons with a fin-shaped structure surrounded on three sides by a device called a gate that turns the flow on and off. The three-dimensional shape, Mr. Bohr said, lets more current flow during the "on" state and less current to leak when the transistor is switched "off."
+
+Intel disclosed the underlying approach in research papers in 2002, and has spent the intervening years perfecting it. It has opted to shift completely to the new transistors for its next manufacturing process—slated to create chips with circuit dimensions measured at 22 nanometers, or billionths of a meter. Intel's current chips use 32-nanometer technology.
+
+Departures from conventional manufacturing technologies tend to increase costs, and chip companies try to avoid them. Mr. Bohr said Intel concluded it could move to the new technology with a 2% to 3% increase in the cost of a finished silicon wafer, each of which contains hundreds of chips. 
+
+"The new structure is reliable enough to allow the company to turn out huge volumes of 22-nanometer chips reliably," said  Roger Kay, a market researcher at Endpoint Technologies Associates.
+
+Others are expected to use the 3-D approach at some point, too, but not until they have shrunk their circuitry beyond 22 nanometers. Globalfoundries, a production service spun off from  Advanced Micro Devices Inc.,
+AMD
+
+
+-2.68
+%
+
+
+
+
+ said Wednesday it will use conventional transistors for its forthcoming 20-nanometer process. "We don't see the need" for technologies like 3-D transistors until subsequent production processes, a spokesman for the company said.
+
+  David Perlmutter, an executive vice president in charge of Intel's architecture group, demonstrated the technology in a forthcoming generation of microprocessors that use the code name Ivy Bridge. He said the technology also could be particularly useful in expanding the performance of graphics circuitry, an area where Intel tends to lag rivals AMD and  Nvidia Corp.
+NVDA
+
+
+-0.88
+%
+
+
+
+
+
+
+But a more pressing question is whether the 3-D approach could allow chips produced with Intel's 22-nanometer process to trump the low power consumption of rivals that license designs from  ARM Holdings
+ARMH
+
+
+0.08
+%
+
+
+
+
+ PLC. Problems with offering similar battery life has helped keep Intel chips from penetrating the smartphone market. 
+
+Mr. Perlmutter gave no indication when it will begin making its Atom chips, which are aimed at such mobile devices, using the new process. 
+
+ Write to  Don Clark at don.clark@wsj.com 

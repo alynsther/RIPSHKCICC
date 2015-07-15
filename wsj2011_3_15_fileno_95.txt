@@ -1,0 +1,59 @@
+The earthquake and its aftermath in Japan continued to roil electronics supply chains Monday as  Texas Instruments Inc.
+TXN
+
+
+-0.22
+%
+
+
+
+
+ projected that one of its chip factories damaged in the disaster won't ship at full volume until September.
+
+The Dallas-based semiconductor maker said that its factory in Miho—which accounted for about 10% of its revenue in 2010—received "substantial" damage, particularly to the systems that deliver chemicals, gases and water to the plant. The facility makes analog chips, which are used for a variety of applications, as well as parts used in digital projectors.
+
+Texas Instruments said it expects to start bringing the plant's manufacturing lines up in stages in May, reaching full production in mid-July and "full shipment capability" in September. But it cautioned that the schedule could be delayed if the region's power grid is unstable or if further complications prevent the restart of equipment.
+
+The disclosure was one of the first detailed accountings of how much damage manufacturers suffered because of the earthquake, which is believed to have affected dozens of factories. Companies in a range of industries, from consumer electronics to steelmakers, have suspended operations at their plants, but they have disclosed little about what they are finding.
+
+The extent of the damage to production facilities—and the resulting stress on global supply lines—will play an important role in defining the earthquake's impact on the global economy. Japan's factories play a significant role in global production, churning out a fifth of the world's semiconductors and large shares of advanced machine tools and solar panels.
+
+Companies that escaped damage from the earthquake and ensuing tsunamihave to cope with rolling power outages and disruptions to supplies of water, raw materials and transportation, suggesting the road to reconstruction could be long and halting.
+
+Japan's major auto makers extended the shutdowns at their domestic factories.  Toyota Motor Corp. said it is suspending production at all domestic plants through Wednesday as it tries to adjust to the logistics dislocation caused by the disaster. The shutdowns mean 40,000 vehicles won't be produced, said a spokesman for the world's biggest auto maker by sales.
+
+The factories mainly supply the Japanese market, but they are also a source of engines and parts for assembly plants overseas as well as some vehicles that are made only in Japan. A report from IHS Automotive said about 45% of Toyota's global production has now been affected by the quake and tsunami.
+
+U.S. dealers are growing concerned about tight supplies of Toyota's popular Prius as a sharp rise in gasoline prices is boosting the hybrid's sales. At the end of February, Toyota had 17,997 Priuses in dealer inventories in the U.S., enough to last about a month.
+
+The Prius is made only in Japan. The plant where it is made wasn't damaged, but the company is still assessing whether parts suppliers were hurt.
+
+"I would say the days' supply is getting short quickly, and sales have gone up quite a bit, and the supply was anticipated to go up as well," said  Larry Kull, president of Burns-Kull Automotive in Vineland, N.J., and president of Toyota's dealer council. "They are still assessing the damage, but I doubt we are going to get a lot of clarification within a day or two."
+
+  Honda Motor Co.
+HMC
+
+
+0.90
+%
+
+
+
+
+ said it would extend a manufacturing halt at all of its Japanese plants through Sunday, resulting in an output loss of 16,600 vehicles.
+
+Texas Instruments said it expects to be able to shift 60% of the production at its Miho plant to other facilities and believes about 40% of the products at the plant can be recovered. It said it has 80,000 customers for its analog chips. The chips are used for thousands of tasks including managing power and other features of smartphones, laptop computers, cameras and cars.
+
+Analysts continue to predict higher component costs and possible product shortages in the weeks ahead as companies including  Toshiba Corp.,  Sony Corp. and  Renesas Electronics Corp. assess damages and endure power outages that are expected to last several weeks.
+
+Prices of the widely used 32-gigabit NAND flash chip, typically used in smartphones and tablets to store data, jumped as much as 17.7% in late Asia trade Monday, according to DRAMeXchange, Asia's biggest spot market for chips.
+
+Industrial suppliers have also been hit.  Hitachi Ltd. said operations at its six manufacturing facilities in the quake-struck areas remain shut. They make such products as home appliances, auto parts, elevators and power-generation systems. The conglomerate is still trying to assess damage at the facilities.
+
+Heavy machinery maker  IHI Corp. said two of its plants in the quake areas, which make aircraft-engine parts and aerospace-related parts, have been damaged and have no prospect for a recovery.
+
+A senior Boeing Co. executive said aircraft production could be hit if disruption to parts makers last for several weeks. "We have a little bit of stock, but not much,"  Jim Albaugh, chief executive of Boeing's commercial airlines unit, said in an interview on CNBC. 
+
+—Yoshio Takahashi, Hiroyuki Kachi and Yun-Hee Kim contributed to this article.
+
+ Write to  Don Clark at don.clark@wsj.com and Mike Ramsey at michael.ramsey@wsj.com 

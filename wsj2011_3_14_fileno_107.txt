@@ -1,0 +1,33 @@
+Even while thousands of people are reported dead or missing, whole neighborhoods lie in ruins, and gas and oil fires rage out of control, press coverage of the Japanese earthquake has quickly settled on the troubles at two nuclear reactors as the center of the catastrophe.
+
+Rep. Ed Markey (D., Mass.), a longtime opponent of nuclear power, has warned of "another Chernobyl" and predicted "the same thing could happen here." In response, he has called for an immediate suspension of licensing procedures for the Westinghouse AP1000, a "Generation III" reactor that has been laboring through design review at the Nuclear Regulatory Commission for seven years.
+
+
+
+Before we respond with such panic, though, it would be useful to review exactly what is happening in Japan and what we have to fear from it. 
+
+The core of a nuclear reactor operates at about 550 degrees Fahrenheit, well below the temperature of a coal furnace and only slightly hotter than a kitchen oven. If anything unusual occurs, the control rods immediately drop, shutting off the nuclear reaction. You can't have a "runaway reactor," nor can a reactor explode like a nuclear bomb. A commercial reactor is to a bomb what Vaseline is to napalm. Although both are made from petroleum jelly, only one of them has potentially explosive material. 
+
+Once the reactor has shut down, there remains "decay heat" from traces of other radioactive isotopes. This can take more than a week to cool down, and the rods must be continually bathed in cooling waters to keep them from overheating. 
+
+On all Generation II reactors—the ones currently in operation—the cooling water is circulated by electric pumps. The new Generation III reactors such as the AP1000 have a simplified "passive" cooling system where the water circulates by natural convection with no pumping required. 
+
+If the pumps are knocked out in a Generation II reactor—as they were at Fukushima Daiichi by the tsunami—the water in the cooling system can overheat and evaporate. The resulting steam increases internal pressure that must be vented. There was a small release of radioactive steam at Three Mile Island in 1979, and there have also been a few releases at Fukushima Daiichi. These produce radiation at about the level of one dental X-ray in the immediate vicinity and quickly dissipate. 
+
+
+
+If the coolant continues to evaporate, the water level can fall below the level of the fuel rods, exposing them. This will cause a meltdown, meaning the fuel rods melt to the bottom of the steel pressure vessel. 
+
+Early speculation was that in a case like this the fuel might continue melting right through the steel and perhaps even through the concrete containment structure—the so-called China syndrome, where the fuel would melt all the way to China. But Three Mile Island proved this doesn't happen. The melted fuel rods simply aren't hot enough to melt steel or concrete. 
+
+The decay heat must still be absorbed, however, and as a last-ditch effort the emergency core cooling system can be activated to flood the entire containment structure with water. This will do considerable damage to the reactor but will prevent any further steam releases. The Japanese have now reportedly done this using seawater in at least two of the troubled reactors. These reactors will never be restarted.
+
+None of this amounts to "another Chernobyl." The Chernobyl reactor had two crucial design flaws. First, it used graphite (carbon) instead of water to "moderate" the neutrons, which makes possible the nuclear reaction. The graphite caught fire in April 1986 and burned for four days. Water does not catch fire.
+
+Second, Chernobyl had no containment structure. When the graphite caught fire, it spouted a plume of radioactive smoke that spread across the globe. A containment structure would have both smothered the fire and contained the radioactivity.
+
+If a meltdown does occur in Japan, it will be a disaster for the Tokyo Electric Power Company but not for the general public. Whatever steam releases occur will have a negligible impact. Researchers have spent 30 years trying to find health effects from the steam releases at Three Mile Island and have come up with nothing. With all the death, devastation and disease now threatening tens of thousands in Japan, it is trivializing and almost obscene to spend so much time worrying about damage to a nuclear reactor.
+
+What the Japanese earthquake has proved is that even the oldest containment structures can withstand the impact of one of the largest earthquakes in recorded history. The problem has been with the electrical pumps required to operate the cooling system. It would be tragic if the result of the Japanese accident were to prevent development of Generation III reactors, which eliminate this design flaw.
+
+ Mr. Tucker is author of "Terrestrial Energy: How Nuclear Power Will Lead the Green Revolution and End America's Energy Odyssey" (Bartleby Press, 2010). 

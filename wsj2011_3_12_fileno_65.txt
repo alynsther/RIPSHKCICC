@@ -1,0 +1,67 @@
+TOKYO—The Japanese government said Saturday that it has begun filling a nuclear reactor container vessel at the Fukushima Daiichi plant with seawater, after a concrete structure housing the vessel collapsed after an explosion that followed Friday's earthquake and tsunami. 
+
+"I think we can get this under control" through the addition of the seawater, Chief Cabinet Secretary Yukio Edano, the government's top spokesman, said at a news conference. He said the explosion, which was caused by hydrogen gas coming into contact with oxygen, only destroyed the outermost structure and didn't damage the container vessel. 
+
+Mr. Edano said no great amount of radiation leaked after the explosion. 
+
+Three nuclear plants are close to the quake's epicenter off the east coast of Honshu.
+
+The Japanese government on Friday declared an emergency at Tokyo Electric Power Co.'s Fukushima Daiichi plant about 150 miles north of the capital and ordered the evacuation of thousands of residents in the area. Officials steadily increased the evacuation perimeter and at about 6 a.m. local time, announced that anyone within six miles should leave the area—up from two miles a few hours earlier.
+
+Shortly after that, the government nuclear agency confirmed the radiation level at the gate of the plant was eight times as high as normal after some mildly radioactive vapor was released by the plant in an effort to ease pressure. Fukushima Daiichi has six reactors, all built in the 1970s, and three were operating when the quake happened. The oldest and smallest of the reactors, known as Unit 1, appears to be the main source of the problems.
+
+Asked about the impact of radiation at eight times higher than normal levels, Naoto Sekimura, a professor of quantum engineering at Tokyo University, said on national broadcaster NHK, "This is a minuscule amount. This is not going to have negative impact on the human body."
+
+Inside the control room at Unit 1, the amount of radiation on Saturday reached around 1,000 times normal, the Nuclear and Industrial Safety Agency said, according to Kyodo. Attempts to fix the problem at the plant—a buildup of heat and pressure inside the reactor—were going more slowly than planned, according to the government's nuclear agency, quoted by the NHK broadcaster.
+
+Radiation levels aren't supposed to rise in a control room, which is designed to allow operators to continue working during emergencies and is equipped with filtration systems and other design features to protect workers from radiation exposure. Nevertheless, experts said that a level that is 1,000 times normal probably isn't immediately harmful. 
+
+Later on Saturday, Tokyo Electric said another nuclear-power plant nearby, Fukushima Daini, was experiencing rises of pressure inside its four reactors. A state of emergency was called and precautionary evacuations ordered. The government has ordered the utility to release "potentially radioactive vapor" from the reactors, but hasn't confirmed any elevated radiation around the plant.
+
+By Saturday morning, some 20,000 people had been evacuated from the areas around the two troubled nuclear-power plants in the Fukushima prefecture, Kyodo News reported.
+
+The great fear is that fuel rods, which create heat through a nuclear reaction, could have been exposed, following an earthquake due to cooling system failure. Loss of cooling water resulted in a near meltdown of the Three Mile Island reactor in Pennsylvania in 1979, the worst nuclear incident in U.S. history. If coolant isn't restored, extreme heat can melt through the reactor vessel and result in a radioactive release. Reactors have containment domes to catch any release. But there is always the chance that an earthquake could create cracks or other breaches in that containment system.
+
+While officials were still scrambling to deal with the Fukushima reactor problem, at least two strong earthquakes hit near Japan's—and one of the world's—largest nuclear reactors early Saturday.
+
+The strength of one of the two quakes on the other side of the Japan Sea coast measured 5 on the Japanese scale in Kashiwazaki City in Niigata prefecture, home to another large nuclear power plant. According to NHK, the national broadcaster, the quakes didn't affect the operations of the plant where four reactors are in operation. In the past, Tokyo Electric's seven-reactor Kashiwazaki-Kariwa plant has operated as much as 8,200-megawatts of generating capacity at the site, about 20% of the total energy supply of the company, which has 28 million customers in the Tokyo area.
+
+Meanwhile, the three reactors at Tohoku Electric Power Co.'s Onagawa plant in Miyagi, near the epicenter of the quake, also shut down automatically. A few hours later, the company said that it observed smoke coming from the building housing the No. 1 reactor at the plant. The company said it is still checking the safety of the reactor, but said there has been no leakage of radioactive substances reported. All nuclear plants have containment domes designed to capture any accidental release.
+
+The International Atomic Energy Agency said it is ready to provide assistance if requested.
+
+All other Japanese power companies operating nuclear-power plants said their facilities are operating normally.
+
+Nuclear problems are particularly troubling in Japan, which has 56 nuclear reactors, providing about 20% of the nation's electricity. Eleven reactors shut down as a result of the earthquake, as well as dozens of conventional fossil-fired or hydroelectric plants, leaving millions of people without electricity.
+
+To cope with a severe power shortage expected to result from reactor shutdowns, Tokyo Electric on Saturday asked industrial customers to close or reduce their operations to save electricity and ensure supplies to households, a spokesman said.
+
+At Fukushima Daiichi, the three reactors that were operating when the earthquake struck shut down as they were designed to do, but pressure built up inside them due to malfunctioning of their cooling system.
+
+When nuclear plants lose grid power, emergency on-site generation is supposed to furnish backup power. But some diesel generators at the Fukushima Daiichi plant reportedly failed a short time later. That forced the plant to resort to batteries to furnish electricity to critical instrumentation and controls for at least one of the reactors, experts said.
+
+Reactors at the plant use a special cooling system, called the Reactor Core Isolation Cooling system, to take waste heat and run some critical systems. But experts said even that system and batteries wouldn't be able to furnish as much power as was needed, putting pressure on plant officials to quickly find additional sources of electricity.
+
+A State Department spokeswoman said late Friday afternoon that, contrary to remarks made by Secretary of State Hillary Clinton earlier in the day, the U.S. Air Force didn't provide assistance to the Japanese nuclear power plant stricken by the quake.
+
+"I'm told that ultimately the Japanese government handled the situation on its own," said Julie Reside, a State Department spokeswoman.
+
+Neil Wilmshurst, chief nuclear officer for the Electric Power Research Institute, a U.S.-based electric industry research organization, said Tokyo Electric has rigorous emergency procedures in place.
+
+"The first thing you do is assure safe shutdown of reactors and continued cooling of the reactor cores and the spent-fuel pool," he said. Next comes the process of assessing damage. He said seismic recorders at the site will be analyzed and the data will be compared against the level of shaking the plant is engineered to withstand. Employees examine every part of the plant searching for visible or hidden damage, a process that can take weeks or months.
+
+Experts said that Tokyo Electric has improved its processes and communications since a July 2007 earthquake heavily damaged the Kashiwazaki-Kariwa plant. The entire plant was shut down for 21 months following that quake, and some reactors still aren't back in operation.
+
+Tokyo Electric was criticized after the 2007 quake for secrecy concerning how it was responding to problems at the Kashiwazaki plant and for rejecting inspection and assistance offers from the IAEA, which is intended to create confidence in the way an emergency is handled.
+
+The Kashiwazaki plant suffered from seismic activity, in the 2007 quake, that exceeded the level for which it was designed, calling into question seismic assumptions made by regulators and the plant operator. There was a radioactive release when water sloshed out of spent-fuel-cooling pools and spilled into the Sea of Japan.
+
+Experts said the global nuclear industry will try to learn from Japan's experience this time as well.
+
+"This is, no doubt, a significant event for Japan and the nuclear industry around the world" said EPRI's Mr.Wilmshurst, especially since a new generation of nuclear plants is being built. He added it's critical to determine whether plants performed as designed and what improvements should be made, such as to emergency power systems.
+
+Tsunami fears spread to many nations with coastal nuclear reactors including Korea, China, Taiwan and the U.S. In Calfornia, PG&E Corp.'s Diablo Canyon nuclear plant went on alert.
+
+—Hiroyuki Kachi and Juro Osawa contributed to this article.
+
+ Write to  Yuka Hayashi at yuka.hayashi@wsj.com 

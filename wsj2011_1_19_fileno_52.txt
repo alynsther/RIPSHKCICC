@@ -1,0 +1,37 @@
+Before you choose a school for your children, wouldn't you want to check it out? Actually, in this case, a more apt analogy might be visiting a cemetery to pick out a plot. The object I was contemplating interring wasn't an aging relative but my old computers—at this moment sitting in my basement gathering dust, or, knowing my basement, providing luxury housing for several family of mice. 
+
+The instruments date back to the '80s. I realize they're just machines, but they're also more than that. I can trace my career, such as it is—come to think of it, my whole adult life—through them.
+
+It started with a Kaypro and continued through times lean and flush, marriage and children, and various Dell desktops, IBM ThinkPads and one or two ill-advised devices whose names I can't remember and whose manufacturers went out of business.
+
+A computer is different from a blender or even a TV—it's a mechanical extension of yourself, almost a member of the family, and not just metaphorically. Apart from any sentiment you may attach to it, a computer also contains something called a hard drive. And who knows what the hell is on my hard drive? 
+
+Obviously, I've lived a stainless life. But even a stainless life is open to misinterpretation. And since I rip my name off prescription bottles before I recycle them, I'm not about to leave a computer on the sidewalk containing a lot more information about me than my Lipitor dosage. 
+
+So when I was invited to visit WeRecycle!, a cutting-edge electronics-recycling plant in Westchester, I thought the tour might offer some insight about what to do with those pesky hard drives. The company works out of a nondescript big-box structure in Mount Vernon. But they'd thoughtfully set up tables in their offices filled with disassembled computer parts to help explain exactly what it is they do. And what they do, to make a long, loud and proprietary process short, is this: They pillage computers for things such as hard drives, which they erase, memory cards and processors. Then they throw the rest into a giant maw, which I'll get to shortly. Incredibly, all but 1% or 2% of the machines is recyclable.
+
+Equally to the point, the company's president,  Mick Schum, an environmental engineer who started WeRecycle! in 2003 and sold it in 2009 to  Hugo NeuCorp., one of the nation's largest recycling companies, told me I had good reason to fear for the fate of my hard drives if I were to let them out of my control. 
+
+"The industry is less transparent than it should be," he said, explaining that it's been common practice to ship old computers overseas, where environmental rules regarding the disposal of electronic devices' lead- and mercury-laden carcasses may be more lenient. "We should be making this investment," he emphasized, referring to the U.S.
+
+At the moment, the plant is operating at only 30% of capacity. But that's about to change. Come April 1, rules go into effect in New York state making recycling of electronic waste mandatory. "Throwing it into the trash will be against the law," Mr. Schum said. "Every county, every municipality with more than 10,000 people will have a collection point." 
+
+We donned hard hats and earplugs and made our way to the factory floor. I didn't realize what a challenge earplugs pose when you're trying to conduct an interview. But the essential process is fairly straightforward: Discarded equipment arrives at the WeRecycle! facility in Westchester, or a second plant in Meriden, Conn., where it's dismantled. Things that can be reused intact, such as hard drives and processors, are salvaged; parts containing dangerous materials—batteries, lamps, toners, mercury-containing devices—are removed for further off-site processing; and everything in between gets thrown into the shredder. The magic of the system is that you can deposit a computer in one end and it comes out on the other as separate streams—bite-size pieces of plastic, steel, aluminum and silicon. Motherboards and other circuitry are crushed and mined for gold and other precious metals. 
+
+WeRecycle! doesn't just handle home computers. Mr. Schum said they recently received an old IBM mainframe, and even things like stereos, cellphones, MP3 players, camcorders and console TVs become fodder. "We have talked about starting a vintage-equipment area," he said.
+
+After your beloved Apple II gets ground up into what Mr. Schum described as "even material size," it moves along a conveyor belt equipped with sensors that can differentiate between substances such as metal and plastic, sending them their separate ways. Mr. Schum picked up a piece of metal and tossed it onto the racing conveyor. As it went over the equivalent of a mechanical waterfall, you could hear the sound of something like popcorn popping as the equipment recognized the metal and chucked it from the stream. "Once it senses what it's looking for, it knocks that particle out," he explained. "I can do this all day."
+
+"How does it sense it?" I asked.
+
+"That's the proprietary part."
+
+We went to a new, fortunately less-deafening area of the plant, where workmen were disassembling newly arrived computers and removing components such as their hard drives. Then they were plugged into "Matrix"-like devices that erased their memories by layering them with ones and zeros. "We do a minimum of three passes," the same standard used by the Department of Defense, Mr. Schum explained. "Then we test at the end of that process to verify every sector of the hard drive has been overwritten."
+
+If for any reason it fails the test, it's tossed into the shredder with all the other recyclables. 
+
+The only problem with the operation is that responsible citizens can't just drive up to the plant with their old Compaqs and Dells and throw them over the fence. WeRecycle! accepts equipment only through local special collection events, corporate customers and permanent out-of-state collection sites. At the moment, New York City has no formal collection process in place, according to  Jon Coifman, a WeRecycle! spokesman.
+
+Based on what I learned during my visit, I think I'll let my old computers hang out in my basement a little longer. My Kaypro, however, I'm planning to keep forever. I want my daughters to be aware of a time when computer monitors were only nine inches wide, and most worrying information was stored on floppy discs you could stick in your pocket.
+
+— ralph.gardner@wsj.com 

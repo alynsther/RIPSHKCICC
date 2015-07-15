@@ -1,0 +1,49 @@
+The world's population is booming—and all those billions of people want the same standard of living that developed countries enjoy. Meeting that goal presents tremendous challenges.
+
+Read the full  ECO:nomics report .
+
+Attendees at the ECO:nomics conference split into groups to discuss the problems and potential solutions in different sectors. Following those meetings, executives reported back on the discussions.  Steven "Mac" Heller, executive chairman of Coda Automotive Inc., discussed electric vehicles;  John Mackey, co-chief executive of  Whole Foods Market inc., reviewed healthier food and wellness efforts;  Kyle Danish, an environmental attorney at the law firm Van Ness Feldman, tackled coal; and  Eric Spiegel, president and CEO of  Siemens Corp., spoke about renewable energy. 
+
+Below are edited excerpts of their presentations.
+
+ MR. HELLER: When we talk about electric vehicles, it's all about the battery. People were pretty positive on our ability to bring lithium-ion-battery-system costs down to a level where EVs will be cost-competitive with gasoline vehicles. It will take us a few years to do that, but here are the things we are going to need to happen in order for it to occur. We're going to need to move prototype volumes to mass volumes. There's a lot of great science going on optimizing the cell, optimizing the chemistry and optimizing the battery-management system, the computer software and hardware that controls power in, power out.
+
+On range, consumers have a menu of technologies from which they can choose. In my briefcase right now, I have a laptop, an iPad, a Kindle and two phones. To send a short email I'm going to use my BlackBerry, to read a book I'm going to use my Kindle, to see pictures I'm going to use my iPad.
+
+Consumers tell us that they think about their cars in the same way. The electric vehicle will be for 90% to 95% of driving days, and on the weekend when I want to go from Atherton to Yosemite, I'm going to use either a range-extended hybrid or a pure gasoline vehicle. So people were bullish on our ability, through the proliferation of technologies, to satisfy consumer anxiety about range.
+
+Our group had a high degree of trust in the GEs, etc., of the world and the utility companies to generate enough power, distribute enough power, make enough power available for people to charge at home, at stores, at work and along the interstate highway system.
+
+It will take some money, it will take a little more technology, and it will take a higher degree of EVs on the road to get there, but people thought that was going to happen.
+
+ MR. MACKEY: I sort of ended up hijacking the meeting and talked about what I was interested in, which was how we're choosing foods that are higher in fat, more animal foods, more sugar, more salt, less nutritious—that correlates with the type of lifestyle diseases that are killing us. Heart disease, stroke, diabetes, cancer, autoimmune diseases are largely diseases that are caused through our lifestyle choices.
+
+We talked about how, in a sense, as countries become more affluent, as they have more money, they are tending to make choices very similar to Western diet choices. They're eating far more animal foods. The amount of animal foods consumed in the world has quadrupled in the last 50 years. They are making choices for more processed foods, more sugar, more soft drinks, more candy. And the diseases that correlate with that type of dietary consumption are also migrating to the developing world, and we're starting to see those rates go up as well.
+
+So then we talked a lot about what Whole Foods is doing to educate our customers, how we're creating Wellness Clubs to try to get people to make conscious choices about their food to make themselves healthier.
+
+We talked about how Whole Foods is taking 1,000 of our team members now and putting them through an intensive Total Health Immersion Program, and how transformative that has been in their lives, and how that's beginning to lower our health-care costs as we're creating a culture of wellness, which we think probably is exportable to other corporations.
+
+ MR. DANISH: There was a discussion of the need for a longer-term plan for the energy sector for users of coal, the United States and globally, that would allow for some rational transition from older coal plants to natural gas to other forms of electricity.
+
+There was a good bit of discussion about efficiency and interest in finding new models for utilities in the U.S. to partner with their customers to promote efficiency. There was a good discussion about the public perception of coal and coal-fired electricity, and a need for the public to better understand those elements, including just how much of their electricity comes from coal and that the transition away from coal is not cheap and that clean coal is not cheap.
+
+But, importantly, there was a discussion also about how utilities need to also better understand that many companies are not indifferent to where their electricity comes from, are concerned about embedded carbon in the energy they use, and are going to be increasingly discriminating in this regard.
+
+We did a good bit of discussion about China, making the point here that while there is some perception that China is just building a creaky old coal-fired power plant a week using 1950s technology, it's not at all the case. They're using the most efficient, modern advanced technology. That is an area that we can learn from.
+
+A lot of the discussion also was about the unsettled policy landscape domestically and internationally, that we may not have a global, comprehensive approach to dealing with climate change, and whether there is potential for smaller-scale efforts.
+
+ MR. SPIEGEL: Given where we are with the amount of natural gas in the country and the cost of natural-gas generation, renewables over some short period of time had to become competitive with gas.
+
+From a Siemens perspective, some of our wind projects are already competitive with gas in some areas where there's high-cost power on the margin and where we have a very windy area. We then talked about the enablers that are going to be needed if we wanted to expand wind on a much bigger basis, which would be around transmission, a smarter grid and also some answer to the energy-storage question.
+
+We also talked about solar. The discussion was that that's probably a longer-term opportunity than wind. Quite a few projects ongoing, but they're heavily subsidized, and the question is, "What's the timing when those things will become economic?" I'm not clear that people think that those are going to be winners as fast as wind may be.
+
+Then we talked a little bit about the other stream around renewables, which is really transportation and the shift away from fossil fuels to cleaner fuels like biofuels and maybe some products made from algae and things. 
+
+Four or five years ago people would have thought biofuels moving from corn-based to cellulosic would have a much bigger impact. There wasn't a lot of excitement yet around that.
+
+On the other hand, there was a lot of discussion around Brazil and the model that they put in place to shift their transportation sector more toward sugarcane-based biofuels and how successful that had been, and is there an opportunity to do something like that here in the U.S. and/or relax tariffs and things to import it.
+
+We also talked a little bit about cities. It was clear that there's just not the excitement here that we see in other parts of the world around connecting things like renewable energy, networks, mobility and things in cities, as cities become more crowded and congested.

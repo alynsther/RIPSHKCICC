@@ -1,0 +1,103 @@
+As Middle East regimes try to stifle dissent by censoring the Internet, the U.S. faces an uncomfortable reality: American companies provide much of the technology used to block websites.
+
+McAfee Inc., acquired last month by Intel Corp., has provided content-filtering software used by Internet-service providers in Bahrain, Saudi Arabia and Kuwait, according to interviews with buyers and a regional reseller. Blue Coat Systems Inc. of Sunnyvale, Calif., has sold hardware and technology in Bahrain, the United Arab Emirates and Qatar that has been used in conjunction with McAfee's Web-filtering software and sometimes to block websites on its own, according to interviews with people working at or with ISPs in the region.
+
+A regulator in Bahrain, which uses McAfee's SmartFilter product, says the government is planning to switch soon to technology from U.S.-based Palo Alto Networks Inc. It promises to give Bahrain more blocking options and make it harder for people to circumvent censoring.
+
+Netsweeper Inc. of Canada has landed deals in the UAE, Qatar and Yemen, according to a company document. 
+
+Websense Inc. of San Diego, Calif., has a policy that states it "does not sell to governments or Internet Service Providers (ISPs) that are engaged in government-imposed censorship." But it has sold its Web-filtering technology in Yemen, where it has been used to block online tools that let people disguise their identities from government monitors, according to Harvard University and University of Toronto researchers.
+
+Websense's general counsel said in a 2009 statement about the incident: "On rare occasion things can slip through the cracks."
+
+Web-filtering technology has roots in the 1990s, when U.S. companies, schools and libraries sought to prevent people from surfing porn, among other things. 
+
+Today, that U.S. technology is now among the tools used in the clampdowns on uprisings across the Middle East. In Egypt, Syria, Tunisia and elsewhere, bloggers have been jailed and even beaten as governments try to repress online expression.
+
+In Bahrain, Nabeel Rajab, head of the banned Bahrain Human Rights Center, which runs a website the government blocks, says he was briefly thrown in a car and roughed up after authorities raided his house last week. The men threatened him with a pipe, he says, and slapped him when he refused to say he loved Bahrain's king and prime minister.
+
+For the U.S., the role of Western companies in Internet censorship poses a dilemma. In a speech last year, Secretary of State Hillary Rodham Clinton said, "Censorship should not be in any way accepted by any company from anywhere. And in America, American companies need to take a principled stand."
+
+Lately the State Department has spent more than $20 million to fund software and technologies that help people in the Middle East circumvent Internet censorship that is sustained by Western technology.
+
+
+
+Asked about that policy, a senior State Department official said the U.S. is responding to "a problem caused by governments abusing U.S. products." When governments repurpose U.S.-made tools "to filter for political purposes, we are involved in producing and distributing software to get around those efforts."
+
+A Bahrain official defended censorship. "The culture that we have in the Middle East is much more conservative than in the U.S.," says Ahmed Aldoseri, director of information and communication technologies at the Telecommunications Regulatory Authority.
+
+Freedom of speech is guaranteed in Bahrain, Mr. Aldoseri says, "as long as it remains within general politeness."
+
+Makers of Web-filtering technology say they can't control how customers use their products. "You can add additional websites to the block list," says Joris Evers, a McAfee spokesman. "Obviously what an individual customer would do with a product once they acquire it is beyond our control." A spokesman for Blue Coat made similar points.
+
+There are no special export restrictions on Web-filtering technology. Anti-censorship advocates say there needs to be a way for companies to track how their filtering software is used.
+
+"They could build into the software something that signals and, in fact, sends back to them exactly what kind of filtering is taking place," says Jonathan Zittrain, a professor of law and computer science at Harvard Law School. "There's no rocket science there, it's just their customer wouldn't like it."
+
+Web-blocking companies declined to name their Middle Eastern customers, but The Wall Street Journal identified a number of them through interviews with ISPs, a reseller and former employees. In addition, OpenNet Initiative, made up of Harvard and University of Toronto researchers who study Internet filtering, identified three ISPs in Yemen, Qatar and the UAE that were using Netsweeper in January. ISPs provide Internet access to households and companies.
+
+A Netsweeper official said the company doesn't comment on its clients.
+
+ Read the report at the OpenNet Initiative site. 
+
+According to a forthcoming report from OpenNet, ISPs in at least nine Middle East and North African countries have used "Western-made tools for the purpose of blocking social and political content, effectively blocking a total of over 20 million Internet users from accessing such websites."
+
+Employees at ISPs in the Middle East said in interviews that government ministries give them databases of Internet addresses, including, at times, antigovernment sites, for blocking and that they must comply. The number of requests varies by country. 
+
+Mishary Al-Faris, quality assurance manager at Qualitynet in Kuwait, says his ISP, which uses SmartFilter, receives several requests a year from the government to block content deemed religiously offensive. "It's kind of a gentlemanly understanding: 'We're going to honor your requests,'" he says.
+
+Web-filtering isn't exclusively a tool of Internet censorship. As companies like McAfee, Blue Coat and Netsweeper note, their technology can prevent youngsters from encountering pornography and protect ISPs from malicious cyber attacks.
+
+In recent years, American companies aggressively have sought new customers abroad.The global Web-security market, including filtering, was valued at $1.8 billion in 2010, according to Phil Hochmuth of market-research firm IDC. The Middle East and Africa accounted for about $46 million and is growing at about 16% a year, he says.
+
+China is considered the king of Web filtering, with its elaborate censorship system dubbed the "Great Firewall." China's technology remains unclear but its reach is vast: Local Chinese sites must be licensed and are required to remove any content the government deems objectionable. In addition, some major foreign sites, including Facebook, Twitter and Google Inc.'s YouTube, have been blocked for more than a year.
+
+Middle East Web blocking has some differences. Government licenses for websites typically aren't required. Another difference: In the Middle East the ISP will generally show an explicit notice saying a site has been blocked, whereas in China it is often unclear why a site becomes inaccessible.
+
+Blocking websites can be done with hardware, specialized software or a combination of the two. On a basic level, Web filtering works this way: First, a list is built that groups websites into categories such as "gambling," "dating" or "violence." Netsweeper says it has categorized more than 3.8 billion Web addresses and adds 15 million a day. Then, a user of the software can use that list to block access to specific sites or categories.
+
+Companies like Websense and Netsweeper can now scan and categorize the content of an uncategorized page in real time. They can also block pieces of a site, rather than whole pages, if only a certain image or text is considered objectionable.
+
+The use of filtering to block websites could be seen this month in Bahrain, where a group of mostly Shia protesters took aim at the country's Sunni ruling family and met a violent crackdown. Batelco, Bahrain's main ISP, filters the Web using McAfee SmartFilter software and Blue Coat technology, according to Ali AbuRomman, who works on the network team. He says the government regularly uploads lists of websites to block, including some political sites, to the country's ISPs.
+
+In a test on a Batelco connection in Bahrain in recent days, The Wall Street Journal found that online-community forums for Shia villages and the websites of at least two human-rights groups were censored.
+
+"Site blocked," the screen read in English and Arabic when a Journal reporter tried to view the sites. "This website has been blocked for violating regulations and laws of Kingdom of Bahrain."
+
+Since 2009, Bahrain has had the power to order the blocking of websites for "transgressing local values and impairing national unity," according to the U.S. State Department. 
+
+Also blocked during the Journal test was Malkiya.net, a news site and discussion forum for Malkiya, a mostly Shia fishing town that has seen antigovernment protests in recent years. Its owner, Ali Mansoor Abbas, says the site also was blocked after it covered protests over the seizure of part of a local beach by a cousin of Bahrain's king.
+
+Mr. Aldoseri, the Bahrainian telecom official, says his country plans to switch in the next few months from SmartFilter to technology from Palo Alto Networks. It can block activities within websites, like video or photo uploading, or Internet tools that let users bypass blocking altogether, which are illegal in Bahrain.
+
+Middle East Web filtering has sparked a cat-and-mouse game to outfox the censors. Website owners like Mr. Abbas of Malkiya.net sometimes create "mirror" sites, with slightly different names.
+
+Walid Al-Saqaf, a graduate student and former journalist from Yemen who now lives in Sweden, engineered his own circumvention tool after his news-aggregation site, YemenPortal.net, which included antigovernment content, was blocked by the country's filters. Known as Alkasir, the Arabic word for "circumventor," his free program has attracted at least 16,000 users in Yemen, China, Iran and elsewhere, he says.
+
+Two years ago, OpenNet Initiative researchers found that Yemen was using filtering software from Websense to block privacy tools. In response, the company said it stopped providing the ISPs involved with its latest website-block lists since the ISPs violated its anticensorship policy.
+
+The new OpenNet report says Websense tools and services appeared to still be used in Yemen as recently as August. The company declined to comment. The report also found that in January, new filtering software was being used in Yemen from Canadian firm Netsweeper.
+
+"Filtering decisions are made by the entity that decides to filter," says Scott O'Neill, Netsweeper's director of sales and marketing. "Much as Ford Motor Co. can't decide how [its customers] are going to drive their cars." 
+
+Track events day by day.
+
+An informational company document says telecom companies can use Netsweeper to "block inappropriate content using [a] pre-established list of 90+ categories to meet government rules and regulations—based on social, religious or political ideals."
+
+Emirates Integrated Telecommunications Co., or Du, one of the UAE's main ISPs, decided last year to switch to Netsweeper from the filtering system it had been using with Blue Coat devices, says Abul Hasan Jafery, a technical consultant who helped implement Netsweeper's filtering system there.
+
+"We block malware, alternative lifestyles, profanity," says Mr. Jafery. "If something is offensive to the religion, we block it."
+
+Until recently, Tunisia had some of the most pervasive Internet filtering in the world, according to OpenNet. Then, a January popular revolt forced the resignation of the country's president—triggering the wave of protests that have spread across the Middle East. 
+
+Tunisia has since pulled the plug on its Web-blocking gear. The new head of the Tunisian Internet Agency, Moez Chakchouk, says he was astounded when he recently visited a secured room at the state telephone company where the filtering equipment was kept. 
+
+The room was full of unfamiliar gear, says the 36-year-old computer engineer, who took the job last month. "I don't know" what it all does, he says. Mr. Chakchouk says the Interior Ministry controlled the filtering equipment since 2004, and the entire country's Internet traffic flowed through it.
+
+For several years, according to Mr. Chakchouk, the Tunisian government used SmartFilter, which McAfee acquired in 2008. The McAfee spokesman confirmed the product has been sold in Tunisia, but declined to disclose its customers.
+
+For better or worse, says Mr. Chakchouk, part of the legacy of Tunisia's former regime has been to leave Tunisia with some of the most sophisticated Internet-filtering equipment in the world. "I had a group of international experts from a group here lately, who looked at the equipment and said: 'The Chinese could come here and learn from you.'"
+
+—Marc Champion, Christopher Rhoads, Nicholas Casey and Loretta Chao contributed to this article.
+
+ Write to  Paul Sonne at paul.sonne@wsj.com and Steve Stecklow at steve.stecklow@wsj.com 

@@ -1,0 +1,39 @@
+It has long been possible to control one PC or Mac from another, legally and with permission. Though the process can be tricky to set up, companies often use it as a maintenance and training tool, and some consumers use it to help others solve computer problems, or to reach back to their home or office machines while on the road to access information.
+
+But what about remotely controlling a PC or Mac from the newest category of digital device, a multitouch tablet? Well, it turns out there are apps for that.
+
+Such apps have been around on super-smart phones like the iPhone for years, but phone screens are so small that using them to open and operate programs and folders on a Mac or PC is very frustrating, at least to me. The iPad, with its roomy 10-inch screen, is a different story. It actually has the real estate to make the process much more practical.
+
+I've been testing a couple of these apps on my iPad, using them to remotely control Windows PCs and Macs at my home and office. In fact, I'm typing this paragraph in Microsoft Word on a Mac remotely from the iPad.
+
+My conclusion is that these apps do work, but even on the large iPad screen, they're too clumsy and confusing to use on a regular basis, mostly because touch-screen tablets aren't a great match for the way traditional computers—designed for a mouse and a physical keyboard—work. Also, the apps have some functional limitations, and they are heavily dependent on the speed of the network or Internet connection, which can make them slow at demanding things like video.
+
+For my tests, I selected two apps squarely aimed at average consumers. One is called LogMeIn Ignition, and is the iPad and iPhone incarnation of a longstanding computer-to-computer remote-control product called LogMeIn. The other is called iTeleport. It has been around, under various names, since the early days of the iPhone, and now comes in an iPad edition as well.
+
+Both apps get around the complexity of setup by installing a special free program on the computer you wish to control that talks to the iPad app. The apps can see and control all the computers on which you have installed companion programs. I found setup easy and the connections generally reliable and fast enough, except for video.
+
+Walt Mossberg answers readers' questions on Internet access in hotel rooms, getting more hard-drive space and what to do with duplicate digital photos.
+
+But the big drawback to these products is that they are clumsy in controlling the target computer. Each allows two basic methods for this. In one, your finger moves the computer's mouse cursor and you click the virtual mouse by tapping. In the other, you can directly tap on things on the remote screen. In my view, LogMeIn was better at the first method and iTeleport was better at the second. But I found both clumsy and tedious in both programs, especially when I tried to combine controlling the remote computer with the frequent need to use touch to move the image of the screen around the iPad's display.
+
+LogMeIn Ignition costs a one-time fee of $29.99. The iTeleport app can be used free for 30 days, after which it costs either $2.99 a month or a $24.99 one-time fee. For the next seven days, iTeleport is running a sale that cuts the price to $1 a month, or $10 for the one-time fee.
+
+ Both apps can control multiple Windows or Mac computers, at no extra cost. For my tests, I used each to remotely access the same two Windows PCs and two Macs, both desktops and laptops. One limitation: neither app allows you to transfer a file from a computer to the iPad.
+
+While there are some differences between the products, they are fundamentally similar. Once you log in, you see the remote computer's screen on your iPad screen. In my tests, with both products, I was able to open Web pages, check email, view photos and use productivity apps. I also was able to print documents from the computers on my home printer, even while I was miles away.
+
+In both apps, you pinch and zoom to enlarge or reduce the view of the target computer screen, and can rotate the image of the screen. 
+
+The iPad can't play Flash videos, but these apps allow you to view such videos from your PC or Mac on the iPad. But there are catches. For one thing, neither program lets you hear audio from the computer through the iPad, so the videos (and music you play remotely) are mute. Also, in my tests, even over a fast connection, I could never get a video from the remote computer to play smoothly over either app.
+
+LogMeIn also offers a version for Android, unlike iTeleport, and that allows audio to be transmitted. I tested this on a Samsung Galaxy Tab, and it worked.
+
+One big difference is in the level of security or privacy the two apps offer. Both encrypt the remote connection, but LogMeIn requires you to sign in twice: once to its own service and once to the computer itself. iTeleport skips the computer login, so it feels less secure. In addition, iTeleport outsources its authentication to Google. You sign into the product using your Google credentials. This is simpler, but requires you to trust Google with the privacy of the contents of your computer.
+
+Each program has special keyboards and shortcuts to add things to the iPad that computers use but the tablet lacks, such as function keys. Each also has various gestures you can use as shortcuts. But the overall effect is confusing.
+
+Bottom line: You can control a PC or a Mac from an iPad, without any complex setup, using these two apps. But, unless you spend a lot of time learning to get good at it, the process is clunky and best used only when you absolutely must.
+
+— Find all Walt Mossberg's columns and videos at the All Things Digital website, walt.allthingsd.com. 
+
+ Write to  Walter S. Mossberg at mossberg@wsj.com 

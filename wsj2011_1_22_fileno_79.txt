@@ -1,0 +1,35 @@
+There's a saying: Pigs get fed and hogs get slaughtered. The Internal Revenue Service surely hopes that includes tax hogs.
+
+That is the message of a recent U.S. district court case won by the IRS against David Watson, a CPA in West Des Moines, Iowa. At issue: a common tax-cutting maneuver available to the owners of millions of closely held businesses. 
+
+
+
+The case, David E. Watson P.C. v. U.S., revolved around Mr. Watson's low pay as the sole owner and shareholder of a so-called S Corporation. Such companies, often called "Sub-Ss" after the subchapter of the tax code governing them, is a popular choice of entity for private firms. Unlike C corporations, Sub-Ss have no more than 100 shareholders, and they pass profits to owners without an extra layer of tax. There are nearly 4 million Sub-Ss in the U.S. today. 
+
+Mr. Watson's Sub-S was, in turn, one of four principals in LWBJ, an accounting firm. According to the decision, the firm made profit distributions of $203,651 and $175,470 to Mr. Watson through his Sub-S for 2002 and 2003, respectively, the years in question.
+
+Mr. Watson, who had a graduate degree in tax and 20 years' experience, received only $24,000 of salary for each of those years, far less than the $40,000 a year earned by recent graduates in accounting with no experience, according to one expert for the IRS.
+
+The agency cried foul, saying his pay was far too low. Why object? Unlike profit distributions, all salary is subject to a 2.9% Medicare tax and some is subject to a 12.4% Social Security, or FICA, tax. (The FICA income cap, $84,900 in 2002, is now $106,800.) By reporting low pay Mr. Watson didn't save any income taxes, but he did save nearly $20,000 in payroll taxes for the two years, the IRS said, pegging Mr. Watson's true pay at $91,044 for each year. 
+
+  The "Edwards Shelter": Pitfalls of Low Pay  
+
+  Why Your Accountant Might Not Have All Your Records  
+
+Judge  Robert W. Pratt agreed, ruling that the CPA owed the extra tax plus interest and penalties. 
+
+Mr. Watson plans to appeal the decision. "The IRS can disallow a tax deduction for unreasonably high compensation, but the law doesn't give it the authority to raise pay in order to collect extra payroll taxes," he says. Independent tax expert  Robert Willens in New York says this will be a hard argument to win. 
+
+For Sub-S owners, this issue isn't going away. Last year it even turned up in legislation, when the House passed a provision that would have subjected all profits of shareholder/employees of personal-service firms—such as accounting, law and consulting firms—to payroll taxes. The measure died in the Senate, but the IRS would likely welcome its return. Cases like Mr. Watson's are expensive for the agency to litigate because each turns on individual circumstances.
+
+Recent IRS statistics suggest why the agency might focus on Sub-S pay. Over the past decade and a half, when executive paychecks exploded, the salaries of Sub-S owners declined as a percentage of total income, from 52% in 1995 to 39% in 2007, according to the latest data available. (The remaining income is taxable to the owners as well, but doesn't incur payroll taxes.) During the same 12-year period, Sub-S income doubled, while salaries increased only 26%. The average pay for a Sub-S owner was recently was $38,400, according to  Martin Sullivan, an expert with Tax Analysts, a nonprofit publisher near Washington. 
+
+  Tom Ochsenschlager, former head of tax for the American Institute of CPAs, says pay and payroll tax issues are a frequent source of friction with clients: "Sometimes you have to take them to the woodshed and say, 'You need to report more income as pay for personal services."'
+
+What is a fair ratio of profits to pay? There isn't one answer, experts say. A company with substantial capital or assets, such as a manufacturer, often is able to justify lower pay than one selling personal services like a law or accounting firm. Says Mr. Willens: "I would tell a client that for personal services, 70% would be the absolute floor and might not get the job done," he says. 
+
+In Mr. Watson's case, his revised compensation came to only about 40% of his total return from the company. The upshot: Pay can vary—but it can't be too low. 
+
+—Email: taxreport@wsj.com 
+
+ Write to  Laura Saunders at laura.saunders@wsj.com 

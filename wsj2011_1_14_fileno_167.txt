@@ -1,0 +1,75 @@
+  Intel Corp.
+INTC
+
+
+-0.27
+%
+
+
+
+
+ reported its best quarterly and yearly results ever, despite evidence that demand for  Apple Inc.
+AAPL
+
+
+-0.04
+%
+
+
+
+
+'s iPad and similar products is undercutting sales growth for PCs that use the company's computer chips.
+
+The Santa Clara, Calif., microprocessor maker said its fourth-quarter gains—which included a 48% jump in profit and an 8.4% increase in revenue—were driven largely by sales of server systems to companies trying to keep up with the growth of the Internet. Revenue from such data-center customers rose 15%, Intel said, though revenue from its desktop and laptop PC group was the same as a year ago. 
+
+Intel also offered an optimistic view of the current quarter and full year. It plans a 73% boost in spending on new plants and equipment to keep up with chip demand and improve the capabilities of its products.
+
+"In 2011 everything gets better. The economy is forecasted to improve, our product line refreshes from top to bottom," and the overall market should grow, said Chief Executive  Paul Otellini in remarks to analysts during a conference call. 
+
+
+
+Intel is considered an early indicator of technology demand because its chips serve as calculating engines in most of the world's computers. It has benefited from surging sales over the past several years of laptop PCs, including a variety called netbooks, some of which use Intel's Atom chip.
+
+But demand for conventional laptops—and particularly netbooks—has cooled considerably since Apple introduced the iPad last spring. On Wednesday, two research firms estimated that fourth-quarter PC shipments were lower than expected. IDC, for example, put worldwide shipments growth at 2.7%, lower than its prior forecast of 5.5%, and said U.S. PC shipments were off 4.8%.
+
+Mr. Otellini and other Intel executives have discounted the notion that tablet sales have cannibalized laptop sales, since the products are often used for different tasks. But analysts note the new products, which mainly uses chips based on designs licensed from  ARM Holdings
+ARMH
+
+
+0.66
+%
+
+
+
+
+ PLC, a getting lots of attention.
+
+In 2010, "a lot of the hype going into the holiday season was about tablets, e-readers and other alternative consumer electronics," said  Loren Loverde, an IDC analyst. 
+
+Intel is mounting efforts to get its chips into tablet PCs, while benefiting from several other trends. The company's average selling prices have been increasing, in part due to sales of higher-priced server chips. 
+
+  Doug Freedman, an analyst at Gleacher & Co., argued that the increase in mobile devices tapping into the Internet is one of the factors driving companies to upgrade their computer rooms, outweighing a trend called virtualization that has been expected to cause server sales to slow. "The company is still seeing a tremendous amount of demand for server chips," he said. 
+
+Intel last week also introduced a long-awaited line of PC chips, code-named Sandy Bridge, that are expected to generate new sales and increase average sales price. Mr. Otellini described it Thursday as a "transformational" product, reiterating that it has been picked for use already for 500 new PC models.
+
+Intel reported profit for the quarter ended Dec. 25 of $3.39 billion, or 59 cents a share. Profit in the year-earlier period, which was hurt by the costs of a legal settlement with rival  Advanced Micro Devices Inc.,
+AMD
+
+
+4.59
+%
+
+
+
+
+ was $2.28 billion, or 40 cents a share. Revenue rose to $11.46 billion from $10.57 billion a year ago.
+
+ Track the performances of 150 companies as they report and compare their results with analyst estimates. Sort by reporting date and industry.
+
+It projected revenue would be about flat in the current quarter—ordinarily seasonally lower than the fourth quarter's sales. The estimate is well above what analysts had expected. It said its gross profit margin, or profit after manufacturing cost, would be 64% and it put the figure at 65% for all of 2011.
+
+The company put capital spending for the year at about $9 billion, up 73% from 2010. Stacy Smith, the company's chief financial officer, said it expects to add a fourth factory to produce its most advanced chips.
+
+—Ben Worthen contributed to this article.
+
+ Write to  Don Clark at don.clark@wsj.com 

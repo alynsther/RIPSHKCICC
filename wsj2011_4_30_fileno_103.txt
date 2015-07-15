@@ -1,0 +1,79 @@
+How would you like to triple the yield on your bonds?
+
+Most of us can only dream. But look at the eye-popping variation in yields among funds that focus on Treasury inflation-protected securities, or TIPS, the U.S. obligations that rise in value as the consumer-price index goes up. 
+
+Among the 173 TIPS mutual funds tracked by  Morningstar,
+MORN
+
+
+-0.42
+%
+
+
+
+
+ the reported "SEC yields" as of March 31 ranged from minus-0.77% to 5.58%, with 12 funds yielding at least 5%. Four of the seven exchange-traded funds that specialize in TIPS displayed yields greater than 5%, with  Pimco 15+ Year U.S. TIPS Index
+LTPZ
+
+
+0.90
+%
+
+
+
+
+ leading the pack at 6.07%.
+
+Yet no TIPS yield more than 1.75%. How could anyone but an alchemist generate 5% or more out of 1.75% or less?
+
+The answer lies hidden in the term "SEC yield." In 1988, the Securities and Exchange Commission forced funds to include only dividends and interest income in the yield that they must show investors. 
+
+The return on TIPS, however, comes not just from interest income but also from any adjustment in value as inflation rises. 
+
+The SEC hasn't issued any guidance to fund companies on how to handle this peculiarity when they show standardized yields, says  Gene Gohlke, associate director for examinations at the agency. As a result, firms are free to do more or less as they please, without running afoul of the rules. 
+
+Given the way many TIPS funds interpret the SEC yield formula, the change in inflation over the latest reported month gets added to interest income to produce an annualized figure. Thus, in months that capture a small inflation change, SEC yields on TIPS funds will be low. In months like April, when the rise in the Treasury's inflation value was about 0.5%, SEC yields can brush 6%. 
+
+The inflation change upon which TIPS funds will be basing their SEC yields in May will be nearly 1%, notes  Dan Dektar, chief investment officer at Smith Breeden Associates in Durham, N.C. That suggests some funds might soon sport much higher yields.
+
+A few brave TIPS funds back the inflation adjustment out of the SEC yield, producing a much smaller number often called "real yield." 
+
+"It hurts us in a sense," says  Ken Volpert, head of taxable bonds at Vanguard Group. "But at least we're not getting people making misjudgments based on unsustainable yields." At iShares, the website displays four additional types of yield calculations on its TIPS portfolios—most of them considerably lower than the SEC number. "Investors need to understand what yield they're getting," says  Matt Tucker, a managing director at iShares.
+
+Inflation-protected mutual funds and ETFs command $110 billion in assets and have taken in $35 billion in new investment over the past two years, according to Morningstar. 
+
+"I'm absolutely confident that a lot of these investors didn't have a clear understanding," says  Todd Petzel, chief investment officer at Offit Capital Advisors in New York. "They saw high past performance, then they saw an SEC yield that was much more attractive than in a conventional bond fund and thought the higher yield will protect them. But the assumptions behind the SEC yield are not clear."
+
+"It would seem to be a risk area, because these funds are fairly popular at this moment," says Mr. Gohlke of the SEC. "Investors ought to be getting appropriate information on what the return is likely to be. Maybe [the SEC] ought to dig down deeper and take a look at how funds are handling this," adds Mr. Gohlke, who is about to retire from the agency.
+
+This week, the  Schwab U.S. TIPS
+SCHP
+
+
+0.30
+%
+
+
+
+
+ ETF reported a 5.64% SEC yield. "We feel that including the inflation adjustment in our yield gives a better representation of the fund," says  Sam Grenning, a managing director at  Charles Schwab.
+SCHW
+
+
+-0.56
+%
+
+
+
+
+ "But if the SEC required us to [strip it out], of course we would go along with that." 
+
+  American Century Inflation-Adjusted Bond Fund has a 4.99% SEC yield%. "I was surprised to hear that our methodology is not consistent [with all other funds]," says  Jean Wade, vice president of investment operations. "We based it off published industry guidance. I hope that shareholders wouldn't be using these funds for a steady income flow. They're not going to get that."
+
+Pimco declined to comment on how it calculates the yields on its TIPS funds and whether investors could be confused by the high reported numbers.
+
+The bottom line: While the SEC yield is a decent guide in other bond funds, it can steer you wrong in an inflation-protected bond fund. Before buying a TIPS fund, ask instead what its real yield is. 
+
+SEC yields "are like the square root of negative-1 in algebra," says bond expert  Frank Fabozzi, a finance professor at Yale University. "They give you an imaginary number." 
+
+— intelligentinvestor@wsj.com; twitter.com/jasonzweigwsj 

@@ -1,0 +1,29 @@
+A Securities and Exchange Commission study suggests possible improvements to online disclosure systems that provide investors with information about brokers and investment advisers.
+
+The Dodd-Frank financial regulatory law required the study of Web-based disclosure systems run by regulators. The databases include publicly available information about many financial professionals and firms, such as disciplinary actions and certain complaints. Congress also directed the agency to identify other details that should be made publicly available to investors.
+
+SEC staff recommended allowing investors to search the two main disclosure databases for public use from a centralized page that would provide combined search results.
+
+The two databases aimed at investors—BrokerCheck and the Investment Adviser Public Disclosure—would remain separate and distinct, but search results could be consolidated to minimize confusion, the staff wrote in the study Wednesday.
+
+"For investors who do not know whether their financial-services provider is registered as a broker-dealer or investment adviser, knowing where to conduct a background search may be problematic," the SEC staff wrote.
+
+BrokerCheck, an online service run by the Financial Industry Regulatory Authority, or Finra, contains information about broker-dealers and individual brokers. The Investment Adviser Public Disclosure, or IAPD, provides access to annual disclosure forms that investment advisers file with the SEC, which include details about their businesses and conflicts of interest, among other things. The site is sponsored by the SEC and an organization of the nation's state regulators. Additional databases for regulators and securities firms include more-detailed information.
+
+SEC staff also recommended allowing investors to search by ZIP Code, or other location-based terms. Investors must currently search by advisers' names, or their license numbers.
+
+"The systems are not, however, as useful for more general research about financial-services providers," according to the study. Investors can't use the systems to locate and compare other firms and advisers in a geographic area, according to the study.
+
+Both sites should include online educational materials, including "links and definitions of terms that may be unfamiliar to individual investors," according to the study.
+
+Uniting the two systems into one central database would be difficult to complete by January 2012, which marks the end of the 18-month deadline set by Congress for the SEC to implement its recommendations, according to the study.
+
+Further study is needed about possibly expanding the investor databases to include disclosures that are now available only to regulators and securities firms, according to the study. For example, BrokerCheck excludes information about the reasons for a broker's termination, even though firms report those details to regulators.
+
+Expanding disclosures, however, could raise privacy issues for brokers, says  Raymond Moss, a lawyer for Sims Moss Kline & Davis LLP in Atlanta who specializes in securities-industry regulation. Some of that information could benefit investors, however, such as a bankruptcy proceeding filed by a broker more than 10 years ago, Mr. Moss said.
+
+Unifying search results would be a positive step, says  Barbara Roper, director of investor protection for the Consumer Federation of America, a Washington, D.C.-based advocacy group.
+
+The SEC's strained resources, however, likely prevented the agency from taking the study a step further, she says. "It would have been nice if they were able to do some focus group testing and go beyond the obvious recommendations to make this more user friendly," she says.
+
+A spokeswoman for Finra said the Wall Street self-regulatory watchdog "looks forward to working with the SEC on their recommendations." Finra recently made a number of changes to BrokerCheck to make more information available to investors, she said.

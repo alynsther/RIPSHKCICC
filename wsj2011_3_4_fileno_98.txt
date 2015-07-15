@@ -1,0 +1,51 @@
+The next big thing in computer games for kids: moving beyond the computer.
+
+Both major media companies and start-ups are experimenting with new tools that combine technology and reality in a bid to get children to engage with real-world objects. And researchers are already investigating whether the new tools help kids learn better than regular computer games do.
+
+Last month, children's media giant PBS Kids, part of the Public Broadcasting Service, began testing games that use "augmented reality," or computer-generated content that is combined with images from the real world. Using augmented reality, a computer or smartphone can detect objects and provide information about them. Children can also move the real objects to make something happen in a computer game.
+
+Other games that bridge the gap between real and virtual ask kids to document their activities by taking photos, making videos or recording their location using a GPS device, typically with the help of their parents. 
+
+Techniques that tie technology to the real world have been generating buzz for several years, particularly as mobile devices have become more powerful. Advertisers were among the first companies to use such tools. Distributors of the recent film "Inception" teamed up with a mobile game called SCVNGR to promote the movie, creating real-world challenges that players could complete to earn prizes. 
+
+Major toy and game makers have shown interest as well.  Mattel Inc.
+MAT
+
+
+-0.91
+%
+
+
+
+
+ has been working with  Qualcomm Inc.
+QCOM
+
+
+0.09
+%
+
+
+
+
+ to develop games that use augmented reality, and Nintendo Co.'s new 3DS portable game machine includes augmented-reality features. 
+
+The PBS efforts are unusual in that they are focused on education and aimed at children as young as four or five. "There's definitely some wonder in bringing that 3-D component into it and bringing real life into it," says  Sara DeWitt, the vice president of interactive at PBS Kids. "When kids are engaged, they're more likely to learn." 
+
+PBS rolled out a prototype game late last year with its "Dinosaur Train" series. Children can print out a picture of a dinosaur egg and manipulate it in front of a webcam to make the egg "hatch" onscreen. PBS is also testing augmented reality games that use mobile devices, including one targeted at preschoolers about a dinosaur dig where children find, sort and measure virtual bones. Another "Dinosaur Train" game that merges technology and reality lets children and their parents use GPS-enabled devices to find "geocaches"—boxes that are hidden at specific coordinates and contain dinosaur-themed material.
+
+Games that combine technology and reality could have several benefits, researchers say. They can help keep children active, and working in the real world may help spark children's imagination. PBS and the Corporation for Public Broadcasting are using part of a $72 million grant from the U.S. Education Department to test whether augmented-reality games can help young children with skills like sorting and measuring.
+
+One difficulty the researchers encountered in their early tests: Much of the existing augmented-reality technology was designed for adults. Some of it requires the user to hold a camera on a smartphone a certain distance from an object on a table, but kids are naturally closer to the object because they're shorter. Plus, children below age four often don't understand what they see when they look at augmented reality and try repeatedly to touch objects that aren't there.
+
+But once those problems are fixed, augmented-reality games have a lot of educational potential, says  Blair MacIntyre, a professor at Georgia Tech who has been studying augmented reality for about 20 years. In some ways, Mr. MacIntyre says, technology can improve on real-world activities like playing with blocks to learn about addition.
+
+"Computers are very patient," he says. "The computer can come up with problems all day, and it can check and say 'yay' over and over, as opposed to a board game that is limited in its ability to give exciting feedback or random options."
+
+Not all the games using the new technologies are explicitly educational. Socks Inc., a game from a New York start-up called Awkward Hug, is a lot like a regular computer game, but instead of making an avatar online, players make their own sock puppets and complete "missions" in the real world. Missions are related to the fictional company Socks Inc., which is headed by Mr. Barnsworth, a polka-dotted sock puppet with a pipe-cleaner mustache. Themes include "groundskeeping," which involves going outside, and "R&D," which stands for "rhyme and drum."
+
+To complete a mission, players upload a photo or video, although Socks says children or their parents can keep the posts private.
+
+Socks Inc. is careful not to call itself educational, lest it sound "totally lame" to kids, says co-founder  Jim Babb. "But inherently involved in the game is technology and media literacy," which is becoming increasingly important for children to learn.
+
+Socks Inc. has been holding events at museums and festivals and is set to launch the public online version of the game in April. The start-up has mostly been funded thus far by online contributions, but the founders hope to attract investors and perhaps even children's brands interested in paying for themed missions.

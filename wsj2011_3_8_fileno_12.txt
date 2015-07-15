@@ -1,0 +1,33 @@
+PARIS—The French government unveiled a probe into one of the biggest computer attacks in the nation's history, in which hackers accessed scores of classified documents detailing its international economic policy.
+
+A spokeswoman for the French National Agency for Information Systems Security, which is leading the investigation, said that in December hackers spied on some 150 computers at the finance ministry before the meeting of the Group of 20 nations, which France led.
+
+The agency said it had a target in the investigation, but hasn't revealed who it was.
+
+"This was strictly espionage," said Patrick Pailloux, the agency's director-general, during a news conference Monday. "It's like the Cold War." 
+
+Mr. Pailloux said the hackers spied on computers belonging to staff ranging from secretaries to high-level employees, all of whom were working on the G-20 meeting. He said that the hackers were well organized and that the methods they used were extremely advanced.
+
+"This was not three computers in a garage," he said. 
+
+The investigation started when a finance ministry employee noticed that an email with a Trojan horse—software that allows a user to take over the targeted computer remotely—had been sent by the account of a person working at the finance ministry without that person's knowledge.
+
+In January, the security agency launched an investigation, and this past weekend technicians worked to improve security on 12,000 of the finance ministry's 170,000 workstations.
+
+Mr. Pailloux said cyberattacks of this nature often take place via numerous computers in several countries. Tracing back to the original computer can be a long process. Even more complicated is establishing who orchestrated the attacks. 
+
+"Cyberattacks are easy, can be carried out at a low cost and have potentially high benefits," said  Peter Sommer, a computer-security expert who teaches at the London School of Economics. "You don't have to keep agents in location for a long time. You can be sitting at a computer in your home country."
+
+Many countries—including the U.S., Russia, China, Israel, the U.K., Pakistan, India and North and South Korea—have developed sophisticated cyberweapons that can penetrate and destroy computer networks, experts say. Increasingly, governments are going public about break-ins to their networks to raise public awareness.
+
+"We are seeing an important shift in the way people understand computer security," said  Ilias Chantzos, the director of government affairs outside the U.S., at technology-security firm Symantec Corp. "It used to be exotic. Now we are seeing it elevated to a national level." 
+
+Recently, the North Atlantic Treaty Organization said it would develop a new policy to deal with computer threats after a string of attacks on member countries. 
+
+In 2009, the European Commission published a paper calling for greater cooperation among member states to fend off cyberattacks. 
+
+However, keeping up with the development of new cyberthreats is proving challenging for governments, which have to spend heavily upgrading their defense systems and focusing their efforts on their most vulnerable points, experts say. France, for instance, created ANSSI in 2009. In 2012, the agency will hire 70 new staff and have an annual budget of €90 million ($125.8 million). 
+
+"No single infrastructure system is safe enough," said Mr. Pailloux. 
+
+ Write to  Max Colchester at max.colchester@wsj.com and Gabriele Parussini at gabriele.parussini@dowjones.com 

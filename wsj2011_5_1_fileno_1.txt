@@ -1,0 +1,59 @@
+  Google Inc.'s collection of location information from millions of mobile devices and personal computers is "extremely valuable" to the company's future business, according to an email written by a Google product manager last year.
+
+That email and others, which are part of a public filing in a lawsuit against Google last year, shed new light on the company's thinking about the need to gather location-related data. Such information is essential for a growing number of mobile applications and websites to function properly, the emails indicate. It is also useful for companies such as Google— whose Android software powers millions of phones—that want to offer consumers advertisements that are tailored to their locations, a new frontier for online ads.
+
+The disclosure of the internal emails follows a series of other revelations about location data gathered by Google and  Apple Inc.
+AAPL
+
+
+0.79
+%
+
+
+
+
+ The revelations prompted the U.S. Senate Judiciary Committee to schedule a hearing on May 10 to discuss the companies' practices.
+
+Google, with users' permission, collects information about wireless networks surrounding mobile devices powered by Google's Android operating system. It also gets information about the location of wireless networks near personal computers if the PCs' owners are using Google's Chrome Web browser or versions of some other browsers.
+
+Tech companies are using such information to build databases of millions of wireless networks, or Wi-Fi "access points," which help determine the approximate location of phones and computers attached to those networks. Using Wi-Fi is more efficient than satellite-based signals known as GPS, Google has said. 
+
+"I cannot stress enough how important Google's Wi-Fi location database is to our Android and mobile-product strategy," wrote  Steve Lee, the Google product manager, in an email that emerged in a suit filed against Google by Skyhook Wireless Inc. in a Massachusetts court. The message was a response to an emailed question last May by  Larry Page, who is now Google's chief executive.
+
+Mr. Page had asked why Motorola, a maker of smartphones, had decided to use location services provided by Skyhook, a Boston-based company that also has a database of location information, instead of Google's. Motorola later decided to use Google's location services. 
+
+Skyhook, which once provided location services for Google but is now a competitor, sued Google for allegedly interfering with Skyhook's relations with Motorola and also for violating patents related to location-collection data. Google is seeking to have the suit dismissed.
+
+In his email response, Mr. Lee said that collecting location information from Android mobile devices was crucial because Google in early 2010 had stopped collecting Wi-Fi data from vehicles it was using to take images of streets for a Google Maps feature known as Street View. A secondary purpose of the vehicles was to scan the areas around the vehicles to build out Google's location database, but Google disclosed in early 2010 that it inadvertently collected personal data from unsecured wireless networks. It has since stopped scanning for Wi-Fi information from Street View vehicles. 
+
+Both Skyhook and  Microsoft Corp.
+MSFT
+
+
+0.24
+%
+
+
+
+
+ say they have vehicles that search for Wi-Fi networks.
+
+  Ted Morgan, Skyhook's chief executive, said Sunday that "these email exchanges show how important owning the location system is to Google and how concerned they were about losing major device makers." He added that Skyhook began building a location database in 2003 and has "geo-coded" 500 million Wi-Fi access points.
+
+Skyhook, which currently provides location information for some Apple devices, charges device makers to use its location services. Google's service is free.
+
+In his May 2010 email, Mr. Lee said Google had 300 million Wi-Fi networks in its database and could pinpoint a device's location to within about 100 feet. In an interview with The Wall Street Journal last year, Mr. Lee said the company began to build its location database in 2006.
+
+A Google spokesman declined comment on the emails. In a written statement last week, the company said that "all location sharing on Android is opt-in by the user" and that "we provide users with notice and control over the collection, sharing and use of location in order to provide a better mobile experience on Android devices. Any location data that is sent back to Google location servers is anonymized and is not tied or traceable to a specific user." Apple Inc.
+APPL
+
+
+19.38
+%
+
+
+
+
+ said last week that it will scale back the location data its iPhones store. It also said it will stop collecting such data when consumers request it.
+
+ Write to  Amir Efrati at amir.efrati@wsj.com 

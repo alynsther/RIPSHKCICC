@@ -1,0 +1,111 @@
+Toshiba Corp. is joining the tablet PC onslaught at the Consumer Electronics Show in Las Vegas this week. Unlike some of its competitors, however, what it is simply calling the Toshiba Tablet won't be sold in conjunction with a wireless carrier, and can't access the Internet through a cellular connection. 
+
+That's because Toshiba imagines that people will buy and use tablets more like they do portable computers than smartphones, says  Jeff Barney, a vice president at the company. 
+
+"You see people taking their laptops out of the home, but it's all Wi-Fi," he says. "We think that having a carrier connection will be important, but not at this early stage."
+
+Even with small netbook computers, relatively few consumers have opted to buy Internet connectivity through a cellular provider, relying instead on wireless hotspots to get online, Mr. Barney adds. 
+
+Toshiba is betting that when consumers decide to buy a tablet, they won't head off to a wireless carrier's store, but to the same retailer or website where they buy laptops. So Toshiba is focusing on marketing its 10.1-inch screen tablet in those outlets, where it already has strong relationships from its laptop business.
+
+The company also designed its tablet to more closely mimic the functionality of a laptop than Apple did with its iPad. For instance, the Toshiba Tablet includes a USB drive, an HDMI port to connect the device to televisions, and a replaceable battery. It also has both front- and rear-facing cameras. 
+
+The Toshiba Tablet, which will run  Google Inc.'s Android operating system, is expected to go on sale in the first half of 2011, and cost the same or less than an iPad with the same storage capacity. (IPads start at $499). Mr. Barney says that Toshiba hopes to win about 20% of the non-Apple tablet market by the year's end, or about 8% or 9% of the overall market. 
+
+—Ben Worthen
+
+There's been lots of talk about how new chips from  Intel Corp.
+INTC
+
+
+-0.27
+%
+
+
+
+
+ and  Advanced Micro Devices Inc.
+AMD
+
+
+4.59
+%
+
+
+
+
+ are good at chores like handling video. But one of the biggest stories for AMD may turn out to be battery life.
+
+The Sunnyvale, Calif., company's chips for laptop computers have often lagged Intel's in power consumption, which influences how long a portable PC can run between charges. But at this year's Consumer Electronics Show it is AMD that is being most vocal about the energy-efficiency improvements of its new chips, part of a new breed that combine a microprocessor and graphics circuitry on the same piece of silicon.
+
+"It's just a huge injection of battery life," says  John Taylor, AMD director of client and software product marketing.
+
+How huge? One member of what AMD calls its new "accelerated processing units," using a chip code-named Ontario, offers up to 12 hours and 15 minutes of battery life; another, code-named Zacate, offers up to 10 hours, 68 minutes, AMD says. Earlier chip combinations based on comparable technology were rated by the company at up to 7.5 hours of battery life.
+
+Mr. Taylor is quick to point out that these are numbers while a PC is on but "at rest," as opposed to being actively used, and far more than users will ordinarily experience. There is no standard measurement for battery life under typical usage, so AMD isn't quick to try to supply more-realistic numbers.
+
+In any case, the direction is good news for consumers of low-priced laptops, which is the market AMD is targeting with the new chip that are formally known by the moniker Fusion and the specific designations E-Series and C-Series. The company says it expects computers based on the new products to be announced by Acer, Asus,  Dell Inc., Fujitsu, Hewlett-Packard Co.
+HPQ
+
+
+-0.75
+%
+
+
+
+
+, Lenovo, MSI, Samsung,  Sony Corp. and  Toshiba Corp.
+
+  Rick Bergman, the senior vice president and general manager of AMD's products group, proclaims in a press release that the Fusion chips "are, quite simply, the greatest advancement in processing since the introduction of the x86 architecture more than forty years ago."
+
+—Don Clark
+
+One of the more controversial topics on the eve of the Consumer Electronics Show is just how much tablets may take away from portable PC sales. To judge by a new survey from Accenture, laptop makers would do well to worry.
+
+The consulting firm, which talked to more than 8,000 people in eight countries, found that 28% of respondents purchased a desktop computer or laptop in 2010. But only 17% plan to do so in 2011.
+
+By contrast, the direction for tablet buying intentions is very much up. Only 3% of survey participants around the world bought one in 2010, but 8% plan to do so in 2011.
+
+That percentage doesn't sound too large, for all the hoopla about tablets, but keep in mind that iPad-style devices only emerged last spring.
+
+"It's actually a huge change given that this is a product that's been on the market for less than a year," says  Kumu Puri, senior executive with Accenture's electronics & tigh-tech practice.
+
+Another concern for laptop makers, she says, is that Accenture's surveys show that consumers want to do many of the same things on tablets as they do on notebook computers, such as browsing the Web and searching for information.
+
+Among other findings: Despite a lot of recent skepticism about 3-D TV, Accenture's data show increasing enthusiasm among consumers, Ms. Puri says. While only 2% of consumers purchased one in 2010, some 12% expect to do so in 2011, by contrast.
+
+And the excitement for the latest gadgets is considerably stronger in emerging markets than in mature ones. Some 76% of respondents in China, for example, said the perception of owning the most innovative products was somewhat important or very important; only 46% of U.S. respondents felt the same way.
+
+—Don Clark
+
+Many people keep valuable data on their iPhones, including telephone numbers and photos, and don't often sync the devices to computers to back up the information. Iomega hopes to protect them from their own risky behavior.
+
+The data storage company, now a unit of  EMC Corp.
+EMC
+
+
+-3.20
+%
+
+
+
+
+, is showing off an unusual device at the Consumer Electronics Show in Las Vegas that is designed to charge an iPhone while also making a back-up copy of data on it. It's called the SuperHero.
+
+  Jonathan Huberman, Iomega's president, is quick to admit the product is not exactly a technological breakthrough. Rather, he believes it represents an insight into the habits of many young owners of  Apple Inc.
+AAPL
+
+
+-0.04
+%
+
+
+
+
+'s smartphone.
+
+"We're talking about the average 25-year-old who doesn't have a desk job," Mr. Huberman says. Sooner or later there is a high probability their iPhone will get broken, lost or stolen. "If they have not plugged it into a PC recently, they've lost the contacts and the pictures they've stored since the last backup."
+
+The SuperHero has a data-storage card with chips that can store four gigabytes of data—not a lot, but sufficient for syncing, Mr. Huberman says. The company says it is now available for $69.
+
+—Don Clark

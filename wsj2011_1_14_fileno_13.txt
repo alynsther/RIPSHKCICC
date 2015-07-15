@@ -1,0 +1,105 @@
+  Toyota Motor Corp. is striving to develop a new type of electric motor to escape a simmering trade conflict involving China's grip on a rare mineral. 
+
+The Japanese auto maker believes it is near a breakthrough in developing electric motors for hybrid cars that eliminates the use of rare earth metals, whose prices have risen sharply in the past year as China restricted supply. The minerals are found in the magnets used in the motors.
+
+All electric motors rely on magnets to make them work. The new motor Toyota is working on is based on the very common and inexpensive induction motor, found in such devices as kitchen mixers. Induction motors use electromagnets—magnets that only have their magnetic attraction when power is applied to them.
+
+Most motors used in electric and hybrid cars today use a different type of motor that relies on permanent magnets. These magnets always have a magnetic field—akin to the magnets used to attach things to refrigerator doors.
+
+But the permanent magnets found in electric-car motors, unlike those that hold up the school lunch menu, are made from neodymium, a rare-earth mineral that is almost entirely mined and refined in China. 
+
+As car companies race to improve electric and hybrid vehicles, their reliance on metals like neodymium and lithium—used in batteries found in electric and hybrid cars—is raising a host of new geopolitical issues over access to the minerals. The supply of many of these minerals is controlled by China. 
+
+Toyota has taken several steps to reduce its dependence on China for the materials, including investing in a lithium venture in Argentina and launching a joint venture in Vietnam to prospect for rare metals like neodymium.
+
+The auto industry purchases 40% of the world's supply of neodymium and Toyota buys more than any other company, said  Jack Lifton, a rare earth materials expert and founder of Technology Metals Research in Carpentersville, Ill. There is about a kilogram (2.2 pounds) of neodymium in every Prius, he said. Toyota declined to comment on this figure.
+
+
+‘Even in the best scenario of supply these [rare earth] magnets are very expensive,’
+
+
+"It would be a big change in demand for neodymium" if Toyota switched to an induction motor, said Mr. Lifton. 
+
+  General Motors Co.
+GM
+
+
+0.28
+%
+
+
+
+
+, which launched its Volt electric car last month, also is looking into alternative types of motors. "We have ongoing development in those areas and the induction motors do work," said  Pete Savagian, who leads GM's hybrid powertrain engineering division.
+
+  Continental AG
+CTTAY
+
+
+-0.69
+%
+
+
+
+
+ of Germany, one of the world's largest auto parts makers, said it already has developed a rare-earth-free motor that will be used in an undisclosed electric car due out in Europe this year. This motor uses a variation of an electric motor often found in power plants. 
+
+Part of the rationale for developing this motor is to avoid rare earth metals, but it mostly is a move to lower costs, said  Mike Crane, who runs Continental's hybrid and electric vehicle programs.
+
+"Even in the best scenario of supply, these [rare earth-based] magnets are very expensive," Mr. Crane said. 
+
+China produces about 95% of the world's supply of neodymium and last summer the country began restricting exports. In December, China announced a 67% increase in export tariffs on the metal and has declared new limits on exports this year.
+
+ Neodymium prices have quadrupled in the past year, according to  Lynas Corp.
+LYSDY
+
+
+-20.00
+%
+
+
+
+
+, an Australian company developing a giant mine and refinery for the material.
+
+Rare earth minerals are a grouping of 17 chemically similar elements that are usually found together in ore and are refined and split apart. They are used in magnets and semiconductors and a host of other technologies. The U.S. and Australia have deposits of them but lack the expertise in extracting and refining the minerals. 
+
+For Toyota, getting around this barrier is crucial. The auto maker at this week's Detroit car show announced the expansion of its hybrid-electric lineup by adding two new Prius variants and plans to spread the technology to all of its models in the next decade.
+
+"The technology that would allow us not to use the magnets and yet to make a smaller size, high-performance motor will come soon," said  Takeshi Uchiyamada, Toyota's global chief engineer.
+
+"We currently have such a motor, but controlling the motor is rather difficult," he said. 
+
+Mr. Uchiyamada wouldn't say when the motor would be introduced.
+
+Toyota spokesman John Hanson said the new motor could come in the "near term." He added: "It looks like we could reduce cost, weight and mass and avoid the geopolitical issues with the rare earth metals." 
+
+Elias Strangas, an electrical engineering professor at Michigan State University, said induction motors that serve as the basis of Toyota's work "are cheap to make and as rugged as you can get, but they are not terribly efficient, and they are big." Improving them "is kind of a holy grail in motors."
+
+Prof. Strangas said he had heard rumors of Toyota working on an advanced induction motor, but hasn't seen a published study on the work. "I would like to see the numbers [on the motor's performance] to say they are convincing," he said.
+
+The permanent magnet motor took off only in the past decade as car makers tried to find more efficient and powerful motors for electric vehicles and hybrids. 
+
+"But then we discovered they are a bit expensive, and the rare-earth places where they are mined are not too many," Prof. Strangas said. "We are now trying to revisit very old technology and remove the problems" in induction motors. 
+
+At the same time, Toyota affiliate  Toyota Tsusho Corp.
+8015
+
+
+0.31
+%
+
+
+
+
+, which imports metals, said in October it would begin working with Vietnamese companies to extract the rare earth metals from deposits there. 
+
+A year ago, the same company struck a deal with an Argentinean company to develop a lithium mine to secure a direct source for the key element in advanced electric batteries.
+
+The vast majority of the world's mined deposits of lithium are in China, Chile, Argentina and Bolivia.
+
+There is pressure on the entire automotive industry to develop better supplies of these materials because of a slew of new and planned all-electric cars, including  Nissan Motor Co.'s new Leaf. 
+
+Electric cars require much larger motors, with more rare earth metals, than hybrids such as the Prius.
+
+ Write to  Mike Ramsey at michael.ramsey@wsj.com 

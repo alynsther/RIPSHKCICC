@@ -1,0 +1,19 @@
+When did you last read an account of how microchips actually work? You know, replete with all that stuff about electrons and holes and "p-doping" and "n-doping" and the delights of gallium arsenide. The golden age of such articles, when you could read about them in the mainstream press, was the early 1980s. Today nobody writes about semiconductors, at least not about how they work.
+
+My point? That when a technology is new, everybody wants to understand how it works. When it is mature, nobody is interested in such details. The fascination with how things work fades, and the technology becomes a black box.
+
+It is the same with any technology. A few years ago people modified their computers in all sorts of clever ways, adding on hard drives or patching in programs. Now they tend to take them as they are: a sign of a maturing technology. 
+
+Once upon a time people built toy steam engines, or assembled home-made radios with crystals and cat's whiskers (whatever those were), or tinkered with their own cars and talked about fuel injection and conical piston heads, or tried to teach children computer programming languages; or drew diagrams of different types of jet engines. Now you treat a radio or a car as a fully functioning off-the-shelf device with internal workings that you dare not touch; and nobody is terribly interested in the precise processes of internal combustion or amplitude modulation.
+
+I am especially conscious of this, because when I first became a science reporter, part of my job was to write breathless dispatches on semiconductor breakthroughs, with carefully nuanced explanations of mechanisms. But as the semiconductor became ubiquitous, the details dropped out of sight. Take gallium arsenide. There was a lively debate about whether this semiconducting compound was going to replace silicon, because of its superior features. There probably still is, but it's no longer considered newsworthy.
+
+Likewise, there was once a good living to be made by people like me explaining genetics at the molecular level: all about hydrogen bonds, four-letter alphabets, three-letter code-words and A's, C's, G's and T's. Now you mostly take that for granted and cut straight to the medical chase.
+
+So the question is, what discussions are we having today that will soon seem rather unnecessarily mechanistic and detailed? Where in technology are we delving into what will soon be superfluous details? I suspect all our talk of competing search engines (of Google and its rivals) or competing operating systems (of Android and its rivals) falls in this category. The virtues of different versions of such things will one day sound as arcane as the virtues of two-stroke versus four-stroke engines.
+
+The very notion that we once discussed the relative merits of text, email, social-network messaging and tweeting will seem quaint. In the future, my part of the cloud will get a message to a friend's part of the cloud by whichever method works best, and I will not even know which way it went. The distinction between a newspaper column and a blog will dissolve, as will the difference between a book and an e-book.
+
+It would be wrong to bemoan this trend. Just as we long ago grew out of needing to discuss the minutiae of quarto, octavo, italic and gothic in printing, so we need not fret that most of us will use machines and procedures that we do not understand. It is in the nature of the human animal to be more interested in novel technologies.
+
+Besides, 10,000 years of history have shown us that it is quite unnecessary to understand how something works to make excellent use of it. In 1958, the economist Leonard Read published an essay ostensibly written by a pencil, which discovers that: "Not a single person on the face of this earth knows how to make me."

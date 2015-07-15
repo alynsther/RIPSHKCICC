@@ -1,0 +1,57 @@
+I've driven 200 miles per hour in a Bugatti. I've dared Bolivia's "Highway of Death" and Baghdad's airport road. I've eaten at the Stuckey's out by the interstate. But the most unnerving experience I've ever had on the road was routine, stop-and-go driving at night in urban Los Angeles, a city of notoriously ill-marked and unlit crosswalks, where pedestrians are possessed of the belief they are from the planet Krypton.
+
+West Side, Koreatown, East L.A., Santa Monica. It doesn't matter. Angelenos will wade into fast-moving traffic and amble leisurely across the street, at night, in dark clothes, occasionally with children or a stroller. It's terrifying and maddening. And while one cannot know the state of mind of complete strangers, it seems that a few of these pedestrians are daring me to hit them—slowing their stride, loitering provocatively in the lane—in a way that's partly aggressive and fully suicidal.
+
+Pedestrians have the absolute right of way, absolutely, and except in the most extreme circumstances—a child dashing out from between parked cars—the law will find the driver culpable in an accident. The presumption is that pedestrians are defenseless against automobiles and must be protected. Even so, the feds' safety statistics suggest that pedestrians are more often to blame in these incidents. In 2009, nearly 40% of pedestrian fatalities were caused by pedestrians' improper crossing or walking/playing/working in the roadway, according to the National Highway Traffic Safety Administration.
+
+Urban planners may argue that these statistics suggest not negligent pedestrians but poorly designed urban environments, inherently hostile to walkers. I'm sure that's true, but we take the world, and cross the street, as we find it.
+
+And what of the asphalt toreadors who use their own defenselessness as a kind of weapon? What's the social psychology here? Is it territorial, an attempt to reclaim the city from the all-devouring automobile? Is it class warfare, the walking have-nots against the mounted haves? Is it an attempt at a personal-injury lawsuit? In which case, wow, there has to be an easier way to make a buck.
+
+I will instinctively do everything possible to avoid hitting anyone, but who, in these circumstances, has violated the compact of civility? I feel like the aggrieved party.
+
+And shouldn't Darwinism count for something?
+
+As proof that all technology is ideological, I give you Volvo's Pedestrian Detection With Full Auto Brake system, part of a suite of auto-piloting technologies the company calls City Safety. An option on the new S60 sedan, Pedestrian Detection employs various kinds of machine vision to identify, track and, if possible, avoid hitting objects in the vehicle's path that might be pedestrians. Stupid pedestrians!
+
+Scanning a broad fetch of electromagnetism—optical and radar—the system looks for moving, carbon-based life forms and compares what it sees to mathematical models of human pedestrians. According to Volvo, the system can track up to 62 such objects, calculating if any of them are on an intercept course. If a collision with one of these data-pedestrians seems imminent, the car will alert the driver with flashing red lights and a frantic beeping. If the driver still doesn't react, the car will slam on the brakes, avoiding the pedestrian up to speeds of 22 mph.
+
+ Base price: $37,700
+
+ Price as tested: $48,000 (est.)
+
+ Powertrain: Turbocharged 3.0-liter, 24-valve in-line six cylinder; six-speed automatic with manual-shift mode; all-wheel drive
+
+ Horsepower/torque: 300 hp at 6,500 rpm; 325 pound-feet at 2,100-4,200 rpm
+
+ Length/weight: 182.2 inches/3,812 pounds
+
+ Wheelbase: 109.3 inches
+
+ 0-60 mph: 5.6 seconds (est.)
+
+ EPA fuel economy: 18/26 mpg, city/highway 
+
+ Cargo capacity: 12 cubic feet
+
+Welcome to your near future. Volvo's Pedestrian Detection—along with automatic lane keeping; adaptive cruise control; Mercedes-Benz's drowsiness alert; Ford's "Curve Control"—are the first neurons of Intelligent Vehicle Systems, which will eventually automate driving. In the next decade, look for these technologies to coalesce into a sensory net around the vehicle, making it self-aware, allowing it to anticipate and avoid accidents, to compensate for drivers' inattention, and to communicate with other vehicles and the road itself.
+
+IVS will be a good thing. To start with the flesh and blood of things, 33,808 people died in U.S. traffic accidents in 2009, according to the federal government—and about 12%, or 4,092 people, were pedestrians. In the developing world, the percentage of pedestrian fatalities is typically much higher.
+
+Then there's energy. Currently, the U.S. commuting fleet wastes enormous amounts of fuel in unmanaged, stop-and-go traffic. But if we could electronically platoon vehicles to move together nose-to-tail in rush-hour traffic, highways could carry more vehicles, using less fuel and producing less per-mile pollution. Theoretically, electronically crash-proofed cars could also be lighter, since they wouldn't have to carry around as much protective steel armor. Such weight savings will be even more vital in electric cars, where every amp is at a premium.
+
+That's the future. In the meantime, Volvo's Pedestrian Detection system raises some interesting philosophical points. It's one thing to pay extra for safety features such as side-impact airbags, rollover protection, advanced stability control and more, technologies that protect occupants in your vehicle. But would you pay extra—Pedestrian Detection is part of Volvo's optional $2,100 technology package—to protect those outside your vehicle, to save the health and perhaps life of a stranger? 
+
+All other things being equal, any sane person would do anything possible to avoid hitting a pedestrian, but pose this statistically unlikely event against a $2,100 expense (on top of the base price of the $31,450 for the front-drive five-cylinder S60 T5, and $37,700 for the S60 T6 with a turbo-six and all-wheel drive). Moreover, Volvo's first-gen pedestrian system has distinct limitations. For one thing, it doesn't work at night, when the highest percentage of pedestrian fatalities occurs. It cannot avoid a collision at speeds higher than 22 mph, which reflects its sensors' range, to put it in "Star Trek"-speak (the car will brake like mad, however). So you may spend two grand on it and still not ward off the worst-case scenario. In which case, where's the value in that?
+
+And besides, most pedestrian accidents are the pedestrian's fault, right? Why pay more to mitigate someone else's carelessness?
+
+Now consider this moral hazard: Let's say you buy the Volvo S60 and—being the individual-and-consequences type—forgo the Pedestrian Detection system. And then you hit some innocent in the crosswalk. Yes, of course, his or her fault, stipulated. The kid was on his skateboard. Grandma was on her cellphone. But how insignificant those few dollars per month on the lease will seem in the face of a lifetime of remorse. How wretched your moral accounting will seem when the world is missing someone, on account of you.
+
+I'm pretty sure Volvo is just interested in selling cars—and fluffing its safety-first image—but the Pedestrian Detection system serves up a strangely tangled case of ethics. What are our obligations to the dumb, distracted and unlucky roaming in the street? Are those obligations worth two grand? What about unintended consequences? Doesn't a system like this invite driver inattention, what behaviorists call learned helplessness, and if in my less attentive state I have another kind of accident, wasn't my purchase negligent?
+
+Inevitably, people will have to calibrate the cost of the system with their love of humanity generally, and I savor the idea that people will engage this moral struggle while sitting in a car dealership—typically not a venue for soul-searching. Affluent bleeding-heart types are almost sure to get the system; cold misanthropes are certain not to. Where you come down in between says something about you.
+
+Me? I would, and here's my reasoning. First, straight up, I can afford it, though I have to say, it's a wildly expensive form of insurance. Second, it's ethically indefensible to value the lives of people inside the car more than you value others outside the car. I also know that if Volvo had calibrated the system to avoid, say, cats, car buyers would be pouring through Volvo's doors. 
+
+Finally, like most altruism, my action would be selfish, and make me happy. I just couldn't live with myself if I hit a pedestrian. Though some are sure asking for it.

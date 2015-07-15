@@ -1,0 +1,37 @@
+An Internet-security company said it was tricked into trying to lure Iranian users to fake versions of major websites, a sophisticated hack it suspects the Iranian government carried out. 
+
+Comodo Group Inc., a Jersey City, N.J., company that issues digital certificates to assure Internet users of websites' authenticity, said Wednesday it had issued nine such certificates to what turned out to be fraudulent websites set up in Iran. 
+
+The March 15 attack involved certificates for fake versions of Google Inc.'s Gmail site, Yahoo Inc.'s login page and websites run by Microsoft Corp., Firefox browser maker Mozilla Corp. and Internet telephone company Skype. 
+
+In theory, an Iranian attempting to log into his Yahoo account, for example, could have been misdirected to a fake site. That would allow the perpetrators to obtain a host of online information including contents of email, passwords and usernames, while monitoring activity on the dummy sites. 
+
+Since the targeted sites offer communication services, not financial transactions, Comodo said it seemed clear the hackers sought information, not money.
+
+It wasn't clear whether anyone fell for the ruse. Comodo said it didn't know how many of the nine certificates were received by the attacker. 
+
+Iran's mission to the U.N. didn't reply to an emailed request for comment after business hours. Iran has said it is trying to combat Western culture and influence entering Iran via the Internet, a virtual clash it has called the "soft war."
+
+The attack comes amid popular uprisings across the Middle East, where the Internet has played a critical role—not just in activists' efforts to stage protests, but also in state censorship and repression.
+
+If Iran was involved, it suggests the government has stepped up electronic-monitoring efforts of its citizens, Internet security experts said. Iranian authorities got an early look at the power of social media during the mass protests following allegations of rigged elections in June 2009. It has since formed a "cyber army" to gain the upper hand over the Internet in Iran, which has more than 20 million users. 
+
+"This is a nightmare scenario," said Mikko Hypponen, head of research at F-Secure, a Helsinki, Finland-based Internet security firm. "You have to trust the companies selling these certificates and if we can't, then all bets are off." 
+
+Comodo said it traced the attack to an Internet service provider in Iran and concluded in an online post that the act was likely "state-funded" because the attacker would have needed access to critical Web infrastructure in the country. 
+
+While the company acknowledged the attacker could have been laying a false trail, it said the likely aim was to get online information about Iranian citizens. 
+
+"It does not escape notice that the domains targeted would be of greatest use to a government attempting surveillance of Internet use by dissident groups," the company said in the post. 
+
+Comodo said the attacker gained entry to its system by obtaining the password and username of a European affiliate. Once inside, it issued the certificates for the phony sites. Comodo said it detected the breach within hours of the attack and revoked the certificates immediately. 
+
+A Microsoft spokeswoman said the company issued an upgraded security patch to help protect against fraudulent digital certificates. Mozilla declined to comment. Skype said it was monitoring the situation but didn't expect any impact. Google said it took steps to protect its users, but didn't specify them. Yahoo also said it was monitoring the situation. 
+
+ "This is not a random hacker tinkering around," said Mr. Hypponen of the Finnish security firm. "You have to plan it beforehand and know what you're doing."
+
+Austin Heap, a San Franciso-based Internet activist who has developed anti-censoring tools for use in Iran, said the development seems to suggest the Iranian government is becoming more professional and organized in online repression. 
+
+"It shows they have a plan," he said. "They are getting to the point where China is, where they can exert total control." 
+
+ Write to  Christopher Rhoads at christopher.rhoads@wsj.com 

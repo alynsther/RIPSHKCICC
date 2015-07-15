@@ -1,0 +1,87 @@
+Carmakers are taking apps for a spin. 
+
+Automakers from  General Motors Co.
+GM
+
+
+0.28
+%
+
+
+
+
+ to Hyundai Motor Co. are using the Consumer Electronics Show to announce plans that will transform dashboards into mini-computers running Internet-connected programs. 
+
+For example,  Ford Motor Co.
+F
+
+
+1.16
+%
+
+
+
+
+ debuted an app that will allow owners of its new Focus electric car to schedule charging times from a smartphone.  Toyota Motor Co. unveiled a program that lets motorists make reservations via booking site OpenTable.com. 
+
+The auto industry's embrace of apps comes as carmakers look for new ways to differentiate their vehicles from the competition's. "Internet-connected autos will be among the fastest-growing segments in four years," said  Gartner Inc.
+IT
+
+
+0.78
+%
+
+
+
+
+ analyst  Thilo Koslowski. 
+
+Mr. Koslowski forecasts more than half of all new premium vehicles in the U.S. will support apps by 2013 and mass market cars will reach that level in 2016.
+
+Carmakers first started experimenting with apps about three years ago, when Ford announced its SYNC system. The technology allows drivers to use voice commands to control smartphones. 
+
+Now, the technology is advancing. Some new apps for cars will allow motorists to stream Internet radio, while others will let them update their Facebook pages from the driver's seat. 
+
+At the show, Toyota demonstrated its new in-car system, dubbed Entune. A relative latecomer to apps, Toyota said the system will connect cars to the Internet using a smartphone. When connected, Entune allows the car to stream music from  Pandora Inc.,
+PNDZY
+
+
+0.16
+%
+
+
+
+
+ book seats through Movietickets.com or conduct Web searches with  Microsoft Corp.'s
+MSFT
+
+
+0.18
+%
+
+
+
+
+ Bing.com. 
+
+The current apps were all designed by Toyota partners.  Jon Bucci, who runs Toyota's technology initiatives, said the company will open the system to outside developers this year.
+
+ Ford is releasing a host of smartphone apps that allow car owners to keep closer tabs on how the vehicle is running. One in-house app, called Sync Destinations, allows drivers to enter their route in a smartphone and then beam it to the car, providing turn-by-turn directions. Another app, Sync AppLink, allows users to have their Twitter streams read to them. "It's all about using the right technology and the right application for our customers," said Ford Chief Executive  Alan Mulally. 
+
+  General Motors
+GM
+
+
+0.28
+%
+
+
+
+
+ has expanded its onboard OnStar system, allowing car owners to access it via their iPhone and Android handsets. Nearly all of GM's newest cars can send diagnostic information, such as when the oil should be changed. 
+
+OnStar is beginning to let motorists update their Facebook status by speaking commands directly to the car. The feature is integrated into OnStar's system, which also offers directions and emergency services. 
+
+Currently, the OnStar system doesn't accept apps written by third-party developers. But apps written by outside developers could be available later this year, according to two people familiar with company. GM is planning to create an app store for outside apps later this year, the two said. 
+
+ Write to  Ian Sherr at Ian.Sherr@dowjones.com 

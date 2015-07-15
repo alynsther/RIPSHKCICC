@@ -1,0 +1,45 @@
+It isn't easy being a computer mouse these days. While laptop sales grow and desktop sales decline, more people rely solely on laptop touchpads, many of which offer more functionality than mice. And tablets like Apple's iPad and Samsung's Galaxy Tab shun the mouse altogether. 
+
+
+
+But before you toss your tethered friend, it's worth paying homage to the many things this gadget can do. From precisely cropping one of cousin Fred's fleeting girlfriends out of a family photo to selecting just the right number in a spreadsheet filled with thousands of digits, the mouse is just the right tool for such precision jobs. And sometimes it's just a lot more comfortable to use for long stretches of work on a laptop.
+
+This week, I tested three computer mice that laptop users will actually want to bring along with them. Their designs make them simple to pack in a bag, use while sitting on the couch or recharge directly from the laptop. I tried Microsoft's $70 Arc Touch Mouse,  Logitech's
+LOGI
+
+
+-2.47
+%
+
+
+
+
+ $50 Couch Mouse M515 and the $70 Swiftpoint Mouse. 
+
+At first glance, Microsoft's Arc Touch Mouse looks like nothing more than a flattened mouse. But it's cleverly designed to bend into an arc that serves as a comfortable rest for the hand. As soon as the Arc Touch Mouse is bent into this shape, its battery turns on. It holds this shape until you flatten it with your hand. When it's flattened, the mouse turns off to conserve battery. Microsoft claims this battery will last up to six months. The flattened Arc Touch is much easier to pack in a carry-on or to slip into a side pocket than its rotund relatives.
+
+On a Mac, the Arc Touch is limited to basic functions, including use of its touch-sensitive scroll strip that scrolls super quickly when a finger flicks up or down on it. This strip makes a subtle sound like that of a roulette wheel as it scrolls, and a tap on the strip stops the scrolling at a specific location on the screen. I caught myself looking down at this mouse a few times to make sure I wasn't using a real scroll wheel because the sound effects and feel of the scroll strip are so wheel-like. 
+
+On a Windows PC, installing software will give the Arc Touch extra functions. Double tapping the middle of the scroll strip gives it the same function as a regular mouse's middle click. Or this button can be programmed to open a link in a new tab within Microsoft's Internet Explorer browser. This mouse's tiny USB receiver can be plugged into a laptop almost unnoticed or it will magnetically stick to the base when not in use.
+
+Logitech's Couch Mouse M515 seems like it was made with me in mind. I often sit on my bed or couch using my laptop, and this mouse has a sealed underside so its sensor doesn't collect fuzz from fabrics after passing over them several times. I used it on carpets and on a blanket and liked its base, which is designed to glide easily over all types of surfaces. This mouse felt fast and responsive.
+
+To conserve battery, the Couch Mouse is only on when a hand grips it. So if someone stops to watch TV for a while, then accidentally sits on the mouse or the mouse slips between couch cushions, its buttons won't continue clicking away. An underside switch turns it entirely on or off. The Couch Mouse also uses a USB receiver, and it can be stored inside the mouse for travel.
+
+Like the Couch Mouse, the Swiftpoint Mouse from Swiftpoint Ltd. of New Zealand, is designed for use with laptops in less than ideal working environments. This tiny mouse was designed to operate directly on the laptop wrist rest area or on the laptop touchpad, itself. In fact, the mouse comes with a large, clear sticker labeled "Swiftpoint Parking Accessory" that goes on the laptop so the mouse doesn't slip off when the laptop's tilted. 
+
+The simple sticker worked well, creating a magnetic square in the center of the wrist rest area that kept the mouse from slipping off when I was leaning back and typing at an angle. 
+
+A scroll wheel on the right of the Swiftpoint Mouse works by rolling it with one finger or by turning the mouse on its side and moving it up or down, which made for faster scrolling. I found this feature awkward and unnatural at first, but after a lot of use, I grew accustomed to it. Touching the left click button while scrolling up or down zooms in or out, respectively, on any screen. 
+
+This mouse is so small that rather than its USB receiver fitting inside or on it for storage, the mouse magnetically attaches onto its USB receiver, resting on it while the receiver is plugged into the laptop. This allows for the Swiftpoint Mouse to recharge its battery; Swiftpoint says 30 seconds of charging will give the mouse an hour's worth of juice and a 90-minute charge will last two to four weeks, depending on how much you use it. The former proved to be true for me, but I didn't have enough time to test the latter claim.
+
+When I set this mouse onto the USB receiver for charging, it flashed a rapid green charging indicator light, which slowed after about a minute. Using a rechargeable mobile mouse means not worrying about getting stuck somewhere with dead batteries.
+
+For those looking to have more control in the Windows 7 environment, Microsoft is bringing out in May an $80 model called the Touch Mouse. It will work specifically with Windows 7, using a touch surface that responds to gestures so as to perform tasks like docking, minimizing or maximizing and displaying the desktop. 
+
+It's an awful lot like Apple's $69 Magic Trackpad, a square surface that came out last summer and enables gestures within the Mac operating system for desktops. 
+
+Though these three mice are easy to port around and work well in a variety of work environments, they can't replace many of the clever gestures built into so many laptops nowadays, especially Macs. But if you're looking for comfort and function on the go, they do the trick.
+
+ Write to  Katherine Boehret at mossbergsolution@wsj.com 

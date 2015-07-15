@@ -1,0 +1,65 @@
+Predictions of coal's demise are everywhere. At the same time, though, it remains an important power source world-wide. The Wall Street Journal's Jeffrey Ball talked with  Tom Albanese, chief executive of mining giant  Rio Tinto PLC, and  Michael Morris, CEO of  American Electric Power Co.
+AEP
+
+
+0.43
+%
+
+
+
+
+, about how coal fits into the future of energy supply.
+
+Here are edited excerpts of their conversation.
+
+Read the full  ECO:nomics report .
+
+  MR. BALL: A third of the coal fleet in the U.S. is going to be retired in the next few years, people say, even though there's no expectation of cap-and-trade legislation in Washington, even though China and India are building large numbers of new coal-fired power plants. What does the future of coal look like to you, both here and internationally?  
+
+ MR. MORRIS: In the United States it's clear that coal is going to bow to combined-cycle natural gas when you look at new installations. I think the price points are pretty dramatic in that regard.
+
+The forecast of 30-plus percent of the fleet retiring has everything to do with the approach that the EPA may or may not take. But you've got an existing coal fleet that you just can't throw away.
+
+There's trillions of dollars of capital invested in the coal-generation fleet throughout the United States, and you can't throw that overboard.
+
+ MR. ALBANESE: I tend to share that view in terms of the U.S. But at the same time we look at Asia, we look at China, we look at India, where Southeast Asia's going to go, we certainly see that the energy security around coal is quite important, and it will continue to be the focus. Now, it's not going to be with 50-year-old plants; these are going to be brand-new plants. They're going to be looking at efficiency levels that will be 10%, 20%, 30% higher than the average plant in the U.S.
+
+
+
+  MR. BALL: So, is what you're saying, both of you, that there is essentially going to be no improvement and no retrofitting of the U.S. coal fleet? No improvement in the efficiency? These things are generally less efficient than what China's building and they're just going to sort of die over time as they get too old?  
+
+ MR. ALBANESE: I don't see a lot of new capital going into coal in the U.S. But I do think that you're seeing that capital deployment in a very big way taking place in Asia.
+
+ MR. MORRIS: What we've done over the last number of years at American Electric Power is we retrofitted our larger units. Our largest plants are 1,300 megawatts; we have a 250 class, a 500 class, an 800 class and a 1,300-megawatt class. We've retrofitted the 1,300s, so we have gotten better efficiencies there.
+
+But you get to a point where you look out at the timeline left of the station and you say to yourself, "We can't put any more capital to work there." So, when you look at our fleet, if you look at the 500-megawatt class, that's on the border. Anything below that is going to go. It's just going to go in its normal course. That will be affected by legislation, regulation, whatever comes out of the requirements at a state level or a federal level. 
+
+ MR. ALBANESE: I'd like to say, in terms of deployment of capital and coal in the U.S., we should remind ourselves that we have a lot of coal in the U.S. There are technologies that actually work in the lab, they work at a small scale. They need to be ramped up. All this talk we've heard about incremental economics, how you progressively get the efficiencies up and get the cost down—that is not rocket science for coal.
+
+You've got lots of coal there, so down the road that still should be a key part of the total energy equation. I don't think it can be just solar or just energy efficiency, or just natural gas, or just the Mideast oil. It's got to be a combination of everything.
+
+
+
+  MR. BALL: There's no cap-and-trade legislation in Washington. Do you see that changing? Do you see much push for carbon regulation internationally?  
+
+ MR. ALBANESE: There needs to be some type of global solution. Global solutions are easier said than done, but you do need to work toward a mechanism for pricing and monetizing of CO2.
+
+And that in itself will spur on innovation. That in itself will spur on conservation, and that will spur on the types of things that need to happen early on if you think about what could happen over the next several decades.
+
+I think China and the U.S. both have to come to the table to set the tone for the rest of the world. 
+
+  MR. BALL: I'm just curious for your sense of the likely scale of renewable-electricity technology. Solar power is in the 1% range, much less than that; wind globally now is about 1% of electricity generation. What do you think is realistic?  
+
+ MR. ALBANESE: I always tell our team, don't underestimate solar. You've got infinite amounts of solar energy out there and you've got a lot of smart people around the world. They're going to try to figure out a way of converting that to electrons, so don't underestimate it.
+
+But, that being said, it's still a pretty high price point compared to alternative technologies. 
+
+ MR. MORRIS: The penetration will continue to grow, but I think it will always be a small part. The intermittency of the two sources is the real Achilles' heel.
+
+ MR. ALBANESE: In the long term for it to really work you've got to create hybrid solutions where you have solar and wind side by side with some type of centralized power generation that can be turned up and turned down.
+
+
+
+  MR. BALL: To be clear, Mike, you don't see any fundamental change in the way that the global energy pie looks with regard to coal versus renewables? Renewables are always going to be a small slice and coal is always, at least as far your crystal ball sees, going to be the dominant slice?  
+
+ MR. MORRIS: I believe that to be the case. Gas will grow at the expense of coal.

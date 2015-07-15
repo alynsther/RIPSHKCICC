@@ -1,0 +1,43 @@
+Amid all the mergers and maneuvering of U.S. wireless carriers, they continue a steady rollout of faster cellular-data networks, dubbed "4G," for fourth generation. While the companies all use that term for marketing, the actual technologies they've adopted to deliver 4G differ, and so does the performance.
+
+Last week, Verizon Wireless, which is deploying a flavor of 4G called LTE, or Long Term Evolution, started selling its first phone compatible with this new, speedier network: the $250 ThunderBolt. Previously, its only LTE devices were data modems for laptops. Its other phones, including its much-touted Droids and iPhone, can only use slower 3G networks.
+
+I have been trying out the ThunderBolt and I have found it to be a speed demon. Simply put, when used on Verizon's LTE network—which isn't yet available everywhere—the ThunderBolt delivered by far the fastest cellular data speeds I have ever experienced on a wireless phone. In my tests, it blew away not only common 3G phone speeds, but the 4G speeds offered by rival carriers. In fact, it was faster than many home land-line Internet connections.
+
+
+
+In dozens of cellular-data tests I conducted in two metro areas—Washington and Orlando, Fla.—the ThunderBolt averaged 12.6 megabits per second when downloading data and 4.7 mbps when uploading data. That is about eight times as fast as a Verizon 3G phone I tested in the same locations, and faster than many public Wi-Fi connections. Cellular-data speeds can differ due to factors such as location and time of day, so your experience with the ThunderBolt might vary. However, based on my tests, and assuming future Verizon LTE phones perform as well, I'd have to say Verizon is firmly ahead in the race for the fastest 4G network.
+
+Of course, its competitors aren't standing still. Sprint was first with 4G and continues to expand its network and add devices. T-Mobile, which agreed to be acquired by  AT&T,
+T
+
+
+-0.84
+%
+
+
+
+
+ has a rapidly growing 4G network, though it really is based on a souped-up version of 3G. AT&T has lagged behind, but it claims it will step up its 4G rollout this year.
+
+I compared the ThunderBolt to recent phones running on each of the other carriers' 4G networks, and none could touch the speeds of the Verizon device. In multiple tests in a spot in the D.C. suburbs where all the carriers offer 4G service, Sprint's EVO Shift 4G and AT&T's Inspire 4G had an average of just over 2 mbps in download speed, and much less than 1 mbps in upload speed. T-Mobile's myTouch 4G did much better, logging 5.52 mbps downstream and 1.77 mbps upstream. But even that was less than half the speed of the ThunderBolt. 
+
+Sprint and AT&T attributed their poor performance in my tests to my location. But even Sprint's maximum claims for average performance don't match what my Verizon tests yielded. (AT&T doesn't offer such claims.)
+
+You pay a price: The ThunderBolt is 25% more up front than most rival smartphones, which tend to sell for $200. Its battery life, while much better than some other early 4G phones I've tested, isn't as good as on some 3G phones. And, the ThunderBolt is a relatively heavy and bulky device.
+
+Verizon hasn't jacked up the monthly data fees, continuing to offer the same unlimited $30 monthly data plan for this 4G phone that it does for, say, its pokier 3G iPhone. It is also giving away—through May 15—one extra-cost feature: the ability to use the phone as a Wi-Fi hotspot to power laptops and other devices. This feature has cost $20 a month on 3G phones. Verizon wouldn't say the cost for ThunderBolt.
+
+The ThunderBolt is built by HTC of Taiwan, and runs on  Google's Android operating system. HTC concedes that, beyond LTE, this phone doesn't offer any significant hardware or software features that can't be found on some of the company's other models. It has a 4.3-inch screen, front and rear cameras, 8 gigabytes of internal memory and a 32-gigabyte removable memory card.
+
+Battery life has been a concern on some 4G phones. The HTC EVO, which was Sprint's first 4G phone, drained its battery quickly while using the faster network. In my tests, the ThunderBolt's battery lasted about seven hours in mixed, typical use on 4G, which is fair, but not great.
+
+Voice calls on the ThunderBolt were generally good, and it didn't drop any calls in my tests. That may be because Verizon is still routing its voice traffic through its older networks, which have been very reliable. The LTE network is for data only. This distinction is invisible to the user.
+
+I also tested it as a Wi-Fi hotspot and got download speeds on my laptop of 7 to 10 mbps and upload speeds of 2 to 3 mbps. But the hotspot signal occasionally dropped out. I also saw repeated crashes of an Android app I couldn't identify, though the phone kept working.
+
+The Verizon 4G network currently is available in around 40 metro areas. If you don't live in an area covered by Verizon LTE, the ThunderBolt will still work on the carrier's 3G network. You can see if you're covered by checking this Web page: http://bit.ly/9fwHmH. Verizon is promising to extend LTE to another 140 markets this year. It has announced plans for several more LTE phones and LTE tablets and laptops.
+
+Bottom line: If you live in a Verizon LTE city and you want the fastest possible cellular-data speeds in a phone, the ThunderBolt is the answer. 
+
+—Come see Walt Mossberg at New York's Carnegie Hall at the JapanNYC festival, in a conversation with Sony Chairman Howard Stringer about where consumer technology is headed and the fallout from the earthquake. Friday, April 1 at 6:30 p.m. For tickets, call (212) 247-7800 or go to carnegiehall.org. Find all Walt's columns and videos at the All Things Digital website, walt.allthingsd.com. Email him at mossberg@wsj.com. 

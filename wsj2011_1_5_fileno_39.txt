@@ -1,0 +1,49 @@
+The Securities and Exchange Commission has begun examining whether disclosure rules for privately held firms need to be rewritten as a result of recent deals allowing investors to buy shares in Internet companies such as Facebook Inc. and Twitter Inc., according to people familiar with the situation.
+
+The review is at an early stage, these people cautioned, and SEC officials looking at the recent deals haven't concluded that any of them run afoul of the 47-year-old rules governing private companies. The rules require firms with 500 or more shareholders of record in a given type of stock to publicly disclose certain financial information. The requirement is designed to protect investors from risking money on companies that say little about their operations and performance.
+
+Still, Facebook's agreement with  Goldman Sachs Group Inc.
+GS
+
+
+0.97
+%
+
+
+
+
+ to create an investment vehicle that will allow some of the securities firm's richest clients to buy as much as $1.5 billion of equity in Facebook is causing the SEC to re-examine a key dividing line between public and private companies.
+
+How Goldman Sachs is helping investors squeeze into privately held Facebook.
+
+While SEC officials could decide the rules need to be updated in order to provide adequate protection for investors, the agency is trying to balance that with the demands of private companies that want to raise capital. As part of the investigation, SEC officials plan to scrutinize special-purpose vehicles like the one being created by Goldman and Facebook to determine if they are being designed primarily to circumvent the so-called 500-shareholder rule, according to people familiar with the matter. Both companies declined to comment.
+
+Facebook had fewer than 500 investors as of the end of last year, said a person familiar with the Palo Alto, Calif., company, including current and former employees, venture-capital firms and private investors. In 2008, Facebook told the SEC that the company had fewer than 499 holders in each of five classes of stock.
+
+In addition, Facebook is getting a $500 million infusion from Goldman and Russian investment company Digital Sky Technologies. That would give DST slightly less than a 10% stake in Facebook, people familiar with the situation said. Goldman would own a roughly 0.8% stake, and if the special-purpose goes through, its clients would own a combined 3% of the social-networking firm. Facebook President and CEO Mark Zuckerberg owns about 25%.
+
+The 500-shareholder rule, issued in 1964, has been a headache for private companies that wanted outside investors and venture capital, but didn't want to disclose any financial information. Google Inc.'s decision to go public in 2004 was triggered partly because the Internet-search giant exceeded the 500-shareholder limit.
+
+Facebook already has taken steps to avoid breaching the current rules. Employees aren't allowed to sell any of their shares in the company, and employees hired since 2007 are granted restricted stock units that have no value unless Facebook goes public or is acquired. A Facebook spokesman has said the moves were designed "to better comply with insider trading laws and to protect the interests of the company and its employees and shareholders." Facebook got an exemption from the SEC in 2008 that excludes the restricted stock units from counting toward the 500-shareholder limit. 
+
+"The bigger issue is these hybrid companies … are betwixt and between: not quite private and not quite public," says Keith Bishop, a partner at law firm Allen Matkins and a former California commissioner of corporations. "They have these shares being traded but not the same disclosure requirements as a public company."
+
+Executives at Wall Street firms are wondering if the SEC will "open the floodgates" to allow clones of the Facebook deal, according to one official at a large U.S. bank.
+
+Special-purpose vehicles usually are formed to move assets off a company's balance sheet to help avoid some regulatory scrutiny and capital requirements. The vehicles must be created for a specific and limited purpose, according to lawyers.
+
+The investment vehicle being created by Goldman is intended solely to pool investors' money to create the legal effect of a single new shareholder in Facebook, since each special-purpose vehicle counts as one shareholder of record. While such an arrangement is similar to a big venture-capital firm or hedge fund with many investors pumping money into a company at a pre-public stage, it has the potential to include many more investors in the pool. 
+
+Clients approached by Goldman about investing in Facebook must decide by the end of this week if they are interested, according to people familiar with the matter. "It's hard to imagine how this thing is going to make money," said one Goldman client who has been approached by the firm. Still, the deal is "an attractive opportunity," the client said.
+
+It isn't clear how many Goldman clients will be allowed to invest, but it could be in the hundreds. Potential investors have been told that the minimum commitment in the $1.5 billion investment vehicle is $2 million. If the SEC determines that the vehicle was designed to evade the 500-shareholder rule, then the agency could force Facebook to count all the beneficial shareholders in the vehicle toward the company's total.
+
+In a post on Facebook, Salesforce.com Inc. Chief Executive Marc Benioff, who took the San Francisco-based Internet software company public in 2004, wrote: "There are now thousands of investors in Facebook and more coming with these new investment vehicles. It's already a public company. It's just unregulated." A Salesforce spokeswoman said Mr. Benioff wasn't immediately available for comment.
+
+Goldman is following in the footsteps of several small brokerage firms that have popped up in recent years to take advantage of rabid investor interest in private Internet companies.
+
+Such brokerage firms allow employees and former employees of well-developed private companies to sell their shares even though the shares aren't publicly traded. The secondary markets help companies "retain their talent and grow so that when they finally join the public market, they'll be incredibly financially strong," says Frank Mazzola, an executive at Felix Investments LLC, a New York company that pairs buyers and sellers of shares in Facebook and other closely held companies. The SEC's "scrutiny is a good thing."
+
+—Amir Efrati, Liz Rappaport, Pui-Wing Tam and Michael Rapoport contributed to this article.
+
+ Write to  Aaron Lucchetti at aaron.lucchetti@wsj.com 

@@ -1,0 +1,51 @@
+  (See Corrections & Amplifications item below.)  
+
+Starting this year, millions more Americans will be able to get free preventive care, including hearing-loss tests for newborn babies, depression screening for adolescents and bone-density scans for women at risk of osteoporosis. 
+
+Medicare and new private-insurance policies will be required this year to cover the cost of 45 medical tests and services currently shown to be most effective in early detection and prevention of disease, with no patient copayments or deductibles. Among the tests and preventive measures:
+
+ Source: U.S. Preventive Services Task Force 
+
+With growing concern that Americans aren't getting the preventive care they need, a provision in the new health law requires Medicare and new health policies to fully cover 45 preventive screenings and services. Close to 80% of adults from the age of 20 to 80 are candidates for at least one preventive test or service, studies show. 
+
+This should boost the number of people receiving preventive care. But many patients don't take advantage of such services, and many doctors don't routinely offer them, even though in many cases existing health plans cover all or part of the cost.
+
+A study released last month, for example, showed that only half of eligible women in the U.S. get an annual mammogram, even if their insurance pays for the procedure. And fewer than half of adults over 50 are up to date with colon-cancer screening, only 28% of smokers are counseled on how to quit, and only 37% of adults have had an annual flu vaccination, according to the nonprofit Partnership for Prevention. Closing the gaps in just five preventive services—such as increasing the number of adults who use aspirin to prevent heart disease, or having more doctors offer help quitting smoking—would save 100,000 lives a year in the U.S., the group says.
+
+To identify the most effective preventive services, the federal government and most insurers rely on the U.S. Preventive Services Task Force, an advisory body that reviews evidence on tests and services and grades effectiveness from A to D, giving an A or B to those shown to be most effective. By 2013 under the new law, close to 90 million Americans with employer and individual health policies will no longer have to pay a co-payment or deductible for recommended preventive screenings with an A or B grade. At present, a woman in her 50s at risk for a heart attack might pay $300 or more in out-of-pocket expenses for recommended screenings under some typical insurance policies. 
+
+  Ned Colange, chairman of the task force and chief executive of the Colorado Trust, which funds health-care access programs for that state, says the task force doesn't analyze cost-effectiveness. Rather, it weighs evidence of whether the benefits of preventive services outweigh potential harms or downsides for different populations—such as a test that may have many false positives and lead to further tests or invasive procedures with risks of their own.
+
+For example, the task force gives a D grade to routine ovarian-cancer screening of women, recommending against it because of low incidence in the population, insufficient evidence that early detection can reduce death rates and many false positives. Newborn hearing tests, by contrast, receive a B grade: Though there are some false positives that make parents anxious, the tests are recommended because half of children with hearing loss have no identifiable risk factors, and there is good evidence that the tests are highly accurate and that early detection improves language outcomes.
+
+The debate is whether preventive care saves money, or adds to already-spiraling costs and siphons money from services that might be of greater benefit. The Trust for America's Health, a nonprofit advocacy group, estimates that prevention programs could save the country more than $16 billion annually within five years; researchers at the Commonwealth Fund estimate that reduced tobacco use and a decline in obesity would lower national health expenditures by $474 billion over 10 years. 
+
+Other studies, though, have shown that added costs of preventive services tend to exceed savings. A 2008 study in the journal Circulation estimated total cost of caring for heart disease and diabetes over 30 years at $9.5 trillion; while preventive services would reduce those costs by 10% they would cost $8.5 trillion—increasing total medical costs by about $7.6 trillion. 
+
+And in the New England Journal of Medicine, a review of hundreds of preventive-care studies showed that fewer than 20% saved money, while the rest added to costs. The Congressional Budget Office concluded in 2009 that expanded government support for preventive medical care would probably improve people's health but wouldn't generally reduce total spending. 
+
+"The right question is not whether it saves money, but whether we are getting a good value for the nation's health-care dollar and saving as many lives as we can with each dollar we spend," says  Steven Woolf, professor of family medicine at Virginia Commonwealth University, and past member of the preventive services task force. 
+
+Removing financial barriers to preventive services has been shown to increase their use, Dr. Woolf says, "and the spirit behind the law is to remove those barriers, increase the use of preventive services, and reduce the disease burden of the country." 
+
+The task force regularly reviews new evidence to keep the recommendations up to date and last July began putting new recommendations on its website for public comment before finalizing them. On Monday, it updated a 2002 recommendation that women 65 and older be routinely screened with an X-ray technology known as a DXA scan of the hip and lumbar spine, adding a recommendation that younger women with increased risk factors, such as family history, smoking, alcohol use and low body mass, be screened if their fracture risk is greater than or equal to that of a 65-year-old white woman with no additional risk factors.
+
+Dr. Colange, the task-force chairman, says about a dozen tests and services are under review to determine if new evidence warrants a change or upgrade, including prostate-cancer screening blood test known as prostate-specific antigen, or PSA. In 2008, the task force found evidence was insufficient to assess the balance of harms and benefits of PSA screening for men under 75, and recommended against it for older men. 
+
+A dozen tests and services are under review, to determine whether current recommendations regarding effectiveness should be changed. Among them are:
+
+Coverage of some medical services isn't recommended for everyone, but doctors may still offer these services, and insurers may cover them, for patients potentially at risk:
+
+ Source: U.S. Preventive Services Task Force 
+
+Past studies, though, have shown that more than 10% of previously unscreened men in their 60s who have a PSA test have a positive result that would generally lead to a follow-up biopsy; among patients who receive the biopsy, about 70% don't have prostate cancer. Prostate cancer is the second leading cause of cancer deaths in men. Medicare covers the test; policies vary for younger men, but nearly 63% of men 50 to 64 with any private insurance received a PSA exam within the past two years, according to federal data.
+
+Experts say the new law can go only so far in making sure Americans get the right preventive care. "Getting a colonoscopy is not high on the list of things people want to do, whether it is free or not, so it is really up to the relationship between the patient and provider to talk about the importance of preventive care" says  Rachel Nuzum, a Commonwealth Fund researcher. A study published this month in the Annals of Family Medicine found factors leading to higher rates of preventive care include more doctor's office visits and seeing the same doctor with a referral system for preventive services. 
+
+The task force generated controversy in 2009 when it changed a 2002 recommendation that women 40 and older get a mammogram every one to two years, to a recommendation against routine mammograms for women 40 to 49. Though it emphasized the decision should take into account personal preferences, some groups read it as a move to ration preventive care for women. The task force subsequently changed the wording to recommend biennial screening for women 50 to 74, and state the decision to start before then should be an individual one weighing benefits and harms. But the Department of Health and Human Services, in implementing the new health law, is using the original 2002 recommendation of a B grade, which qualifies mammograms to be offered free.
+
+  Lenard I. Lesser, a physician and researcher in the Department of Family Medicine at the University of California, Los Angeles, advises patients to visit the website uspreventiveservicestaskforce.org to learn which tests are recommended for them and their family members, and set up a consultation. "Patients need to educate themselves about what screenings and services can help them live a healthy life and get maximum prevention without harms," he says. 
+
+ Write to  Laura Landro at laura.landro@wsj.com 
+
+ Corrections & Amplifications:  The U.S. Preventive Services Task Force evaluates preventive medical tests and services, including whether they should be applied routinely to certain populations, but it doesn't make recommendations as to insurance coverage. A chart with this column incorrectly implies that the task force recommends whether certain procedures should be covered by Medicare and new insurance policies.

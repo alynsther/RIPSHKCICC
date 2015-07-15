@@ -1,0 +1,65 @@
+Facebook Inc. is contemplating the expansion of a data-center project in Prineville, Ore., that already covers an area equivalent to five football fields, underlining the social-networking service's need to accommodate a rapidly growing number of users. 
+
+Meanwhile, Facebook is seeking to build bonds with the surrounding community. It's an effort that's had the company throwing a barbecue for locals, providing free dental care for area children and donating uniforms for high school sports teams. 
+
+Facebook's Prineville project demonstrates ways the seven-year-old company is growing up, taking on significant additional costs, and making an effort to form bonds with a growing network of constituents. It's a process that companies of all stripes, from manufacturers to miners, have had to navigate.
+
+The Prineville data center, which is filling up with server computers required to run Facebook's service for its more than 500 million users, is owned and operated by the company. The central Oregon location offers relatively affordable power rates, and a temperate climate that should help cut into cooling costs for the facility. 
+
+Facebook has so far leased its data centers in various locations. Recently, it announced plans to build a second owned data center in North Carolina, of a similar size to the Prineville facility. 
+
+When fully completed, the Prineville data center will cover more than 300,000 square feet. An opening event for the first phase of the building is planned for April. Now, Prineville officials hope it will spawn a twin. 
+
+"What they [Facebook] have indicated to us is they would like to continue with expansion, which would require a second building just like the one they just built," said Prineville City Manager  Steve Forrester. 
+
+  Ken Patchett, who manages the Prineville data center for Facebook, said, "If our business requires it, we've made the plans to do that." However, Mr. Patchett said nothing has been finalized. "One of the major benefits was there was enough available land [in Prineville] to expand," Mr. Patchett added. All told, the company's property includes roughly 120 acres. 
+
+By building its own data centers—which process every new friend request, transaction and posted photo for users—Mr. Patchett said Facebook is better able to "control its own fate" by making the necessary expansion as economical as possible. 
+
+"A data center is always a cost center," Mr. Patchett said. "We're much more able to control our costs by doing it this way." 
+
+Palo Alto, Calif.-based Facebook discusses its need for more data centers in a document recently distributed by  Goldman Sachs Group Inc.
+GS
+
+
+0.41
+%
+
+
+
+
+ to potential investors in a private placement in the closely held company. 
+
+"In 2011, Facebook plans to significantly expand the size of its infrastructure and also to begin serving traffic from Facebook-owned data centers using Facebook-designed server equipment for the first time," the company says in the memo. 
+
+Mr. Patchett, who has worked at  Google Inc. and  Microsoft Corp.
+MSFT
+
+
+-0.02
+%
+
+
+
+
+ in the past, declined to discuss how the technology in the Prineville facility is unique. However, he suggested that the company would make a related, formal announcement in the coming months.
+
+  Ray Valdes, and analyst with Gartner, said the sheer size of Facebook's Prineville data center sets it apart. The facility can house "a huge number of servers," Mr. Valdes said, "and reflects the fact that Facebook is now handling about one tenth of the world's page views." 
+
+Mr. Valdes estimated Google, which went public in 2004, operates more than 30 data centers. Facebook faces a significant need to develop its own network of facilities, both in the U.S. and abroad, the analyst said. 
+
+Prineville, a town of roughly 10,000 people, was hungry for new investment. Crook County, which encompasses the city, has had unemployment that's reached 19% of late, roughly double the national rate. 
+
+Prineville Mayor  Betty Roppe said a major employer, Les Schwab Tire Centers, recently moved its headquarters to nearby Bend, taking about 300 jobs with it. A significant number of timber-cutting jobs have also been lost due to federal restrictions, Ms. Roppe said. 
+
+In late 2009, Prineville-based Community First Bank failed, one of hundreds of regional banks to succumb to the credit crunch. 
+
+The Facebook project has brought more than 200 construction jobs to Prineville, along with at least 35 full-time jobs at its new facility. Facebook has contributed more than $1 million in fees to the city, for access to basics including water. Those fees have helped cut Prineville's total debt by about 3%, officials said. 
+
+"It really has opened up a whole horizon for us," Ms. Roppe said. "It's a culture shift for us, but the more time that goes by, more people are embracing Facebook." 
+
+The company has ingratiated itself in a number of ways, contributing in partnership with construction contractor DPR/Fortis to provide bands and a free barbecue for the city's Picnic in the Park event, and free dental care for local children, Facebook's Mr. Patchett said. 
+
+  Scott Polen, athletic director at Prineville's Crook County High School, said that since 2009 Facebook and DPR/Fortis have provided new uniforms for the school's track, soccer and basketball teams, while sponsoring clean up programs staffed by student athletes. "It couldn't have been better timing," Mr. Polen said of the Facebook donations, as recent budget cuts have increased each team's need to raise its own funding. He noted that while varsity uniforms usually last about four years, the teams' last iterations "were going on their fifth or sixth year." 
+
+ Write to  John Letzing at john.letzing@dowjones.com 

@@ -1,0 +1,13 @@
+  Q: I am considering buying an iPad, but am wondering if I should wait for the second edition which is rumored to be coming soon. What do you advise?  
+
+ A: I regard the current, original iPad as an excellent product, and can't say you'd go wrong with it. But while Apple is famously secretive, I'd be surprised if there isn't a new model announced in the next few months that will have added or improved features. There's wide speculation, for instance, it will gain a camera or two. The company has a long history of improving its products, and, in the case of the iPad, must keep making it better to deal with a host of coming tablet rivals. So, if you can wait a few months, I'd do so.
+
+  Q: I see that many of the newer wireless routers with attractive features do not support printer sharing. Does that mean you cannot connect a printer via Ethernet cable to the router and be able to access that printer through the wireless network? Why do so many of the newer routers not support printer sharing?  
+
+ A: In the context you seem to be using it, the term "printer sharing" referred to plugging in an otherwise non-networkable printer via USB to a router, which would then make the printer usable over the network. I presume that this feature has declined in popularity as more home printers now have wired or wireless networking built in, and the latest Windows and Mac operating systems make it much easier to share even a printer without its own network features through the computer's connection to the network. If the printer has wired networking built in, you should be able to plug it into one of the Ethernet jacks on most wireless routers and make it usable on your wireless network.
+
+  Q: I have an almost two-year-old MacBook Pro. The hard drive is nearly full, and I wondered if you knew of any tricks to free up some space. I'm particularly interested in cost-effective fixes.  
+
+ A: One useful free utility for freeing up space on a Mac is called Monolingual, and is available at http://bit.ly/dqTCSC. This little utility allows you to remove all the obscure files on a Mac that allow the computer to operate in languages you can't read or don't use. For instance, if you only speak and read English, you can erase the files that enable the computer to run in, say, Albanian and Portuguese. Its maker says this can free up hundreds of megabytes of space. I have tried it and it works. Of course, whether you have a Windows PC or a Mac, you can free up space in many other ways, such as by deleting files and programs you don't use, archiving or deleting old email, and removing temporary browser files.
+
+—Email mossberg@wsj.com. 

@@ -1,0 +1,47 @@
+Ever search the Internet for information on a condition such as asthma, depression or diabetes, only to be plagued by pop-up ads for drugs for that condition?
+
+You're not alone. Consumer and privacy groups are asking the Federal Trade Commission, the government agency that protects consumers from unfair business practices, to investigate and crack down on companies' allegedly "deceptive and unfair" marketing of drugs and dietary supplements on health-advice websites and forums.
+
+The groups, including the U.S. Public Interest Research Group, the World Privacy Forum and Consumer Watchdog, filed a complaint with the FTC in November charging that pharmaceutical companies and the medical industry are secretly gathering information about patients, their conditions and their drug and treatment preferences through health websites, e-newsletters and online drug coupons.
+
+Companies named in the complaint include  Google, Microsoft
+MSFT
+
+
+0.18
+%
+
+
+
+
+ and QualityHealth.com.
+
+  Rob Rebak, chairman and CEO of QualityHealth.com, also known as Marketing Technology Solutions, says "QualityHealth does not collect or use any consumer information without express consumer consent. We maintain the highest standards of privacy and data security."
+
+Microsoft and Google didn't respond to requests for comment.
+
+The advocacy groups charge that when consumers use interactive health websites and social media to search for information on specific diseases or conditions, they're often bombarded with ads for costly brand-name drugs and steered away from less-expensive generics and over-the counter medications. Some of the websites also fail to differentiate between objective editorial content and advertising, the groups say.
+
+They also charge that some websites are spying on consumers, monitoring social media and using "cookies" and other means to track computer users' habits in order to build personal profiles. The organizations say online health and medical marketers spent nearly $1 billion in 2010 targeting online consumers.
+
+Privacy advocates are concerned that some of the marketing information gathered by companies could be used against consumers later -- for example, by life insurers or employers to deny policies or employment.
+
+Online advertisers generally contend the information they collect is anonymous. But privacy groups say a name isn't necessary to identify someone, and consumers should be required to give consent to having their personal information collected.
+
+Consumers should be skeptical of condition-specific electronic health newsletters, which are often a way for drug marketers to target advertising, privacy experts advise. Also keep in mind that you may have to answer detailed questionnaires in return for free drug coupons or discounts. Read privacy-policy disclosures on websites, generally posted at the bottom of the home page.
+
+In early December, the FTC advocated for greater privacy safeguards in online commerce in general, saying it believes self-regulation has fallen short. Several big technology companies, including Google and  Yahoo,
+YHOO
+
+
+-0.34
+%
+
+
+
+
+ endorsed the FTC report.
+
+Congress is considering measures that would strengthen online privacy protections, including "Do Not Track Me" (see Stat of the Week) legislation that would allow consumers to block computer technology that companies use to track their online behavior.
+
+—Email: mp.mcqueen@wsj.com 

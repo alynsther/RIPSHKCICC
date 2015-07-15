@@ -1,0 +1,55 @@
+This is the voicemail that Dan Sheeran's tailor recently tried to leave him: "Just wanted to let you know that your pants is already done and ready for pickup," the tailor, in accented but clear English, said in the recording. "Ok, then you can pick up your pants at Nordstrom."
+
+This is the message Mr. Sheeran, a 44-year-old technology executive in the Seattle area, got instead: "Just wanted to know that your punches ordered the done in the Dipper pickup. Ok. Then you can pick up the French abortion."
+
+Mr. Sheeran was bewildered. "It sounded like a coded message for a drug deal," he says. 
+
+The cause behind the flub is no mystery. The tailor had left the voicemail on Mr. Sheeran's account on Google Voice, a Google Inc. service that automatically transcribes voice messages into text that can be emailed to a mobile phone. Google Voice had mangled the message, leading to Mr. Sheeran's befuddlement.
+
+New technologies meant to make sense of our words are, in some cases, contorting them, with results that are racy, cruel or just plain peculiar. Transcription services have become known for goofing-up voice recordings because of speaker accents and poor phone connections. Meanwhile, many a typist is bedeviled by garbled messages stemming from cramped smartphone keyboards, along with software on the devices intended to automatically correct spelling mistakes. 
+
+Tiny keyboards can lead to human error. Last year, John Weeden, a social media marketing executive in Orlando, Fla., tapped out a text message to his wife after getting stuck on a project at the office and sent the note before looking carefully at it. 
+
+"Hey Babe—I'm working Kate tonight," read the message. 
+
+"Hope she enjoys it!" his wife, Janelle Weeden, responded. 
+
+Mr. Weeden says he meant to type "late," but his "chubby fingers" confused the "k" and "l" keys on his iPhone keyboard. "She thought that it was hilarious," he says of his wife's reaction.
+
+Such blunders have helped established a new genre of comedy. Last fall, Jillian Madison, a Web designer in Fairfield County, Conn., started a website called Damnyouautocorrect.com that receives submissions from people who send in screen shots from their cellphones containing mistakes they've made typing text messages and emails. Ms. Madison now works full time on the site and has authored a book inspired by it. 
+
+The site is named after autocorrect, a feature in iPhones and other modern smartphones that automatically fixes spelling errors and predicts intended words before the word is fully typed. In practice, autocorrect can bungle corrections, though it's not always clear when a mistake is the direct result of autocorrect or uncorrected misspellings.
+
+The iPhone's autocorrect feature can get thrown off by some words—for example, it changes "Awwww" into "sewer." Other changes are more subtle: typing the phrase "I work pro bono" becomes "I work pro Bono," inadvertently making the typist seem like a fan of U2's lead singer. 
+
+Jen Zug, creative director at a Seattle company that makes animated videos, says sometimes the autocorrect on her iPhone tries to clean up her text messages—for example, by changing "hell" to "he'll." 
+
+"I'm always joking that I have an iPhone that doesn't like to swear," Ms. Zug says. 
+
+Reproducing autocorrect goofs often isn't possible because internal smartphone dictionaries adapt to permit words commonly typed by users. Ms. Madison says she isn't able to verify whether submissions to her site are authentic autocorrect mistakes. 
+
+Comedian and actor Paul F. Tompkins has woven Google Voice errors into a variety show he does at a club in Los Angeles, which have found a wider audience online.
+
+For one routine—which he dubbed Google Voice Theater—Mr. Tompkins played the dialogue from the cantina scene in the original "Star Wars" movie over a phone into a Google Voice account, which transcribed the recording. He then had actors perform the garbled lines.
+
+"Han Solo—I'm captain of the Millennium Falcon," the original line goes. "Chewie here tells me you're looking for passage to the Alderaan System."
+
+Google Voice's rendition: "So I'm captain of the money and falcons. Julie here tells me that you're looking for passage the all that stuff."
+
+Last year, Mr. Tompkins did the same thing with Martin Luther King Jr.'s 1963 "I Have a Dream" speech, the last line of which is: "Free at last! Free at last! Thank God Almighty, we are free at last!" 
+
+Google Voice transformed Dr. King's line into: "Free at last! Free at last! Thank God I came here for you!" 
+
+"I hope it never gets better because it delights me like few things in this world can," says Mr. Tompkins, 42, about Google Voice in the podcast of the show.
+
+Vincent Paquet, a Google senior product manager, says the accuracy of Google Voice transcriptions will improve over time. He adds that people underestimate the technical challenges that can throw the service off, including poor phone connections that constrict the range of sound Google's computers can hear. That's less of an issue for traditional dictation software that works over a microphone tied directly into a computer. 
+
+Mr. Paquet declined to disclose the accuracy rate of Google Voice transcriptions, though he said they're faithful enough to be helpful to most users. "We would certainly not keep it if the benefit didn't outweigh the inaccurate messages," he says of the transcriptions. Google Voice also allows people to simultaneously ring their mobile, office and home numbers when they're called. 
+
+Vlad Sejnoha, chief technology officer of Nuance Communications Inc., a Burlington, Mass., maker of speech recognition and text input software for phones, says a new generation of autocorrect technologies, including Nuance's own, now are making their way onto mobile phones using more sophisticated software formulas to avoid "those real howlers that just don't make sense." 
+
+Mr. Sejnoha says his wife recently fell victim to one such howler when she tried to text a colleague inquiring about her whereabouts that she was "at home on PTO"—the abbreviation for paid time off. 
+
+Instead, the smartphone—the brand of which he declines to disclose—corrected the message to read "at home on pot." 
+
+ Write to  Nick Wingfield at nick.wingfield@wsj.com 

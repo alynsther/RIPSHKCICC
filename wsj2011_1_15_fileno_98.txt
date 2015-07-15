@@ -1,0 +1,47 @@
+If you can't rescue investors before it's too late, at least you can rescue them after it is too late. 
+
+This week, the Securities and Exchange Commission charged  Charles Schwab
+SCHW
+
+
+0.24
+%
+
+
+
+
+ and two of its executives with misleading investors about the safety of the  Schwab YieldPlus Fund, a short-term bond portfolio that lost 35% in 2008. While neither admitting nor denying the charges, Schwab agreed to pay $119 million to settle the claims against the firm; the executives,  Randall Merk and  Kimon Daifotis, maintain their innocence.
+
+Based on the charges, Schwab has plenty to answer for. The firm declined to comment beyond its earlier statements that the collapse of the fund was the result of "unprecedented and unforeseeable" events and that Schwab "acted in good faith."
+
+But this case is also a painful reminder of the limits of regulation.
+
+Ever since the 1980s, when interest rates began their long decline, investors have hankered for more income. The fund industry has happily obliged, manufacturing one cruddy new type of bond fund after another. They all relied on complex strategies to promise higher returns at "only" slightly higher risk. And they all were foisted on the public within plain sight of regulators. 
+
+Then, as soon as these funds blew up, the regulators swooped in and declared that the actions they had tolerated were intolerable. 
+
+In the late 1980s, so-called option-income and government-plus funds managed—temporarily—to manufacture yields of at least 12% out of 8.5% bonds. Before regulators cracked down, investors lost billions of dollars.
+
+More recently, brokers sold some $300 billion in auction-rate securities as a higher-yielding form of cash. That market froze during the financial crisis, leaving thousands of investors facing losses of 10% or more—if they could get to their money at all.
+
+Schwab YieldPlus called itself an ultrashort bond fund. But one out of every 12 dollars in the fund in early 2007 was invested in securities with stated maturity dates of 2027 or later—some as far as 2049.
+
+YieldPlus had 42% of its assets in mortgage-backed securities. It also had 46% in corporate bonds—many of which weren't conventional debt, but other mortgage-backed securities. The fund's "finance company" and "insurance" holdings also included a heavy dose of mortgage paper. Securities issued by home builders made up another 3% of the fund. 
+
+All this mortgage-related risk was plainly stated in the fund's February 2007 report, where anyone—including regulators—could have seen it. 
+
+"Some investors don't realize," says the SEC's website, "that there are material differences between ultrashort bond funds and other investments with relatively low risks, such as money-market funds and certificates of deposit."
+
+Well, no wonder. Schwab described YieldPlus as a choice among "cash-equivalent investments" that had "only marginally higher risk than money-market funds." And regulators let Schwab use these wet-noodle warnings—just as the fund industry always has whenever it flogged risky portfolios as if they were safe. "High current rates" and "minimum fluctuation of principal" were the marketing hooks for Pilgrim Short-Term Multi-Market Income Fund, right before it lost 15% in 1992.
+
+Why don't regulators investigate these potential risks? For one thing, the SEC is outgunned. The agency has a total of 460 examiners to monitor more than 7,500 mutual funds, around 1,000 exchange-traded funds and more than 11,000 investment advisers. And the Financial Industry Regulatory Authority, which oversees sales materials, reviews 100,000 such pieces a year. 
+
+"We're not sitting around waiting for people to call us," says  Norm Champ, deputy director of the SEC's compliance office. "But one of the problems we have is when people spot things but don't tell us. If people think they have something, they should let us know." 
+
+One simple step would be for the agency to inspect any bond fund with a fat yield or any fund that uses promotional words like "Plus" in its name. The SEC does screen funds to look for suspicious patterns, says Mr. Champ: "We are acutely focused on analyzing every metric we can get our hands on to figure out where to focus our precious limited resources."
+
+The Schwab case shows yet again that regulators regard their primary role as ensuring that investment risks are accurately described—not that what you invest in is safe. 
+
+If you want to protect your money, be your own lifeguard. Anytime anyone promises you a higher yield at only slightly higher risk, put your hand on your wallet and quickly, carefully back out of the room.
+
+— intelligentinvestor@wsj.com; twitter.com/jasonzweigwsj 

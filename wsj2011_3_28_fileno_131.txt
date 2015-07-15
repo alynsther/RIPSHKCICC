@@ -1,0 +1,65 @@
+For developers of new drugs and treatments, one of the toughest hurdles has nothing to do with medicine. It's recruiting patients for clinical trials. And when it comes to recruiting minority patients, the challenge is even greater.
+
+Read the complete Innovations in  Health Care report.  
+
+New approaches are being tried that can dramatically speed up the recruiting process and reach more patients from groups frequently underrepresented in studies.
+
+At the heart of these new methods is the shift to electronic medical records, which makes patient searches faster and more methodical—in part by also allowing researchers to involve patients in trials from day one of their treatment.
+
+In addition, some drug companies have had success reaching out to patient advocates and other experts who know what clinics and doctors are treating the kinds of patients the firms need to test certain drugs, like those used in treating HIV.
+
+The difficulty with most trials currently is they rely on nurses and doctors at several hundred medical centers to supply patients who fit the parameters of a particular study.
+
+Because most providers still lack newer electronic medical record databases that can be easily searched, the screeners tend only to query patients who come into the office or hospital, which limits the size of the net they can cast. Indeed, it can take months or years to recruit the number of patients that large trials require.
+
+But that time can be cut to weeks when electronic health records are available. And as more hospitals upgrade their systems, making them more inclusive and easier to search, a faster pace for clinical trials in general could lower costs across the board.
+
+Geisinger Health System in Danville, Pa., is one of more than 600 medical centers around the world participating in a  GlaxoSmithKline PLC-funded trial of a new drug, darapladib, which aims to lower the risk of heart attacks and strokes in people with coronary heart disease by blocking an enzyme known as Lp-PLA2. The enzyme causes inflammation within blood vessels.
+
+Using the Geisinger database, it took only a few weeks to identify 5,300 patients who fit the study's parameters, says Peter Berger, director of Geisinger's Center for Clinical Studies.
+
+All met more than 20 criteria, including having coronary heart disease and taking drugs to lower cholesterol. Letters mailed to 1,700 candidates explained the study and invited them to call a phone number.
+
+A call center, staffed for two shifts on weekdays and Saturdays, fielded the calls and made follow-up calls. About 500 patients expressed interest, and 101 were enrolled, exceeding Geisinger's goal.
+
+There is one drawback for this kind of recruiting, Dr. Berger says: more upfront costs. Trial sponsors tend to pay recruiters only after patients are cleared to participate in a study. So, if medical centers switch to a system of recruiting that relies on database searches, call centers and mass mailings, it could require considerable investment before they get reimbursed.
+
+Still, Dr. Berger argues that if fewer centers can enroll more patients in less time, new products may get to market faster and at lower cost.
+
+That's an important goal, considering it costs more than $1 billion on average to bring a single major drug or treatment to market, academic and industry sources estimate.
+
+"I think this is the future of how we are going to do studies," says Alan Go, director of comprehensive clinical research at Kaiser Permanente Northern California, part of the nonprofit Oakland, Calif.-based Kaiser Permanente health plan.
+
+Dr. Go's group has used its electronic-records database to speed up recruiting in general. Kaiser researcher Carol Somkin, meanwhile, is using it to recruit for cancer trials, where it can be particularly important to get the patient on board early.
+
+Dr. Somkin's goal is for patients to be able to discuss trials with their oncologists at the first appointments, when treatment plans are drawn up. Studies have shown that many doctors don't discuss clinical trial options with patients, which contributes to low enrollment rates. The National Cancer Institute in Bethesda, Md., estimates that only 3% to 5% of cancer patients participate in trials.
+
+Dr. Somkin is studying two possible ways to funnel new cancer patients into studies. She and other researchers check Kaiser's database almost daily for new breast, lung and colon cancer cases to see whether there's a clinical study that might fit.
+
+At roughly half of the clinics, a nurse contacts the patient to discuss how a trial could be part of his or her treatment plan. The patient afterwards can discuss the idea with the oncologist. Nurses are also able to reach out to Spanish-speaking patients.
+
+At the other clinics, nurses inform the doctors, who can then broach the subject with their patients at the first appointment. 
+
+Some companies sponsoring trials, meanwhile, are reconsidering which medical centers can help them both improve overall enrollment rates and reach patient groups that are often under-represented in studies, such as minority women with HIV.
+
+Ron Falcon, vice president of clinical affairs at Tibotec Therapeutics, a unit of  Johnson & Johnson
+JNJ
+
+
+0.80
+%
+
+
+
+
+ specializing in HIV treatments, hired an active HIV community advocate, Dawn Averitt Bridge, as a consultant. He says the move helped the company enroll 67% women in a study for its HIV drug, Prezista.
+
+Mr. Falcon says lessons from that trial, known as the GRACE study and considered a landmark for its success at recruiting African-American and Hispanic women, now are being applied to other studies by J&J companies.
+
+Ms. Bridge identified clinics known for treating women with HIV. About 20% of the sites selected had never participated in a clinical trial, and ended up with the highest patient-retention rates in the study.
+
+Debbie Hagins, a doctor at the Chatham County Health Department in Savannah, Ga., is known for her work with low-income, African-American women with HIV.
+
+She was able to keep all 13 of her patients enrolled in the yearlong study, including a patient who lived in a homeless shelter. She provided transportation for some and kept the clinic open late for others. Dr. Hagins sometimes personally delivered medicine to patients as well. HIV treatments require patients to take five to 10 pills daily.
+
+ Ms. Corbett Dooren is a reporter for The Wall Street Journal and Dow Jones Newswires in Washington. She can be reached at jennifer. corbett-dooren@dowjones.com.  

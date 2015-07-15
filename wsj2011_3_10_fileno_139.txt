@@ -1,0 +1,53 @@
+Hardly have the first consultation materials landed on the banks' desks, and the chorus of disapproval is already in full swing. But the European Banking Authority's new round of bank stress tests are really a political exercise, and as there isn't any single number, or set of numbers, that can capture the political risks involved in getting Europe out of its debt hole, it's no use expecting the stress tests to provide one. 
+
+On the most important issue, sovereign default risk, the newly-created regulator is in a no-win position. If it doesn't model for default, then it ignores an obvious and material risk. If it does, then it undermines the credibility of any other EU efforts to avoid one. Obviously, the usefulness of a test that cannot answer the question uppermost in everyone's mind is scant, but it is hardly the EBA's fault that it is having to start its tests before the crucial March 24/25 summit that will—one hopes—provide more comprehensive answers. Last year, both debtor and creditor nations appeared committed to avoiding a sovereign default. 
+
+Only the outcome of the March summit will tell us whether that commitment is still intact. If the creditor nations want markets to have any faith in the outcome of the stress tests, they need to be able to demonstrate that the euro zone's institutional arrangements are solid enough to prevent a default. That will almost certainly mean easing the terms of the existing agreements with Greece and Ireland.
+
+The second criticism leveled against the tests is that they still allow national regulators to use their own definitions of Tier 1 capital, allowing them more scope to hide embarrassing shortcomings in the banks they oversee. Well, that's hardly a surprise given that all of these are allowed under the Basel II framework. The regulators have given the banks until 2018 to implement the tighter Basel III standards. You can't rewrite legislation on a whim. 
+
+Nor is it clear that EBA's adverse scenario is too generous. It envisages a 4 percentage point shortfall in gross domestic product growth over the next two years vis-à-vis official projections. Last year, it was only three percentage points. Moreover, the scenario factors in the impact of increased funding costs on profitability. The argument that equity values are only being subjected to a 15% discount rather than 20%, is irrelevant. Euro-zone banks hold more than €3 trillion ($4.1 trillion) in government bonds and loans, almost four times their equity holdings. It is the value of the portfolio of government assets that counts. For stressed peripheral credits, that is still an open and entirely political question. 
+
+The big picture is that Europe's banks are addressing their problems, albeit more slowly than anyone would like. Euro-zone banks alone increased their capital and reserves by €182 billion last year, according to the ECB, helped by a fairly clear turn in the business cycle in most countries. Since the last tests, Spain has forced 45 problem savings banks to merge into 18, and this year it has provided both the means and a clear deadline, for them to raise enough capital to end concerns about their health. 
+
+In Germany, too, WestLB and Hypo Real Estates have completed the spin-off of "bad banks," and  Deutsche Postbank,
+DEUPF
+
+
+19.90
+%
+
+
+
+
+ one of last year's "near-fails", has been taken over by  Deutsche Bank AG. A new law on bank restructuring has also come into force that will increase the pressure on the remaining problem banks to put their houses in order. Of more immediate importance is that the economy's strength has returned banks such as BayernLB and HSH Nordbank to profit, stopping the erosion of their capital bases. 
+
+In Italy, new legislation allowing banks to count deferred tax assets as core Tier 1 capital will improve their test results (even if it has had the undesirable effect of allowing all the major banks except Banco Popolare to put off raising new equity. The re-rating of central and eastern European risk over the past year will restore a healthier look to both  Unicredit
+UNCFF
+
+
+-1.02
+%
+
+
+
+
+ SpA and, to the north, Austria's Raiffeisen and Erste Bank AG. 
+
+With euro-zone banks increasing their capital and reserves by more than €180 billion, it is only rational to think that that will accelerate as the refinancing pressure on them increases. The recent announcement of a mandatory convertible bond by Spain's  Bankinter SA
+BKT
+
+
+0.86
+%
+
+
+
+
+ and a €250 million share issue by Slovenia's NLB are testimony to this. 
+
+But they are clearly running out of time. With €1.2 trillion in liabilities maturing by the end of 2012 (according to Deutsche Bank), they are fast running into a liquidity problem, and the European Central Bank is no longer minded to tide them over with its own, unlimited liquidity beyond the spring. 
+
+The one aspect of the EBA's tests that should really be raising alarm bells is that it is intending not to publish the results of the liquidity tests that it is conducting in parallel with the capital tests. Here, as everywhere else in the world of banking regulation, the lack of transparency is the clearest clue as to the scale of the problem. At the end of last year, the EBA's predecessor CEBS estimated that the 50 largest European banks were around  €1 trillion short of liquid assets under the Basel III rules on liquidity. Now that is something to worry about.
+
+ Write to  Geoffrey T. Smith at geoffrey.smith@dowjones.com 

@@ -1,0 +1,43 @@
+  (See Corrections & Amplifications item below)  
+
+BEIJING—Chinese social-networking company Renren Inc., which is hoping to raise $584 million in a public listing on the New York Stock Exchange, revised a key user number in its prospectus, highlighting the murkiness of data in China's high-flying Internet sector.
+
+When it filed for an initial public offering on April 15, the company said its website, often referred to as "the Facebook of China," added seven million unique users in the first quarter, giving it a total of 31 million active monthly users. 
+
+It had taken Renren.com two years to add as many users before that. 
+
+The outsized growth in the face of competition from other sites prompted some analysts and investors to question the accuracy of the numbers. When asked earlier this week by The Wall Street Journal, a Renren spokeswoman said the filing was accurate and reliable.
+
+On Wednesday, however, the company amended its filing with the U.S. Securities and Exchange Commission, to say it actually added five million users in the first quarter and had two million more users in the fourth quarter. 
+
+The revision means the Renren.com user base rose 19% in the first quarter, compared with a previously reported rate of 29%. 
+
+The prospectus doesn't explain the change and the Renren spokeswoman declined to comment Thursday, citing quiet period restrictions. 
+
+"At best, it's a careless mistake. At worst, it leaves investors with an impression that something dodgy is going on," said  Michael Clendenin, managing director of research firm RedTech Advisors (China) LLC.
+
+The questions over Renren.com's numbers highlight the mystery of Chinese Internet statistics. The lack of reliable numbers is more conspicuous now that the companies' valuations are so high, said  Bill Bishop, a Beijing-based investor who follows the Chinese Internet sector. Mr. Bishop said "savvy investors" don't believe the numbers "other than as directional" indicators.
+
+Renren's move comes as the latest crop of Chinese Web companies are gearing up for IPOs, with Renren's value adding up to as much as $4.4 billion, despite reporting declining revenue for the past two quarters and operating at a loss. 
+
+In recent months, Chinese companies including Renren, online-video provider Tudou Inc. and dating website Jiayuan.com International Ltd., have filed for public listings in the U.S. Shares of Youku.com Inc., an online-video company, have nearly doubled since its debut in December, with nearly a $7 billion market capitalization despite being unprofitable.
+
+The frothy market for Chinese Web start-ups mirrors a surge in Internet valuations in Silicon Valley. Bankers and would-be buyers are circling private U.S. tech companies and putting rich valuations on Facebook Inc., Twitter Inc. and Groupon Inc.
+
+Though there is little dispute that China now has more Internet users than any other nation, there is little agreement on how many people are online here. Government researcher China Internet Network Information Center, or CNNIC, estimates that there were 457 million users as of the end of 2010.
+
+U.S.-based research firm comScore Inc. has a more conservative estimate of just 283 million users. The difference is partially due to the way the entities define the users—CNNIC includes all users from the age of six, while comScore counts users from age 15.
+
+Tencent, which operates QQ, China's most popular instant-messaging service, in addition to online games and a social-networking site, says it has 647.7 million active instant-messaging user accounts—a number which far outstrips even the most generous estimates for China's entire Internet user base. 
+
+  Edward Yu, chief executive of Analysys International, a Beijing-based firm that tracks Internet companies, said the actual number of active QQ users is closer to a third of that number, or less, because many users have multiple accounts. As for Renren, he said its growth "should definitely be declining" owing to competition from Twitter-like microblogging sites like Sina Corp.'s Sina Weibo.
+
+A Tencent spokeswoman said unique active QQ user accounts can be calculated roughly by dividing the number of active user accounts by two but "there is no way to accurately measure" this figure. Ms. Chan said the company's measurement standards are "very stringent in the industry."
+
+Renren, which was founded in 2005, a year after Facebook, earned $76.5 million in revenue last year, up 64% from the year before. The company's founder and chief executive, 41-year-old Joseph Chen, is a U.S. educated Internet entrepreneur and U.S. citizen. The company's underwriters include Morgan Stanley, Deutsche Bank Securities and Credit Suisse Securities.
+
+—Yoli Zhang contributed to this article.
+
+ Write to  Loretta Chao at loretta.chao@wsj.com 
+
+ Corrections & Amplifications:  Chinese social-networking company Renren Inc. said in its original prospectus filed April 15 that active users of its website reached 31 million during the first quarter, up about 29% from 24 million in the fourth quarter. An earlier version of this article incorrectly said the company reported its user number grew by 32% in that period.

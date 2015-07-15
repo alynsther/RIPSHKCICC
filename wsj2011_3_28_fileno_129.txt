@@ -1,0 +1,63 @@
+As medical director for Johns Hopkins University's Center for Innovation in Quality Patient Care,  Peter Pronovost, 46, has spent most of his career as a champion of innovative but practical solutions to fix system flaws that can lead to deadly mistakes and complications in hospitals. That mission took on new urgency in 2001, after 18-month-old Josie King died at Johns Hopkins following missteps in her care.
+
+Read the complete Innovations in  Health Care report.  
+
+Dr. Pronovost's current crusade is preventing deadly bloodstream infections linked to central lines or catheters used in intensive-care units. A pilot project in Michigan showed that participating hospitals reduced rates of infections and death by using a checklist of evidence-based steps to reduce the infections—and by fostering a culture of safety and teamwork.
+
+Dr. Pronovost's boyish appearance and enthusiastic manner belie a steely determination to challenge the status quo in medicine. He hasn't shied away from criticizing his peers for resisting safety and quality improvement efforts, a theme of his 2009 book "Safe Patients, Smart Hospitals."
+
+Dr. Pronovost shared his thoughts about innovation with The Wall Street Journal's Laura Landro. 
+
+  LAURA LANDRO: In your book you describe how hard it is to bring innovation and change to hospitals. What are the barriers to innovation?  
+
+ PETER PRONOVOST: The main barriers are the lack of collaboration and a culture that is resistant to change. There is also a lack of systems integration. In aviation, if an airline wants a new plane, it doesn't order the hull and electronics and seats separately and then cobble it all together. It finds a manufacturer like Boeing that can build an airplane that works for the cheapest price and the best quality.
+
+But you can't buy a functioning ICU or hospital that way. We are building a 1.5 million-square-foot new hospital, and we are looking at 50 to 100 pieces of electronic equipment for the ICU. We have to buy all of them individually, and they don't talk to each other.
+
+In health care we need leadership to create a partnership between academic medicine and industry to pilot-test a new model. We have just created such a learning laboratory at Hopkins and hope we can be the Boeing of health care.
+
+
+
+  MS. LANDRO: You've also used the airline industry as a model to demonstrate the importance of checklists. Why has it been hard for hospitals to enforce the use of checklists that have been shown to reduce infections and mortality?  
+
+ DR. PRONOVOST: The pilot who neglects a checklist before take-off would not be allowed to fly, and most safe industries have transgressions that are firing offenses. … But there hasn't been that kind of accountability in health care.
+
+Nurses and pharmacists work for the hospital, which typically has clear lines of authority and procedures for dealing with failure to follow accepted practices. But physicians are often self-employed, have little training in teamwork and, perhaps like all of us, are often overconfident about the quality of care they provide, believing things will go right rather than wrong. Nurses are often reluctant to question them, and hospitals don't pressure physicians about teamwork for fear of jeopardizing the business they bring to the hospital.
+
+We have a safety course at Johns Hopkins for our medical students that emphasizes the importance of teamwork and communication. Medicare provides a lot of money for training programs, and the federal government could require that we produce doctors in this country who are better trained in teamwork.
+
+  MS. LANDRO: You are now working on expanding the Michigan infection-reduction checklist nationwide. What are the goals of the program and the hurdles to its acceptance?  
+
+ DR. PRONOVOST: The Department of Health and Human Services has called for a 50% reduction in central-line bloodstream infections over three years, but in some states only 20% of hospitals have signed up. We know bloodstream infections kill 31,000 people a year in the U.S., almost as many people as who die from breast cancer. While many hospitals have reduced infection rates, some have infection rates that are 10 to 15 times the national average. Some are content to meet the national average, despite evidence that these rates may be reduced by half.
+
+What is perhaps most concerning is when I ask nurses, "If you saw a senior physician not comply with the checklist, would you speak up and would the physician comply?" Uniformly, the answer is no.
+
+Could you imagine any other industry tolerating the violation of an evidence-based standard that kills 31,000 people a year?
+
+Hospitals and clinicians have the cure, and the program is free. It not only saves lives, it saves money—about $1 million a year for the average hospital.
+
+
+
+  MS. LANDRO: You yourself have warned of checklist overload. Can over-reliance on checklists lead to a false sense of safety?  
+
+ DR. PRONOVOST: A checklist can stall innovation if it isn't updated with new evidence, or if it is made in the absence of evidence. If it is not sound and nuanced, it could cause harm. We don't want to legislate a checklist.
+
+What we should legislate is that hospitals have to report infection rates that are valid, and then let them innovate how to bring them down.
+
+  MS. LANDRO: Is there anything else regulators can do to encourage safety and quality innovation?  
+
+ DR. PRONOVOST: There should be a single entity that can summarize evidence on prevention and develop measures of quality care, such as the health-care equivalent of the Securities and Exchange Commission.
+
+ We can go to an SEC filing and look at the financials of a company and generally believe they are true.
+
+ But even with some public reporting, it is hard to get really good data about things like hospital infection rates. A health-care equivalent to the SEC could make hospital data transparent and accessible.
+
+We also have to establish a mechanism for measuring and reporting outcomes. The number of outcome measures the public has access to is tragically small. Twenty-eight states now mandate data collection on bloodstream infections, and 14 of them publicly report the data.
+
+Public reporting of infections can place social pressure on hospitals. But another lever is economic incentives—not being paid, or facing a financial penalty if there is a bloodstream infection.
+
+Most of these infections are preventable with focused attention: If their rates don't come down, there have to be some sanctions. It could be a reduction in payment or some limitation of the services a hospital is allowed to deliver.
+
+We have the knowledge about how to prevent infections, but it is just not being used or getting the attention it deserves, and that is just astounding.
+
+ Ms. Landro writes The Informed Patient column for the Journal. She can be reached at laura.landro@wsj.com. 

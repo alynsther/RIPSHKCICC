@@ -1,0 +1,55 @@
+Research firms that have taken apart  Motorola Mobility Holdings Inc.
+MMI
+
+
+-0.01
+%
+
+
+
+
+'s Xoom tablet computer uncovered some additional clues about its features and why it costs more to build than  Apple Inc.
+AAPL
+
+
+0.99
+%
+
+
+
+
+'s hit iPad.
+
+UBM TechInsights estimates the components inside the Xoom cost Motorola about $278, compared with about $245 for a comparable iPad with 3G cellular capabilities and 32 gigabytes of flash memory. Motorola priced the Xoom at $799, excluding any wireless service contract, compared with $729 for a similar iPad.
+
+Disassembling Motorola Mobility's Xoom and Apple's iPad to study features, component costs
+
+Xooms, unlike iPads, come with front- and rear-facing video cameras, which UBM estimates cost about $14 to add. Its display boasts higher resolution than the iPad's, and it likely costs about $5 more, the Ottawa-based firm estimates. But IHS iSuppli analyst  Wayne Lam—who has also disassembled the Xoom—noted that the iPad display is based on a technology called in-plane switching that produces a clearer picture at sharp viewing angles.
+
+Analysts are quick to point out that such comparisons may be moot after Wednesday, when Apple is widely expected to introduce an updated iPad at an event in San Francisco. They also are left to speculate about one of Motorola's key choices—why the company didn't introduce a more stripped-down Xoom to compete with the $499 entry-level iPad, which has less memory capacity and comes with Wi-Fi communications capability only.
+
+ I'm still waiting for a tablet that has Windows or the Mac OS at a decent price. $800 for a tablet? That's a good laptop. The recession must be over to shell out money like this to play Angry Birds.
+
+—Robert Torchon
+
+"We do think it will hurt them," said  Susan Kevorkian, an analyst at IDC, of Xoom's higher entry-level price. "Device makers who would otherwise have a good shot at this market are effectively pricing themselves out of it from the get-go."
+
+Motorola, which has shifted from trying to be a mass-market supplier of cellphones, is trying to position itself as a producer of premium devices based on  Google Inc.'s Android operating system.  Sanjay Jha, the company's chief executive, has argued that the Xoom deserves its price tag given its high quality and the fact that it can be upgraded free to 4G cellular technology.
+
+Mr. Jha, at an investor conference Monday, said costs were driven up as Motorola added extra components to make the Xoom compete with Apple's next iPad, not just the current model. "We shot for performance coming out of the gate," he said.
+
+The Xoom, for instance, comes with a chip from  Nvidia Corp.
+NVDA
+
+
+-0.25
+%
+
+
+
+
+ that has dual processors, compared to just one calculating engine on the Apple A4 chip on the iPad. It also has much more dynamic random-access memory to help do multiple computing chores at the same time, iSuppli's Mr. Lam said.
+
+Mr. Jha, who said Xoom sales are off to a good start, expects the tablet market to segment, with lower-priced devices for less demanding users, and will launch new tablets by the end of the year. The company already plans to offer a Wi-Fi only model in Europe, though has not discussed plans to do so in the U.S.
+
+ Write to  Don Clark at don.clark@wsj.com and Andrew Dowell at andrew.dowell@dowjones.com 

@@ -1,0 +1,19 @@
+BANGALORE -- Canada's Research In Motion Ltd. said its talks with India on monitoring the email service on its BlackBerry smartphones are on track and that it isn't facing any deadline to give local security agencies access to the service.
+
+"RIM's dealings with the government of India remain positive," the company said in a statement late Thursday. "...any suggestion that it is facing a Jan. 31 deadline in India is incorrect and contradicts prior clarifying comments from the government itself," RIM said.
+
+The company has been under pressure from the Indian government to provide access to data on its secure networks. India wants to monitor RIM's corporate email and messenger services, fearing BlackBerry's heavy encryption makes the services convenient for terrorists to use without being monitored. It has threatened to ban the services if the BlackBerry phone maker doesn't provide such access.
+
+India already has access to monitor Internet, voice calls and short-messaging services on the smartphones.
+
+Last month, Indian Home Secretary G.K. Pillai, in an interview with The Wall Street Journal, dispelled claims that the smartphone maker will face a service shutdown on Jan. 31 if the government's surveillance demands aren't met.
+
+Friday, the Business Standard website said, without citing any source, that India had earlier extended the deadline for RIM to offer a final solution for giving access to its messenger and enterprise services to Jan. 31 from Dec. 31.
+
+But RIM reiterated that media reports suggesting that the company is enabling, or planning to enable in any time frame, access to data transmitted through the BlackBerry enterprise server are false and that giving such access isn't technologically feasible.
+
+The Business Standard report also said that RIM has sought an additional 18-24 months to address the concerns raised by Indian security agencies demanding access to its email services.
+
+The report said the company is seeking assurances from the government that BlackBerry services won't be banned during this time.
+
+ Write to  Dhanya Ann Thoppil at dhanya.thoppil@dowjones.com 

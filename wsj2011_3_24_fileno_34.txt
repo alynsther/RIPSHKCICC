@@ -1,0 +1,67 @@
+New rules allow investigators to hold domestic-terror suspects longer than others without giving them a Miranda warning, significantly expanding exceptions to the instructions that have governed the handling of criminal suspects for more than four decades.
+
+The move is one of the Obama administration's most significant revisions to rules governing the investigation of terror suspects in the U.S. And it potentially opens a new political tussle over national security policy, as the administration marks another step back from pre-election criticism of unorthodox counterterror methods.
+
+The Supreme Court's 1966 Miranda ruling obligates law-enforcement officials to advise suspects of their rights to remain silent and to have an attorney present for questioning. A 1984 decision amended that by allowing the questioning of suspects for a limited time before issuing the warning in cases where public safety was at issue.
+
+That exception was seen as a limited device to be used only in cases of an imminent safety threat, but the new rules give interrogators more latitude and flexibility to define what counts as an appropriate circumstance to waive Miranda rights.
+
+A Federal Bureau of Investigation memorandum reviewed by The Wall Street Journal says the policy applies to "exceptional cases" where investigators "conclude that continued unwarned interrogation is necessary to collect valuable and timely intelligence not related to any immediate threat." Such action would need prior approval from FBI supervisors and Justice Department lawyers, according to the memo, which was issued in December but not made public.
+
+From Miranda v. Arizona ruling: "Prior to any questioning, the person must be warned that he has a right to remain silent, that any statement he does make may be used as evidence against him, and that he has a right to the presence of an attorney, either retained or appointed. The defendant may waive effectuation of these rights, provided the waiver is made voluntarily, knowingly and intelligently."
+
+ —Chief Justice Earl Warren, 1966 
+
+ Miranda v. Arizona (1966) 
+
+Landmark ruling, citing the Fifth Amendment, says suspects must be reminded of their right to avoid self incrimination.
+
+ Rhode Island v. Innis (1980) 
+
+Police can't perform questioning or its "functional equivalent" if a suspect requests an attorney.
+
+ New York v. Quarles (1984) 
+
+Police don't have to read Miranda rights if there are "overriding considerations of public safety."
+
+ Dickerson v. United States (2000) 
+
+Congress can't void Miranda rights through law.
+
+ Missouri v. Seibert (2004) 
+
+Police can't obtain a confession without a Miranda warning, then provide one and immediately obtain a second confession.
+
+ Berghuis v. Thompkins (2010) 
+
+Suspects don't have to explicitly waive their Miranda rights for a confession to be admissible.
+
+Matthew Miller, a Justice Department spokesman, said the memo ensures that "law enforcement has the ability to question suspected terrorists without immediately providing Miranda warnings when the interrogation is reasonably prompted by immediate concern for the safety of the public or the agents." He said "the threat posed by terrorist organizations and the nature of their attacks—which can include multiple accomplices and interconnected plots—creates fundamentally different public safety concerns than traditional criminal cases."
+
+Attorney General Eric Holder suggested changing the guidelines last year after dust-ups over Miranda's use in two major domestic-terror arrests. The suspect in the Christmas Day 2009 bombing, Umar Farouk Abdulmutallab, was questioned by FBI agents for less than an hour before being read his rights. Times Square bombing suspect Faisal Shahzad was questioned for three hours.
+
+In both cases, the administration said suspects provided valuable information to the FBI despite being advised of their rights. But the decision nonetheless provoked criticism from Republicans and some Democrats who said an opportunity to gain time-sensitive intelligence was lost.
+
+The new guidelines could blunt criticism from Republicans, many of whom have pushed for terror suspects to be sent to military detention, where they argue that rigid Miranda restrictions don't apply. But many liberals will likely oppose the move, as might some conservatives who believe the administration doesn't have legal authority to rein in such rights.
+
+The Justice Department believes it has the authority to tinker with Miranda procedures. Making the change administratively rather than through legislation in Congress, however, presents legal risks. 
+
+"I don't think the administration can accomplish what I think needs to be done by policy guidance alone," said California Rep. Adam Schiff, the top Democrat on the House Intelligence Committee. "It may not withstand the scrutiny of the courts in the absence of legislation."
+
+New York Republican Peter King, chairman of the House homeland-security committee, is among the lawmakers who welcomed Mr. Holder's call to change Miranda. At a hearing last year, Mr. King said, "It's important that we ensure that the reforms do go forward and that at the very least the attorney general consults with everyone in the intelligence community before any Miranda warning is given."
+
+The administration suggested legislation last year to alter Miranda but was rebuffed by Congress, administration officials said. Its proposals faltered due to objections from Democrats, who had no appetite for tinkering with Supreme Court precedent, and Republicans who aired civil-liberties concerns or rejected civilian custody for terror suspects. 
+
+The Miranda protocols have been controversial since the high court formalized a practice that was already in use by the FBI, albeit not uniformly. Conservatives have long argued that the warning impedes law enforcement's ability to protect the public.
+
+President Barack Obama has grappled with a web of terrorism policies cobbled together since the Sept. 11, 2001, attacks. 
+
+Before becoming president, Mr. Obama had criticized the Bush administration for going outside traditional criminal procedures to deal with terror suspects, and for bypassing Congress in making rules to handle detainees after 9/11. He has since embraced many of the same policies while devising additional ones—to the disappointment of civil-liberties groups that championed his election. In recent weeks, the administration formalized procedures for indefinitely detaining some suspects at Guantanamo Bay, Cuba, allowing for periodic reviews of those deemed too dangerous to set free.
+
+The Bush administration, in the aftermath of 9/11, chose to bypass the Miranda issue altogether as it crafted a military-detention system that fell outside the rules that govern civilians. Under Mr. Bush, the government used Miranda in multiple terror cases. But Mr. Bush also ordered the detention of two people in a military brig as "enemy combatants." The government eventually moved both suspects—Jose Padilla, a U.S. citizen, and Ali al-Marri, a Qatari man—into the federal criminal-justice system after facing legal challenges. In other cases, it processed suspects through the civilian system.
+
+An increase in the number of domestic-terror cases in recent years has made the issue more pressing.
+
+The Miranda change leaves other key procedures in place, notably federal rules for speedy presentation of suspects before a magistrate, normally within 24 hours. Legal experts say those restrictions are bigger obstacles than Miranda to intelligence gathering. The FBI memo doesn't make clear whether investigators seeking exemptions would have to provide a Miranda warning at the time of such a hearing.
+
+Also unchanged is the fact that any statements suspects give during such pre-Miranda questioning wouldn't be admissible in court, the memo says.

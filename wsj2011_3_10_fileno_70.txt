@@ -1,0 +1,59 @@
+The Food and Drug Administration approved the first new drug for lupus in more than 50 years, a milestone in the effort to mine data from the human genome to discover and develop new medicines.
+
+The drug, called Benlysta, will be co-marketed by Human Genome Sciences Inc., a Rockville, Md., company that has been on a roller-coaster journey for nearly two decades to develop the medicine, and GlaxoSmithKline PLC, whose investment in the biotech company was one of the first big bets a major pharmaceutical company placed on genomic research.
+
+Analysts expect the drug to reach blockbuster status, with sales eventually topping $1 billion a year. 
+
+Lupus is a chronic, potentially life-threatening disease in which the body's immune system attacks healthy tissue, causing debilitating joint pain, organ damage and skin rashes. The mainstay treatment now is the steroid prednisone, which has serious side effects, and doctors and patient advocates say patients are desperate for new medicines. 
+
+Estimates of how many Americans are affected range from 161,000 to 1.5 million, and the disease is more common in women and in African-Americans than Caucasians. 
+
+Benlysta is a bioengineered antibody that blocks a protein called BLyS, or B-lymphocyte stimulator, which is elevated in lupus and other autoimmune diseases and is believed to contribute to production of cells that attack blood vessels and other healthy tissue.
+
+Human Genome Sciences discovered the drug under its founder William Haseltine through a then-novel strategy of mining a library of human DNA that its scientists compiled. A $125 million investment from Glaxo's predecessor company, SmithKline Beecham, supported the effort. 
+
+Lupus is an autoimmune disease in which the immune system turns against parts of the body it is designated to protect. Here is a look at the impact:
+
+Lupus affects at least 161,000 Americans.
+
+Nine out of ten people with Lupus are women.
+
+It tends to strike young women, and blacks more than whites.
+
+Lupus can cause severe joint and muscle pain, exhaustion, fevers and skin rashes.
+
+It results in about 77,000 hospitalizations each year.
+
+More than 875 people die from lupus each year.
+
+ Source: Centers for Disease Control and Prevention 
+
+Researchers hunted for genes whose function wasn't necessarily known, but whose characteristics indicated they played a role in health and disease. Conventional wisdom then, said Dr. Haseltine, was that you couldn't use a gene to find a drug without knowing what the gene did.
+
+Ultimately it took only a few weeks to find the BLyS gene—one that others had spent years hunting for without success, Dr. Haseltine said.
+
+Skeptics have complained that the early promise of genomics hasn't been borne out, in part because the role of genes in disease turns out to be so complex. Benlysta is one of the first drugs discovered based on mapping of genomic data to make it through to FDA approval, said David Althshuler, professor of genetics and medicine at Harvard Medical School and deputy director of the Broad Institute. 
+
+One version of the drug entered clincal trials in 2000, but its novel discovery didn't prevent the ride to the market from being a bumpy one. A major problem: so little was known about how to evaluate a new lupus drug it took the company, outside experts and the FDA a year to design clinical trials that would determine whether Benlysta helped patients or not. 
+
+Finally, in 2009, results of two clinical studies involving 1,700 patients revealed patients taking Benlysta and standard treatment fared better with their disease than patients not getting the drug. The FDA was initially expected to rule on the drug in December, but postponed its decision until Wednesday.
+
+In approving the drug, the agency said the findings suggested but didn't definitively show that some patients had a reduced likelihood of severe flare-ups, a painful characteristic of the disease. 
+
+Human Genome Sciences estimates the initial market for Benlysta is about 325,000 patients. The company told analysts in a conference call Wednesday night that the price of the drug will be about $35,000 a year per patient, which the company said was in the range of other biologic therapies used to treat similar diseases. 
+
+Doctors welcomed the approval, saying new options for patients are desperately needed. "In select patients, Benlysta appears to have made a major difference in how they were able to deal with their disease," said Benjamin Schwartz, a lupus expert at Washington University School of Medicine, St. Louis, and scientific adviser to the Lupus Research Institute, a patient advocacy group. "The drug may not help everybody, but it does appear to help many people and improve their quality of life."
+
+Other doctors were similarly cautious. "We're going to have to see just where this is going to fit" in how we treat lupus patients, said Betty Diamond, head of the Center of Autoimmune and Musculoskeletal Diseases at the Feinstein Institute for Medical Research, Manhasset, N.Y. 
+
+She noted that many patients in the studies were able to reduce their use of steroids. "If that bears out over the long haul, that would be very good," said Dr. Diamond.
+
+In studies, African-American patients didn't respond as well as white patients to the treatment, and the company has agreed to conduct additional studies in such patients. 
+
+Clinical studies also showed those receiving Benlysta suffered more deaths and serious infections compared with patients not on the drug. Patients using Benlysta will receive a medication guide that will outline the risks associated with the product.
+
+Before Benlysta, the FDA last approved drugs to treat lupus in 1955. Aspirin was approved to treat it in 1948, the agency said.
+
+—Jeanne Whalen and Thomas Gryta contributed to this article.
+
+ Write to  Ron Winslow at ron.winslow@wsj.com and Jennifer Corbett Dooren at jennifer.corbett-dooren@dowjones.com 

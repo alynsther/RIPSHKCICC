@@ -1,0 +1,39 @@
+If you're tired of looking at the world through the same lens all the time, try adding a few virtual objects.
+
+This week, rather than do my usual product testing, I decided to offer a peek into one of the most exciting trends in technology: augmented reality. AR, as it's commonly known, is about as close to magic as we can get without visiting Hogwarts School of Witchcraft and Wizardry. 
+
+Not to be confused with virtual reality, which substitutes a simulated world for the real thing, AR takes a live view of the real world and/or a real object and adds computer-generated graphics or sounds that appear as if they're right in the scene. The resulting visual can look convincing enough that people reach out and try to touch the AR object.
+
+Most smartphones are now built with the technological requirements for AR—including a camera, accelerometer, compass and GPS—so developers are quickly building AR apps that take advantage of these devices. The technology started showing up in apps in 2009, and now hundreds of them use AR.
+
+AR games add objects to real-life places and scenes, like ghosts in Ogmento Inc.'s Paranormal Activity: Sanctuary that appear as if they're on the actual street that people are on, viewed through the people's iPhones.
+
+Viewdle's Social Camera uses AR for social networking as it identifies people in photos by comparing their images to tagged photos of friends in Facebook. Google Goggles uses image recognition to provide information about real-life objects including books, artwork, wine and menus, which can be translated into a language you can read.
+
+You may not realize it, but basic forms of AR are at work in our everyday lives. Some cars, like the 7-series BMW, offer heads-up displays that impose data onto the windshield of the car so drivers don't have to glance down to read things like current speed. 
+
+Armchair quarterbacks appreciate AR every time they see the National Football League's first-down yellow line, visible only to the television audience. And some sporting events now include advertisements that appear on TV as if they're painted on a field or basketball court. 
+
+Each of the developers with whom I spoke about AR's future agreed: Computer vision is the central element to creating AR apps. 
+
+Computer vision describes a device's ability to see, meaning it can recognize an object, extract information from that object and do something with that information. 
+
+AR apps that rely mostly on GPS do more guesswork than object recognition. Google Goggles, for example, takes advantage of GPS for local search when someone uses an Android phone to pan around and see points of interest identified on the screen, like businesses. An app called Layar uses GPS and helps people with things like finding the closest drugstore or getting extra points in a game by walking to a certain place.
+
+One example of a device that uses full-fledged object recognition is Nintendo's 3DS hand-held game, which comes with six AR Cards. With the naked eye, these cards look like small rectangles the size of playing cards with question marks printed on them. When viewed through the 3DS's two outward-facing cameras while playing AR Games, the cards come to life with things like boxes that unfold, a dragon that pops out of the box and bull's-eyes that must be shot using buttons on the 3DS. 
+
+Hallmark Cards Inc. is getting in on the AR action. Some of its greeting cards come with instructions to hold the card in front of a Mac or Windows PC webcam, which makes the characters drawn on the card appear animated on the computer screen. 
+
+The AR Magic Mirror app uses the iPad 2's cameras to impose objects on images of one's face, including masks, hairstyles and marks. The app quickly analyzes the size of one's face and different objects can be selected to appear as if they're being worn in real life. 
+
+This app comes from Total Immersion, a company known for the way it incorporates AR into online and print ads. One online ad includes an interactive driving game that made users feel like they were driving the Volvo S60 through whatever their iPhone or Android camera displayed as AR obstacles fell into the road. In another campaign, people printed out a PDF of the Olympus PEN digital camera, held it to a webcam and saw animated demonstrations of the camera's features, as if the camera—not a piece of paper—was in their hands. 
+
+The Viewdle Social Camera, a free app for Android devices, suggests names of people in photos taken by an Android smartphone by comparing their faces to a database of friends tagged in a person's Facebook account. Viewdle works completely on the smartphone so images don't need to be slowly uploaded to a remote server each time a face is identified. No one is automatically tagged in Viewdle photos; rather, it suggests who it thinks the person is, and the phone's owner approves this suggestion. The photos can then be shared from this app via Facebook, Flickr, email or MMS.
+
+Viewdle's future plans sound exciting: Devices with enough processor power, including some that are out now, will be able to display photos captured on the smartphone with each person's most recent Facebook status update shown in bubbles above their heads.
+
+If you aren't too keen on walking around holding your device up in front of you so you can play AR games or use AR apps, Vusix Corp. designs glasses with AR-visualization capability. But if you wear these glasses, don't expect to get a date anytime soon.
+
+From greeting cards to animated advertisements to mobile gaming, augmented reality is well suited for the smartphones people carry every day and we can expect to see much more of it in coming months and years. 
+
+ Write to  Katherine Boehret at katherine.boehret@wsj.com 

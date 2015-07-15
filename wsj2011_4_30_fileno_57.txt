@@ -1,0 +1,37 @@
+  Amazon.com Inc.
+AMZN
+
+
+-0.99
+%
+
+
+
+
+ issued a detailed account of last week's Web services outage in which it apologized for the shutdown, offered a service credit to customers and promised improved communication in the future. 
+
+Amazon, which rents Web services and storage to companies, posted a nearly 5,700-word report on its website describing the causes of last week's glitch that took down a slew of websites. The company explained a network configuration change caused the shutdown and described what it is planning to do to prevent similar technical problems from happening again. 
+
+Amazon said it will provide a 10-day service credit to customers who were affected by the outage that will be automatically applied to their accounts. 
+
+"We want to apologize," Amazon said on its website. "We know how critical our services are to our customers' businesses and we will do everything we can to learn from this event and use it to drive improvement across our services."
+
+The company was widely scrutinized for last week's outage, which began April 21 and lingered for several days. High-profile start-ups such as Foursquare, Quora and Reddit cited service problems related to the outage. 
+
+Amazon said the primary outage occurred in a data center in northern Virginia when a configuration change to shift traffic was performed incorrectly. The network change was part of a normal scaling activity and was intended to upgrade capacity of the primary network in the data center. 
+
+"Unlike a normal network interruption, this change disconnected both the primary and secondary network simultaneously, leaving the affected nodes completely isolated from one another," Amazon said. 
+
+Amazon's Web-based services are often listed as a model for other such offerings. It allows users to run programs and store information remotely, accessing the applications over the Internet and eliminating the cost of operating the equipment themselves. 
+
+Amazon, which provided more than 20 updates on its status website last week detailing the outage, said it identified improvements that need to be made in how it communicates with its customers. 
+
+The company said it understands that during an outage customers want as many details as possible regarding what caused the problems and how long it will take to fix. Amazon felt it kept customers updated with accurate information and refrained from speculating. 
+
+"That said, we think we can improve in this area," Amazon said. "We switched to more regular updates part of the way through this event and plan to continue with similar frequency of updates in the future." 
+
+Amazon promised it will learn from last week's glitch and do whatever it takes to prevent a similar event happening again in the future. 
+
+"As with any significant operational issue, we will spend many hours over the coming days and weeks improving our understanding of the details of the various parts of this event and determining how to make changes to improve our services and processes," Amazon said.
+
+ Write to  Steven Russolillo at steven.russolillo@dowjones.com 

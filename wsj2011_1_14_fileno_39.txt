@@ -1,0 +1,33 @@
+MUMBAI – Research In Motion Ltd. Thursday said it has provided solutions that will let Indian security agencies access the smartphone maker's popular messenger and public email services, though the tools can't be used to monitor its corporate email services. 
+
+The Indian government, which fears that the heavy encryption on RIM's BlackBerry smartphones makes them convenient for terrorists to use undetected, had asked RIM to grant access to its messenger services before Jan. 31. RIM said that date was a target, but not a deadline. 
+
+The government last November said further consultations would probably be needed on corporate email access, and it didn't set a target for resolving the matter. 
+
+"The lawful access capability now available to RIM's carrier partners meets the standard required by the government of India for all consumer messaging services offered in the Indian marketplace," RIM said in a customer update seen by Dow Jones Newswires. 
+
+The lack of access to corporate emails means RIM still hasn't met one of India's key demands. But the Canadian company reiterated Thursday that neither it nor wireless carriers on whose networks RIM's services are run can decipher the encryptions of corporate email services. 
+
+"No changes can be made to the security architecture for BlackBerry Enterprise Server [corporate email] customers since, contrary to any rumors, the security architecture is the same around the world and RIM truly has no ability to provide its customers' encryption keys," RIM's customer update said. 
+
+Indian government officials couldn't immediately be reached for comment. 
+
+"RIM continues to work closely with the government and RIM's carrier partners in India...We are pleased to have delivered a solution well before a mutually agreed milestone date of January 31, 2011," RIM said. 
+
+BlackBerry devices use an advanced encrypted e-mail system and are preferred by business people because of the secure communication they offer. RIM has been under pressure from several governments, especially in the Middle East and Asia, to provide access to data on the secure networks. 
+
+The company averted a ban on key BlackBerry services in the United Arab Emirates and Saudi Arabia after the countries said regulatory requirements had been satisfied. 
+
+India had initially threatened to ban RIM's corporate email and messenger services, but later withdrew its threat after RIM set up an interim arrangement and agreed to provide access tools for messenger and Internet services by Jan. 31. 
+
+India has been testing solutions offered by RIM to access the BlackBerry messenger service and has previously said it could monitor Internet, voice calls and short-messaging services on the smartphones.
+
+RIM said the Indian government has assured it that other companies providing similar services will also need to grant access solutions on the same level as RIM. 
+
+In December, mobile handset maker Nokia Corp. said it had set up servers in India to allow local security agencies to monitor the Finnish company's enterprise email services. 
+
+As the world's fastest-growing telecommunications market, India is crucial to smartphone makers. More than 40% of Indian customers are corporate email users, analysts say. 
+
+India's smartphone market is expected to grow to about 40 million by the end of 2015 from about 10 million at the end of 2010, according to a forecast by Informa Telecoms & Media. 
+
+ Write to  Romit Guha at romit.guha@dowjones.com and R. Jai Krishna at krishna.jai@dowjones.com 

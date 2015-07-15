@@ -1,0 +1,109 @@
+  Time Warner Cable Inc.
+TWC
+
+
+1.52
+%
+
+
+
+
+ is digging in its heels in a dispute with several big media companies over whether it can beam live TV channels to  Apple Inc.
+AAPL
+
+
+0.99
+%
+
+
+
+
+ iPads, exposing tensions between major TV-industry players as they wrestle with how to adapt to the Internet era. 
+
+  Melinda Witmer, chief programming officer for Time Warner Cable, said in an interview that her company is "well within our rights" to transmit TV channels to any device in the home, as long as it sends signals through its cables and its "secure network," rather than the "open Internet." For that reason, the app is specifically configured to work only when linked to a subscriber's home Internet connection.
+
+
+
+
+
+Ms. Witmer's comments are the latest salvo in a fight that erupted last week when Time Warner Cable, without securing permission, released an iPad app that includes a lineup of 32 live channels that the cable-service provider carries on traditional TV. Those channels include MTV, Discovery Channel and Food Network, among others. 
+
+Several media executives shot back quickly. HGTV owner  Scripps Networks Interactive Inc.
+SNI
+
+
+-0.12
+%
+
+
+
+
+ said it had "not granted iPad video streaming rights to any distributor" and added that it is addressing "any misunderstandings."  Viacom Inc., which owns MTV,  Discovery Communications Inc.
+DISCK
+
+
+-0.09
+%
+
+
+
+
+ and others contended the service violates their contracts, according to people familiar with Viacom's and Discovery's thinking. 
+
+At issue are interpretations of provisions within the tightly negotiated— and lengthy—agreements between media companies and cable operators. Several TV executives say their contracts specifically delineate rights for "cable television."
+
+ One executive contended that distributors have rights only to what is specifically granted in their contracts. Another executive described Time Warner Cable's move as a "land grab."
+
+Ms. Witmer disputed those characterizations. "We don't define in our contracts what a viewing device is, because technology has always been evolving," she said. "I don't know what a TV is anymore. It's kind of an anachronistic term."
+
+The contractual dispute over the new app exposes broader tensions between TV networks and the distributors that pay them more than $30 billion a year in subscription fees, as both sets of companies attempt to chart a perilous digital course. 
+
+Pay-TV providers like Time Warner Cable are moving to counter a threat in the proliferation of new devices, from tablet computers to Internet-connected TVs, that can pipe high-quality video to consumers without a cable or satellite subscription.
+
+Many are rushing to offer video on these devices over the Internet—a concept dubbed "authentication" or "TV Everywhere"— but have been bogged down in some cases by the slow pace of securing Web rights to content.
+
+Time Warner Cable believes its app sidesteps the need for additional rights, while addressing a pressing need to keep up with the way viewers consume TV. Ms. Witmer said the company is planning to expand the app to its full lineup of channels, and to build apps for other devices including connected television sets. 
+
+"It is very important that we be there as a provider," she said. Cablevision Systems Corp.
+CVC
+
+
+1.57
+%
+
+
+
+
+ appears to take a similar view. It has said it plans to launch an even broader service for in-home streaming to Internet-connected devices, including all of its traditional services such as video-on-demand, in coming weeks.
+
+Meanwhile, TV executives have reason to be wary. Some executives see an opportunity to make more money by selling shows and networks to companies like Apple and  Netflix Inc.
+NFLX
+
+
+-2.33
+%
+
+
+
+
+ over the Web. They aren't eager to give those rights to cable operators without additional compensation. 
+
+Viacom recently cut a lucrative deal to put shows including Comedy Central's "The Daily Show" and MTV's "The Jersey Shore" on Hulu. (Hulu's owners include  News Corp.,  Comcast Corp.'s NBCUniversal and  Walt Disney Co.
+DIS
+
+
+0.44
+%
+
+
+
+
+, each of which own TV networks that are streamed within Time Warner Cable's app. News Corp. also owns The Wall Street Journal). 
+
+Some TV executives say the app could cost them. One said that TV networks don't always buy broadband rights to their own TV shows and could be sued by the shows' owners for allowing them to appear within Time Warner Cable's app.
+
+Other media executives worry that encouraging viewers to watch on iPads could train a new generation to eschew TVs—and potentially never sign up for cable and satellite subscriptions that often bring in half TV networks' revenue. 
+
+Time Warner Cable's iPad app also raises another concern for TV networks: counting viewers who watch their programs on new devices. Nielsen doesn't currently include viewing on the iPad in standard TV ratings. A spokesman said the company is "working on a solution to do so."
+
+ Write to  Sam Schechner at sam.schechner@wsj.com 

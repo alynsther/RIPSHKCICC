@@ -1,0 +1,11 @@
+Even the casual fan knows the NBA is full of chuckers—those frustrating players who hoist up fade-away jumpers in the face of a double-team. But with the help of advanced math, we can finally pinpoint the greatest offenders. 
+
+Matt Goldman, a graduate student at the University of California, San Diego, and Justin Rao, a research scientist at Yahoo Labs, have identified the three biggest "overshooters" in the NBA: the Thunder's Russell Westbrook, the Bobcats' Tyrus Thomas and the Lakers' Lamar Odom. Conversely, they named the Hornets' Chris Paul the biggest "undershooter." 
+
+To compile the lists, the researchers tracked 400,000 possessions over the past four full seasons and noted the time on the shot clock when the first shot went up (they excluded fast-breaks). Then they used a statistical procedure known as a "Maximum Likelihood Estimation" to find each player's "marginal shot"—the most difficult shot each player is consistently willing to take. Using this information, the researchers were able to analyze when in the shot clock each player takes these low-percentage shots and how efficient he is at making them. Finally, they ran a statistical test to see how a player's shot selection compares to how his team would have fared otherwise. The results showed which players would help their team by taking more difficult shots and which should be more bashful.
+
+Goldman said overshooters are generally players who try to create shots too early in the shot clock. In Westbrook's case, the Thunder would be better off if he passed more. Undershooters, meanwhile, are often stars who choose not to shoot as much as they probably should—LeBron James should have actually shot more during his time with Cleveland. 
+
+—Jared Diamond
+
+Over the past four full seasons, here are the NBA's biggest "overshooters" and "undershooters," based on a formula that estimates when a player should shoot and when he'd be better off passing.

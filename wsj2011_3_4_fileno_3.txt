@@ -1,0 +1,21 @@
+Internet service was blocked in much of Libya, notably the capital city of Tripoli, making it difficult for people to plan or communicate Friday in the violence-torn country.
+
+U.S. firms that monitor global Internet networks reported that Web traffic in and out of Libya was disconnected abruptly Thursday afternoon local time and continued to be unavailable late Friday. 
+
+Tripoli, a city of 2 million people, was suffering a near-total outage, according to residents in several neighborhoods, as well as Libyans abroad who are in telephone contact with family members in other neighborhoods.
+
+  Google Inc., which tracks the status of its services, reported a sudden halt in traffic from Libya starting at approximately 2 p.m. local time Thursday (7 a.m. EST) and continuing through Friday. A Google spokeswoman said the company's search engine as well as YouTube and Gmail services "are inaccessible" in Libya.
+
+It wasn't clear what was causing the outage, though network-security experts said it was unusual for a country like Libya, which has multiple connections to the outside world, to drop off the Internet. 
+
+"For a country the size of Libya, it's unlikely that a single event, a naturally-occurring event, would isolate a country," said  Craig Labovitz, chief scientist of Arbor Networks Inc., an Internet security company in Ann Arbor, Mich. For Libya, he said it would be relatively easy to reprogram few server computers or turn off power to "a handful of data centers" to cut the country's connections to the Internet.
+
+Earlier this year, in the face of mounting political unrest, Egypt's government took the unprecedented step of severing all Internet connections and shutting down its cellphone services—with the cooperation of international firms. The services were restored about a week later.
+
+Internet access in Tripoli went down late Thursday night and mobile-phone connections were patchy throughout Friday. Web access was restored at least temporarily at one or two major hotels where foreign journalists are staying. 
+
+Jim Cowie, chief executive of Renesys Corp., a network security firm in Manchester, N.H., said it marked the third time in recent weeks that Internet has been unavailable in Libya. There were two overnight outages about a week ago.
+
+Libyia Telecom & Technology, or LTT, is the country's main international Internet service provider. Mr. Cowie said international connections to Libya are open and Internet traffic is making it to the Libyan border but "they're not passing any traffic. I think that has to be by choice."
+
+—Margaret Coker contributed to this article.

@@ -1,0 +1,31 @@
+This fall, the Chinese National University of Defense Technology announced that it had created the world's fastest supercomputer, Tianhe-1A, which clocks in at 2.5 petaflops (or 2,500 trillion operations) per second. This is the shape of the world to come—but not in the way you might think. 
+
+Powering the Tianhe-1A are some three million processing cores from Nvidia, the Silicon Valley company that has sold hundreds of millions of graphics chips for videogames. That's right—every time someone fires up a videogame like Call of Duty or World of Warcraft, the state of the art in technology advances. Hug a geek today.
+
+
+
+What a switch. For centuries, the military has driven technology forward, fostering new waves of industrialization and corporate use. James Watt's steam engine was perfected with the help of a cannon-boring tool. Computers were created during World War II to calculate artillery firing and to break codes. The military bought half of all semiconductors until the late 1960s. Even the first global-positioning systems (GPS) were funded by Congress, not for navigation but as a nuclear detonation detection system. Add microwave ovens from radar, Blu-ray discs from lasers, or Velcro and Tang from NASA, and there's no doubt how much government acquisition programs have shaped our lives. 
+
+Fifty years ago, President Eisenhower was worried enough to declare that "We must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex." No need to worry anymore. That game (pardon the pun) is over: Welcome to the entertainment-industrial complex.
+
+Consider the Apple iPhone, often touted as the tech symbol of our era. It's actually more evolutionary than revolutionary. Much of its technology—color LCD displays, low power usage, precision manufacturing—was perfected for hand-held videogames like the Nintendo DS and Sony PSP, which sold in the tens of millions. Think about how much more productively workers are now able to communicate because of some silly games.
+
+It's all about productivity. Last week, kids of all ages dropped everything to plug a $150 device called Kinect into their Microsoft Xbox 360 game consoles. Five million sold in the last two months. Kinect, which uses algorithms to recognize faces and gestures and respond to voice commands, allows Xbox players to use only their own movements, no controllers or button pushes needed. 
+
+Sure, there are still some algorithms developed for, say, F-16 pilots' fire control. But without gaming, this technology would be expensive, one-off stuff that never sees much use. Much as keyboards and mice and fast graphics have driven corporate productivity for 40 years—killing carbon paper and Correcto Type—the next decades will be driven by tools that can harness voices and gestures. 
+
+All it takes is one application. High-margin industries like finance usually deploy these things first: The early adopters could be traders in commodity pits signaling like crazy folk. The rest will follow.
+
+Videogames will influence how next-gen workers interact with each other. Call of Duty, a military simulation game, has a mode that allows players to cooperate from remote locations. In World of Warcraft, players form guilds to collaborate, using real-time texting and talking, to navigate worlds presented in high-resolution graphics. Sure, they have funky weapons and are killing Orcs and Trolls and Dwarves, but you don't have to be a gamer to see how this technology is going to find its way into corporate America. Within the next few years, this is how traders or marketers or DNA hunters will work together. No more meetings! 
+
+Even the entertainment and media businesses will be transformed. In 1985, Neil Postman of New York University wrote a book, "Amusing Ourselves to Death," disparaging the media for ruining discourse. Postman died in 2003, but I wonder what he'd think today: Online ad sales are now more lucrative than newspaper advertising, as marketers follow their customers. Netflix video streaming will change the cable TV business. The videogames Rock Band and Guitar Hero have taught the media how to package something that's at least 30 years old, in this case music you play along with, and sell it as if it were new.
+
+So why has the military been displaced? For one, capital formation. Governments had the unique capacity to raise (read: tax) the enormous capital needed to fund state-of-the-art projects. But a fully functioning stock market can raise billions for productive commercial applications, bypassing the military connection. Hate Wall Street all you want, but it's now better than wars at driving progress.
+
+Second, displacing the military is about high sales volume. Often that means lower costs. The $300 Roomba automatic vacuum, which the company iRobot says it has sold to five million customers, helps drive down the cost of the Army's robotic bomb removers. Volume is especially good at spurring the creation of new applications. Hardware is nothing without software and apps. Caffeine-fueled coders won't even think about writing apps unless there are millions, if not tens of millions, of potential customers.
+
+Once consumers adapt to these entertaining applications, corporations figure out how to use them to increase productivity. Smart companies are harnessing Facebook connections. Twitter all of a sudden matters. Voice recognition is displacing operators and other frontline workers. Next in the work place will be 3D technology. 
+
+The economy is not going to create wealth just because we print dollars, build fast trains, put up windmills, or even assemble military supercomputers. (For the record, Google has the largest and fastest supercomputer, spread over dozens of data centers.) Even China will someday learn that wealth only comes from productivity. That's found in a different place every cycle—and the stock market will find it first and fund its expansion. So where is it now? It's staring us in the face and amusing us to a better life.
+
+ Mr. Kessler, a former hedge-fund manager, is the author of "Eat People—And Other Unapologetic Rules for Game-Changing Entrepreneurs," forthcoming from Portfolio. 

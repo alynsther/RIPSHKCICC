@@ -1,0 +1,23 @@
+How much do the decisions of parents matter? Most parents believe that even the most mundane acts of parenting—from their choice of day care to their policy on videogames—can profoundly influence the success of their children. Kids are like wet clay, in this view, and we are the sculptors. 
+
+Yet in tests measuring many traits, from intelligence to self-control, the power of the home environment pales in comparison to the power of genes and peer groups. We may think we're sculptors, but the clay is mostly set. 
+
+A new paper suggests that both metaphors can be true. Which one is relevant depends, it turns out, on the economic status of families. 
+
+For a paper in Psychological Science, researchers at the University of Texas at Austin and the University of Virginia looked at 750 pairs of American twins who were given a test of mental ability at the age of 10 months and then again at the age of 2. By studying the performance of identical versus fraternal twins, the scientists could tease out the relative importance of factors such as genetics and the home environment. Because the infants came from households across the socioeconomic spectrum, it also was possible to see how wealth influenced test scores. 
+
+
+
+When it came to the mental ability of 10-month-olds, the home environment was the key variable, across every socioeconomic class. But results for the 2-year-olds were dramatically different. In children from poorer households, the choices of parents still mattered. In fact, the researchers estimated that the home environment accounted for approximately 80% of the individual variance in mental ability among poor 2-year-olds. The effect of genetics was negligible.
+
+The opposite pattern appeared in 2-year-olds from wealthy households. For these kids, genetics primarily determined performance, accounting for nearly 50% of all variation in mental ability. (The scientists made this conclusion based on the fact that identical twins performed much more similarly than fraternal twins.) The home environment was a distant second. For parents, the correlation appears to be clear: As wealth increases, the choices of adults play a much smaller role in determining the mental ability of their children. 
+
+Children from wealthy households get all the advantages that money can buy, from music lessons to SAT tutors. Although parents might fret over the details of such advantages—is it better to play the piano or the violin?—these details are mostly insignificant, subject to the law of diminishing returns. As the science blogger Razib Kahn notes, "When you remove the environmental variance, the genetic variance remains." 
+
+These results capture the stunning developmental inequalities that set in almost immediately, so that even the mental ability of 2-year-olds can be profoundly affected by the socio-economic status of their parents. As a result, their genetic potential is held back. 
+
+Though this latest study doesn't speculate about the causes of these class differences, previous research has focused on a panoply of factors, such as the variety of words directed toward the child (more variety leads to higher test scores), the number of books in the home and even the ratio of encouraging remarks to discouraging warnings. By the age of 3, children from wealthier households hear, on average, about 500,000 encouragements and 80,000 discouragements. The ratio is reversed in households on welfare.
+
+Such statistics have led many researchers to highlight the importance of improving the early-childhood environments of poor children. Economists such as James Heckman, a Nobel laureate at the University of Chicago, have long advocated for increased investments in preschool education, but this latest study suggests that interventions need to begin even earlier. One possible model is the "Baby College" administered by the Harlem Children's Zone, which seeks to equip brand-new parents with better parenting skills. 
+
+Eliminating such inequalities in the early years of life would simply create a new kind of inequality, driven by genetics. But such a world would at least let more children come closer to their mental potential, unconstrained by the mistakes or impoverishment of their parents. The greatest luxury we can give our children, it turns out, is the luxury of being the type of parent that doesn't matter at all.

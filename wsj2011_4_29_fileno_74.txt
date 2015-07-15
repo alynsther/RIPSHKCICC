@@ -1,0 +1,43 @@
+  Ben Bernanke held the first postpolicy-meeting news conference by a Federal Reserve chairman in part to bolster confidence that the Fed remained committed to controlling inflation. The words "inflation expectations," or some variation of them, were uttered 21 times in the session.
+
+While investors and the public have concerns about short-term price increases, they appear to have confidence in Mr. Bernanke's ability to control inflation over the long-term. That is crucial to the Fed's success in rebooting the economy, because once higher long-term inflation expectations take root, they can become self-perpetuating, which would mean higher interest rates that could slow growth.
+
+"You would think, by watching TV or listening to people ranting, that inflation expectations are out of control," said  Dan Greenhaus, chief economic strategist at Miller Tabak & Co. "But clearly they are well-contained."
+
+Inflation is rising, driven by higher oil and food prices. On Thursday, the Commerce Department reported that the personal consumption expenditure price index, the Fed's favored inflation gauge, rose at a 3.8% annual rate in the first quarter, the biggest increase since the third quarter of 2008.
+
+But looking beyond the next year, inflation worries are surprisingly muted and have actually fallen slightly in recent weeks.
+
+Long-term inflation-expectation gauges, from consumers and from the bond market, remain subdued and are little changed from a year ago. They point to inflation that isn't far above the average of the past decade, when inflation was historically low.
+
+One rough gauge of future inflation expectations is the gap between yields on plain-vanilla Treasury bonds and Treasury inflation-protected securities of the same maturity.
+
+TIPS are regularly adjusted for inflation, so this gap in yields, called the break-even inflation rate, shows how much future interest traders are willing to give up for inflation protection, which can be interpreted as the future inflation rate they expect.
+
+The 10-year break-even inflation rate earlier this month surged to 2.66%, the highest since 2006. Amid a host of downbeat economic data in recently, that rate has retreated to less than 2.6%. These numbers are relatively high in the short history of break-even inflation rates, but that period was one of historically low inflation.
+
+And the simple break-even inflation numbers include short-term inflation worries. To get a clearer look at long-term inflation expectations, many take the break-even inflation calculation another step further and come up with a "forward" break-even rate, which tries to strip out short-term noise to get a truer read on long-term inflation expectations.
+
+One favorite such measure is the "five-year, five-year-forward" break-even rate, which measures inflation expectations starting five years from now and running five years from that date.
+
+The Federal Reserve Bank of New York's five year, five-year forward break-even rate estimate, widely acknowledged as the gold standard of such rates, was recently 3.02%, slightly below its level in November, when the Fed announced its $600 billion quantitative easing program, or QE2.
+
+That compares to the average rate of 2.7% over the past 10 years—a period that might be called the most disinflationary decade since the 1930s—but down from a high of 3.28% in December.
+
+"Inflation expectations are still toward the upper end of their range, but they have come off their recent peak," said  Michael Pond, Treasury and inflation-linked strategist at Barclays Capital. "That gives the Fed a little more breathing room."
+
+A measure of long-term consumer inflation expectations echoes the message of the TIPS market. According to a monthly survey by the University of Michigan, consumers expect CPI inflation of just 2.9% in the next five years, according to a preliminary survey in April.
+
+That long-term calm is in stark contrast to consumers' short-term view, which sees inflation jumping 4.6% in the next year, the highest since August 2008, when oil prices were just off their highs near $150 a barrel.
+
+Similarly, a recent study by the New York Fed found that only short-dated Treasury debt had priced in inflation fear in recent months. Inflation expectations actually seemed to ease in Treasury debt maturing in 2013 and beyond, according to the study.
+
+Many economists, likely including those at the Fed, doubt longer-term inflation pressures can take hold with unemployment still near 9%. The Labor Department on Thursday reported a jump in weekly jobless claims, which have started drifting higher again, a sign of lingering job-market weakness.
+
+"The prospect of a wage-price spiral is much less than the prospect of a sharper slowdown in the economy," said  Bernard Baumohl, chief global economist at the Economic Outlook Group in Princeton, N.J.
+
+The Fed's decision to stick to an ultraloose monetary course was vindicated by gloomy U.S. economic data, giving Treasury prices a lift. Late afternoon, the benchmark 10-year Treasury gained 14/32 points, lowering its yield to 3.316%. The two-year note gained 4/32 to yield 0.625%. Both yields are the lowest since March 18. Bond prices and yields move inversely. 
+
+—Cynthia Lin
+
+ Write to  Mark Gongloff at mark.gongloff@wsj.com 

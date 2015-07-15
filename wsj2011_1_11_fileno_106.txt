@@ -1,0 +1,47 @@
+  Robert Muglia, a 23-year  Microsoft Corp.
+MSFT
+
+
+0.18
+%
+
+
+
+
+ veteran and president of its server and tools business, will become the latest high-ranking executive to leave the company. 
+
+In a letter to Microsoft employees Monday, Chief Executive  Steve Ballmer took the unusual step of saying it was his decision to seek a new leader for the server and tools division, a $15 billion-a-year business that encompasses everything from programming tools to database software to Microsoft's Windows operating system for servers. 
+
+Mr. Ballmer said in the letter that he made the decision after conversations with Mr. Muglia about the "overall business and what is needed to accelerate our growth," though he wasn't specific about his reasons or whether there were disagreements between the two men. 
+
+Because of the decision to replace him, Mr. Ballmer said Mr. Muglia decided to leave the company this summer. Mr. Ballmer said the company will look for a replacement for Mr. Muglia inside and outside the company. 
+
+A spokeswoman for Microsoft declined to make Messrs. Ballmer and Muglia available for interviews. 
+
+While there has been speculation inside Microsoft about disagreements between the two men, Mr. Muglia's ouster caught analysts and former executives of the company off guard. A well-regarded manager, Mr. Muglia runs a business that is performing well by most accounts in a generally rocky environment for business spending on technology. 
+
+Microsoft's server and tools business had an operating profit during its fiscal year ended June 30 of $5.49 billion on revenue of $14.87 billion, up 14% and 5%, respectively, from the prior year. 
+
+According to one person familiar with the matter, Messrs. Muglia and Ballmer disagreed about how to allocate resources within the division to new areas that aren't yet delivering big sales, such as cloud computing. Mr. Muglia's group oversees Windows Azure, an online service that lets businesses develop and run applications in Microsoft data centers.
+
+  Al Gillen, an analyst at IDC, said it will be difficult for Microsoft to find an executive with Mr. Muglia's depth of technical knowledge about the company's products, and has a great rapport with the chief information officers of its customers.
+
+Mr. Muglia's planned exit comes after a year of frequent leadership changes at the company, including the departure of chief software architect  Ray Ozzie, business division president  Stephen Elop and entertainment and devices division president  Robbie Bach, all of which were voluntary, according to Microsoft. The company's former finance chief  Chris Liddell left in late 2009, later becoming the chief financial officer of  General Motors Co.
+GM
+
+
+0.28
+%
+
+
+
+
+ 
+
+Mr. Muglia had a turbulent relationship with Mr. Ballmer for much of his career at the company. In 2001, Mr. Ballmer demoted Mr. Muglia, who at the time was heading Microsoft's Internet business, including an ambitious online project called Hailstorm. The service required people to entrust personal information to Microsoft and earned widespread criticism from privacy advocates.
+
+Mr. Muglia was reassigned to the Windows group in a less high-profile job creating software for managing data storage. "I went in a 24-hour period from having 3,000 people working for me to one," he once said in an interview.
+
+Mr. Muglia restored his credibility by helping the company successfully respond to challenges like the threat from the Linux operating system. To reward him for his efforts, Mr. Ballmer appointed him president of server and tools in early 2009. 
+
+ Write to  Nick Wingfield at nick.wingfield@wsj.com 

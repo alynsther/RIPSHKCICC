@@ -1,0 +1,77 @@
+Stocks are on a roll, with the Dow Jones Industrials gaining 0.84% the first week of 2011 and keeping a four-month rally alive. But some signs point to a short-term market drop. 
+
+The good news: insuring against such a decline is cheaper than it has been in a long time.
+
+Rallies don't last forever, and this one is beginning to look ripe. Consider: The percentage of bulls in the Jan. 5 American Association of Individual Investors poll was 55.9%, higher than its 2007 peak. The National Association of Active Investment Managers survey, which measures the equity exposure of its members, came in at 78.5% on Jan. 5, near levels reached in April—right before a 16% stock-market drop. 
+
+Long-term risks, meanwhile, remain elevated. The Federal Open Market Committee minutes, released on Tuesday, listed some grim scenarios for 2011 and beyond: weaker housing activity and prices, potential contagion from Europe's debt woes and the stressed fiscal situation of U.S. states and municipalities. Other observers worry about slowing Chinese growth and declining U.S. profit margins.
+
+"There are still a lot of headwinds the market is ignoring," says  Wasif Latif, vice president of equity investments at USAA. "When everyone is bullish, you should be looking to hedge." 
+
+Of course, it is impossible to predict what the market will do in the months ahead, but many investors seem overly sanguine. The CBOE S&P 500 Volatility Index, or VIX—a widely used measure of investor risk perception—has dropped by a third since Aug. 31 to 17.4, and is near levels reached last April. 
+
+That has presented opportunities for investors looking to hedge their bets against a sudden market drop. Investment products linked to volatility, ranging from options to exchange-traded funds and notes, are cheaper now than they have been since the market lows of last April. 
+
+One way to hedge is to use "put" options, which grant investors the right to sell a security at a prearranged price and can protect an investor if the market falls. On Jan. 4, an investor could have hedged a $100,000 portfolio with a January put option on the  SPDR S&P 500 ETF Trust
+SPY
+
+
+0.43
+%
+
+
+
+
+ for $1,690. In early September, it would have cost $2,530. 
+
+"Given the state of the world, shorter-dated options look relatively inexpensive," says  Justin Egan, a senior index trader at Jefferies & Co. 
+
+Investors worried about a global market drop of more than 10% to 15% could use options on emerging-market indexes instead of developed-world ones, says  Benjamin Bowler, head of global equity derivatives research at Bank of America Merrill Lynch. Options on Taiwan's TWSE index protecting against a 15% drop in three months, for example, are 40% cheaper than similar options on the S&P 500. To protect against smaller drops, stick with S&P options. 
+
+Wary of options? You have another choice: exchange-traded funds and notes that track the VIX and tend to rise during periods of volatility. On Monday, PowerShares launched two such ETFs,  ProShares VIX Short-Term Futures
+VIXY
+
+
+-1.01
+%
+
+
+
+
+ and  ProShares VIX Mid-Term Futures,
+VIXM
+
+
+0.36
+%
+
+
+
+
+ to compete with  iPath S&P 500 VIX Short-Term Futures
+VXX
+
+
+-0.89
+%
+
+
+
+
+ and iPath S&P 500 VIX Medium-Term Futures ETNs.
+
+These products are far from foolproof and are recommended only for the most sophisticated investors. For starters, they buy VIX futures, which are priced according to investor perception of future volatility, not the VIX itself. Be warned: Since they are pricing volatility one to five months out, they rise less than the VIX when volatility flares, on the assumption that volatility will decrease.
+
+The gain in the iPath Short-Term ETN from May 5, the day before the "flash crash," through its May 20 peak was about half of the VIX's 84% rise, while the iPath Medium-Term note's advance was just one-quarter the VIX's rise.
+
+And because the notes and funds must buy new futures contracts as the old ones expire, the losses can be greater than one would expect. Since May 20, the iPath Short-Term has declined 73%, 12 percentage points more than the VIX itself. The iPath Medium-Term has fallen 31%—much better than the VIX but still less than the ETN's May gain.
+
+Still, adding medium-term futures can reduce volatility and increase gains, Merrill Lynch back-testing research shows. A portfolio with 90% allocated to the S&P 500 and 10% to the index underlying the iPath Medium-Term ETN would have gained 5.6% a year since December 2005, versus a 3.7% gain for the S&P 500 alone. 
+
+It also would have reduced swings in the portfolio from 19.4% to 15.3%, Bank of America Merrill Lynch says. 
+
+In 2010, however, a 10% iPath Medium-Term allocation would have resulted in a 1.4% drag on returns, according to Thomson One data.
+
+And that is the pitfall of all hedging strategies: They don't always work as expected. In fact, there is only one foolproof way of removing risk altogether—selling your investments.
+
+ Write to  Ben Levisohn at Ben.Levisohn@wsj.com 

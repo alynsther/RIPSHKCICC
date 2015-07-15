@@ -1,0 +1,37 @@
+The Obama administration plans to ask Congress Wednesday to pass a "privacy bill of rights" to protect Americans from intrusive data gathering, amid growing concern about the tracking and targeting of Internet users. 
+
+Lawrence E. Strickling, an assistant secretary of commerce, is expected to call for the legislation at a hearing of the Senate Commerce Committee, said a person familiar with the matter. 
+
+This person said the administration will back a law that follows the outlines of a report issued by the Commerce Department in December. The administration wants any new rules to be enforceable and will look to expand the Federal Trade Commission's authority, this person said.
+
+Among other things, the December report suggested that companies should ask an individual's permission to use personal data for a purpose other than for which it was collected. The administration also eventually could propose that consumers be given the right to access information about themselves and to have the information stored securely, the person said. 
+
+The administration's plan to push for legislation reflects a shifting attitude by the government, which for more than a decade favored a hands-off approach to the Internet. Officials have said the increasing intrusiveness of online tracking has forced them to reassess that approach. 
+
+In the past year, The Wall Street Journal's "What They Know" series has revealed that popular websites install thousands of tracking technologies on people's computers without their knowledge, feeding an industry that gathers and sells information on their finances, political leanings and religious interests, among other things.
+
+In December, the FTC called for development of a "do not track" system that would let Internet users avoid having their online activity monitored. And the makers of the two most-popular Web browsers— Microsoft Corp.
+MSFT
+
+
+0.57
+%
+
+
+
+
+ and Mozilla Corp.—have said they are incorporating do-not-track features in current or future products. 
+
+Now, a group of about 30 online-advertising companies is preparing to break with most of the industry and support a proposal for a single do-not-track tool. The group, which includes Exponential Interactive Inc., Burst Media Corp., Audience Science Inc., Casale Media Inc. and Specific Media LLC, said it wants the ad industry to work with browser makers to develop one technology solution that would let Internet users avoid being tracked. 
+
+"It is really a simple, explicit and permanent way for the user to indicate their intent not to be tracked. All they have to do is check a simple box in the browser," said  Dilip DaSilva, chief executive of Exponential Interactive. The company operates Tribal Fusion, the 13th-largest online-advertising network in the U.S., reaching 146.1 million unique U.S. visitors monthly, according to research firm comScore Inc.
+
+The group's proposal bucks the industry's major trade groups, which have said their members don't know how to accommodate browser do-not-track requests, and have backed alternative ways for Web surfers to elect not to be tracked. In recent months, the industry has been promoting an icon that appears on certain online ads to alert consumers they are being targeted and lets them opt out of tracking by dozens of ad networks. 
+
+Tuesday,  Mike Zaneis, senior vice president and general counsel of the Interactive Advertising Bureau, said the new proposal was from a "small group of advertising networks." But, he added, "We want to work with all the browser companies to see if this is technically feasible." 
+
+The Commerce Department's December report suggested creating a privacy bill of rights but, until now, the administration hasn't called for specific legislation. The person familiar with the matter said officials would "begin a process of working with Congress on defining" the privacy protections to be included in the law. 
+
+Several legislative proposals on privacy have been circulated on Capitol Hill in recent weeks. Sens. John McCain, an Arizona Republican, and John Kerry, a Massachusetts Democrat, have been distributing a draft bill that broadly tracks the Commerce recommendations, which were developed in part by Sen. Kerry's brother Cameron.
+
+ Write to  Emily Steel at emily.steel@wsj.com 

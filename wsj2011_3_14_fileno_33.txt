@@ -1,0 +1,65 @@
+HONG KONG—Global technology companies will likely face higher component costs and possible product shortages in the weeks ahead, after disasters in Japan over the past few days have disrupted power, production lines and supply networks.
+
+Components such as memory chips and liquid crystal displays are used in consumer electronics ranging from smartphones to televisions, and a shortage from Japan—which was struck by a massive earthquake and tsunami on Friday followed by troubles at some nuclear power plants—may leave consumer electronics companies scrambling.
+
+A number of Japanese technology manufacturers, including  Sony Corp.,  Panasonic Corp. and  Fujitsu Ltd.
+FJTSY
+
+
+-1.76
+%
+
+
+
+
+, in recent days announced closures of multiple plants as they assess damages and ahead of major power outages throughout Japan that are expected to last for several weeks.
+
+Japan is home to several memory chip makers, including  Elpida Memory Inc. and  Toshiba Corp.
+TOSYY
+
+
+-2.15
+%
+
+
+
+
+, the world's second-largest NAND flash memory chip producer by revenue after Samsung Electronics Co. of South Korea. The country also accounts for a significant share of components used in liquid-crystal-display panels and related products, including glass and light-emitting diodes. 
+
+Toshiba is a key supplier of NAND flash memory to  Apple Inc.
+AAPL
+
+
+0.92
+%
+
+
+
+
+ for use in iPhones and iPad tablets. The market for NAND flash chips has seen strong momentum this year as many global technology firms launch tablets to compete with Apple's popular iPad.
+
+Prices of the widely used 32-gigabit NAND flash chip, typically used in smartphones and tablets to store data, jumped as much as 17.7% in late Asia trade Monday, according to DRAMeXchange, Asia's biggest spot market for chips, reflecting concerns that a global supply shortage could be looming.
+
+"Suppliers are likely to encounter difficulties in getting raw materials supplied and distributed and shipping products out. This is likely to cause some disruption in semiconductor supplies from Japan during the next two weeks," research firm IHS iSuppli said in a note. 
+
+Analysts said they expect memory chip and other component prices could rise further in the near term as uncertainties linger about supply, which could push costs higher for global consumer electronics makers. 
+
+"We expect phenomenal price swings and large near-term shortages as a result of this earthquake," said  Jim Handy, an analyst at Objective Analysis. "Over 40% of the world's NAND flash … are manufactured in Japan. It doesn't take a large production decrease to cause prices to increase dramatically." 
+
+IHS iSuppli said companies headquartered in Japan generated $63.3 billion in microchip revenue in 2010, representing 21% of the world-wide market. 
+
+Over the weekend Toshiba said a chip plant in the quake-struck Iwate Prefecture had suspended operations while the company was assessing the situation. The company said Monday there appears to be no significant damage to the factory building of the plant, but added that it isn't certain when the factory can resume production. 
+
+"We are still carefully examining any possible impact on the production equipment caused by the earthquake. While the effect so far [on the NAND flash memory facilities] is minimal, we will continuously monitor the earthquake impact including the broader supply chain," said spokesman Keisuke Ohmori.
+
+Elpida said in a statement Monday that operations at its Hiroshima plant remain "normal" and no silicon wafers—the material used to produce semiconductors—were scrapped from the earthquake. 
+
+Samsung said it doesn't have any manufacturing facilities for key components in Japan, and added that it is monitoring the situation. The company said Friday that the quake in northern Japan affected its semiconductor and liquid crystal display manufacturing sites in South Korea, freezing some production lines for about two hours that day. Samsung said the quake would have little or no further impact on the plant. 
+
+Taiwanese contract chip makers  Taiwan Semiconductor Manufacturing Co. and  United Microelectronics Corp. said Monday the earthquake in Japan won't impact their raw wafer supplies in the near term as they have adequate inventories and multiple suppliers. 
+
+  AU Optronics Corp., Taiwan's biggest LCD supplier, said Saturday it shut its solar-wafer production plant in Sendai, an area hardest hit by Friday's earthquake. A company official said Monday it had no immediate update on the situation. 
+
+—Lorraine Luk in Taipei, Jung-Ah Lee in Seoul and Juro Osawa in Tokyo contributed to this article.
+
+ Write to  Yun-Hee Kim at yun-hee.kim@dowjones.com 

@@ -1,0 +1,29 @@
+Times are good for Web- and mobile-application developers. 
+
+The number of online listings containing the keywords "HTML5," "Mobile app," and "Android," have skyrocketed over the past year, making them the fastest growing keywords in jobs posted online, according to data tracked by jobs search engine Indeed.com.
+
+The number of job listings requesting HTML5, the latest version of the language used to display Web pages, increased 13-fold between the first and fourth quarters of last year, according to Indeed. "Twitter" and "jQuery," which is used in JavaScript programming, rounded out the top five fastest growing keywords. 
+
+Customers of Dice.com, a job board for tech professionals, expect cloud computing—which enables users to access programs and data stored online—and mobile-application development to be two of the quickest growing in-demand skill sets this year, said  Tom Silver, senior vice president of North America for  Dice Holdings Inc.
+DHX
+
+
+-1.21
+%
+
+
+
+
+ 
+
+"Virtually all companies are figuring out how to make use of mobile apps and don't know how to do it as well as they need to," he said. 
+
+Even though competition is fierce, Mr. Silver said the competition hasn't yet translated into a significant salary increase for workers in those areas. According to a Dice survey released this month, the average tech worker salary increased only about 1% to $79,384 between 2009 and 2010. 
+
+Inigral Inc., a start-up based in San Francisco that builds private social networks for universities, is trying to find three software developers to add to its 12-member staff, said Chief Technology Officer  George Deglin. 
+
+The company needs a front-end developer, familiar with the HTML and CSS programming languages, and a developer with experience using Ruby on Rails, which is used to develop Web applications. 
+
+Those skills are in demand to the degree that the company faces stiff competition from other small companies and larger start-ups like Twitter Inc., Mr. Deglin said. 
+
+"The landscape for hiring engineers right now is very difficult," he said. "We find almost nobody who we think as having the appropriate qualifications is unemployed."

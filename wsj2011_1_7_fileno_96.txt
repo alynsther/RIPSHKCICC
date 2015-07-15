@@ -1,0 +1,47 @@
+Hammered by ever-slimming profit margins, TV makers are turning online to videogames as another way to incorporate Web-delivered entertainment.
+
+At this week's Consumer Electronics Show in Las Vegas, many television manufacturers touted videogames as an important entertainment category for Internet-connected televisions. Many are forming partnerships to play videogames on the TV without the need for a dedicated game console, and many are courting developers to create apps for the TV.
+
+LG Electronics Inc. unveiled a range of smart, or Internet-connected, televisions while showing off a new motion-sensing remote control. The new remote only has six buttons and is similar to Nintendo Co.'s Wii game controller.
+
+"Videogames are one of the categories that we hope app developers will take to with the new Motion remote," said  Tim Alessi, director of new product development at LG's home electronics division.
+
+Samsung Electronics Co., the world's biggest TV maker, held a contest for developers to create the best app for its television. It awarded the top $200,000 prize to a developer who created a game called WeDraw.
+
+By keeping the television central to the lives of consumers, manufacturers are hoping to lift the overall value of the TV and keep the industry's relentless price declines at bay. 
+
+According to research firm DisplaySearch, 21% of the roughly 210 million TV sets sold world-wide in 2010 had an Internet connection. It forecast that portion will rise to more than 50% by 2014.
+
+"From our perspective, bringing gaming onto the Internet TV expands the functionality of the television," said  Panasonic Corp.'s President  Fumio Ohtsubo in a briefing with reporters.
+
+Panasonic struck a deal with Gameloft Inc., which specializes in downloadable games for mobile phones, to allow the videogame publisher's 3-D games such as Asphalt 5, a racing game, to be accessible on the Japanese conglomerate's Web-connected televisions starting in 2011.
+
+Discount TV maker Vizio Inc. plans to integrate OnLive Inc.'s streaming videogame service, which allows people to play more active or complex games over the Web, into its televisions later this year. 
+
+"This is the first step of a new era," said Gameloft President and Chief Executive  Michel Guillemot. "With these TVs, you are going to be able to play straight out of the box."
+
+The direct availability of casual, simple-to-play games on the TV could test videogame console makers, which rely on consumers to pay big bucks for a console and then buy games over the life of the device.
+
+Mr. Guillemot said a certain segment of the population will still crave the type of games only available through a videogame console, but downloading or streaming games could appeal to a much larger segment of users who are looking for quick entertainment and are not hardcore videogamers.
+
+There are certain technological constraints working in the favor of console makers. Currently, televisions do not posses the powerful processing capability of powerful consoles like  Sony Corp.'s PlayStation 3 or  Microsoft Corp.'s
+MSFT
+
+
+0.31
+%
+
+
+
+
+ Xbox 360.
+
+What's more, streaming services that rely on computer servers to do the heavy rendering of fast-moving gaming images and then deliver them over the Internet are at risk of suffering from latency, or delays in response, especially for very sophisticated games.
+
+"In the current broadband environment, it's very difficult to stream high-definition images in real time without latency, but it's interesting as an overall direction," said  Kaz Hirai, the head of Sony's PlayStation business, at a media event last month.
+
+But consider the situation being played out on smartphones: dedicated gaming devices like Nintendo's hand-held DS and Sony's PlayStation Portable are facing stiff competition with advanced mobile phones for user attention and videogame dollars.
+
+As mobile phones have become more powerful and the networks have improved, the market for mobile phone games has exploded. According to research firm Gartner, the market for mobile gaming is expected to double by 2014 to $11.4 billion from an estimated $5.6 billion in 2010.
+
+Just several years ago, mobile phones didn't possess the processing capability to challenge dedicated game machines and the carrier networks couldn't handle the data required to play games over the air or the heavy downloads required to load more sophisticated games onto the handset.

@@ -1,0 +1,23 @@
+Aristotle believed that powerful explosions of air trapped within the earth caused tsunamis, and his erroneous theory prevailed for two millennia. It was only after the massive Lisbon earthquake of 1755 that the English scientist John Michell demonstrated that tsunamis are, in fact, caused by underwater earthquakes (the epicenter of the Lisbon quake was offshore). He was able to show that tsunamis consist of very long waves that travel fastest in deep water, which is why, after the Lisbon quake, they hit the Caribbean before some parts of Northern Europe.
+
+Now that we also have a correct understanding of earthquakes themselves (thanks to the science of plate tectonics), you might think we could accurately predict tsunamis. That is certainly the question that I've been asked most often since last week's tragic events in northern Japan. Isn't there some way that coastal residents could have been given more of a warning?
+
+Unfortunately, there's only so much advance notice we can give, since our knowledge of earthquakes does not extend to being able to predict them. Once a submarine earthquake occurs, we can determine quickly whether it has produced a tsunami (most do not) and then do a very good job of predicting where and when the tsunami will strike, thanks to tsunami computer models, real-time tide gauges and DART buoys (buoys, that is, for the Deep-ocean Assessment and Reporting of Tsunamis).
+
+These tools have saved many lives, providing several hours of warning in coastal regions that are relatively far from the epicenter of an earthquake. But when the epicenter is close to the coast, a tsunami hits extremely quickly. In 2004, the northwest coast of Sumatra was hit less than 15 minutes after the earthquake began. In the recent disaster in northern Japan, the wave hit in less than 30 minutes.
+
+Nor is there any reasonable way to create safeguards against the tremendous power of a tsunami. When a tectonic plate that has been pulled downward for many thousands of years by another tectonic plate is suddenly (and unpredictably) released, it rises vertically and brings the sea floor with it. Millions of tons of water are pushed upward, generating two very long waves that travel to the left and right of the ruptured fault. 
+
+In deep water, tsunami waves can be hundreds of miles long from crest to crest, travelling at 400 miles per hour—the speed of a jet plane. Ships at sea will be unaware of the enormous energy passing under them, but when the waves move into shallow water, their wavelengths shorten and they become much higher and steeper. 
+
+A tsunami is not simply a bigger version of the wind-generated waves familiar to beachgoers. When swimmers at the shore want to avoid being hit by a large wave, they can simply dive under it, because the base of the wave is not moving fast (or even at all). With a tsunami, the entire water column from the crest to the sea bed is moving forward; it is literally a moving wall of water (and full of abrasive sediment as well). 
+
+For those living along a coast close to an earthquake, no warning system is fast enough to do much good. What counts most is the tsunami awareness of the population. In 2004, most Sumatrans were not well prepared (except, ironically, for a few traditional populations who, over the generations, had passed down stories orally about the need to run inland when the sea recedes quickly or when the ground shakes for a long time). 
+
+The Japanese are very well informed about tsunamis, and many of them did run immediately to the high floors of strong buildings or try to move inland. They also had built some seawalls. But few buildings or seawalls can withstand the power of a 30-foot tsunami. And 30 minutes is not a very long time to try to escape.
+
+Without the capability to predict earthquakes, the only way to prevent great loss of life from tsunamis is to build enormous seawalls along every coast and buildings that are able to withstand 9.0 earthquakes—something that is not economically feasible. A more effective approach would be to invest in further research on earthquake prediction and to deploy additional DART buoys. 
+
+I'm optimistic that someday we will find a way to predict when an earthquake will happen. Until then, we will have to make do with the tragically short margin of warning whose consequences are still unfolding in Japan. 
+
+—Mr. Parker is the former chief scientist of NOAA's National Ocean Service and the author of "The Power of the Sea: Tsunamis, Storm Surges, Rogue Waves and Our Quest to Predict Disasters."

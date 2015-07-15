@@ -1,0 +1,27 @@
+For years, consumers have been able to search Google for just about anything—except, for the most part, detailed information about financial advisers. 
+
+That is changing. On Tuesday, BrightScope Inc., an independent rater of 401(k) plans, launched a new directory called "BrightScope Advisor Pages" that professes to index for search engines the backgrounds of nearly 450,000 financial advisers. 
+
+"We're trying to bring transparency into the marketplace," says  Mike Alfred, BrightScope's chief executive. "There is no easy way for the consumer to get the aggregated data." 
+
+Mr. Alfred says he hopes the report will be the first thing an investor sees when searching for an adviser online. 
+
+Information about advisers has long been public via the Securities and Exchange Commission and the Financial Industry Regulatory Authority, a self-regulatory organization for securities firms. 
+
+But investors often have had a difficult time getting the data. Finra's tool, BrokerCheck, allows investors to search for Finra-registered brokers and brokerage firms, but stores its reports as PDF files that don't show up on search engines. (Some disciplinary actions may show up on search engines because they are listed directly on Finra's website rather than linked to separate PDF file downloads.) 
+
+The SEC's Investment Adviser Public Disclosure website, meanwhile, collects investment-adviser registration statements that give information about advisers' employment and regulatory histories. But the information isn't indexed on search engines such as Google. 
+
+While government databases typically allow investors to check up on advisers they already know by name, or by firm name, they can be less handy for people shopping for advisers. BrightScope says it will recategorize such information by location, so investors can search by state and eventually ZIP Code and get directions to advisers' offices. 
+
+The tool could pose problems for compliance officers at advisory firms, which typically guard information about employees carefully, be it a Twitter feed or a regulatory report, industry experts say.
+
+BrightScope says its aim isn't to punish unscrupulous advisers. The company hopes that once its directory pages start to climb in Internet-search rankings, advisers will embrace them as a marketing tool and upload extras such as pictures, information about their practices and perhaps performance data. 
+
+Mr. Alfred said BrightScope might decide to charge advisers to include such marketing information alongside the information culled from public records. 
+
+A Finra spokeswoman and an SEC spokesman declined to comment on the tool. 
+
+—Ian Salisbury contributed to this article.
+
+ Write to  Mary Pilon at mary.pilon@wsj.com 

@@ -1,0 +1,39 @@
+Seismologists have revived a longstanding question in the wake of recent earthquakes: Can a giant temblor in one location trigger another large one thousands of miles away? 
+
+A new study provides the first compelling evidence that such big, distant events—which may appear to be linked when they occur within months of each other—are likely not connected at all. 
+
+"A big quake rings the earth like a bell and can trigger little quakes" halfway across the planet, said  Tom Parsons, geophysicist at the U.S. Geological Survey in Menlo Park, Calif., and co-author of the study just published in the journal Nature Geoscience. "But apparently it doesn't trigger other big quakes" over such great distances.
+
+Geophysicists have long known that major quakes unleash bursts of energy that travel around the globe in uncertain ways. But now some scientists speculate that only sustained pressure can significantly move fault lines and thus trigger other large temblors. In addition, energy dissipates as it travels, so quakes pack a much weaker punch by the time their shockwaves reach a fault line far away.
+
+Scientists have debated the issue going back at least to 1906, when an 8.0-magnitude temblor hit the Aleutian Islands in the northern Pacific, and just 30 minutes later, a 8.0-magnitude quake struck Chile.
+
+"It's been a difficult, burning question. It comes up after every large quake," said  Ross Stein, a geophysicist who is also at USGS.
+
+The issue has become more pressing in the aftermath of several large, destructive earthquakes that have taken a deadly toll in the past 15 months, striking China, Haiti, Chile, New Zealand and now Japan. On Thursday a 6.8-magnitude toll struck Myanmar, killing at least 70 people.
+
+But long-term data reveal no large increase in global seismic activity, even for big quakes. Since consistent record-keeping began in 1964, the number of big temblors seen globally has stayed fairly constant: An average of 17 quakes of magnitude 7.0 or higher has been recorded each year, according to the USGS.
+
+The recent quakes in Japan, New Zealand and Chile were all located on the "ring of fire," a seismically active zone encircling the basin of the Pacific Ocean. But the link largely ends there, scientists say.
+
+It has been known for some time that big earthquakes set off powerful seismic waves that course through the earth and spark smaller quakes—which occur even without fault lines slipping entirely—a long way from the main shock, in a process known as dynamic triggering. While the physical mechanism is still poorly understood, scientists hope to one day use such findings to estimate the risk of smaller quakes in an area of known seismic activity when a big quake hits elsewhere in the world.
+
+"We got the first clue in 1992," said Dr. Parsons. That's when a 7.3-magnitude temblor in Landers, Calif., "lit up the whole western U.S. with quakes over the next few hours and days." The event altered the eruption cycle of geysers at Yellowstone National Park, some 680 miles away.
+
+Similarly, a big Alaska temblor in 2002 led to a swarm of smaller quakes in Yellowstone, knocked houseboats off their moorings in Seattle and even sloshed the water of a lake in Louisiana.
+
+See all the graphics on the situation in Japan -- from before and after photos to the status of the reactors to survivors' stories.
+
+Last month, researchers at the Georgia Institute of Technology published research showing how the 8.8-magnitude event that rocked Chile in 2010 also led to an increase in micro-earthquakes in central California, a few hours after the main shock.
+
+Another study, published in the journal Nature, suggested that the huge 2004 temblor in Indonesia led to more frequent "repeating earthquakes" in a section of the San Andreas fault in California, and may even have weakened that fault.
+
+But due to the type of sustained energy needed to trigger a large quake, residents of California don't face a higher seismic risk because of the Indonesia, Chile or Japan quakes, researchers said.
+
+Unlike the mostly even dispersal of energy after a stone falls into a pool of water, the energy emanating from an earthquake travels in a somewhat unpredictable manner. The energy from a quake can't easily penetrate the earth's crust, which is the section of rock up to 18 miles below the surface. Trapped there, a lot of the energy bounces back and then travels horizontally as a surface wave for thousands of miles, Dr. Parsons said.
+
+To assess whether such waves can set off large, distant quakes, Dr. Parsons and a co-author in the Nature Geoscience paper,  Aaron Velasco of the University of Texas at El Paso, Texas, studied a 30-year seismographic record of all possible quakes larger than magnitude 5 that might have been triggered by every quake of magnitude 7 or larger.
+
+Their conclusion: "There is not evidence for very large earthquakes promoting other very large earthquakes at a global scale," although big aftershocks can occur around the original rupture.
+
+ Write to  Gautam Naik at gautam.naik@wsj.com 

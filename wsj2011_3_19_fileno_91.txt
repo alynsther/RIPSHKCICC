@@ -1,0 +1,23 @@
+What does it take to become a better investor? The answer is to think like a fish.
+
+Let me explain. When small fish face an extremely difficult problem—an attack, say, from several predators at once—they deal with it by forming a school. This is an example of synchronous behavior, in which individuals quickly coordinate their actions. There is no leader, but that doesn't matter. The school arises spontaneously.
+
+In a forthcoming paper, scientists at Northwestern University show that the best stock traders at a leading hedge fund act a lot like those scared fish. Instead of coping with predators, of course, these traders are grappling with a surfeit of information, from confusing quarterly statements to reams of economic data. Their job is to act quickly—buying and selling shares—based on the latest news.
+
+What's interesting is that these traders don't make sense of all this information alone. Rather, they constantly interact with each other, mostly by instant message (IM). They "disambiguate" the numbers together. 
+
+The scientists were interested in how this flurry of electronic communication influenced trader performance. After getting access to the internal files of the hedge fund, they analyzed every IM sent by 66 day traders over an 18-month period. They discovered that these traders sent out an astonishing number of messages, more than two million exchanges over the course of the study, the average trader engaging in 16 IM conversations at a time. 
+
+But this ceaseless messaging wasn't a distraction. Instead, it allowed traders to pool their information. "Everyone is in a race to figure out what's happening first," says Brian Uzzi, a senior author on the paper. "There's real pressure to make a decision, but you also want to make sure that you make the right decision."
+
+This is much harder than it sounds. The scientists found, for instance, that even these experienced traders only made money, on average, from 55% of their stock trades. Not surprisingly, hedge funds and investment firms have long searched for ways to increase these odds. That's why they employ elaborate quantitative models and track all sorts of metrics on individual traders, from volume of trades to levels of testosterone. 
+
+According to the Northwestern researchers, however, these firms should be tracking instant messages instead. After a burst of messages in response to a news event, the traders often acted in sync, converging on the same conclusion and executing a large number of trades at the exact same time. (These IMs typically featured short bits of analysis and did not involve the spread of insider information.) Although they weren't trying to coordinate their buying and selling, they ended up acting together, just like a school of fish moving as one.
+
+This synchronous behavior proved to be an immense advantage. Though typical traders barely beat random chance, those acting at peak moments of sync made money on more than 70% of their stock trades. They also made nearly twice as much money per trade, which explains why traders who frequently "sync up" were the best performers at the firm. (The worst traders, by contrast, were the ones who instant-messaged the least.) "These plugged-in traders have an edge that puts them in a superclass," Mr. Uzzi says. "What's interesting is that their edge comes from the crowd, from everyone else around them."
+
+At the moment, it's unclear how individual investors or financial firms can take advantage of synchronous behavior. One possibility that Mr. Uzzi suggests is to "double-down" on investments that occur when traders are synced, since those are so much more likely to be profitable. "When you see a lot of IM traffic, and then traders within the firm start acting in unison, the odds are that's going to be a good decision," he says. "Those are the trades that I'd bet on."
+
+For too long, we've subscribed to an overly individualistic model of success. If a trader is particularly effective, we tend to assume that he or she must have some special talent, some uncanny ability to decipher the market. But that's probably not the case. This research reminds us that the best traders can only be understood as part of a network. Fish make sense of the world by coming together. So do we. 
+
+ Write to  Jonah Lehrer at Jonah.Lehrer@dowjones.com 

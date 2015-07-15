@@ -33,39 +33,39 @@ from datetime import datetime, timedelta
 	  #          print(i['datetime'])
 
 
-index_of_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-index_of_months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-
-# #soup = BeautifulSoup(urllib2.urlopen('http://www.businessweek.com/archive/2009-01/bbg/day1.html').read())
-# for year in range (2009, 2010):
-# 	for month in range (11, 12):
-# 		for day in range(1, index_of_days[month]):
-# 			#http://www.wsj.com/public/page/archive-2015-7-14.html
-# 			soup = BeautifulSoup(urllib2.urlopen('http://www.wsj.com/public/page/archive-' + str(year)+ '-' +str((month+1)) + '-' + str(day)+'.html').read())
-# 			articles = soup.select('#archivedArticles ul li h2 a')
-# 			links = [a['href'] for a in articles]
-# 			for l in links:
-# 				soup2 = BeautifulSoup(urllib2.urlopen(l))
-
-# 				# try to find the subscription tag w/link, if found continue
-# 				if soup2.select('.wsj-snippet-login'):
-# 					continue
-
-# 				article = soup2.select('#article_sector #wsj-article-wrap')[0]
-# 				datestring = article.select('time')[0].text
-# 				datetime = parse(datestring.strip().replace('Updated', ''))
-# 				paragraphs = article.select('p')
-# 				text = '\n\n'.join([p.text for p in paragraphs])
-
-
-first_date = datetime(2009, 1, 1)
+first_date = datetime(2009, 7, 8)
 delta = timedelta(days=1)
-date = first_date
-last_date = datetime(2010, 1, 1)
+date = first_date - delta
+last_date = datetime(2009, 7, 10)
+#soup = BeautifulSoup(urllib2.urlopen('http://www.businessweek.com/archive/2009-01/bbg/day1.html').read())
 while date < last_date:
-	# do things 
-	date += delta
-	print date.month
+	date+= delta
+	print('http://www.wsj.com/public/page/archive-' + str(date.year)+ '-' +str((date.month)) + '-' + str(date.day)+'.html')
+	soup = BeautifulSoup(urllib2.urlopen('http://www.wsj.com/public/page/archive-' + str(date.year)+ '-' +str((date.month)) + '-' + str(date.day)+'.html').read())
+	articles = soup.select('#archivedArticles ul li h2 a')
+	links = [a['href'] for a in articles]
+	linkindex = 0
+	print(links)
+	for l in links:
+		soup2 = BeautifulSoup(urllib2.urlopen(l))
+
+		# try to find the subscription tag w/link, if found continue
+		if soup2.select('.wsj-snippet-login'):
+			continue
+
+		article = soup2.select('#article_sector #wsj-article-wrap')[0]
+		datestring = article.select('time')[0].text
+		datetime = parse(datestring.strip().replace('Updated', ''))
+		paragraphs = article.select('p')
+		text = '\n\n'.join([p.text for p in paragraphs])
+		print(text)
+		f = open("wsj" + str(date.year)+ '_' +str((date.month)) + '_' + str(date.day) + "_fileno_" + str(linkindex) + ".txt", "a")
+		f.write(text)
+		f.close
+		date += delta
+		linkindex+=1
+
+
 
 
 def process(index, procs):

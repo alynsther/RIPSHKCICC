@@ -1,0 +1,23 @@
+Might the Fukushima accident eventually create a chance for the nuclear industry to "reboot"? In recent years some have begun to argue that solid-fuel uranium reactors like the ones in Japan are an outdated technology that deserves to peter out and be replaced by an entirely different kind of nuclear energy that will be both safer and cheaper.
+
+The problem, as is often the case in capital-intensive industries, is inertia. Nearly all the expertise, research and sunk costs are in the old technology. Fukushima just might start to change that.
+
+In the short run, the beneficiary of nuclear's now inevitable crisis is going to be fossil fuels. Renewable energy remains too expensive, too land-hungry, too unreliable and too small-scale to take up much slack, so cheap coal and newly abundant natural gas will do the job. 
+
+This is ironic, because however high the death toll at Fukushima climbs, it is unlikely to match the casualties in the fossil-fuel industry. In the last year alone, 29 people died in a New Zealand coal mine, 11 on a Gulf oil rig and 27 in a Mexican pipeline explosion. A human-rights activist has estimated that as many as 20,000 people die in Chinese coal mines every year.
+
+But with America now awash in shale gas and the world about to follow suit, the price of electricity is bound to stay fairly low. Since gas-fired generation is about the most scalable, efficient, flexible, clean and (on a large scale) lowish-carbon form of electricity available, it is going to prove economically and politically attractive.
+
+Against this formidable competitor, uranium will struggle for many years to come—especially with the extra cost and political handicap that Fukushima is bound to add. So nuclear needs to reinvent itself. Because nuclear reactors were developed by governments in a wartime hurry, the best technological routes were not always taken. The pressurized-water design was a quick-and-dirty solution that we have been stuck with ever since. Rival ideas withered, among them the thorium liquid-fuel reactor, powered by molten fluoride salt containing thorium.
+
+Thorium has lots of advantages as a nuclear fuel. There is four times as much of it as uranium; it is more easily handled and processed; it "breeds" its own fuel by creating uranium 233 continuously and can produce about 90 times as much energy from the same quantity of fuel; its reactions produce no plutonium or other bomb-making raw material; and it generates much less waste, with a much shorter half life until it becomes safe, so the waste can be stored for centuries rather than millennia.
+
+A thorium reactor needs neutrons, and both ways of supplying these subatomic particles are relatively safe. They can be introduced with a particle accelerator, which can be turned off if danger threatens. Or they can be introduced with uranium 235, which in this process has a much lower risk of an uncontrolled reaction than it does in today's nuclear plants. The fuel cannot melt down in a thorium reactor because it is already molten, and reactions slow down as it cools. A further advantage of this design is that the gas xenon is able to bubble out of the liquid fuel rather than—as in normal reactors—staying in the fuel rods and slowly poisoning the reaction.
+
+Nobody knows if thorium reactors can compete on price with coal and gas. India has been working on thorium for some years, but the technology is as different from today's nuclear power as gas is from coal, and very few nuclear engineers even hear about liquid fuel during their training, let alone get to work on it.
+
+New technologies always struggle to compete with well-entrenched rivals whose costs are already sunk. The first railways couldn't rival canals on cost or reliability, let alone lobbying power.
+
+Now is the time to start to find out about thorium's potential.
+
+ Write to  Matt Ridley at Matt.Ridley@dowjones.com 

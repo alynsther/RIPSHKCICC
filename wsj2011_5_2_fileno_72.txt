@@ -1,0 +1,53 @@
+Investigators combing the wreckage of an Air France jetliner that crashed almost two years ago said Sunday they had located and retrieved the plane's data recorder from the depths of the Atlantic Ocean.
+
+Since the Airbus A330 jetliner disappeared en route from Rio de Janeiro to Paris on June 1, 2009, killing all 228 people onboard, their families and industry officials have wanted to learn what caused the crash. 
+
+Air France flight 447 was flying through heavy thunderstorms and experienced some malfunctions with airspeed sensors, according to automated maintenance data that was transmitted by the plane soon before it went down. But the problems identified so far weren't sufficiently grave to cause a crash. 
+
+Now, investigators will attempt to extract data from the digital recorder that could shed light on what the pilots and the plane did in their final moments. 
+
+It remains unclear, however, whether the data files are intact after such a long time. 
+
+A photograph of the orange cylinder, produced by  Honeywell International Inc.,
+HON
+
+
+-0.36
+%
+
+
+
+
+ suggested the device survived the crash intact, although it was ripped from its housing. Still, almost two years in ocean water under enormous pressure may have damaged the equipment.
+
+A Honeywell spokesman said that before installation, such data-recorders are tested to withstand at least 30 days under pressure corresponding to a 20,000-foot depth.
+
+The device was found in shallower waters, but one of the big questions is whether its innards were corroded by salt water during its nearly two years sitting on the seabed.
+
+The wreckage was located on April 3, in the fourth search for the plane. A ship that specializes in laying undersea cables is now above the crash site, from which investigators are operating a remote undersea vehicle that can film and help retrieve items.
+
+The wreck was located using a highly advanced underwater sensor operated by the Woods Hole Oceanographic Institution of Woods Hole, Mass. Once it was found, the search ship was replaced in late April with the cable-laying ship Ile de Sein, operated by Alcatel-Lucent and Louis Dreyfus Armateurs of France. From the Ile de Sein, specialists deployed an underwater robot, the Remora 6000, produced by Phoenix International Holdings of Largo, Md. 
+
+The Remora can film the ocean floor and retrieve objects.
+
+On the Remora's first dive, on April 27, it located the structure in which the so-called black boxes had originally been located, but the recorders were missing. It took five more days to find one of the recorders.
+
+Safety experts, including some Honeywell engineers, over the months had expressed confidence that if the recorder were recovered, it would be found intact. That's because the manufacturer's testing also subjected it to maximum stresses amounting to about 1,500 times the force of gravity.
+
+On Sunday, some safety experts said that even if parts have been corroded, it still might be possible to retrieve some important information. In other crashes, they said, investigators were able to reconstruct some corrupted data with certain microscopic techniques. 
+
+Some early reports suggested it could take as long as five days to get the recorder back to a French laboratory. French officials are likely to get assistance from Honeywell in trying to retrieve information.
+
+Other data recorders onboard the plane, including the cockpit voice recorder, haven't yet been located in the continuing search. 
+
+French authorities launched their fourth undersea search to locate the wreckage in March. 
+
+Three previous attempts to locate the Airbus A330 failed to pinpoint the plane. The accident is the most significant plane crash in many years to remain unsolved for so long.
+
+Long before Sunday's discovery, The probe of Flight 447 already prompted manufacturer Airbus, Air France and other big carriers flying long-haul Airbus fleets to embrace major pilot-training changes. 
+
+The new training, among other things, is designed to ensure that pilots turn off certain cockpit automation—and keep such systems off for longer periods than previously taught—if they suspect external airspeed sensors are providing faulty readings. After the crash, Airbus also worked with Air France and other airlines to begin training pilots on simulators to recover control of aircraft upset at high speeds and high altitudes, but without the benefit of normal automated flight-control protections.
+
+ Corrections & Amplifications  Honeywell engineers subjected the digital recorder to maximum stresses amounting to about 1,500 times the force of gravity, not the weight of gravity as an earlier version of this article incorrectly said. That article also incorrectly called Woods Hole Oceanographic Institution the Woods Hole Oceanic Institution. Rio de Janeiro was also misspelled as Rio de Janiero. 
+
+ Write to  Daniel Michaels at daniel.michaels@wsj.com and Andy Pasztor at andy.pasztor@wsj.com 

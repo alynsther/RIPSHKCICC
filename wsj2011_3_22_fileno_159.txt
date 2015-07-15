@@ -1,0 +1,61 @@
+LONDON—U.K. communications regulator Ofcom Tuesday outlined plans for the single biggest auction of mobile spectrum in the country, with limits on how much each mobile operator can buy to ensure healthy competition. 
+
+Ofcom said it plans to introduce limits on the minimum and maximum amounts of spectrum that bidders can be awarded to ensure that at least four wholesale operators remain in the country. 
+
+The fourth-generation mobile-spectrum auction is equivalent to three quarters of the mobile spectrum in use at present, and 80% more than the 3G auction that was held in 2000, according to Ofcom. 
+
+The auction is expected to provide much-needed capacity for 4G long-term evolution technology that will allow users to watch high-definition video and get much faster download speeds on mobile devices. Ofcom said it wants the benefits of 4G services to be available as soon as possible and expects to start the auction in the first quarter of 2012.
+
+"The auction is not only critical to the future of the U.K. mobile telecommunications market but it is also of significant importance to the wider economy. It will support a wide range of data services that are fast becoming essential features of the modern world," Ofcom Chief Executive  Ed Richards said.
+
+The long-awaited auction is also expected to raise billions of pounds for the cash-strapped U.K. government, which last July approved the auction as part of wider efforts to improve the speed of Internet broadband in the country. 
+
+The switch to digital television in the U.K. has freed up valuable radio spectrum previously used to transmit analog signals, but more is needed given the sharp rise in data usage, driven partly by the surge in smartphones like  Apple Inc.
+AAPL
+
+
+1.07
+%
+
+
+
+
+'s iPhone. 
+
+The auction will be for two spectrum bands, 800 megahertz and 2.6 gigaherzt, which adds up to 250 MHz of additional mobile spectrum. The lower frequency 800 MHz band is part of the digital dividend that is being freed-up as the U.K. switches from analogue to digital TV and is ideal for widespread mobile coverage. The 2.6 GHz band is at a higher frequency best suited for delivering the capacity needed to achieve higher speeds. 
+
+The major U.K. mobile operators are the Everything Everywhere joint venture between  Deutsche Telekom AG's local unit T-Mobile and  France Telecom's Orange;  Vodafone Group PLC;  Telefonica SA
+TEF
+
+
+1.02
+%
+
+
+
+
+'s O2UK and  Hutchison Whampoa's 3UK. 
+
+France's telecom regulator Arcep is expected to award mobile spectrum for the country's 4G mobile network in the first half of 2011. India and Germany have raised $8.23 billion and €4.38 billion ($6.23 billion), respectively, from spectrum auctions in recent years. 
+
+The auctions, once completed, are an opportunity for network gear suppliers such as  Telefon AB L.M. Ericsson,
+ERIC
+
+
+-1.42
+%
+
+
+
+
+ Nokia Siemens Networks and  Alcatel Lucent
+ALU
+
+
+-0.56
+%
+
+
+
+
+ to undertake network upgrades for operators. 

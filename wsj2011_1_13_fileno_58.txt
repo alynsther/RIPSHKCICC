@@ -1,0 +1,43 @@
+Making audio and video calls between computers over Skype is now so common that the company's name has become a verb. People ask others to "Skype me" or say they are "Skyping."
+
+But the Luxembourg-based service had been a bit slow in getting into a couple of areas that other companies have jumped into: mobile video calling, and computer-based video calls involving multiple people. Now, Skype has entered both arenas, and I've been testing the features. A couple of weeks ago, Skype introduced free mobile video calling to its iPhone app and has plans to extend the same functionality to certain Android-based phones running on Verizon's new high-speed 4G network later this year. And, last week, at the Consumer Electronics Show, it launched a paid service it had been testing that allows for group video calling on computers.
+
+My verdict: Like some competing services, Skype's mobile video calling varies greatly in quality and therefore isn't especially reliable. Its computer-based group video calling, however, worked well in my limited tests and is nicely designed.
+
+
+
+Video calling between computers is well established. Skype says that, in the first half of last year, 40% of its Skype-to-Skype calling minutes were video, as opposed to audio. But making video calls over mobile phones is a nascent practice, one that began to get serious only last year, when multiple smart phones with front-facing cameras came to market.  Apple
+AAPL
+
+
+-0.04
+%
+
+
+
+
+ introduced a free video-calling service called FaceTime that was integrated into the iPhone 4 and later added to the iPod Touch—both of which now have front cameras—and the Macintosh. Various Android phones with front-facing cameras shipped with a video-calling app called Qik, which Skype just bought, though it says it developed its mobile system prior to the deal. Tango launched video-calling apps for both iPhone and Android last year.
+
+Now, Skype has joined the fray. And it brings some advantages. The biggest is its huge subscriber base, from which you can choose to have a mobile video call with anyone whose device includes a camera. That includes not just iPhones, but also computers. You can do video calling between two iPhones, two computers or one of each type of device.
+
+Also, unlike Apple's FaceTime, which works only over Wi-Fi, Skype's iPhone video calling, like those of some competitors, also works over the phone's 3G cellular network, though typically with inferior results. Like other products, Skype allows you to switch between front and rear cameras during a call. Unlike FaceTime, it works with the older iPhone 3GS, though the latter has only a rear camera. It even allows you to receive video calls on an iPad, though you can't transmit video from the tablet, as it lacks cameras.
+
+I tested Skype mobile video calling in two rounds, in both cases between the Washington, D.C., area and New York City. In the first round, I conducted video calls with my son, using both Wi-Fi and 3G. In the second, I conducted tests with a Skype representative. In both rounds of tests, calls made over Wi-Fi on both ends, or even just one end, were better than those made using 3G cellular on both ends. Skype notes this is due to the unpredictability of cellular data network speeds and congestion. And, in both rounds of tests, calls where one party was on a computer, as opposed to both being on iPhones, worked better.
+
+But, in general, the service was erratic. Far too often, the images were fuzzy, or syncing between audio and video was off, or the calls would freeze or crash. Only a minority of the calls were truly satisfactory for more than a few minutes. Skype does warn you if your network quality is too poor for a decent video experience, but, even if the app deems your network connection acceptable, the call may still look or sound lousy.
+
+In the tests with my son, we compared the Skype calls to FaceTime calls and found the latter to be much better, though hardly perfect. In fairness, this was also true when I tested Tango last year, and may have something to do with the fact that FaceTime is Wi-Fi only and is deeply integrated into the iPhone, while Apple doesn't allow third parties like Skype the same level of integration.
+
+In both rounds of tests, incoming regular cellphone calls, even when ignored, disrupted the Skype calls, by either cutting out the audio or freezing the video, or both. Skype claims this is a problem with the iPhone's operating system and it is working with Apple on a solution.
+
+Skype's computer-based group-calling feature worked much better, though my tests were more limited, and were conducted with a group of Skype employees who were using a wired office network connection. (I was on Wi-Fi at my home.) 
+
+Group calling, which can handle between three and 10 people, is a feature of the latest Windows version of Skype, and of the latest beta version for the Mac. I tested both and found the Windows version had a few more features, being complete, but both versions did work. You can set up a group in advance in your Skype contact list and call all members with one click, or you can add people on the fly.
+
+In my tests, there were four Skype employees, each at separate computers, plus me. Each appeared in his or her own box on a dark screen and I could optionally see myself in a smaller box. The box containing whoever is speaking is automatically outlined in blue. You can also turn on a cool feature in the Windows version called Dynamic View, which enlarges the box of the lead speaker and moves it to the top of the screen. (Skype says it hopes to add this Dynamic View to the Mac version eventually.)
+
+In contrast to my mobile tests, this more limited test of group video calling provided very good quality, with almost no fuzziness, freezing or syncing issues. I can't say how it would work over slow networks, and Skype does publish minimum bandwidth and processor recommendations for using it. But it worked well for me. The group video-calling feature is part of a plan that costs $8.99 a month, after a seven-day free trial. Skype is running a sale until Feb. 28 that cuts the price by a third if you subscribe for three or 12 months. It also offers a day pass for $4.99 a day.
+
+Overall, I'd say Skype has nailed paid group video calling on computers, but has work to do on its free mobile video calling. Perhaps the advent of faster 4G networks will help make mobile video calls better.
+
+—Find all Walt Mossberg's columns and videos at the All Things Digital website, walt.allthingsd.com. Email him at mossberg@wsj.com.

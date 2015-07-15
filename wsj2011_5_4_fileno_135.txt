@@ -1,0 +1,52 @@
+If you want an example of the power of social media, consider this.  Starbucks
+SBUX
+
+
+-0.40
+%
+
+
+
+
+ gets 1.8 million visitors to its website every month, Coca Cola some 270,000. By contrast their Facebook pages get 19.4 million and 22.5 million respectively, roughly 10 times the traffic. And every one of those people has given those companies permission to talk to them.
+
+Social media and its impact on business was mentioned by almost every panel member as a key challenge.  Jean-Philippe Courtois president of Microsoft International says: "The explosion of social networking with consumers has changed their expectations about how they can and should connect with businesses. 'Real-time' is a new imperative, which is causing many businesses to rethink their customer relations strategies via digital marketing."
+
+Dell was in trouble. Not only had it lost its position as the world's leading manufacturer of PCs, but its reputation was in tatters following a court case which showed that between 2003 and 2005 it had sold millions of computers knowing them to be faulty and told staff not to be forthcoming about the problems. Also in 2005, veteran blogger and City University of New York Graduate School of Journalism teacher Jeff Jarvis published a blog article under the heading "Dell Sucks" in which he complained about the quality of the laptop he'd bought from the company and the service he'd received afterwards. Thousands of disgruntled customers brought a storm of bad publicity by adding their dissatisfied comments to his posting. 
+
+Today, the previously opaque nature of Dell's dealings with its customers has gone. The company appears to have embraced the transparency inherent in social media – a process it started first by reaching out to critical bloggers and then by launching its own blog Direct2Dell. 
+
+Early last year Dell started to offer customer support through Facebook and Twitter using the @dellcares address. The next step, in December 2010, was the creation of the "Social Media Listening Command Centre" which tracks an average of 25,000 topic posts a day related to Dell. In 2009, Dell estimated that it had generated $6.5 million (€4.5 million) of business through its Twitter activities.
+
+It had already established "Ideastorm" in 2007 as a place where customers could suggest new products, services or features and discuss them with Dell. Of 15,000 ideas, the company now says it has implemented over 400.
+
+It has taken a similarly open approach with customer reviews creating a "Tag Team Facebook" app which simplifies the process of finding independent customer ratings of Dell products. There are now over 100,000 of these reviews.
+
+Within the company, there is increasing use of social media tools. Dell chief executive, Michael Dell, last year Tweeted enthusiastically about the use of the Seesmic app for Twitter, Facebook and the cloud CRM company Salesforce.com's Chatter social media service.
+
+"Engaging in honest, direct conversations with customers and stakeholders is a part of who we are, who we've always been," Mr. Dell says.
+
+ "The social web amplifies our opportunity to listen and learn and invest ourselves in two-way dialogue, enabling us to become a better company with more to offer the people who depend on us." 
+
+  Joanna Shields, Facebook's vice president and managing director for Europe the Middle East and Africa, has called social media "the most engaged audience ever assembled".
+
+"The web is being rebuilt around people," she says. "We've seen people using their real identities online to connect with the people, things and brands they care about. We have also seen a shift towards a focus on the 'who' rather than the 'what'."
+
+  Rich Green, chief technology officer at Nokia, says companies should stop trying to think of using social media for their own ends. "The big 'a-ha' moment is when enterprises finally realize that their digital existences are being defined by the consumer world, not the reverse. It is hubris to think that an enterprise can 'use' social media for its advantage. Better to think how an enterprise is positioned in the modern world and hopes to share in the positive benefits that may result." A view echoed by  Loic Le Meur, chief executive of social media app company Seesmic and founder of Europe's leading internet conference. "Most businesses get it as far as monitoring what people are saying about their brands," says Mr. Le Meur. But, he says, monitoring is just the beginning and companies should now be taking the next step and mining social media for lead generation.
+
+This means when people start Tweeting or posting on Facebook that they're planning a holiday or buying a car they can be approached pro-actively. The business can come to the consumer instead of the other way round. 
+
+This dialogue with customers cannot be ignored, says  Kristian Segerstrale, chief executive and co-founder of the large and fast-growing social games company Playfish. "The social media almost takes the ownership of your brand to the community no matter what you do. People with a message are able to get their opinions to mass audiences very quickly about your products, what you are or what you did yesterday."
+
+The result is a challenge not just to companies that deal directly with consumers. "If you're a particularly unethical B2B company and that's how you provide a cheaper service, the social media will expose you. That's because social media makes the world more transparent, even if your business is manufacturing own brands for supermarkets or whatever."
+
+There is also, he says, a change in the relationship between employer and employee. "In a world where everybody is connected through social networks, pretty much every employee represents the company in one way or another," he says, adding that it's impossible to ban staff from using social networks or to draw up rigid policies on what can be said. 
+
+All you can do, he believes, is develop an internal culture of what is right and wrong. Mr. Le Meur also believes that social media will have an increasingly important place within the enterprise. 
+
+This is not always as easy as it sounds, he admits. Nine months ago his company decided to set-up a Facebook group so that his 50-strong staff could collaborate. "It was a total failure," he says. "To do this you have to 'friend' the boss. I had people saying: 'Look, Facebook is my personal life. It's not that I don't like you, but I don't want you to see everything.' They also complained that they were getting their Facebook feed flooded with business conversations. They hated it. The experiment lasted two days." 
+
+It was partly in response to this failed attempt that Seesmic started to develop a relationship with the cloud-based customer relationship management specialists salesforce.com. The result of the collaboration is a service which allows employees to access Facebook, Twitter and salesforce.com's enterprise social network service Chatter on a single mobile app or desktop client.
+
+See the full Tech Council report.
+

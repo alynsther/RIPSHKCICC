@@ -1,0 +1,43 @@
+One of the biggest technology trends in 2011 will be the expansion of new, faster cellular networks called 4G, or fourth generation. These networks promise a big increase in speed and capacity to handle the surge in streaming video, audio and Web surfing from hot-selling devices like super-smart phones and tablets, as well as from laptops. But you'll have to buy new phones, modems and other connected consumer devices to get the higher speed they offer.
+
+Wireless carriers and handset makers will be touting their 4G plans and compatible devices at this week's Consumer Electronics Show in Las Vegas, but it will be a couple of years before 4G networks in the U.S. achieve the same coverage as the current standard, called 3G.
+
+The move to 4G from 3G began last year, with Sprint leading the way and Verizon Wireless joining in the last few weeks of 2010 with a limited deployment. But 2011 will see the service spreading to more and more cities, and is also expected to see the entry of  AT&T.
+T
+
+
+0.69
+%
+
+
+
+
+ T-Mobile hasn't announced an actual 4G network rollout, but is instead relying on a souped-up version of 3G that it is marketing as 4G because it claims it can deliver similar data speeds with its approach.
+
+I've been testing the 4G network of the latest entrant, Verizon, in the suburbs of Washington, D.C., which is one of 38 metro areas (plus 60 airports) where the company turned on its 4G network in December. My verdict is that it's wicked fast—the fastest 4G network I've tried—but also potentially costly. In my tests, with a laptop modem, it proved dramatically faster than Verizon's 3G network, and recorded speeds on a par with some land-line Internet connections.
+
+But 4G from Verizon won't be cheap. For laptop modem users, at least, Verizon is charging $50 a month for up to 5 gigabytes of data use and $80 monthly for 10 gigabytes. If you run over, the company will bill you $10 for every extra gigabyte. Such data limits aren't new, but, with 4G's much higher speeds, users may find themselves sending and receiving more data more often, and thus breaching the limits more regularly. For instance, in my tests, I was easily able to download a nearly 600 megabyte TV show, something I wouldn't even try with a 3G modem. That one download would have eaten up more than 10% of my monthly cap under the $50 plan.
+
+Verizon's variant of 4G uses a different underlying technology than Sprint's. It's called LTE, for Long Term Evolution, and is also the 4G system being adopted by many other cellular operators around the world, including AT&T. (Technically, this first version of LTE isn't considered true 4G by the engineering standards body that rules on such matters, but that makes little difference to consumers looking for faster connections.)
+
+The company says it chose LTE because it is not only fast, but is less prone to interference, can provide better battery life, has less latency, or lag, and can better handle multiple users simultaneously. The LTE system doesn't affect voice calls on Verizon's network—it's only for data, and operates in tandem with the current voice network.
+
+Verizon claims its new network is up to 10 times faster than its 3G network and says consumers will see speeds of between 5 and 12 megabits per second for downloads and between 2 and 5 mbps for uploads, in "real-world, loaded network environments."
+
+As of this writing, Verizon doesn't offer an actual LTE-capable smart phone, only LTE USB modems that plug into laptops. But the company is expected to offer a sneak peek at CES this week of several LTE phones that will roll out in the coming months, as well other planned LTE devices, from a variety of manufacturers. Again, I want to stress that your current Verizon phone or laptop modem can't be upgraded to work with LTE. You'll need a new one.
+
+For my tests, I used Verizon's first LTE laptop modem, the VL600 made by LG of Korea. It sells for $100 after a $50 mail-in rebate with a two-year service contract. This modem can handle data over slower 3G networks, if you happen to stray out of one of Verizon's 4G service areas. For now, it works only on computers running Windows XP, Vista, and Windows 7. But the company says it should have Mac-compatible LTE modems in a month or so.
+
+To use it, you have to first install, from an included CD, a new version of Verizon's cellular modem software, VZAccess Manager. Older versions won't work. My test machine was a Lenovo ThinkPad X301, which worked fine with a Verizon 3G modem. Installation was relatively quick and smooth, though I was immediately instructed to download an updated version of the software, so I had to go through it twice.
+
+I disabled Wi-Fi on the ThinkPad, plugged in the LTE modem and ran 10 tests using the popular Speedtest.net website. The results were impressive. Verizon's 4G network averaged just a shade under 16 megabits per second for downloads and 6.6 mbps for uploads. That was 15 times the download speed, and 13 times the upload speed, of a Verizon 3G modem I tested immediately afterward using the same method in the same location.
+
+To relate these speeds to real-world scenarios, I downloaded from iTunes a standard-definition episode of the TV show "The Good Wife"—a 588 megabyte file—in just seven minutes, instead of the two hours or so iTunes predicted it would take when I was using the 3G modem. I streamed several long videos, including two in HD, from the Web, and they played smooth as silk.
+
+But there are caveats. For one thing, hardly anyone is using this new Verizon network yet, and it's likely to slow down as it gets crowded, especially with smart-phone users. Secondly, laptop cellular modems typically deliver faster speeds than phones, so my results don't necessarily predict phone or tablet performance. 
+
+Also, speeds can vary by city and distance. My tests were mainly conducted against a server in my local D.C. area. But I also tried a few tests against a server in San Francisco and only got about 6 mbps download—within Verizon's claims, but much slower.
+
+Still, if you can afford it, and if it works well in phones and tablets, Verizon's new LTE network could be a great boon to your digital lifestyle.
+
+—Find all Walt Mossberg's columns and videos at the All Things Digital website, allthingsd.com. 

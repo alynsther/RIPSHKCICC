@@ -1,0 +1,19 @@
+When's the next train to Trenton?
+
+For some, that information became nearly impossible to find Thursday and Friday after a glitch disabled New Jersey Transit's website. 
+
+The trouble started when NJ Transit's registration of its domain name, njtransit.com, expired Thursday morning. The agency quickly fixed that, spokesman  Dan Stessel said. But some visitors were still being taken to a placeholder page that gives the impression that the domain is for sale Friday evening. It is, in fact, not for sale.
+
+Mr. Stessel said whether or not users got to the site depended on their Internet service providers. 
+
+The site itself was never down, but the pathways to it were blocked. He said most big providers were directing users to the right place. 
+
+But as of late Friday afternoon, the site was still inaccessible from many computers in Manhattan. In New Jersey and elsewhere, the site worked.
+
+Customers without access to the site could use Google's mass transit directions feature to find schedules or call the railroad. Or they could consult a paper schedule, if they could find one.
+
+It didn't appear that the outage was affecting traffic to the site, Mr. Stessel said. 
+
+He shared data comparing traffic yesterday to traffic on an average Friday. The site had nearly the same number of visitors. 
+
+ Write to  Andrew Grossman at andrew.grossman@wsj.com 

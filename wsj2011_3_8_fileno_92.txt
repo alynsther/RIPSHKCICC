@@ -1,0 +1,77 @@
+Financial advisers are rushing to load their clients' portfolios with exchange-traded funds. But if your adviser wants to make that move, you should make sure you're both on the same page—and understand the implications of using ETFs.
+
+Read the full  Investing in Funds report .
+
+Just how heavily are advisers leaning on ETFs? Consider these snapshots from financial firms. According to  BlackRock 
+BLK
+
+
+0.94
+%
+
+
+
+
+Inc.'s iShares unit, 72% of advisers are now using an iShares ETF in client portfolios, up from 54% in 2007. Similarly, 85% of registered investment advisers on  Charles Schwab Corp.'s
+SCHW
+
+
+-0.21
+%
+
+
+
+
+ advisory platform hold ETFs in client accounts.
+
+Investors see benefits when their advisers jump on the ETF bandwagon: The funds can carry very low fees, and their holdings are more transparent than regular mutual funds. But there are also risks that might not be apparent to newcomers, whether investors or advisers. For instance, trading ETFs can be more complex than it first appears—and you don't want your adviser learning at your expense.
+
+If your adviser is just starting to use ETFs, here are key questions you should ask:
+
+
+
+ How will using ETFs rather than traditional funds help in executing your strategy? 
+
+Most ETFs are based on an index. If your adviser was previously in index mutual funds, then ETFs can be a more cost-effective way to track the returns of one or more indexes.
+
+On the other hand, if your adviser is moving out of actively managed mutual funds, you should ask why—and be sure that both of you understand the potential consequences. Your adviser could be signaling that he wants more control of your portfolio. Instead of relying on managers at a fund company to pick a mix of investments, he wants to do the choosing himself.
+
+You should discuss this about-face with your adviser and decide if you're comfortable with it—and whether his fees should stay the same. On a technical matter, you should also be sure that your adviser has considered the tracking error of the ETF when compared with its index, warns Standard & Poor's Corp. ETF analyst  Tom Graves.
+
+Your adviser may also be switching to ETFs in order to buy and sell at any point in the trading day; by contrast, conventional funds trade once daily based on the end-of-day value of their assets. But if your adviser anticipates a lot of short-term trading, consider whether you believe that will be beneficial to your portfolio.
+
+
+
+ Do you have any policy regarding small ETFs or those with low trading volumes? 
+
+Many advisers have traditionally used a core group of mutual funds in client portfolios. When the adviser decides to move all the clients in or out on a given day, all see their trade executed based on the daily value of the fund's holdings.
+
+Dealing with ETFs can be different. While there are more than 1,000 ETFs, several hundred are small, niche funds—and any adviser with a sizeable client list could unwittingly move the market by shifting assets in or out.
+
+You want to make sure your adviser is aware of this issue and has a strategy for trading efficiently. Some advisers say they avoid placing orders near the open and close of each day's trading, when ETF prices are more likely to veer away from the value of the underlying holdings. Others say they place only "limit orders," which set a specific price ceiling or floor.
+
+  Adam Patti, CEO of ETF company IndexIQ, says that financial advisers moving significant assets could actually do better than limit orders—by bidding out their orders to "authorized participants." These are broker-dealers chosen by ETF providers to create and redeem shares, as opposed to buying shares on the secondary market. Think of it as buying direct from the manufacturer versus buying retail.
+
+Another issue to consider about trading ETFs: With some smaller products, there's a wide spread between the price investors would pay to buy and the price they'd get if selling. Those spreads "can cost investors a lot of money," particularly if the adviser is doing a lot of trading, says  Don Moulton of Retirement & Tax Planning Specialists in Spokane, Wash.
+
+
+
+ How much of my portfolio should go to these things? 
+
+Some adviser portfolios are 100% ETFs these days, but most advisers prefer to add ETFs to a mix of other holdings. For instance, many advisers prefer actively managed bond funds or bond "ladders"—a group of individual bonds that mature over regular intervals—over ETFs for income portfolios. For one thing, bond ETFs can have wide bid-ask spreads because many individual bonds don't trade actively.
+
+If your adviser adds ETFs to a mix of other vehicles, be sure that the ETFs are enhancing the portfolio—and not duplicating assets you already hold. For example, adding an S&P 500 ETF on top of a large-cap blend mutual fund, benchmarked to the S&P 500, wouldn't diversify your holdings.
+
+
+
+ What will using ETFs mean in terms of cost and taxes? 
+
+If your adviser is moving out of actively managed funds, the costs built into your funds will come down. Coming from index mutual funds, however, the total costs including trading costs "are about the same," says  Michael Iachini of Charles Schwab Investment Advisory.
+
+But no matter what type of fund you're switching from, costs can swing wildly based on how much trading your adviser does or how often you add to your account. You should ask if you are expected to pay for individual ETF trades.
+
+Talking to your adviser about the move to ETFs is a good opportunity to understand how you pay him. For instance, some advisers charge fees on a sliding scale as a percentage of assets. Other advisers charge a fee not based on assets, and commissions are deducted from buys and sells.
+
+As for taxes, most ETFs, like most standard index funds, are very tax-efficient. But some ETFs have tax and tax-reporting consequences you wouldn't expect. For instance, gains on exchange-traded trusts that hold precious metals are subject to the 28% tax that applies to collectibles and precious metals. Tax filings can be more complex for investors in some commodities funds that are technically partnerships: They report income to investors on Schedule K-1 rather than the more familiar Form 1099.
+
+ Mr. Weinberg is an editor for The Wall Street Journal Digital Network. He can be reached at ari.weinberg@wsj.com. 

@@ -1,0 +1,65 @@
+Retail demand to trade currencies is yielding a bonanza for online brokers. Few are as well positioned to benefit as  Gain Capital Holdings Inc.
+GCAP
+
+
+-2.90
+%
+
+
+
+
+ and  FXCM Inc.
+FXCM
+
+
+-1.45
+%
+
+
+
+
+ 
+
+But their bid to dominate individual foreign-exchange trading is putting FXCM, Gain and the industry under scrutiny from regulators, shareholders—and even the banks that took the companies public just three months ago.
+
+FXCM, of New York and Gain, of Bedminster, N.J., both sold shares to the public in December, capitalizing on soaring demand from the individual traders who are becoming an increasingly big part of the $4-trillion-a-day foreign-exchange market. The sales pitch was strong. The two are among the biggest foreign-exchange brokers in the industry, accounting for about a third of U.S. customer deposits used for trading, and both are profitable.
+
+But their stocks have slumped. FXCM has faced disappointing trading volume and a customer lawsuit, which FXCM says it will defend itself against. Gain has had to pay a regulatory fine. FXCM is down 7% from its December IPO price of $14, closing Thursday at $12.99 on the New York Stock Exchange. At $7.90 Thursday, Gain was down 12% from its $9 IPO price. 
+
+Questions from investors about how much more customer growth these companies can attract also remain an overhang. FXCM has about 175,000 trading accounts. Gain has about 85,000 retail accounts. Customer churn is high. Sandler O'Neill & Partners, an investment firm, estimated in a Jan. 24 report that customer attrition for foreign-exchange brokers in general is between 15% and 25% of accounts annually.
+
+On Feb. 16, a day after FXCM reported trading volumes that missed expectations, Citigroup Inc., which helped take the company public, downgraded the stock to a "hold," a rare move from a bank that helped underwrite an IPO. FXCM declined to comment.
+
+Investors, Citigroup said, "struggle with still-elevated regulatory uncertainty." The Commodity Futures Trading Commission has recently tightened restrictions on leverage and instituted capital cushions, and the National Futures Association last year brought a complaint against Gain, which led to a settlement.
+
+The companies' chiefs are taking steps to make their cases to investors. Sandler O'Neill, which also helped manage Gain and FXCM's stock offerings, along with 10 other banks and investment firms, held a dinner for investors Feb. 17 with FXCM Chief Executive  Drew Niv and Gain CEO  Glenn Stevens. The two CEOs did a good job educating them about the industry, Sandler said in a report the next day. 
+
+On Wednesday, FXCM said net income for the fourth quarter, adjusted for the stock-offering conversion, rose to $18.1 million, compared with $13.2 million a year earlier. FXCM also said it was buying a Japanese broker, GCI Capital, to add 20,000 accounts for an undisclosed amount. 
+
+Mr. Niv said in an interview he knows "there is still a question mark" about his company, especially when less volatility in the markets lowers trading volume. Volatility in the markets, for example, soared in 2008 during the financial-crisis peak and has subsequently lessened. For the fourth quarter, FXCM reported total trading volume of $836 billion, an increase of just 0.1% from the $835 billion reported in the year-earlier period.
+
+Mr. Niv said his firm is drawing new business, pointing out that total trading accounts rose 25% to 175,240 from 140,565 in the year-earlier period. Mr. Niv also said FXCM will benefit because weaker competitors will be forced to sell themselves at cheaper prices when trading slows.
+
+Regulators are seeking to keep pace with the growth. The CFTC in Washington and the National Futures Association, a self-regulatory body in Chicago, have enacted rules to limit trading risk and fined brokerages for improper trading. 
+
+The CFTC now requires higher capital cushions at foreign-exchange brokers. Online retail currency brokerages have to set aside at least $20 million in net capital to cover losses and investor exits. The CFTC also capped the leverage an individual can use at 50-to-1. Prior NFA guidelines capped leverage at 100-to-1 for major currencies.
+
+The NFA can fine its 16 member firms for violating rules and, in more serious cases, can expel a firm from membership, which would disqualify the firm from offering foreign-exchange services to retail customers.
+
+In February, trader  William H. Sanders of Muskogee, Okla., sued FXCM in federal court in New York, alleging FXCM pays software developers to design computer trading systems that put investors at a disadvantage. If a customer is profiting in trades, FXCM's system routes the customer account to a "slow server," causing "trade execution to be slowed down," the lawsuit alleges.
+
+Mr. Niv said that by going public, FXCM made itself a target for lawsuits, as plaintiffs lawyers believe their claims now will attract more attention. "It is really a form of extortion," Mr. Niv said. "We plan to defend ourselves each and every time it takes place." An FXCM statement said the firm "intends to vigorously defend itself" against Mr. Sanders's suit.
+
+Gain faced an NFA complaint in June alleging the company attached a tool to its trading platform that delayed the execution of customer trades.
+
+The complaint cited a 2009 audit of Gain that alleged that, between May 1 and July 31, 2009, Gain clients who traded more than five standard currency contracts had $269,502 in losses because of unfavorable "slippage"—or price fluctuations—that occurred when the market moved against them. By comparison, the customers never received any gains during that period when the market moved in their favor, according to the complaint.
+
+Mr. Stevens, Gain's CEO, said in an interview that the cause of the slippage issue was a trading platform provided by a third-party firm, and the trades in question represented less than half of 1% of Gain's trading volume. He also said the settings on the platform have been changed.
+
+NFA's audit of Gain also alleged the firm had engaged in "leverage and margin practices" that were harmful to its customers. For instance, according to the NFA complaint, Gain adopted a policy of reducing the amount of leverage every Friday for some accounts from 200-to-1 to 100-to-1. As a result, the accounts of many of its customers became "under margined" on Fridays, the complaint says.
+
+The NFA said Gain justified its Friday leverage-margin adjustment as a means of reducing weekend market risk. However, it failed to give customers adequate disclosure, the group said. 
+
+The company said the policy in question affected less than 10 trades on any given Friday, and it settled in October without admitting or denying the allegations. It paid a $459,000 fine to the NFA. Gain CEO Mr. Stevens said while brokers have the right to change margin requirements at any time, "We changed the policy in question due to the NFA's concerns."
+
+ Write to  Carrick Mollenkamp at carrick.mollenkamp@wsj.com and Lingling Wei at lingling.wei@wsj.com 

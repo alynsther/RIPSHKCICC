@@ -1,0 +1,39 @@
+  Gary Kovacs, chief executive of Mozilla, was in London last week in the run up to the launch of the latest version of the seminal Firefox browser, version 4. We met up to get a look at the browser, the final pre-launch version of which was released last Monday.
+
+First I have to make a declaration of interest. Until some point about six months ago, I have always used a Firefox (or one of its predecessors) browser. I shunned  Apple's
+AAPL
+
+
+0.84
+%
+
+
+
+
+ Safari, I never even contemplated  Microsoft's
+MSFT
+
+
+0.34
+%
+
+
+
+
+ Internet Explorer (though at one point I did have IE5.5 on my laptop for some reason).
+
+A few years back, when I changed careers to become a developer, Firefox's add-ons were essential. What Web developer can live without Firefox's developer tool bar or any of the other dozen or so add-ons?
+
+But when I no longer needed the add-ons I dumped Firefox for the shiny slickness of  Google's Chrome browser.
+
+The first thing you notice about the new Firefox browser is how fast it is. According to their tests, it is between two and six times faster than the last version. A lot of work has taken place under the bonnet, says  Jay Sullivan, vice president of products for Mozilla, in the way that the browser renders pages, how it uses your device's native functions and also in how it handles open tabs. The overall effect is a marked increase in speed.
+
+The second immediately noticeable difference is how clean it is. Gone are the layers of tool bars, status bars, the bookmark bar. Instead there is a row of tabs—much like Chrome. Interestingly, Mozilla is sticking to the more traditional address box on the left and search box on the right like IE and Safari. Chrome has combined the search box and address box into one.
+
+The third thing you notice is the richness of the experience. Firefox 4 is by no means the first browser to support HTML5, the latest version of the underlying language of the web, but as the technology becomes more mainstream, the sheer beauty and speed of the experience is going to make our browsing much richer. In part that richness comes because modern browsers are able to access your computer's graphics processor.
+
+One feature that really struck me was what Mozilla has called Panorama. If you end up with dozens of tabs open at once, managing them can be something of a problem, to say nothing of the speed. Firefox 4 has the ability to group those pages into collections and makes it easy to switch between them. It brings order to the chaos of dozens of simultaneously open tabs.
+
+The integration with mobile is also well thought out. If your desktop browser and your mobile browser are synched, the state of open tabs, groups etc. is recorded. When you shut down your desktop browser and open up your mobile it is in the same state with the same tabs open, the same pages loaded, so in theory you can pick up on your mobile device in the same place you left off on your desktop. 
+
+Has Firefox done enough to regain its place on my Mac? We'll see. Having spent the day playing with it, the Panorama feature is really useful and as someone who expects a lot from his browser, that could be enough to cause me to switch back. The increased speed is also a big plus.

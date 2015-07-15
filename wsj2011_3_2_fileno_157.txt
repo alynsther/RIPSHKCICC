@@ -1,0 +1,31 @@
+Amid throngs of entrepreneurs and digerati set to descend on the South by Southwest Interactive festival in Austin, Texas, next week, one start-up hopes to create big buzz with a low-tech texting tool popular with soccer moms.
+
+
+
+ GroupMe is a hit not only with mothers coordinating drop-offs and pick-ups, but also with skiers planning après-ski cocktails and patients updating relatives on their progress—a non-techy customer base GroupMe calls "The Normals." And it has proved useful for people at music festivals where concentrated emailing and tweeting by a crowd of thousands quickly creates a virtual logjam. 
+
+Texting, until recently, was a one-on-one communication tool, inefficient for coordinating group logistics in real time. Using the text function of a regular cellphone, GroupMe streamlines all the back-and-forth messaging between individuals: A user texts a single message to multiple people, who then, to use email parlance, "reply to all." Individuals in the group register their cellphone numbers on the GroupMe website and get a 10-digit mobile number, which members of the group use to communicate. 
+
+South by Southwest put Twitter on the map in 2007, when the number of tweets grew from 20,000 to 60,000 a day at the festival. In 2009, Foursquare got its "South By" bump. "We went there with 50 users and came back with 5,000," says Foursquare co-founder  Dennis Crowley. "This year is going to be about group messaging."
+
+GroupMe's two main rivals are Fast Society, marketed to teens, and Beluga, appealing to smartphone users. On Tuesday, Facebook said it acquired Beluga for undisclosed terms and will operate it as a stand-alone application "for now." 
+
+And Tuesday, GroupMe added a new layer—an app that enables those using the service on smartphones to upload photos and add location-based options to messages, a la Foursquare. "We worked hard to offer more features for those who want them but to keep it uncomplicated for The Normals," says GroupMe co-founder  Steve Martocci. "Not everyone is tech-obsessed."
+
+As texting becomes more popular, improving the user experience is an expanding market niche. People ages 45 to 54 sent and received 323 texts a month in the second quarter of 2010, up 75% from the year prior, according to the Nielsen Co. It's the only form of mobile written messages available to people without smartphones—a large segment. As of December 2010, smartphone users represented just 27% of the U.S. mobile market, according to comScore, a digital market research company.
+
+  Dennis McGuire, 33, works at a Philadelphia software company and writes a hunting blog. He heard about GroupMe last fall, at the start of deer season. "People are always asking what is the best form of communication in the woods," Mr. McGuire says. His post recommending GroupMe to readers was one of the blog's most referenced and tweeted, he says. 
+
+GroupMe was founded in May last year by Mr. Martocci, 28, a former engineer at online retailer Gilt Groupe, and  Jared Hecht, 23, a 2009 graduate of Columbia University who worked in business development at the blogging service Tumblr. Mr. Hecht's fiancée was complaining about how hard it was to coordinate a meeting of college friends at the Austin City Limits Music Festival. "Not everyone has a smartphone and so many people hate email," she told Mr. Hecht. "She was really frustrated that they couldn't text all together," he says. 
+
+Mr. Hecht told his friend Mr. Martocci and suggested they take part in a 24-hour "hackathon," in which engineers stay up all night coding the next big thing alongside business partners working to package it. The duo created what became GroupMe. 
+
+Since then, they have raised $11.4 million, with the initial investment coming from Lerer Ventures, run by  Kenneth Lerer, co-founder of the Huffington Post. Mr. Lerer sits on the GroupMe board and meets weekly with Messrs. Martocci and Hecht. "I think if they operate it properly, it has potential to be a major business," Mr. Lerer says.
+
+GroupMe says it has "several hundred thousand users," and over a million texts a day cross its platform. But like its competition, it currently has no revenue. Mr. Hecht says the plan is to offer service and product coupons to users, targeted according to key words in their texts, much as  Google does with Gmail. And GroupMe may introduce branded groups hosted by a corporate "sponsor"; members who choose to join would get offers via text message. GroupMe also is forging partnerships with music festivals including Coachella in California next month.
+
+Organizers of Austin City Limits and Lollapalooza will include GroupMe software in the 2011 festivals' smartphone applications, says  Michael Feferman, digital director of C3 Presents, which produces those events. Concertgoers can build their own groups. In the future they'll be able to join an official festival group to get traffic reports or schedule changes. When thousands of people convene in a park and start emailing and texting friends and uploading photos and video, such a service can be invaluable. "Texts generally get through even when all else fails," says Mr. Feferman.
+
+At South By, Messrs. Hecht and Martocci will remind everyone of GroupMe's commitment to the Normals by giving away free grilled cheese sandwiches.
+
+ Write to  Katherine Rosman at katherine.rosman@wsj.com 

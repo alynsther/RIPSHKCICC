@@ -1,0 +1,35 @@
+MUMBAI – A Reserve Bank of India panel Tuesday recommended making the repurchase rate, its main lending rate, the single policy rate to improve monetary policy transmission. 
+
+It also suggested maintaining a deficit in banking system liquidity to ensure that banks continue to borrow from the central bank at the repo rate, making it the operational rate at all times. 
+
+The panel, headed by RBI Executive Director  Deepak Mohanty, was constituted by the central bank in October last year to review the prevailing operating procedures of monetary policy. 
+
+The central bank currently uses two rates--the repo rate and the reverse repo, its main borrowing rate--to manage monetary policy depending on the liquidity situation. When liquidity is surplus, banks lend excess funds to the RBI, making the reverse repo rate the operational rate. But when banks are short on cash, they borrow overnight funds from the RBI, making the repo rate operational. 
+
+This, however, creates confusion and poses a challenge for the RBI to clearly articulate the stance of monetary policy, particularly when liquidity turns surplus or deficit within a short period. 
+
+"The repo rate should be the single policy rate to unambiguously signal the stance of monetary policy to achieve macroeconomic objectives of growth with price stability," the panel said in its report, which was placed on the RBI's website. 
+
+Under the current framework in effect since November 2004, the repo rate acts as the upper end and the reverse repo rate the lower end of the interest rate corridor, within which other banking system interest rates usually operate. 
+
+The panel has recommended that the repo rate should be placed within a corridor that has the reverse repo rate at the lower end and the "reactivated" bank rate or the discount rate at the upper end. 
+
+The bank rate was earlier a tool for managing money supply in the economy. But it has remained unchanged at 6% for nearly eight years now and has been dormant as an instrument of monetary management. It is merely being used to calculate penalty on banks for default in the mandatory cash or bond holding rules while the central bank has been altering the repo and reverse repo rates to guide banking system rates in sync with the changing economic situation. 
+
+The panel said that the corridor's optimal width should be 150 basis points and shouldn't be changed under normal circumstances. The reverse repo rate should be fixed 100 basis points lower than the repo rate while the bank rate should be set 50 basis points higher than the repo rate, it said. "As the repo rate changes, the bank rate and the reverse repo rate should change automatically," it added. 
+
+Currently, the repo rate is at 5.50%, the reverse repo rate at 6.50% and the bank rate at 6.00%. 
+
+"The weighted average overnight call money rate should be the operating target of the Reserve Bank. The operating objective should be to contain this rate around the repo rate within the corridor," the panel said. 
+
+The panel also suggested operating the liquidity adjustment facility in a deficit mode. It said that liquidity should be contained at plus or minus 1% of banks' net aggregate deposits. If liquidity persistently stays outside this suggested range, then the RBI should use tools such as open market operations, the market stabilization scheme or the cash reserve ratio to manage liquidity, the panel said. 
+
+It also recommended that the RBI conduct two liquidity auctions everyday on a regular basis. 
+
+The central bank lately has been holding two auctions everyday to manage liquidity, but the second auction was introduced only as a temporary measure to tide over a recent liquidity crunch. 
+
+Besides, the panel suggested putting in the public domain the information on government cash balances for a better assessment of liquidity. It also recommended including oil bonds, given by the government to state-run fuel retailers, in the collateral pool for the reverse repo operations under the liquidity adjustment facility. 
+
+The panel has sought comments on the report by March-end. 
+
+ Write to  Nupur Acharya at nupur.acharya@dowjones.com and Anant Vijay Kala at anant.kala@dowjones.com 

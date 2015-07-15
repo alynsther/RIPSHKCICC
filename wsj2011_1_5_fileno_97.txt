@@ -1,0 +1,177 @@
+It may seem as though every company on the planet is unveiling a tablet computer this week at the Consumer Electronics Show in Las Vegas, but  Hewlett-Packard Co.
+HPQ
+
+
+-0.75
+%
+
+
+
+
+ appears to be waiting a month. 
+
+The world's largest technology company by revenue sent invitations Tuesday to an event in February where it says it will make an "exciting" announcement regarding WebOS, the mobile operating system H-P acquired when it bought smartphone maker Palm last year. 
+
+The invitation doesn't mention a tablet, but H-P has said in the past it plans to release a WebOS tablet in early 2011. A spokesman for the company declined to comment.
+
+A separate tablet event would also explain why H-P is focusing on new laptops and desktops at CES, a.k.a Tablet-Fest 2011.
+
+Some of H-P's new computers at the show come with fancy audio systems and cooling technology that detects where someone is holding the laptop and keeps that part of the machine from getting too hot. It's interesting stuff, but the cooling technology was introduced in September, and the audio has been around for some time. H-P also announced enhancements to computers aimed at businesses. 
+
+For H-P, it makes sense to skip the current tablet mania and wait for an event where it can be the center of attention, says  Roger Kay, an analyst at Endpoint Technologies Associates. Unlike the many companies that are unveiling tablets that run  Google Inc.'s Android operating system, H-P has to promote both the operating system and the device itself, he says. That's a more complicated task, and there's too much risk that an H-P tablet unveiled at CES would get lost in the crowd.
+
+"This year since every fool is going to have a tablet," says Mr. Kay. "Probably not having a tablet makes you look smart."
+
+—Ben Worthen
+
+As televisions go the way of smartphones and get loaded up with apps,  Netflix Inc.
+NFLX
+
+
+-0.71
+%
+
+
+
+
+ is staking its claim to an important accessory — the remote control.
+
+The movie-rental company has struck deals with makers of TVs and DVD players to put a one-click "Netflix" button on remotes starting this spring, Netflix said Tuesday. Such a button would make it easier for people to go straight to their Netflix account, rather than clicking through other menus, which could potentially distract the viewer.
+
+"We've always regarded ubiquity on devices as our strategy, and we want to be present there as simply and visibly as possible," said Netflix spokesman  Steve Swasey. 
+
+Netflix declined to disclose details of the deals, but it said that  Sony Corp.,  Sharp Corp.
+SHCAY
+
+
+-1.06
+%
+
+
+
+
+ and  Toshiba Corp.
+TOSYY
+
+
+1.64
+%
+
+
+
+
+ would include the button on remotes for new Internet-connected TVs. Those companies, plus  Panasonic Corp., Samsung Electronics Co. and others, will put the button on remotes for Blu-ray disc players that stream movies from Netflix. And the button will also be on remotes for boxes like the one that's made by Roku Inc.
+
+Each remote will be different, depending on the manufacturer's decisions, Mr. Swasey said. Some will include the red Netflix logo, while others might just have a black button. 
+
+Netflix released a picture, shown below, displaying a giant red button that says "Netflix," but Mr. Swasey said that is simply the picture that will go on the boxes at retail to indicate the remote has the one-button feature. 
+
+"I don't think any of the remotes are going to have a button that big," he said, adding that prototypes of the remotes exist but haven't yet been finalized. Some device makers could show the remotes at this week's CES, he said.
+
+Getting a prominent place on the remote could be important for Netflix as more apps come to Internet-connected televisions and compete for users' attention. Netflix is aiming to get ahead of the curve, securing its position as the go-to program for streaming movies as Internet TV menus grow more cluttered and competitors like  Amazon,
+AMZN
+
+
+2.20
+%
+
+
+
+
+ Apple
+AAPL
+
+
+-0.04
+%
+
+
+
+
+ and cable companies offer more downloadable or streaming movies. And device makers have an incentive to make must-have applications easy to find. A deal for space on a TV remote control could be the 2011 version of deals that placed default software on PCs.
+
+—Jennifer Valentino-DeVries
+
+An e-reader manufacturer that earlier this year boasted about its plans for a $99 device has shelved its hardware business amid a frenzy of competition. 
+
+Copia, a subsidiary of DMC Worldwide, said in July that it would offer a five-inch color reader in late 2010 for $99. At the time, ithat price would have been the lowest price for an e-reader in the U.S.
+
+Now, after delays, the company has killed its plans for multiple e-readers and is aiming to get its e-reading software application on hardware from other manufacturers, a company spokesman said. 
+
+At CES this week, Copia said it expects its software to be shown off on multiple Android tablets as well as on the Droid X smartphone, a Samsung tablet and tablets running Windows. The software is already available for PC and Mac computers. 
+
+Copia, which has a user base in the tens of thousands, according to the spokesman, has marketed its software as "social reading." Users can access feeds from social media services like Facebook and Twitter as they're reading, and they can share notes and book recommendations without having to open a Web browser. 
+
+Copia first showed off its line of e-readers at last year's CES. Soon after, Apple Inc. unveiled its iPad, shaking up the e-reader market and spawning a wave of competing tablets. Amazon.com Inc. and other e-reader manufacturers lowered the price on their devices. Borders now offers an e-reader from Aluratek that sells for $99.99.
+
+Copia is not the only maker of e-readers to have its plans disrupted by the fast-growing tablet and e-reader market. 
+
+In August, following delays, Plastic Logic killed plans for its $800 Que e-reader. Samsung Electronics Inc. also showed off an e-reader called the E6 at last year's CES, only to change its name, lower its price point, and quietly distribute the device through  Barnes & Noble
+BKS
+
+
+1.86
+%
+
+
+
+
+ — which has its own e-reading device, the Nook — this spring. 
+
+"The fact is companies are trying to compete with the iPad and Nooks of the world, and in the e-reading space, these manufacturers recognize that Copia's technology to bring people together in the reading experience will give them an advantage," a Copia spokesman said.
+
+—Lauren Goode
+
+Not perhaps the start to the new year that  Microsoft Corp.
+MSFT
+
+
+0.18
+%
+
+
+
+
+ was hoping for is the news that Firefox has kicked Internet Explorer off the European top browser spot for the first time.
+
+According to analytics company StatCounter, Firefox had 38.1% of the European market in December, compared with IE's 37.5%.
+
+The reason for Microsoft's slip is the growing popularity of Google's Chrome, which appears to be taking market share from IE but not from Firefox. Chrome has grown to 14.6%, up from 5.1% last December.
+
+"This is the first time that IE has been dethroned from the No. 1 spot in a major territory," StatCounter CEO Aodhan Cullen said.
+
+"We are probably seeing the impact of the agreement between European Commission competition authorities and Microsoft," he added.
+
+Last March, Microsoft was forced by the European Commission to offer users a choice of browsers, including Firefox and Chrome, as part of its installation and upgrade process.
+
+In North America, IE still remains king of the browser market with 48.9%, followed by Firefox (26.7%), Chrome (12.82%) and Apple's Safari (10.16%).
+
+—Ben Rooney
+
+Cellphone technology is making its way into more places—and now it's coming to pill bottles.
+
+  AT&T Inc.
+T
+
+
+0.69
+%
+
+
+
+
+ is offering its service in products called GlowCaps, which are designed to help people remember to take their medication. The caps send data to their manufacturer, Vitality Inc., whenever the user opens the bottle, and this information can be communicated to the patient's doctor or family members. 
+
+The caps can also remind the user to take the medicine by flashing a light and playing a ringtone on a device that plugs into the wall; and they can call the user's phone as a reminder and automatically order refills from the pharmacy.
+
+The caps are aimed at getting people to take medications as prescribed — regularly and at the right time. That can be a big problem for people with chronic illnesses, and for the doctors and insurers who want to make sure they don't get sicker.
+
+Vitality has been offering similar caps for a couple of years, but earlier versions either didn't communicate with doctors or relied on the patient to have a Wi-Fi Internet network. The new caps work in any area with cellular coverage.
+
+But the caps are expensive — $10 each on Amazon, plus $15 a month for service that includes the AT&T cellphone network connection. In earlier tests of such caps, pharmacy-benefit companies paid for the devices. 
+
+AT&T said the pricing is set by Vitality. A Vitality spokeswoman said the cost includes the network service as well as the sending of monthly reports. It also includes a system that contacts patients when they miss their medication.
+
+Detailed health information like this is potentially valuable to many people and raises privacy questions. The spokeswoman said data from the bottle caps are sent only to Vitality and to the people patients authorize to get the reports, not to outside companies like drug firms.
+
+—Jennifer Valentino-DeVries

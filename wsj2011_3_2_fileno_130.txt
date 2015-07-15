@@ -1,0 +1,65 @@
+ (Please see Corrections & Amplifications item below.) 
+
+These are wild times for corporate financial executives.
+
+Read the full  Foreign Exchange report .
+
+Each day,  Bob Woodward checks on the forward currency contracts he's bought, locking in the Canadian dollar's exchange rate against the U.S. dollar.
+
+"We have to be proactive because we are so exposed that we have to be here every morning looking at things," says Mr. Woodward, the chief financial officer of Wmode, a Calgary, Alberta, mobile-software company that gets 95% of its revenue from abroad.
+
+To mitigate the risk that currency moves will wipe out its profits, Wmode buys between $10 million and $20 million of forward contracts annually. In 2010 these hedges saved the company 12% of revenue, money that otherwise would have vanished due to foreign-exchange volatility, he says.
+
+Companies like Wmode have had to work overtime to protect their bottom lines in recent years amid a marked pickup in currency volatility. First it was the sharp slide in emerging-markets currencies during the financial crisis of 2008 and 2009, when the dollar and Japanese yen surged as safe havens. Then it was the gyrations in the euro, which moved within a range of 12 to 15 cents in each quarter of 2010 as the eurozone lurched from debt crisis to solution and back again.
+
+A Citigroup Inc. survey of large companies released in December revealed that one-quarter had changed their risk-management policies as a result of losing money to such currency movements since the financial crisis began.
+
+"A 2% swing that affects your bottom line could wipe out your profit," says Brendan McGrath, senior foreign-exchange trader at  Western Union Co.
+WU
+
+
+-1.17
+%
+
+
+
+
+'s Western Union Business Solutions in Victoria, British Columbia, where Wmode does its hedging.
+
+Currency volatility is in the forefront of issues concerning companies around the world, and hedging has increased recently after a pullback during 2008 and 2009. U.S., European, and Japanese companies surveyed by J.P. Morgan Chase & Co. in December said they had already hedged a record 40% of their currency exposure for 2011. Among those, U.S. companies had hedged 46% of their expected foreign cash flow for 2011. Previous surveys showed that companies around the world hedged nearly that much in December 2007 for 2008, but then sharply reduced their hedging during 2008 and 2009.
+
+J.P. Morgan's December survey showed companies were most worried about the euro as the sovereign-debt crisis and the resulting banking turmoil continues to roil the common currency.
+
+Companies that hedge their currency exposure by buying forward contracts and options through Western Union Business Solutions are generally trying to protect against exchange-rate fluctuations of about 8% over the life of a contract, Mr. McGrath says. But since the crisis of 2008-09, exchange rates can now change in double-digit increments over those periods, making hedging more difficult and costly he says. Forwards are agreements to buy or sell a currency at a specified rate on a certain date. Options give the right, but not the obligation, for similar transactions.
+
+With companies more careful now about hedging costs, Mr. McGrath says he's seen an increase in clients using a protective move known as a collar strategy to bet that the euro's weakness will continue.
+
+Say a company has euros that it wants to exchange for dollars in three months and the euro currently is trading at $1.35. The company wants to lock in its exchange rate within a narrow range. To achieve this, it arranges two separate options. One option, which the company buys from a counterparty that's more bullish on the euro, allows it to sell its euros in exchange for dollars if the euro reaches $1.37. The other option, which it buys from a euro-bearish seller lets it sell those euros at a rate of $1.33. That way, the company has guaranteed its rate will fall between $1.33 and $1.37; it won't be hurt if its euros are suddenly worth far less, but it also won't benefit if its euros become worth far more.
+
+"You can give yourself a very tight protection level," Mr. McGrath says. "But you have to give up some upside," he adds. "That's one big thing if you're talking about volatility."
+
+How much a company uses hedging depends on the type of business and how predictable its foreign-exchange exposures are. Most sectors that do business abroad typically try to eliminate half of their exposure. Companies with narrows margins, like in agriculture, commodities and groceries, might hedge 80% of their known foreign-exchange requirements.
+
+Some companies don't hedge at all, either because they can't judge how much money will be coming in from abroad, or because they have a deliberate strategy of letting currencies balance each other out around the world.
+
+FM Global, a mutual commercial-property insurer based in Johnston, R.I., does business in about 100 currencies. When it needs to pay out a claim abroad, it builds up deposits in that currency by halting conversions of the annual premiums it collects in that currency. Otherwise, it regularly converts its foreign cash into dollars, except where national regulations require it to keep some money in a particular currency.
+
+"We're not buyers of exotic or pricey FX instruments to manage our risk," says Treasurer William Mekrut. Because FM Global is privately held, "we manage our company from a long-term structure, so we don't have to do that." 
+
+Even the savviest treasurer avoids purely speculative trades on currencies just to boost profits; that's an easy way to lose money with disastrous bets. "The evidence is pretty strongly against the fact that a corporate can forecast how exchange rates are likely to go and make hedging decisions to increase profitability by hedging," says Gordon Bodnar, a finance professor at Johns Hopkins University's School of Advanced International Studies who has researched corporate hedging. "Increasingly, I think, companies recognize that."
+
+"One way to look at FX is that you're just buying insurance," says Brian Kalish, director, finance practice, at the Association for Financial Professionals, a trade group in Bethesda, Md., for treasurers and other financial executives. But, he says, "you never want to overhedge, because that's just money you're spending right off the bat."
+
+Even when currencies are fluctuating dangerously, a prudent hedge policy can still be too pricey for many companies. Because the more volatile the market, the higher the price for an option.
+
+Treasurers on the message boards of the Association for Financial Professionals website recently debated how to hedge their exposure to Turkish lira. "You can't," Mr. Kalish says. "You're not going to buy futures in highly volatile currencies because the cost is too great."
+
+Hedging costs also vary greatly depending on a company's creditworthiness, the currency being hedged, the type of hedging instrument used, and the length of time the company wants to maintain the hedge.
+
+According to one adviser to companies on foreign-currency hedging, recently a public U.S. company with a good credit rating that wanted to convert 100 million euros into dollars in three months could have used a three-month forward contract to sell euros for $1.3142, compared with a spot exchange rate of $1.3149. The difference between those two rates represents the difference in three-month deposit interest rates in euros compared with dollars, or about $70,000. If the two companies in the transaction put the money into three-month deposits, then the company selling the euros would earn interest on them for the three months before the exchange takes place, and the buyer of the euros would earn interest on dollars during the same period. In that scenario, the interest earned effectively offsets the difference in spot and forward price, and the hedge doesn't cost the U.S. company anything, aside from the opportunity to put those funds to some other use during those three months. 
+
+At the other end of the spectrum, the adviser says, a privately held company with poor credit that wants to convert 100 million euros into dollars in five years will likely have to use a put, or sell option. The company's bad credit would stop most banks from taking a risk on a five-year forward contract. And that deal could cost as much as $13 million, or close to 10% of the amount hedged. 
+
+ Corrections & Amplifications  A public U.S. company with a good credit rating wanting to convert €100 million (or about $140 million) into dollars in three months could have used a three-month forward contract recently to lock in an exchange rate at no effective cost, because of the difference between dollar and euro interest rates. This article neglects to note the offsetting interest that would make the hedge effectively free of cost.
+
+ Ms. Schoenberger is a reporter for The Wall Street Journal and Dow Jones Newswires in New York. She can be reached at chana.schoenberger@dowjones.com. 

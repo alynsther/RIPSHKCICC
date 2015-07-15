@@ -1,0 +1,31 @@
+The Securities and Exchange Commission's probe into whether Fannie Mae and Freddie Mac properly disclosed their growing exposure to riskier mortgages between 2006 and 2008 could also spotlight the oversight role of the firms' federal regulator, which approved those disclosures.
+
+So far, four current or former officials of the firms have said they received Wells notices and could face civil charges from the SEC, including Daniel Mudd and Richard Syron, the former chief executives of Fannie Mae and Freddie Mac, respectively. Several other executives are believed to have received the notices as well.
+
+The potential defendants have indicated they plan to respond in writing to the Wells notices, which are formal notifications the SEC intends to pursue enforcement action. In statements, Mr. Mudd and a lawyer for Mr. Syron have argued the agency shouldn't bring charges, in part because their disclosures about subprime mortgages were reviewed by the Federal Housing Finance Agency, the firms' federal regulator.
+
+"It very much complicates the government's case," said Mark Calabria, director of financial-regulation studies at the libertarian Cato Institute. Mr. Calabria said the SEC would nevertheless have a strong case if it had evidence that Fannie or Freddie executives misled not just investors, but also the FHFA, about the quality of their loans.
+
+David Felt, the former deputy general counsel of the FHFA, said the agency had reviewed potential disclosure issues and had not found sufficient evidence to bring cases against individuals as of January 2010, when he retired from the agency. 
+
+Shareholders have had a hard time winning cases against the mortgage titans over the issue of disclosure. Some of those cases have been dismissed after the FHFA intervened on behalf of Fannie and Freddie.
+
+Last fall, a federal judge dismissed several claims by shareholders. Even though Mr. Mudd had made statements in 2007 noting that Fannie Mae wasn't heavily exposed to subprime loans, U.S. District Judge Paul Crotty threw out many of the investors' claims on grounds that the firm's public filings "contained cautionary language that warned investors" about increased mortgage risks. 
+
+"Far from signifying a departure from proper behavior, Fannie's actions in this case seem cautious, and their disclosures do not provide a compelling inference of fraud," he wrote. The decision also noted that Fannie "operated in a heavily regulated environment," and that since being taken over by the government, "no restatements of Fannie's financials have been ordered."
+
+The judge has allowed other claims to move forward involving Fannie executives' emails that questioned the company's internal controls and risk management. Judge Crotty said the emails suggested "Fannie may have been saying one thing while believing another."
+
+One potential complication of any case charging executives for improperly disclosing loan purchases is that there wasn't an agreed-upon definition of subprime loans. 
+
+The term generally refers to loans given to borrowers with weak credit. "There's a big gray area," said Cato's Mr. Calabria.
+
+Guidance issued by the Federal Deposit Insurance Corp. in 2001 said that loans with credit scores below 660 generally had a "relatively high default probability," but the mortgage industry generally defined subprime loans as those with scores below 620.
+
+Fannie Mae, which classified 0.3% of its loan guarantees as subprime as of October 2007, defined subprime loans as those that were either identified by the loan seller as subprime or that were purchased from subprime originators. Without an accepted industry definition, Fannie and Freddie "took what was arguably a far narrower definition," Mr. Calabria said.
+
+But Fannie also disclosed other risk measures, including that 4.9% of its loan guarantees had credit scores below 620, and that around 9% of its loans went to borrowers that had loan-to-value ratios above 90%. Freddie disclosed both the share of loan purchases with scores below 620 and between 620 and 660.
+
+Spokeswomen for the SEC and FHFA declined to comment.
+
+ Write to  Nick Timiraos at nick.timiraos@wsj.com 

@@ -1,0 +1,29 @@
+At the main gate of the heavily damaged Fukushima Daiichi nuclear power plant on Tuesday night, gamma radiation levels of about 240 microsieverts per hour were reported by the plant's operator, Tokyo Electric Power Co. About 75 miles southwest of the plant, Japan Atomic Energy Agency detectors picked up readings of up to 1,900 nanograys an hour. Meanwhile, spinach collected 60 miles southwest of the plant last Friday contained 54,000 becquerels per kilogram of the radioactive element iodine-131.
+
+Keeping abreast of the nuclear news from Japan involves making sense of a dizzying array of measurements, most of which take their names from physicists who helped uncover the properties of radioactivity and its biological effects. All the numbers add up to a reassuring picture of very low risk from the radiation emitted from Fukushima so far, which is less than the amount people typically get from common sources such as the sun, medical tests and air travel. And scientists aren't convinced that there is any cancer risk from very low radiation doses. But that message can be obscured by the little-known units used to measure emissions.
+
+Becquerels, grays and sieverts all are internationally accepted units that quantify different aspects of radiation, while micro- and nano- are prefixes denoting one-millionth and one-billionth, respectively. Comparitively speaking, a becquerel is very little radiation, while a gray and a sievert are a lot, physicists say.
+
+Adding to the confusion, some scientists, especially in the U.S., use the older terms curies, rads and rems to describe radiation. One sievert is equivalent to 100 rem. But physicists expect these units to gradually be phased out in scientific discourse, much as feet have given way to meters.
+
+A becquerel constitutes one radioactive event per second. Becquerels are useful for describing the radioactivity of the source of emissions. But they don't indicate what kind of radioactivity is being emitted or how much radioactive energy and particles are present where people live, factors critical to determining how harmful the radiation will be.
+
+Radioactivity detectors typically measure energy in terms of grays. A 132-pound person exposed to one gray has absorbed radiation energy equivalent to the amount of energy used by a 60-watt light bulb in one second.
+
+Two radiation doses of equal amounts of energy might not be equally harmful, however. For example, radioactive energy from alpha particles, which are emitted when some kinds of uranium and plutonium decay, are roughly 20 times more harmful than energy from beta or gamma radiation, the primary types emitted by the Fukushima reactor.
+
+To distinguish between different levels of danger in similar quantities of radiation, scientists use a measure called a sievert. The advantage of sieverts is that they allow public-health experts to estimate how much harm the radiation has caused. By studying people who have been exposed to high doses of radiation, particularly survivors of the 1945 atomic bombs in Japan, scientists have derived a relationship between sieverts and the elevated risk of cancer. For every sievert a person absorbs, the risk of dying from cancer increases by about five percentage points.
+
+But not everyone in the same place absorbs the same dose, partly because people who are indoors are protected by building materials; and younger people are more susceptible to radiation, as are those with certain genes.
+
+Sieverts also don't take into account the duration of exposure. Many readings from Japan are stated in terms of sieverts per hour, and doses —and harm—accumulate over time. So, for instance, someone exposed to 240 microsieverts an hour over 1,000 hours would have an effective dose of 0.24 sievert, a significant amount. But scientists agree that the same dose is more harmful when delivered all at once, rather than spread out over many years, which gives the body a better opportunity to respond protectively. The risk of exposure to workers who deal with radioactive material is believed to be half that of someone who received the equivalent dose all at once.
+
+Jacquelyn Yanch, a radiation physicist and senior lecturer at the Massachusetts Institute of Technology, says that assumption is an appropriate standard for the workplace but might lead to overly aggressive evacuations in the case of Japan, where the true danger from contaminated areas likely is lower than sieverts would suggest because the release of radiation has been drawn out.
+
+Also controversial is whether low doses such as those currently encountered in Japan really do elevate cancer risk. Most scientists think that exposure to low doses of radiation causes a very small fraction of the total number of cancer deaths, making radiation fatalities very hard to measure.
+
+Penelope Allisy-Roberts, director of the ionizing radiation department at the International Bureau of Weights and Measures in Sèvres, France, says that there is no scientific consensus that low doses pose any risk of cancer at all. 
+
+Researchers in the field "really, really do not know," she says.
+
+ Write to  Carl Bialik at numbersguy@wsj.com 

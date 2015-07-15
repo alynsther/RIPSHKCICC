@@ -1,0 +1,29 @@
+Facebook Inc. temporarily suspended a feature that gave external websites and applications access to its users' addresses and phone numbers, after some privacy advocates expressed concerns. 
+
+The pullback came just a few days after the social network announced the feature, which expanded the range of user data that developers could request from Facebook users to include more-detailed contact information.
+
+But the mechanism triggered concerns from privacy advocates. "This is fairly personal information," said  Justin Brookman, the director of consumer privacy at the Washington-based Center for Democracy and Technology. 
+
+Facebook said it plans to change how it asks users for permission to share their information with others, and will reinstate the feature in a few weeks. "We agreed with feedback—both external and internal—that the user interface could be improved," said a Facebook spokesman. 
+
+Facebook has been criticized in recent years for modifying its privacy rules to expose more of a user's personal data. Last fall, the Palo Alto, Calif., company introduced a new control panel that allows people to see which third-party apps and sites are accessing information about them and what kind of information is involved. 
+
+The social network lets external websites and apps access certain data about users through a system it calls the "open graph." Facebook users can log into other websites with their Facebook credentials, which allows them to bring along certain information about themselves and their friends, such as their name, photos birthdays and personal preferences.
+
+In a post on its developer blog, Facebook said that address and phone information might be used by developers to speed up online tasks by Facebook users, such as sharing contact details with an e-commerce site, or signing up for alerts on a mobile phone.
+
+As with other aspects of the "open graph," Facebook users had to give their explicit permission before third parties could tap into their address and phone information. However, Facebook said it decided it needed to make people more clearly aware of when those parties were asking for access to the potentially sensitive data.
+
+Facebook takes steps to highlight its sharing of other potentially sensitive information, such as email addresses, with third parties. When an app asks for access to a user's email, Facebook shows that user the specific email address to ensure that he is aware of what he is sharing.
+
+Facebook hasn't said what percentage of its users voluntarily enter their street address and phone number on its site.
+
+Mr. Brookman from the Center for Democracy and Technology said, "As long as the permission model is done in a clear and transparent way, I can imagine cases where it is OK."
+
+At least one member of Congress expressed concern, too. Rep. Edward J. Markey, a Democrat from Massachusetts who has pressed Facebook about privacy concerns in the past, called the new feature "misguided," and said he would be monitoring plans to revive it.
+
+"Despite the opt-in nature of this feature, I am concerned that it could be exploited by people who seeking access to sensitive personal information," he said. "I don't think most Facebook users joined the network in order to become the unwittingly 'friends' of data brokers and marketers, or possibly even scam artists and identity thieves."
+
+The Facebook spokesman said the company "would welcome the opportunity to share our progress in improving this feature with Rep. Markey."
+
+ Write to  Geoffrey A. Fowler at geoffrey.fowler@wsj.com 

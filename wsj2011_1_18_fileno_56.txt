@@ -1,0 +1,17 @@
+MADRID—A legal case pitting Internet search giant  Google Inc. against Spain's privacy laws will be heard by a Spanish court Wednesday, a Google spokeswoman said. 
+
+The case, a significant test of tightening privacy laws in the developed world, stems from a 2008 Google challenge to Spain's Agency of Data Protection, a government organization that deals with complaints from citizens over the handling of their personal data on the Internet. 
+
+The agency claims that, under Spanish law, Google must delete links on its search engine to any websites containing information that could compromise an individual's right to privacy.This could include potentially embarrassing information about an individual's activities. 
+
+A spokeswoman for the agency said requests are only sent to Google when private citizens specifically cite Google in their privacy complaint. Recent cases include a prison guard who received administrative punishment and feared for his safety if this was widely known, she said. 
+
+Google counters that Spain's privacy agency doesn't force news providers to modify or remove such content on freedom-of-expression grounds, but refuses Google such protection. Other countries target the news providers themselves, rather than search engines like Google, it adds. 
+
+The case to be heard Wednesday addresses five requests from private citizens that Google remove links to websites that contain information about their past activities. The five are representative of around 90 that the agency referred to Google. A final ruling on the case is expected in coming weeks or months, and may result in Google being forced to act on all such future requests immediately, even if the company appeals the judgment. 
+
+Last month, the head of the privacy agency,  Artemi Rallo, warned Spain's parliament of a "tsunami" of privacy complaints received by the agency, including a 75% rise in complaints in 2009, the last year for which full data are available. The agency has launched similar probes against other Internet companies including MySpace and Facebook. 
+
+For Google, the case is the latest in a lengthy series of legal challenges. The company is facing privacy cases in around 30 countries, as well as a broad antitrust investigation by European regulators and scrutiny from other U.S. federal and state regulators over whether it engaged in anticompetitive practices. 
+
+The challenges include charges in South Korea that the company's Street View mapping service broke local laws, and a dispute in Germany over Google Analytics, a free tool for website owners that gathers data about how visitors use the Internet. 

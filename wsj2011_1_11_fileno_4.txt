@@ -1,0 +1,47 @@
+A disaster-modeling company that helps insurers predict the cost of storms and earthquakes is rolling out a new hurricane model that will likely boost the price of insurance for some homeowners living a hundred miles, or even 200 miles, from the nearest ocean. 
+
+Property coverage is typically more expensive for the homes along the East Coast and the Gulf of Mexico that have a front-row seat when a hurricane blows ashore. However, the adjustments being made by the modeling company, Risk Management Solutions Inc., could actually give some of those coastal homeowners a slight break, while increasing the estimates for how much damage a hurricane can do farther inland. 
+
+While the potential costs for inland homeowners aren’t yet clear, there is consensus in the industry that some of the insurers that use the model will have to raise prices as they re-evaluate their capital levels. Also, some insurers may choose to sell less coverage in areas that are judged by RMS to be more vulnerable than previously thought, also putting upward pressure on prices. 
+
+To be sure, homeowners are buying much more than hurricane coverage when they buy insurance on their house. The typical policy covers theft, fires, hail, tornados, sinkholes, protection from lawsuits, and other perils. The RMS model in question only measures hurricane risk in coastal states, and would affect the price only of coverage for the portion of the premium designed to protect against hurricane damage. 
+
+Still, the RMS hurricane model is one of the most popular in the insurance industry and it promises to at least change how many insurers think about hurricane coverage. RMS’s latest adjustments, to be released next month, are being widely anticipated. RMS has already warned that its updated model incorporates lessons learned from recent hurricanes to increase its estimate for a 1-in-100 year loss for the typical insurance company by 15% to 25%. 
+
+Results will vary significantly for individual insurers, depending on where they operate and what they insure. For example, the updated model is expected to double RMS’s 1-in-100 year estimate for insured hurricane losses in Texas and increase in the mid-Atlantic by 75% to 80%. The 1-in-100 year measurement is commonly used in the industry to evaluate an insurer’s hurricane risk, putting a ceiling on storm claims that has just a 1% chance of being exceeded each year. 
+
+RMS and its rivals are “very influential in the industry,” said  James Few, president of the reinsurance operation at  Aspen Insurance Holdings Ltd.
+AHL
+
+
+-0.40
+%
+
+
+
+
+ When a model significantly changes loss scenarios, “it’s a pretty big event.” 
+
+RMS is making the changes to the model after a handful of hurricanes, including Hurricane Ike in 2008, surprised some experts by maintaining intensity for longer than expected after coming ashore. Ike was a Category 2 hurricane that devastated coastal Galveston, Texas, when it struck in the early hours of Sept. 13, 2008. And while those closest to the shore took the brunt of the damage, Ike wasn’t downgraded from a hurricane to a tropical storm until it reached Palestine, Texas, almost 200 miles inland. 
+
+RMS estimated $7 billion to $12 billion in costs to insurers from Ike; the official tally, finalized months later, was higher—$12.5 billion in insured losses across nine states. 
+
+“Our results would have been better with this new model,” said  Ryan Ogaard, an RMS senior vice president. 
+
+The model incorporates lessons learned from other storms as well. The equipment used to measure recent hurricanes has improved significantly, and scientists are constantly re-examining storms from the past century to reach new conclusions. Mr. Ogaard said there were 10 times as many wind measurements included in the new model. 
+
+The model also accounts for the spike in the cost of construction materials after a mega-storm and updates assumptions about the damage that moderate storms can do to commercial buildings in some regions. 
+
+During Ike, “the roofs blew off of things when the engineering specs would have told you otherwise,” Mr. Ogaard said. “The building codes weren’t well enforced, some of the roofs weren’t put on properly, and they aged more quickly than you would have thought in the hot Texas sun.” 
+
+RMS has been discussing the revisions in general terms at industry conferences and other forums for almost a year, allowing companies to plan for the change even though they didn’t have the new model. 
+
+In addition to raising prices and possibly reducing sales of new policies, some insurers will buy more reinsurance. And some, according to  John DeMartini of Towers Watson, already bought more reinsurance when they renegotiated their coverage before the new year.
+
+To be sure, RMS’s model was frequently an outlier in Texas, causing some insurers to dismiss its results there, according to several insurance executives. Instead of prompting those insurers to raise prices in Texas, RMS’s changes could bring its model in line with the losses the insurers already assumed. 
+
+Not every insurer uses the RMS model. Many of those that do employ the other modeling companies as well. 
+
+“The more qualified opinions you can factor into the equation, the more accurate you are likely to be,” said  Dick Luedke, a spokesman for State Farm Mutual Automobile Insurance Co., the largest home insurer in the U.S. Whatever the results from RMS, State Farm will weigh them against the other models, he said.
+
+ Write to  Erik Holm at erik.holm@dowjones.com 

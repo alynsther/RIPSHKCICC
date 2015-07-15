@@ -1,0 +1,85 @@
+Read the full  ECO:nomics report .
+
+It's possible that  Nathan Myhrvold still hasn't found his true calling. The former chief technology officer at  Microsoft Corp.
+MSFT
+
+
+0.34
+%
+
+
+
+
+ has degrees in subjects including economics, geophysics, and theoretical and mathematical physics, and recently wrote a 2,000-plus page cookbook. He devotes much of his time lately to his company, Intellectual Ventures, whose business plan is to invest in new ideas. Mr. Myhrvold discussed his company and a few ideas of his own with The Wall Street Journal's Alan Murray.
+
+Edited excerpts of their conversation follow.
+
+  MR. MURRAY: Innovation is what you do, and you do it at your company. What is the process that enables you to come up with great ideas?  
+
+ MR. MYHRVOLD: We invest in invention. Venture capitalists invest in companies, including companies that don't exist yet. We try to invest in the actual idea.
+
+We'll invest in existing ideas. Someone will have already invented something; they won't know what to do with it. We'll take a controlling investment in that idea and say maybe we can figure out what to do with it.
+
+But we also generate ideas ourselves. We try to pick a topic, pick a really important problem within that topic, do some homework on it, then get a set of experts who know something of the topic. But also experts who know something other than that.
+
+We've got about 100 people in our inventor network. About 10 of them work for us full time. The biggest other collection of them are professors at universities. Then there's consultants, and there's retired people. So, altogether we'll bring typically six to 10 people—a few more than 10. We'll get them in a room, and we'll start brainstorming solutions.
+
+
+
+  MR. MURRAY: For hours, days?  
+
+ MR. MYHRVOLD: Usually a day. Sometimes we'll do two days.
+
+
+
+  MR. MURRAY: And do you pay them to do this?  
+
+ MR. MYHRVOLD: Yeah. We try to encourage people to come up with solutions. Sometimes we don't come up with a solution. Usually, we come up with some solution, but often it's not to the problem we posed. We then go through a process we call triage: Which of the ideas we generated are really worth pursuing?
+
+Sometimes you discover they're really not going to work; and often we discover someone else had the idea already. But if there's something promising, then we'll queue it up for a subsequent invention session.
+
+  MR. MURRAY: So in 10 years' time, what was your Google moment?   
+
+ MR. MYHRVOLD: It takes a long time to go through this process. If you had asked where was the Google in 1980, the answer would have been "not quite yet."
+
+But we've got a bunch of ideas that we feel very strongly about. We've got a nuclear-reactor company. We invented a fundamentally new kind of nuclear-power reactor. We can burn waste as fuel. We can burn depleted uranium as fuel. We can also burn spent fuel rods from conventional reactors as fuel, and we achieve far higher burn-up than you achieve. Burn-up is how much of the uranium you actually are able to react, so we can easily get 10 to 20 times more energy out of uranium than you would the other way.
+
+
+
+  MR. MURRAY: You've done a lot of work in the energy area. Can you talk about where you're focusing your effort there?  
+
+ MR. MYHRVOLD: The single biggest problem we have to focus on in this century is how to get every citizen of Earth roughly the same per-capita energy we enjoy in the developed world. China is developing. India is developing. Brazil is developing. They all want the lifestyle we have. The world's energy problem is about how we expand our energy budget by a factor of 10 or more, and short of incredible disaster or war, I don't know how we stop that.
+
+We don't have any viable way to do it. I don't believe that problem can be solved with any combination of existing technologies.
+
+
+
+  MR. MURRAY: Biofuels, electric cars…  
+
+ MR. MYHRVOLD: They all have a role. But I don't know of any single silver bullet. Take electric cars as an example. Batteries suck. They're better than they used to be. They get a little better every year. The current rate of progress will take a very long time to get there. What it means is we have to roll up our sleeves and invent something radically better.
+
+
+
+
+
+  MR. MURRAY: Do you have another idea that can reach that kind of scale?  
+
+ MR. MYHRVOLD: We're trying, but don't just bet on me. The way we're going to solve this problem is the way we've solved all of the great technological problems like this in the past, which is you get a lot of people innovating.
+
+
+
+  MR. MURRAY: Global warming. You've taken it on. You've gotten some criticism for your approach.  
+
+ MR. MYHRVOLD: The first thing that is not obvious to people is global warming is a less-than-1% effect. It's like being shortchanged at the bank by a penny every dollar. Over a long period of time with lots of transactions, that piles up.
+
+It's hard to predict with perfect accuracy, hard to predict what effect that will have on Earth. The speculation includes things that could be catastrophic, like, oh, Greenland falls into the water. Now there's some people that think that's absolutely going to happen. There's some people that think that's highly unlikely. We don't actually know enough about the physics of that, because we haven't watched it.
+
+
+
+  MR. MURRAY: So the solution is?  
+
+ MR. MYHRVOLD:The most dramatic approach is to say, "Can we cool Earth off?" The answer to that, surprisingly, is yes. And the reason goes back to it being a 1% effect. All you have to do is reflect 1% roughly of the light that hits Earth before it comes down, and you've solved the entire problem. It was recognized in the 1960s that sulfur dioxide does this naturally in the atmosphere. For relatively modest amounts of sulfur dioxide injected into the atmosphere, you could easily cool Earth by 1% or more, if you want.
+
+ Many of the people involved in the debate are anti-technology. Their argument is, "Guys like you got us in this problem; why the hell should we let you go do this again?"
+
+And the answer to that is, of course: As soon as we developed agriculture, as soon as our population increased from a couple million across the whole planet, all of those things were unsustainable in the sense that we would have growth rates that depended on us getting smart and figuring something else out. The whole question is, do we give the human race half a chance to figure out that next smart thing.

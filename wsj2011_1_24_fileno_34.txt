@@ -1,0 +1,47 @@
+Worried about extra scrutiny from the Internal Revenue Service?
+
+
+
+While you can never completely "audit-proof" your business's income tax return, you can take actions that will greatly reduce your chances of being flagged.
+
+Here are 10 ways to avoid a tax audit:
+
+ 1. Choose your tax return preparer with care. Today, according to the recent National Taxpayer Advocate report, 60% of individuals and even a greater percentage of businesses use paid preparers to do their income tax returns. Yet, preparers now face more intense IRS review. If the IRS believes a preparer is claiming unwarranted deductions or taking other fraudulent steps on clients' returns, then the preparer's clients are at risk for audit. 
+
+Barbara Weltman is an attorney who has written several books, including "J.K. Lasser's Small Business Taxes" and "The Complete Idiot's Guide to Starting a Home-Based Business." She publishes "Idea of the Day" and monthly e-newsletter "Big Ideas for Small Business" at www.barbaraweltman.com, and hosts the "Build Your Business" radio show.
+
+The IRS has eight tips for choosing a tax preparer. Key among them is to check the preparer's history to see if there has been any disciplinary action. For example, if you use an enrolled agent, check with the IRS' office of Professional Responsibility at opr@irs.gov (include the preparer's name and address).
+
+ 2. Report all of your income. The IRS uses information returns, such as W-2s and 1099s, to cross-check income reporting. Under its document-matching program, the IRS' computers compare information on the forms with the income reported by taxpayers on their returns. If the information doesn't match, this leads to an automatic audit. But don't panic; it's merely a correspondence asking about the discrepancy. It can be easily cleared up by submitting an explanation by mail if you think you are correct, or paying the tax owed if the omission was your oversight and the IRS is correct.
+
+Sole proprietors, freelancers and independent contractors who use the cash method of accounting may be vulnerable to year-end payment problems. For instance, a sole proprietor that performed work for a client may have received a payment in early January – but the client might have mailed (and recorded) the payment in December. The client will include the payment on Form 1099-MISC for 2010, but it isn't taxable until 2011. What to do: Include the payment as it is reported on the 2010 return, but then subtract the payment and attach an explanation with the return. Then include the payment on the 2011 return, even though no 1099 will be issued for this year.
+
+ 3. Provide complete information. All questions should be answered and all required information should be included on the forms and schedules necessary for your return. That means if you're a sole proprietor, include your business code number, accounting method, and, where applicable, inventory valuation method on Schedule C. If information is missing, it could trigger a more extensive look at the return.
+
+Also add information where necessary to explain entries or omissions that are not easily understood—such as in the prior example, when income received in January is reported on a prior year 1099.
+
+ Audits Add Shine to Firms 
+
+ 4. Avoid claiming deductions that are audit red flags. This advice is easy to give, but unfortunately, the IRS does not say which deductions are likely to provoke a closer look. There are no official audit red flags. While many warn that claiming a home office deduction can prompt an audit, there's no proof of this. If you meet the qualifications for claiming a home-office deduction, there's no good reason not to take the write-off. Check your eligibility in IRS Publication 587, Business Use of Your Home. 
+
+A number of years ago, the Government Accountability Office (formerly the General Accounting Office) compiled statistics on deductions claimed by sole proprietors to show the types of deductions relative to the amount of their revenue. Some tax professionals believe that taking more than the "average" can raise an IRS eyebrow, but again, there is no concrete support for this view. A business that is entitled to deductions, even if they are high relative to the amount of their income, should claim them—but be prepared to prove entitlement if the return is questioned.
+
+ 5. Don't file certain forms or schedules. Some optional forms and schedules virtually guarantee an audit. For example, if you turn a hobby into a sideline and show a business loan, the IRS may question whether some of your deductions are legitimate. If that happens, you might file a Form 5213, which keeps the IRS from auditing you for the first five years of the business. If you can show that you're profitable in at least three of the years, then the business isn't a hobby and the losses in the other years aren't questioned. The problem: Filing the form virtually guarantees an examination at the end of five years. 
+
+Better way: If you have loss years, be prepared to prove that you are operating the activity with a profit motive. 
+
+ 6. Pay attention to details. Math errors or incorrect entries of Social Security numbers or tax identification numbers can easily trigger an inquiry into your return. Math errors can be greatly reduced by electronic filing rather than filing paper returns. In the past, the IRS had said that errors are less than 1% on returns that are filed electronically, compared with about 20% on returns submitted via paper. If an e-filed return has a math error, it won't be accepted; instead it is sent back for correction and refiling.
+
+But information on electronically filed returns is only as good as the information you submit. Reporting $2,000 in income when it should have been $20,000 is your mistake and one that likely won't be noticed as a math error by a computer.
+
+ 7. Mind your personal entries. If there are entries related to the personal side of your return, this can ultimately lead to scrutiny of your return activities. The IRS selects returns for audit in some cases based on a Discriminant Function System or DIF score, which is based on IRS experience with taxpayers claiming certain deductions or credits within set income levels. For example, if you claim charitable contributions that are higher than the average deductions for your income level, this could lead to a personal audit; the personal audit may be expanded to include your business activities.
+
+ 8. Change your business status. IRS Statistics  show that you are 10 times as likely to be audited as a Schedule C filer than if you incorporate your business and elect S corporation status. While it costs a bit of money to incorporate, the move affords you greater personal liability protection and reduces your chances of being audited. In deciding whether to change your business status, include both tax and non-tax factors.
+
+Note: Forming a limited liability company for one owner will not give you any audit protection, because the owner still files a Schedule C.
+
+ 9. Watch your state tax return. The IRS has information-sharing agreements with the states. If you are audited at the state level and owe additional taxes because of omitting income or for other reasons, this information is shared with the IRS. The information may then prompt the IRS to contact you asking for additional tax payment or to audit your return in more depth.
+
+ 10. Plan for an audit, just in case. Because the IRS conducts random audits from time to time (such as a three-year random audit program for S corporations in 2007 and a current three-year random audit program for employment tax returns), any return could be selected for review at any time. Be prepared:
+
+Retain the records and receipts for your tax return for a minimum of three years (the period in which the IRS usually has to audit a return). However, keep in mind that the period becomes six years if 25% or more of income is omitted from the return, and there is no limit when it comes to fraud.

@@ -1,0 +1,63 @@
+  (See Corrections & Amplifications item below.)  
+
+A price war is slashing expenses to the bone on index-tracking exchange-traded funds and mutual funds. And that suits Harold Evensky fine.
+
+Read the complete  Quarterly Investing in Funds report .
+
+"It's great," says the Coral Gables, Fla., financial adviser, who makes those funds a mainstay in his portfolios. "My clients get the benefit."
+
+For a long time, traditional index funds were the vehicle of choice for cost-conscious investors, but now the ETF marketplace holds the lowest fees and most intense cost competition. Industry giants including Vanguard Group,  BlackRock Inc., Charles Schwab Corp. and State Street Corp. are locked in a race to see who can cut expenses the fastest, vying for penny-pinching investors who have become increasingly sensitive to costs after years of subpar results. And the fight is still in the early rounds. Further cuts are likely among popular broad-market ETFs and funds, as well as on products in niches such as emerging markets and industry sectors. 
+
+Take Vanguard, which has been aggressively cutting fees. Some of its ETFs are likely to get even cheaper in the near future, says  Joel Dickson, a senior investment strategist at the firm. One possible candidate for a cut, he says, is the popular  Vanguard Emerging Markets ETF.
+
+"Given that asset returns have grown faster than costs, I would expect some further downward pressure on expenses," he says.
+
+On the surface at least, the battle is over basis points, or "bips" in industry jargon—tiny slivers of a fund's expense ratio, each equal to 1/100th of 1% of fund assets a year. It may not seem like much, but in this market every bit helps. "Every basis point counts," says Mr. Evensky. "In a low-return environment, fees can have a huge impact."
+
+So, for ETF and mutual-fund providers, slashing points is a way to gather assets, build market share and retain customers.
+
+In October, Vanguard cut fees for investors in many of its index mutual funds by dropping the minimum investment required to buy its reduced-fee Admiral class of shares. On broad stock-market index funds, that minimum dropped to $10,000 from $100,000—and Vanguard automatically shifted qualifying investors to the cheaper shares.
+
+How much did investors end up saving? Qualifying  Vanguard 500 Index Fund investors, for instance, saw expenses fall to seven basis points, or seven cents on every $100 invested, from 18 basis points in their previous Investor-class shares.
+
+The ETF version of Vanguard 500,  Vanguard S&P 500 ETF, charges even less: six basis points. The nearest-priced ETFs that also track the Standard & Poor's 500-stock index—BlackRock's  iShares S&P 500 Index and  SPDR S&P 500 ETF from State Street Global Advisors, a unit of State Street—each run nine basis points. 
+
+Schwab, meanwhile, cut fees on six of its ETFs last year in a direct challenge to Vanguard.  Schwab U.S. Broad Market ETF now charges six basis points. At seven basis points:  Vanguard Total Stock Market ETF and a share class of Fidelity Investments'  Fidelity Spartan Total Market Index Fund that requires a $100,000 investment.
+
+"We are very competitively priced," says  Tamara Bohlig, a Schwab vice president who oversees the firm's ETF business.
+
+Those slim fees amount to real money compared with the average 1.38% expense ratio at actively managed diversified U.S. stock funds and the 0.62% average cost of all diversified U.S. stock index funds, according to investment researcher  Morningstar Inc. Pricing has become a game of inches, where one provider trumpets success by charging 1/100th of 1% less than another. 
+
+"It's a marketing race," says  Matt Hougan, editor-in-chief at IndexUniverse.com, a website that covers the ETF and index-fund business. "Where there are big differences, investors reward the low-cost funds."
+
+Look at what happened to  iShares Gold Trust last year. Gold buyers had largely favored the ETF's larger rival,  SPDR Gold Trust, even though each charged 0.40%. In late June, iShares cut its ETF's expenses to 0.25%, and over the next five months the fund took in around $875 million in new money, while the SPDR product saw a net exodus of more than $1.2 billion, according to Morningstar.
+
+The lure of low fees is also evident in investors' response to a pair of ETFs focused on the hot emerging-markets sector. Vanguard Emerging Markets and  iShares MSCI Emerging Markets both track the same index, but the Vanguard fund charges 0.27% while the iShares offering costs 0.69%. The iShares fund had long overshadowed its Vanguard rival, but then retail investors climbed on the emerging-markets bandwagon. 
+
+In the first 11 months of 2010, Vanguard's ETF added $18.2 billion vs. inflows of $3.7 billion for the iShares fund, according to National Stock Exchange, an electronic stock exchange that provides ETF data. At that pace, Vanguard will soon top iShares as the biggest emerging-markets ETF provider.
+
+The firms behind SPDR Gold and iShares MSCI Emerging Markets say those products remain attractive and competitive when all the costs of ETF investing are considered. "When comparing the costs of any two ETFs, expense ratios are just the starting point," says  Jim Ross, global head of exchange-traded funds at State Street Global Advisors, SPDR Gold's sponsor.
+
+For example, additional costs can come in the form of wide bid-ask spreads, the difference between the prices quoted to buy and sell a fund. And if an ETF is thinly traded, any attempt to buy in quantity can drive up the price. Among its peers, SPDR Gold "remains the preferred choice for a wide range of institutional and retail investors," Mr. Ross says.
+
+Similarly,  Jennifer Grancio, head of U.S. distribution for iShares, says that firm's emerging-markets ETF is widely traded, so investors can buy and sell easily without compromising on price. "If you look only at the expense ratio, it doesn't give you a full picture of value in terms of what's under the hood."
+
+She says officials at iShares, which oversees about $600 billion of the $1 trillion in ETF assets, "don't plan to make broad pricing changes in any of the products." She notes that "lower expense ratios are not the only thing that investors want."
+
+One other important cost consideration for individual investors in ETFs is the commissions they face to buy and sell. ETFs typically are not cost-effective against traditional index mutual funds if you make monthly or other frequent purchases, unless your broker offers free trades. Some ETF providers, in fact, are taking that step; Schwab, TD Ameritrade, Vanguard and Fidelity all offer some form of commission-free ETF trading.
+
+Still, even if fees are only a partial way to evaluate one of these investments, they're likely to get even more attention with all the price cutting that's going on—especially if expenses on some broad-market ETFs start falling to zero.
+
+It's a possibility. Running an ETF isn't as expensive as a mutual fund to begin with, mostly because the bill for shareholder servicing and other administrative tasks is much lower. Already,  Deutsche Bank's db x-trackers Euro Stoxx 50 ETF, traded in Europe, charges investors a grand total of nothing. Instead, the bank collects fee income on the ETF assets by lending portfolio securities to short sellers and other borrowers. (The comparable U.S.-listed  SPDR Euro Stoxx 50 ETF costs 0.29%.)
+
+"You could see ETFs with zero expense ratios," says IndexUniverse's Mr. Hougan. "As assets go up, prices will come down. I don't know if it matters if it's six basis points or zero—you're starting to shave pennies—but it's fun to watch."
+
+  Scott Burns, director of ETF research at Morningstar, agrees. "Things will get cheaper, both in terms of transaction costs and fees," he says. The broad-market indexes reflect the first wave of fee cuts, he says, adding, "It's only a matter of time before it proliferates to international and sector and fixed-income funds."
+
+In particular, Vanguard's aggressive price cutting may help drive the industry toward the zero point. The firm can absorb those cuts because it's uniquely structured to operate its funds at cost. Vanguard is essentially run as a cooperative, where profits go directly into the fund or ETF instead of to the management company. "With Vanguard setting the low-cost standard, the rest of the industry will either have to fall in line or innovate to stay competitive," says  Dan Wiener, editor of the Independent Adviser for Vanguard Investors newsletter.
+
+Market observers think that bodes well for buyers. "There are some good competitive battles," adds  Tom Lydon, editor of ETFTrends.com. "Who wins? The individual investor."
+
+Mr. Burton is the Money & Investing editor at MarketWatch in San Francisco. He can be reached at jburton@marketwatch.com.
+
+ Corrections & Amplifications:  The last name of Tamara Bohlig, who oversees the exchange-traded funds business at Charles Schwab, was misspelled as Boehlig in an earlier version of this article. 

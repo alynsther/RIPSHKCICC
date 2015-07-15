@@ -1,0 +1,53 @@
+  Hewlett-Packard Co.
+HPQ
+
+
+0.20
+%
+
+
+
+
+ Chief Executive  Leo Apotheker, in his first public appearance since joining the company in November, set a path for the technology giant that focuses on online services and targeting both consumers and businesses.
+
+In a 40-minute speech at an event in San Francisco, Mr. Apotheker said H-P will build an online "cloud" where consumers and businesses can store information and find programs, and added that the company plans an online application store. H-P also said that it would increase its dividend 50% to 12 cents a share, and that the company expects to boost its dividend regularly in the future.
+
+"I'm very excited about the future of H-P and our role in a connected world," Mr. Apotheker said, calling his plan "bold" but evolutionary. 
+
+The appearance was billed as an opportunity for the new CEO to share his long-term vision for the Palo Alto, Calif., company. But it was as much about giving investors and analysts an opportunity to get a feel for the man in charge of the world's largest technology company by revenue. 
+
+Mr. Apotheker's focus on long-term technology trends was a marked contrast to his predecessor  Mark Hurd, who resigned from H-P last August following an allegation of sexual harassment that Mr. Hurd denied. Mr. Hurd, in laying out his strategic vision for H-P in 2005—the year that he became CEO—disclosed his plan for layoffs and other cost cuts and improving H-P's bottom line.
+
+Mr. Apotheker's comments were being closely watched by Wall Street, especially after H-P recently stumbled in its quarterly results. After its January quarter, H-P revised downward its revenue forecast for the fiscal year, causing its stock price to drop sharply; H-P also raised its earnings-per-share projection.
+
+On Monday, Mr. Apotheker "performed well, though details were limited," said  Brian Marshall, an analyst at Gleacher & Co. In after-hours trading Monday following the event, H-P's stock was relatively flat after edging down to $41.49 at 4 p.m.
+
+In his speech, Mr. Apotheker said H-P plans "to be the platform for the cloud and connectivity." For the company's online application store that will offer programs targeted at both consumers and businesses, some programs will come from H-P but the company will also make available applications from other companies. "We can't create all of this innovation by ourselves," Mr. Apotheker said. 
+
+Mr. Apotheker was formerly the CEO of software maker  SAP AG, and there's been speculation that he would look to acquire SAP or a similar provider of business programs. On Monday, Mr. Apotheker all but dismissed that possibility: "We don't need to own a big transactional application platform," he said, adding that his goal was to "leapfrog" to a new generation of technology. 
+
+H-P also demonstrated a new system designed to quickly analyze large amounts of data, built in conjunction with Vertica Systems Inc., a start-up H-P acquired last month. Businesses are dealing with an increasing amount of unstructured data—information that isn't easily categorized—and Mr. Apotheker said that H-P will focus on products and services that will help businesses better make sense of them.
+
+  Cathie Lesjak, H-P's chief financial officer, said that all of the changes should produce $7 a share in earnings, excluding one-time items, by fiscal year 2014. That would be an increase from $4.58 in the 2010 fiscal year ended in October. Ms. Lesjak said that H-P's strategy will move it into higher-margin businesses. 
+
+Mr. Apotheker also said that the company's webOS operating systems, which it acquired along with Palm last year, gave it an advantage. He said that a tablet that H-P recently unveiled would be available in June, and that the operating system—designed for smartphones and gadgets—would also ship on H-P PCs, giving the company a scale others don't have. 
+
+H-P plans to continue producing tablet devices that run  Microsoft Corp.'s
+MSFT
+
+
+0.44
+%
+
+
+
+
+ Windows operating system alongside its own. On laptops and desktops, Mr. Apotheker said webOS would work alongside Windows, allowing computers to interact with H-P's smartphones and tablets.
+
+Mr. Apotheker "set the tone for strategic change without suggesting something seismic must occur in the model," said  Mark Moskowitz, an analyst at J.P. Morgan.
+
+Still, while generally praising Mr. Apotheker's vision, analysts pointed out his speech didn't detail how H-P would achieve it. "This will be the determining factor in H-P's future success as much or more than the next widget or acquisition," said Mark Fabbi, an analyst with research company Gartner.
+
+Mr. Apotheker also said that H-P's operations infrastructure in Japan was untouched by the devastating earthquake and that all the company's employees were safe. "We are capable of functioning and delivering needed services to customers who need it," he said, adding that H-P's foundation has donated to help with recovery operations in Japan and that the company would be matching employee donations as well.
+
+ Write to  Ben Worthen at ben.worthen@wsj.com 

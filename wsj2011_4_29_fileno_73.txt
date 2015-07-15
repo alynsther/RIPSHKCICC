@@ -1,0 +1,77 @@
+The just-in-time approach to manufacturing, which has swept the world's factories over the past two decades, has made a virtue out of keeping inventories lean. But some manufacturers think it has gone too far, and that having a little extra padding might be a healthier option.
+
+Popularized by Japanese auto makers, the just-in-time system is based on a company buying or making only what it needs to fill immediate demand. Although that helps manufacturers hold down costs by keeping stockpiles of components and finished goods low, it can leave them high and dry if production supplies don't arrive as expected, a risk highlighted by the parts shortages caused by the earthquake and tsunami in Japan. 
+
+Even before that disaster, some companies were modifying their just-in-time approach. Heavy-equipment maker  Terex Corp.
+TEX
+
+
+-2.38
+%
+
+
+
+
+ recently cut deals with its 15 biggest suppliers to guaranteed it would buy fixed amounts of parts for three months in advance.
+
+Since January, lawn-mower manufacturer Ariens Co. has opened four new warehouses across North America to store finished mowers. Al-jon Manufacturing LLC, a maker of machines that crush metal waste, has taken to keeping a stash of hard-to-find parts at its factory in Iowa.
+
+"Just-in-time makes sense, but it's vulnerable to disruptions," says Terex Chief Executive  Ron DeFeo, "so what we're seeing now is the theoretical being adapted to meet the world of the practical."
+
+Nobody expects manufacturers to revert to their old ways of piling up masses of parts and products. But many manufacturers have gotten stretched too thin in recent years.
+
+  Paul Martyn, a supply-chain consultant in Chicago, says manufacturers became so obsessed with reducing inventories they squeezed out the cushioning they needed to cope with business booms or interruptions. 
+
+"Prior to the recession—and now in the recovery—we aren't just lean, we've become anorexic," he adds.
+
+The March 11 disasters that damaged factories and hobbled ports in Japan have thrown the situation into sharp relief. The disruptions quickly radiated out, putting kinks in the global supply chains of several industries. Auto plants in the Midwest and electronics factories across Asia have scrambled to find substitutes for Japanese-made parts. Many other industries say they are still assessing how the disruptions will filter back to them.
+
+To be sure, companies have built up their inventories over the past year as demand has recovered. In February, the latest month for which data is available, U.S. manufacturers and traders had inventories valued at $1.46 trillion, up 9.1% from a year earlier.
+
+But demand has grown. too, in some cases far faster than manufacturers' ability to build any buffers. The inventory-to-sales ratio, a measure of the volume of goods in the economy relative to demand, currently stands at 1.23 and has hovered near this historically low level for the past year. The ratio spiked during the recent recession, as companies got stuck holding unsold goods, but in general it has been trending down for years.
+
+"One reason this recovery hasn't been faster is that demand is there—but there hasn't necessarily been product on the shelf to meet that demand," says Mr. Martyn, the consultant.
+
+Many companies say the just-in-time philosophy, which has been celebrated for making companies and the economy as a whole far more efficient and profitable, also has discouraged suppliers from ramping up, for fear of getting stuck with unsold goods if the economy tanks abruptly, as it did in 2007. 
+
+Former Fed Chairman  Alan Greenspan, in a 1997 speech, praised "sophisticated, just-in-time inventory systems" for making the economy more flexible. But that flexibility showed a dark side when the economy crashed four years ago. Companies that had bought raw materials and hired workers with the expectation of selling to customers would get sudden calls canceling orders, and were left saddled with surplus products. 
+
+Many companies floundered as a result, and found their customers unsympathetic. That's why many suppliers are now resisting calls from customers to ramp up.
+
+Terex, based in Westport, Conn., has seen its business skyrocket over the past year as demand snapped back, especially in developing markets that want its mining and construction machines. "In a just-in-time environment, you let suppliers figure out what you'll need six or seven months out," says Timothy Fiore, the company's vice president of strategic planning. But, he says, suppliers are demanding assurances that they won't get caught holding the bag if they build stocks for customers like Terex and then demand suddenly falls off.
+
+"We had a supplier actually tell us a couple of days ago: 'You guys were rough on us when the bottom fell out, so why should I help you now?' " says  Timothy Fiore, Terex's vice president of strategic sourcing.
+
+Part of Terex's response has been to "freeze" its commitments to key suppliers, in effect promising to buy specified amounts of goods over the next three months. As each month ends, the company's commitment clicks forward another month, giving suppliers some additional security. 
+
+Terex, which does nearly two-thirds of its business outside the U.S., carries about $1.7 billion in inventory. Mr. DeFeo, the CEO, estimates moves such as securing additional parts and materials from key suppliers "has added a few percent" to inventories, "which is a big number in a capital-goods industry."
+
+"What we're seeing is a general move toward building safety back into the system," says  Alex Niemeyer, head of the supply-chain practice for the Americas at consulting firm McKinsey & Co.
+
+Producers have always faced occasional supply disruptions, caused by events ranging from oil embargoes to civil wars, especially as businesses have grown more global. What's changed is that the disruptions are becoming more frequent. 
+
+"It used to be every three or five years, something happened," says Mr. Niemeyer, now it's become more constant.
+
+Al-jon, a small, privately owned equipment maker in Ottumwa, Iowa, jumped on the just-in-time bandwagon long ago, trimming inventories and cutting back on the number of suppliers it used. For years, the strategy worked fine, says President  Kendig Kneen. 
+
+Lately, however, Al-jon has faced growing delays. The company has seen its lead time for obtaining steel gear-reduction assemblies grow steadily over the past year; it now stands at 16 weeks. "In the past, we'd just count on a vendor having it on the shelf for us—but nobody wants to hold goods," says Mr. Kneen.
+
+The company has quietly built a small buffer stock of scarce parts while also seeking additional suppliers, including one in Germany, to give it more flexibility. "We've tried everything, but in essence it ends up that we have to lay more inventory in," says Mr. Kneen. "But that's a challenge, because cash flow is tight."
+
+The alternative, however, is going without what's needed to fill orders, and thus losing out to competitors. 
+
+  Daniel Ariens, CEO of family-owned Ariens, says he realized he was missing opportunities to sell more over the past six months because he didn't have enough of his company's bright-orange snow blowers and lawn mowers built and ready to ship to retailers, who continue to demand delivery on short notice. 
+
+As he looked forward to the spring selling season, he decided the company, which is based in Brillion, Wis., needed to fill four leased warehouses around the country, its biggest inventory buildup since the late 1990s. 
+
+ Mr. Ariens remains a fan of the just-in-time approach, but sees how the theory is stumbling in practice. For the past nine months, he says, he has had trouble getting enough rubber belts and tires for his machines. 
+
+"A lot of the supply chain for those things in the U.S. has moved to China," he says, and so he has to order six weeks in advance and sometimes faces delays in getting what he needs. Recently, however, his rubber supplier moved some production back from China to a factory in Tennessee, which Mr. Ariens hopes will make it easier for him to get faster shipments.
+
+To be sure, many of the things companies are doing now can be undone. Warehouses can be closed as easily as they are opened. But other changes are likely to be more long-lasting. 
+
+  J.B. Brown says just-in-time has shifted the balance of power between suppliers like him and his much-larger customers. "The whole dynamic of how companies work with suppliers has been turned on its head," says Mr. Brown, the president of a family-owned foundry in Bremen, Ind., which produces metal parts for 250 different customers, including many multinationals.
+
+Mr. Brown says he is expanding output at fast as he can. but that the memories of how large companies squeezed suppliers during the recession remain fresh for him and others. "We definitely have more clout right now," he says, "and I think we have to be careful not to abuse that." Still, he's done away with volume discounts—something unthinkable a few years ago.
+
+ Write to  Timothy Aeppel at timothy.aeppel@wsj.com 

@@ -1,0 +1,53 @@
+LONDON—European officials are poised to let regulators in individual countries use their own definitions of a key gauge of banks' health in coming "stress tests," threatening to undermine efforts to buttress faith in the Continent's ailing financial system.
+
+The new European Banking Authority, which is running the tests on 88 of Europe's biggest banks, has told regulators and bankers that the exams are likely to rely on each country's definition of an important capital ratio known as Tier 1, according to people familiar with the matter.
+
+If the plan goes through, some skeptical bankers and regulators worry, it could undermine the effort to end the European financial crisis. They fear a rerun of one of the key weaknesses in last year's stress tests by the European Union. Those results were widely panned for giving passing grades to almost all banks, including some that subsequently required taxpayer bailouts.
+
+Last year, regulators let each country use a local standard of the Tier 1 capital ratio, a measure of a bank's ability to withstand unexpected losses. That flexibility wasn't widely known when the results were announced, and the differences made it difficult to compare banks across Europe.
+
+The latest stress tests would essentially repeat the same process. Banks that fall below a certain capital threshold in a deteriorating economic environment will be forced to raise more capital. The trouble is that regulators in different countries have different methods of calculating the Tier 1 ratio. The stress tests are unlikely to establish a pan-European standard, according to the people familiar with the matter. Some regulators and bank executives worry that the lack of uniformity will damage the tests' credibility.
+
+"We're falling into the same trap," said an official at a major European bank.
+
+In the U.K., industry officials and regulators at the Financial Services Authority have been complaining to the EBA about the plan to rely on individual countries' Tier 1 ratios, said people familiar with the matter. 
+
+They argue that the FSA uses a stricter definition of Tier 1 than do regulators in some other European countries. As a result, they say, the exams could make British banks appear to have thinner capital cushions than certain rivals.
+
+Some European banking officials argue that the EBA has little choice but to let national regulators use their existing Tier 1 definitions. They argue that agreeing on an EU-wide standard would be immensely difficult, especially in a matter of months.
+
+Other industry observers suspect the EBA is trying to placate some of the powerful national regulators that sit on the newly created agency's board. Regulators often are keen to protect the interests of their domestic banks, and the use of local Tier 1 ratios is likely to prove advantageous to banks in countries with looser definitions. A spokeswoman for the London-based EBA declined to comment. 
+
+The stress tests, whose results are slated to be announced in June, are a central component of the EU's strategy for cooling a simmering financial crisis. Officials hope that a rigorous, transparent exercise will help assuage market fears that some European banks are holding large sums of potentially toxic assets, ranging from soured real-estate loans to risky bonds issued by cash-strapped governments.
+
+The lack of a uniform or clear way of calculating Tier 1 ratios is likely to trouble investors. Because the data vary from country to country, it makes it harder for investors and analysts to use the figures to build their own models and to compare the health of banks in different countries. 
+
+The EBA is striving to improve the credibility of the tests, which suffered after The Wall Street Journal reported in September that the exercise understated some banks' holdings of sovereign debt. Officials want to make the tests tougher than last year, when only seven of 91 banks were deemed short of capital. But they also want to iron out differences in the ways countries run the tests. 
+
+For example, instead of letting each country simply administer its own testing process with little outside supervision, the EBA this year is introducing a "peer review" process in which groups of regulators will double-check the work of other regulators. 
+
+In a letter sent Friday to bank executives, EBA Chairman Andrea Enria said he would establish a task force "to ensure the credibility and consistency of the exercise using both statistical benchmarks and expert judgment." 
+
+But that goal could be undermined by the lack of an EU-wide standard for Tier 1 ratios. 
+
+Europe's banks still will need to comply with the new international banking rules, known as Basel III, but those standards don't take effect for years.
+
+Regulators generally don't disclose the exact definitions they use to calculate Tier 1 ratios. 
+
+The U.K. is well-known for applying a relatively narrow definition of what constitutes Tier 1 capital and how banks must tabulate the "risk-weighted assets" that constitute the denominator of the ratio. Other countries, including Germany, use looser definitions that can result in their banks showing higher ratios, according to industry officials. 
+
+A spokesman for Germany's bank regulator, known as BaFin, declined to comment. 
+
+Spain's central bank allows mandatorily convertible bonds—they transform from debt into equity in certain circumstances—to count toward banks' Tier 1 ratios. Regulators in other countries, including the U.K., don't let banks classify convertible bonds as Tier 1 capital. 
+
+A Spanish law that takes effect this week tightens the definition of Tier 1 capital and gives additional conditions for the use of convertible bonds. That prompted at least two Spanish banks, Bankinter SA and Banco Pastor SA, to announce the issuance of hundreds of millions of euros worth of the bonds in recent days to boost their Tier 1 ratios. 
+
+Adding to worries about the rigors of this year's exercise, the EBA sent documents to the banks indicating that some components of the tests will be less strict than the 2010 exams, which most banks glided through. For example, this year's tests envision a 17% loss rate on banks' holdings of Greek sovereign debt, compared to a 23% rate last year. That's despite the fact that most observers think Greece has grown more likely to need to restructure its government debt, much of which is held on the books of European banks. 
+
+The documents also confirm that the EBA has rejected calls from many investors to conduct—and publicly disclose—a test of banks' liquidity, or their ability to fund day-to-day operations if markets seize up. The EBA worried that the public disclosure of such test results risked causing bank runs at institutions that fared poorly, said people familiar with the matter.
+
+The testing process, involving 88 banks from 20 countries, officially started last week.
+
+—Sara Schaefer Muñoz, Eyk Henning and Laura Stevens contributed to this article.
+
+ Write to  David Enrich at david.enrich@wsj.com 

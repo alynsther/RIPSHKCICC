@@ -1,0 +1,13 @@
+The likelihood of a lower-seeded team pulling off a tournament upset this year.
+
+ Notes: *USC plays VCU on Wed. **Doesn't include West Virginia vs. UAB/Clemson winner 
+
+The bright-eyed kids at the Harvard College Sports Analysis Collective, a student-run sports analytics group at Harvard University, have a present for you: They've figured out which teams will suffer the humiliating upset. 
+
+John Ezekowitz, a sophomore and HCSAC co-president, completed a model that empirically shows the likelihood of upsets in Thursday's and Friday's games. He found that 11th-seeded Marquette is the low seed with the best chance of advancing to the weekend, giving it a 74.22% chance of knocking off 6th-seeded Xavier. No. 6 Georgetown is the next-most likely favorite to fall early, with a 71.57% chance of losing to Southern California and a 64.06% chance of losing to Virginia Commonwealth. (The Hoyas' opponent depends on the winner of Wednesday's play-in game.)
+
+To determine these figures, Ezekowitz analyzed the first-round NCAA tournament games played between teams seeded Nos. 3-14 since 2004. (There weren't any No. 1 or No. 2-seeded teams upset during this period.) The data showed the three statistical strengths common to the teams that pulled off upsets: rebounding, turnovers and strength of schedule. 
+
+He made his conclusions by running the numbers for each game this year through a statistical regression and confirmed the results by testing games from previous years. 
+
+Ezekowitz said Xavier looks vulnerable primarily because it played a weak schedule. Marquette, meanwhile, forces turnovers, holds onto the ball and survived the brutal Big East.

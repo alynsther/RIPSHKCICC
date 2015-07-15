@@ -1,0 +1,71 @@
+Babies born with low scores on the Apgar test of newborn vitality are at higher risk to develop attention deficit hyperactivity disorder than infants with near-perfect scores, according to a study in The Journal of Pediatrics. 
+
+Developed in 1952 and used around the world, Apgar is a 10-point scale that measures respiration, reflexes, skin color, pulse and heart rate in the first minutes of life. A study of 980,902 babies born in Denmark from 1988 to 2001 found that newborns with Apgar scores between one and four had a 75% higher risk of developing ADHD than babies with scores of nine to 10. Risk of ADHD was 63% higher with scores of five to six. The children were followed from age 3 through 2006, or until they were diagnosed with ADHD, whichever came first. ADHD cases totaled 8,234 and 82% were boys.
+
+ADHD is a neurodevelopmental condition that affects about 5% of children, who are often born prematurely. 
+
+Several studies have linked low Apgar scores with neurological diseases such as epilepsy, cerebral palsy and mental retardation. The latest study shows that Apgar scores may also be useful in predicting ADHD, researchers said. 
+
+ Caveat: Researchers were unable to make an independent diagnosis of ADHD because identification of patients is prohibited under the Danish health system. Although ADHD was diagnosed using international classification criteria, there may have been some variation in the interpretation.
+
+ Title: Low Apgar Scores and Risk of Childhood Attention Deficit Hyperactivity Disorder  
+
+
+
+ • Nitroglycerin and bones: 
+
+Nitroglycerin, a widely prescribed heart medication, was found to have additional bone strengthening properties in a study of postmenopausal women published in the Journal of the American Medical Association. Nitroglycerin's effects on bones were previously observed in older women who were taking the drug for angina. Researchers noted the women had fewer fractures and higher bone density. 
+
+In this study, nitroglycerin was tested on 126 Canadian women, who applied a patch containing 2% nitroglycerin ointment to their upper arm daily for 24 months. A control group of 117 women received patches with a placebo ointment. Bone density in women taking nitroglycerin increased by 6.7% in the lumbar spine, 6.2% in the hip and 7% in the femoral neck, compared with non-users. Nitroglycerin also improved bone formation markers by 35% over the two years and decreased bone resorption, or bone breakdown, by 54%. Researchers said it's not clear why nitroglycerin stimulates bone formation but it appears to affect bone growth and resorption independently. 
+
+ Caveat: Headaches were the most common side effect and may limit the use of nitroglycerin in clinical practice. As the study excluded women with osteoporosis, nitroglycerin might have different effects in those with lower bone density.
+
+  Title: Effect of Nitroglycerin Ointment on Bone Density and Strength in Postmenopausal Women 
+
+
+
+ • Flu vaccine: 
+
+Using a protein common to all influenza viruses, Australian scientists have developed a synthetic vaccine that could eliminate the need for mass production of a new flu vaccine every year, according to a study in the Journal of General Virology. Influenza kills an estimated 500,000 people annually and sickens three to five million others. Currently, flu vaccine is based on three strains considered most likely to circulate in the coming season. 
+
+For this study, researchers developed a vaccine based on the HA peptide or protein, which is present in all influenza strains. Combined with an adjuvant to promote absorption, the vaccine was administered through the nose to mice infected with two flu strains. A control group of mice received a saline solution. The vaccine provided 100% protection against one flu strain and 20% protection against the second, more virulent strain of "bird flu." Control mice all died. While 80% of mice infected with the bird-flu strain died, the vaccine prolonged their lives by about two days, a protection level equivalent to commercial anti-viral drugs, researchers said. With further development, they said, the peptide-based vaccine has the potential to form the basis of a convenient, cost-effective universal flu vaccine, though annual flu shots may still be necessary.
+
+ Caveat: The synthetic flu vaccine was tested on two species of mice and isn't ready for use in humans. Researchers recommend more studies be carried out on mice and ferrets to better understand the protective role played by peptide antibodies in animals of different backgrounds.
+
+  Title: Preclinical efficacy studies of influenza A haemagglutinin precursor cleavage loop peptides as a potential vaccine 
+
+
+
+ • Knee biomarker: 
+
+U.S. orthopedic surgeons have identified a molecular biomarker exclusive to torn knee cartilages that could distinguish potential candidates for surgery from patients with knee pain from less operable conditions, according to a study in The Journal of Bone and Joint Surgery. An estimated 700,000 arthroscopic knee operations are performed each year in the U.S. based on MRI scans. Previous studies have shown that surgery is only effective for a torn meniscus or cartilage. Knee pain caused by age-related osteoarthritis or injured hip ligaments can resemble a torn meniscus but isn't helped by surgery. This distinction isn't always clear on MRI scans.
+
+An analysis of synovial fluid surrounding the knee joints of 30 patients with meniscal tears found a protein complex called fibronectin-aggrecan that wasn't present in 10 volunteers with normal, pain-free knees. To date, fibronectin-aggrecan also has not been found at high levels in patients with osteoarthritis, researchers said. Discovery of the biomarker could prevent unnecessary surgeries by helping to pinpoint patients with meniscal tears, they said.
+
+ Caveat: The study sample was small and the average age of the control group was 39, about nine years younger than the average of patients with confirmed meniscal tears. Researchers also said that blood or other fluids may have contaminated the synovial fluid drawn from the knee joints of patients.
+
+ Title: Identification of a Novel Fibronectin-Aggrecan Complex in the Synovial Fluid of Knees with Painful Meniscal Injury 
+
+
+
+ • Gender and hearts: 
+
+Men and women admitted to hospital after a heart attack have approximately the same risk of dying, when adjusted for age and other health conditions, according to a study in the American Heart Journal. However, because the women tended to have heart attacks at a later age, when more health conditions had developed, the actual risk of death was higher among the women than the men. Heart disease is the leading cause of death in America for both sexes. Previous studies found that women hospitalized for heart attack had a higher mortality rate than men and cited gender as a contributing factor. 
+
+Recent advances in coronary care prompted researchers to re-examine that premise. They studied the outcomes of 8,771 heart-attack patients admitted to 32 Michigan hospitals from 2003 to 2008. The patients, 29% of whom were women, underwent balloon angioplasty to open blocked arteries. The analysis showed that women had a 30% higher risk of dying than men, but they were on average seven years older and had more than double the health complications. The findings showed similar rates of cardiac medication use between men and women. Researchers said they did not observe sex-related differences in hospital mortality rates.
+
+ Caveat: As information about long-term outcomes was not available, researchers were unable to report on any changes in mortality rates for men and women over time. The findings may not apply to other institutions or to patients who do not undergo cardiac catheterization.
+
+ Title: The association of sex with outcomes among patients undergoing primary percutaneous coronary intervention for ST elevation myocardial infarction in the contemporary era: Insights from the Blue Cross Blue Shield of Michigan Cardiovascular Consortium (BMC2)  
+
+• Nonagenarians: Contrary to popular belief, it's not how long your parents lived but how well you live your own life that determines longevity, according to a study published in the Journal of Internal Medicine. The study followed one-third of men born in the Swedish city of Gothenburg in 1913 and still alive in 2003. Of 855 men enrolled in the study, 111 or 13% reached the age of 90, which researchers attributed to lifestyle, not heredity. The men were non-smokers, moderate coffee drinkers, and had low levels of cholesterol. Financial security, strong social supports and good education were also factors in reaching 90. Except for smoking, which was a factor at every age, researchers found the variables associated with a longer life changed as men aged. Blood pressure and alcohol consumption were less important at 50 years old than at 60, though hypertension became a factor at age 54. Physical activity was important in reaching 80 but less so at 90. There was no particular association between participants' longevity and how long their parents lived. Researchers said the findings support public policies aimed at lowering smoking, cholesterol and other cardiovascular risk factors. 
+
+ Caveat: As all the subjects were of a similar age and almost exclusively Caucasian, the findings may not apply to all men. Researchers were not able to assess the quality of life of the subjects, such as the presence of Alzheimer's disease.
+
+ Title: Factors associated with reaching 90 years of age: a study of men born in 1913 in Gothenburg, Sweden 
+
+• Pistachios and ED: Daily consumption of about half a cup of pistachio nuts helped men with erectile dysfunction and improved their cholesterol scores, according to a study in the International Journal of Impotence Research. Studies have shown that people can reduce their risk of heart disease by eating more nuts. As heart disease is associated with erectile dysfunction (ED), researchers in Turkey tested the therapeutic effects of pistachios on 17 men with ED. The men ate 100 grams of pistachios with lunch for three weeks. Blood tests showed the group's cholesterol levels dropped by more than 30 points and their blood-platelet counts, which are a factor in ED, improved significantly. The men also scored higher on an international ED index, which measured erectile function, sexual desire and overall sexual satisfaction. Blood or serum testosterone decreased during the study but remained within normal levels. High serum testosterone is associated with heart disease, a risk factor for ED, whereas free testosterone, which is the most active form of testosterone and wasn't measured in the study, is linked to ED. Researchers note that pistachios are rich in antioxidants and contain a non-essential amino acid called arginine, which contributes to flexible, more relaxed arteries. Larger studies are recommended. 
+
+ Caveat: The study was small and carried out in Turkey, one of the world's top producers of pistachio nuts.
+
+ Title: Pistachio diet improves erectile function parameters and serum lipid profiles in patients with erectile dysfunction 

@@ -1,0 +1,79 @@
+Every January, hordes of highly paid experts attempt to predict what the economy and the markets will do in the coming year. Later in the year, nearly all of the forecasts turn out to be wrong. 
+
+Here, we hope to offer something different: a blueprint for how to make practical use of these predictions, even when you suspect they are wrong. Taken together, forecasts can point toward the best and worst outcomes you can reasonably expect in a given year—and tell you how confident you should (or shouldn't) be. 
+
+Forecasting is as old as markets themselves. Records from ancient Mesopotamia, according to research by historian  Alice Louise Slotsky, are full of references to omens that were believed to predict commodity prices, such as "the raven is for a steady market."
+
+Practically ever since, pundits have been pumping out forecasts—and missing the mark. Think back over the past year, when technical indicators called the "Hindenburg omen" and the "death cross" were said to predict that stocks would collapse, China's stock market was expected to keep booming and a "double dip" recession in the U.S. looked likely to many market experts. So far, at least, none of those things has happened.
+
+If the forecasters are right for this year, then U.S. stocks will go up roughly 10%, 10-year Treasury yields will run around 3%, inflation will be a bit under 2%, and the economy will expand 3% or so. Yet it would be naïve to think you could bet accordingly.
+
+Why do people with years of experience, massive expertise and mountains of data at their disposal so often get the future wrong? 
+
+First and foremost, the future is the realm of surprises; no one, no matter how expert, can reliably foresee what will happen and how people will react to it. As the economist Friedrich von Hayek said in his lecture "The Pretence of Knowledge" when he won the 1974 Nobel prize in economics, "in the study of such complex phenomena as the market, which depend on the actions of many individuals, all the circumstances which will determine the outcome of a process … will hardly ever be fully known or measurable." 
+
+Forecasts also go wrong because they tend to be either too tame or too extreme. For a forecaster, there is little point in differing slightly from the consensus prediction. No one gets fired for being in the middle of the pack, nor do forecasters get much credit for being a little bit less wrong than their peers. If a forecaster is going to deviate from the average, he might as well go all the way.
+
+Therefore, while most pundits tend to cluster around a safe consensus, a few stake out the risky but potentially lucrative ground of extremely bullish or bearish predictions. If they turn out to be right, their accuracy will seem miraculous and they will be famous; if they turn out to be wrong, most people will forget.
+
+No wonder there always seems to be a forecaster with a magic touch. Nearly a quarter-century after U.S. stocks fell more than 20% in October 1987, many people still remember  Elaine Garzarelli for having "called" the market crash—even though her subsequent record has been mixed. More recently, economist  Nouriel Roubini and banking analyst Meredith Whitney warned of the financial meltdown—but there is no telling whether their more recent predictions will pan out.
+
+Another problem: Experts are inconsistent in how they analyze complex data. Presented with similar information at different times, they will arrive at drastically divergent conclusions. It has been known at least since 1954—but almost never publicized on Wall Street—that a simple computer model that mimics the forecasting method that an analyst says he uses will be more accurate than the forecaster himself. That is because experts know what is important, but too often make subjective changes to the emphasis they place on various factors. 
+
+Like cooks going wrong by tinkering with recipes that already work, forecasters defeat themselves with too much fine-tuning. One study found that an unvarying computer model of stock analysts' estimates of future returns was more accurate than the analysts themselves 72% of the time. And in a report last week,  David Bloom, a foreign-currency strategist at HSBC in London, criticized forecasters for being "flip-floppers" who have turned bullish on the euro merely because it has risen lately. 
+
+Thus, market pundits don't just miss the huge surprises no one could foresee; they also tend to overcompensate for small ones. Says  Paul Kasriel, chief economist at Northern Trust: "Forecasters get caught up in what I call 'currentitis,' where you see some numbers you didn't expect, so you must have missed something, and then you end up just getting constantly whipsawed around in response to the latest data."
+
+Add it all up—or subtract it all down—and it is clear you should approach financial predictions with even more caution than you may already have realized. 
+
+But you can also make use of these forecasts. Here is how: 
+
+ • Don't bet a year ahead. 
+
+Forecasts are more accurate in the short-term than in the long-term. The Federal Reserve Bank of Philadelphia, which runs the Survey of Professional Forecasters, keeps a database of decades' worth of median and individual forecasts from dozens of experts on a wide range of economic and financial variables. 
+
+When it comes to predicting such variables as inflation, unemployment and economic growth (as measured by the change in real gross domestic product), the survey is considerably more accurate than just extrapolating the latest trend—but only for one or two calendar quarters. Over the following few months, the accuracy of most forecasts falls very quickly, according to research by  Tom Stark, who manages the Philadelphia database, and other researchers. 
+
+By one year into the future, the expert forecasts lose virtually all of their edge over a simple extrapolation of the recent trend.
+
+ • Embrace error. 
+
+"When confronted with forecasts, people without Ph.D.s in economics tend to view them as very tight, as if you could take them to the bank," Mr. Stark says. "People don't understand the huge amount of uncertainty that's embedded in these forecasts." 
+
+The average forecast for housing starts in 2011, for example, calls for an annual rate of 700,000 new units by year end, up from an estimated 554,000 in 2010. But, based on the past accuracy of the historical forecasts collected by the Philadelphia Fed, you can be about 80% confident that the actual result will fall between 400,000 and 1,000,000. That means you would be wise to expect surprise—on either the upside or the downside.
+
+Meanwhile, the consensus forecast for the yield on the 10-year Treasury bond is 3.25% by the end of this year. Based on the historical error rate, however, all that a prudent consumer of forecasts should conclude is that there is roughly an 80% chance that the 10-year bond yield will finish the year somewhere between 2.0% and 4.5%. That, in turn, implies that bond prices could rise as much as 9% or fall as much as 10%.
+
+Likewise, you should be highly uncertain about the yield on investment-grade corporate bonds. According to the past forecasts gathered by the Philly Fed, you should assume the odds are 80% that corporate bond yields—4.9% at yearend 2010—will shift to somewhere between 3.8% and 5.8% by late 2011. That suggests that bond prices could either rise or fall by roughly 7%.
+
+This doesn't mean these forecasts are worthless. Far from it: By seeing how wide the potential range of error is, you can adjust your own expectations to make sure you don't make an overconfident decision. Investors who like to hedge their bets, meanwhile, can get a better sense of how much protection they might want.
+
+Before relying on a forecast of any variable, check the "forecast error statistics" page on the Philadelphia Fed website to see how accurate the past predictions have been.
+
+ • Listen to the markets.  "If there is a market with many traders, you shouldn't try to outguess the market," says  J. Scott Armstrong, a professor at the Wharton School and author of "Principles of Forecasting." 
+
+The stock market may seem like a poor predictor of the future—until you compare it to any of the alternatives. The S&P 500 tends to forecast recessions and recoveries fairly well in the short term, as it did when it started falling in late 2007 and again with its sharp rise in 2009. Over the past few weeks, stock prices have suggested that the economy will continue to recover in 2011.
+
+The bond market also can be a good indicator, relative to individual forecasts.  Ui-Wing Cheah and  Mark Carhart, partners at Kepos Capital, an asset-management firm in New York, recently analyzed several techniques commonly used to forecast 10-year Treasury bond yields. "The current 10-year rate," Mr. Carhart says, "consistently gives a pretty good forecast of the future rate. It's hard to beat."
+
+The rise in Treasury yields in the past few months from less than 2.5% to 3.4% suggests that the interest-rate low may be behind us now. 
+
+Still, this kind of momentum surfing is best left to traders. If you are a long-term investor, you should accept that short-term market moves aren't predictable, and there is little point in adjusting your portfolio in response. In most cases, long-term averages of past returns—while far from perfect predictors—are probably a better guide than long-term forecasts of future returns.
+
+ • Average many different forecasts. 
+
+Perhaps the most powerful tool for improving the quality of predictions is simply to combine several forecasts from a variety of independent sources. Instead of relying only on the Survey of Professional Forecasters or the consensus of Wall Street economists or strategists, you should cast a wide net. 
+
+Forecasts from different sources tend to draw on varying information and divergent methods, so their errors will frequently offset one another. To see why, says  Richard Larrick, a management professor at Duke University, imagine two forecasts: One calls for stocks to go up 20%, the other 4%. Now imagine that stocks actually rise 12%. The first forecast was eight percentage points too hot. The second was eight percentage points too cold. But the average of the two was just right, even though each forecast was wildly inaccurate.
+
+Prof. Armstrong recommends that you start by extrapolating the long-term trend, say over the past decade. Next, take the median prediction from the Survey of Professional Forecasters or the Wall Street consensus. You could also include a government or international forecast (like the Congressional Budget Office or the World Bank). A statistical model, such as the ones available for various measures at Yale University economist  Ray Fair's forecasting website, will add another level of diversity. Finally, consult a "prediction market" like Intrade.com. Give equal weight to each number; if you have five sources of forecasts, simply add up the predictions and divide by five. 
+
+Unfortunately, not all of these forecasts are available at the same time. The Fair and Philly Fed numbers are updated only every few months, while Intrade.com's forecasting bets aren't yet posted but should be soon. 
+
+But staggering the numbers over several months' time isn't so bad: In general, you get more of a benefit from drawing on a diverse group of figures than you lose by sacrificing some freshness, Prof. Armstrong says. 
+
+He has found that this technique reduces forecasting errors by up to 58%—a massive improvement over individual forecasts.
+
+In the end, of course, no approach can make all forecasts hit the target. The late investment consultant Peter Bernstein was fond of quoting a passage from G.K. Chesterton, the novelist and essayist: "The real trouble with this world of ours is not that it is an unreasonable world, nor even that it is a reasonable one. The commonest kind of trouble is that it is nearly reasonable, but not quite. … It looks just a little more mathematical and regular than it is; its exactitude is obvious, but its inexactitude is hidden; its wildness lies in wait."
+
+ Write to  Jason Zweig at intelligentinvestor@wsj.com 

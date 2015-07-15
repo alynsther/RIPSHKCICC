@@ -1,0 +1,45 @@
+NEW DELHI –India and BlackBerry maker  Research In Motion Ltd. are in a deadlock over the issue of monitoring corporate emails as the world's fastest growing market for wireless services insists the Canadian smartphone maker provide it access. 
+
+"We will insist they give us a solution for (the) enterprise service too," Home Minister P. Chidambaram told reporters on Monday, citing an earlier agreement reached by the company and the Indian government on the smartphone's messenger service. 
+
+RIM gave the Indian government access to its messenger services earlier in January, but reiterated last week it can't provide a solution to monitor corporate emails. 
+
+Although India hasn't set a target date to resolve monitoring corporate email service, it had set a timeline of Jan. 31 for the company to give a solution for the services. 
+
+Mr. Chidambaram said the home ministry and the communications ministry will together decide on a further course of action later in the day. 
+
+The minister's comments has further increased uncertainty over the continuation of the popular communications service in Asia's third-largest economy. 
+
+India fears the heavy encryption on BlackBerry smartphones makes them easy for terrorists to use undetected. The government has been holding talks with the Canadian company to find ways of monitoring Research In Motion's corporate email services. 
+
+RIM has argued that what the Indian government wants is physically impossible for it to accomplish. 
+
+Just last week, the BlackBerry maker reiterated there is no technology available to allow monitoring of the email service, since it is controlled by the servers at the companies that use the service.
+
+"We can't give a solution for enterprise services [corporate email]. It's not possible to do so, because the keys of that service are with the corporate enterprises and corporate entity that owns the server,"  Robert E. Crow, the company's vice president for industry, government and university relations, had said. 
+
+The company has maintained its long-held position that neither it nor the wireless carriers on whose networks RIM's services run can decipher the encrypted corporate emails. 
+
+"No changes can be made to the security architecture for BlackBerry Enterprise Server [corporate email] customers since, contrary to any rumors, the security architecture is the same around the world and RIM truly has no ability to provide its customers' encryption keys," RIM had said in a customer update on Jan. 14. 
+
+BlackBerry devices use an advanced encrypted email system, making them popular with corporate users. The Canadian company has been under pressure from several governments--especially in the Middle East and Asia--to provide access to the secure networks. 
+
+The smartphone maker averted a ban on key services in the United Arab Emirates and Saudi Arabia after the countries said that regulatory requirements had been satisfied. 
+
+Details of those arrangements haven't been disclosed. 
+
+India is an important market for RIM: it has nearly 730 million mobile phone users, and it's the second-largest market for wireless services in the world. 
+
+The country's smartphone market is expected to grow to about 40 million by the end of 2015 from about 10 million now, according to a forecast by  Informa
+IFJPY
+
+
+-0.23
+%
+
+
+
+
+ Telecoms & Media. 
+
+ Write to  R. Jai Krishna at krishna.jai@dowjones.com 

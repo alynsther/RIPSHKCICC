@@ -1,0 +1,33 @@
+BEIJING—Weeks of government disruption of  Google Inc.'s email service and of services used to circumvent Web censorship is fueling frustration among Internet users in China and raising concerns the curbs may be long-lasting.
+
+Google, after getting complaints for weeks, on Monday accused Chinese authorities of interfering with its Gmail in a way "carefully designed to look like the problem is with Gmail." The site isn't entirely blocked, but users report problems ranging from inconsistent access to difficulties loading their inboxes, sending emails and using the chat function. Subscribers also have had problems with Google Reader.
+
+At the same time, many users have had difficulty accessing what are called "virtual-private network" services like WiTopia, 12vpn and Strongvpn.com. Such services, which encrypt Internet traffic and route it through servers outside China, are increasingly used in China to circumvent government Internet controls.
+
+The recent increase in disruption follows online calls for "Jasmine Revolution" protests in China last month, which triggered a heavy government response. 
+
+Internet users in China are accustomed to increased difficulties accessing overseas websites and Web services during politically sensitive times. But the Internet curbs have persisted even though protest threats have ebbed and the annual session of the legislature, the National People's Congress—always a politically sensitive period—concluded last Monday.
+
+"Disrupting Gmail is equal to blocking our business correspondence," a user named Zhang Yuming complained on Sina Weibo, a popular Twitter-like microblogging services.
+
+China's Ministry of Foreign Affairs and Ministry of Industry and Information Technology didn't respond to requests for comment. Officials rarely explain the workings of their Internet controls.
+
+In a statement, 12vpn said its service, while not completely blocked, has been affected along with many other popular VPN services in recent weeks. For that reason it is discouraging new sign-ups from China until "we better understand the risk of continued blocking efforts." Witopia and Strongvpn couldn't immediately be reached.
+
+Chinese authorities have long blocked access in China to some overseas websites, including Facebook and Google's YouTube, and used filtering technology to limit access to others. Analysts say the system has grown increasingly sophisticated, even as more people have learned to use VPNs and other circumvention methods. 
+
+The current problems don't have a major impact on larger companies operating in China, most of which connect with the Internet over expensive leased lines that aren't filtered.
+
+Locally operated websites that offer services similar to their overseas counterparts— from Web search to social networking—are widely used and not subject to the same kinds of blocks, but they are required to censor themselves.
+
+Tighter controls are sometimes temporary. U.S.-based LinkedIn Corp.'s social-networking site for professionals was blocked after the Jasmine Revolution calls, but only briefly. Still, LinkedIn this month amended its prospectus for a planned initial public offering to cite such blocking as a risk. "We cannot assure you that the Chinese government will not block access to one or more of our features and products or our entire site in China for a longer period of time or permanently," the prospectus said, adding that this could hurt the value of its network.
+
+Some users and analysts fear that the interference with Gmail and VPN services may be lasting. Ramped-up Internet controls were once typically "a seasonal thing, but now it just seems to be at an ever-increasing level," said  Duncan Clark, chairman of Beijing-based consulting firm BDA China Ltd. It's "just becoming a lot more disruptive."
+
+  Isaac Mao, director of the Social Brain Foundation, a Shanghai-based research group, said that authorities don't appear to be using new censorship methods, but rather to have stepped up use of existing tools. He said the filtering appears to be targeting traffic to specific overseas servers, including Google's, sporadically limiting the amount of traffic between computers in China and those servers. That causes services like Gmail to appear unstable.
+
+"It's a test of people's tolerance for a Gmail blockage," he said, and could be a test for much more severe limitations by China on Internet access. Google sparred with the Chinese government last year, complaining publicly about censorship and hacking and saying it would stop filtering search results as China's government requires. It later moved its Chinese-language search services to Hong Kong to avoid those censorship requirements.
+
+—Yoli Zhang contributed to this article.
+
+ Write to  Loretta Chao at loretta.chao@wsj.com 

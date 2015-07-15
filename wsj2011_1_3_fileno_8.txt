@@ -1,0 +1,61 @@
+SEOUL—After 3-D TV failed to excite consumers last year, manufacturers are betting that following the app-laden path of smartphones and tablet computers will fatten up what have been ultraslim profit margins.
+
+For more than a decade, consumer-electronics manufacturers have been trying to marry the Internet and TV. In recent years, they've added connectors that let TV sets hook up to the Internet and, in some cases, added software that provides shortcuts to Web-based services from companies like movie-rental service  Netflix Inc.
+NFLX
+
+
+-0.71
+%
+
+
+
+
+
+
+But this year, starting with product announcements at this week's Consumer Electronics Show, manufacturers are making a full-on push with "smart TVs"— models that have built-in computer-style processors and operating software so the sets can be modified with applications just as computers and smartphones are.
+
+The idea is to make it easy to shop, surf the Web, check the weather and traffic and set up customized news pages. Consumers also would have available a variety of other apps for, say, social networking or sharing photos and videos.
+
+Manufacturers risk that their products will be interchangeable, though, and that the real money will go to app developers. And technical challenges remain in the relatively new arena.
+
+"Smart TV is an inevitable trend," says  Baeguen Kang, vice president of research and development at South Korea's LG Electronics Co., the world's second-largest seller of TV sets by unit volume. "As people experienced smartphones and tablet PCs, the larger screen on a TV is very attractive for apps and Web content."
+
+
+
+Twenty-one percent of the roughly 210 million TV sets sold world-wide last year had an Internet connection, according to DisplaySearch, a research firm based in Santa Clara, Calif. It forecast the portion will rise to more than 50% by 2014.
+
+With no precise definition of a smart TV, manufacturers will be trying to stake out their ideas at the Consumer Electronics Show, which starts Wednesday night in Las Vegas. Most companies are likely to tout connections that allow a TV to connect to a home Wi-Fi network without requiring an Ethernet cable. Many sets also will have a technical interface, known as DLNA, that allows them to screen videos and apps run from computers, smartphones and other gadgets.
+
+  Google Inc. last year created a platform for set makers to create smart TVs that run on software it created. But the company last month asked some manufacturers to hold back on product announcements as it refines the software.
+
+Some manufacturers—including South Korea's Samsung Electronics Co., the largest TV-set maker—will unveil smart TVs based on chip sets and operating software of their own design.
+
+Vizio Inc. is trying multiple approaches. On Monday, the Southern California company announced a new Internet service for its TVs called Via Plus, which will incorporate Google TV. Vizio said it is initially starting with two TV models but plans to expand the line. Other TVs include its first-generation Via service, which incorporates Yahoo Widgets, Yahoo Inc.'s software format for Internet content such as news, weather and photo applications.
+
+Manufacturers also are incorporating smart-TV chip sets and operating software into other devices, such as Blu-ray disc players. With the accessory as the brain of the smart-TV system, a consumer can upgrade without buying a new TV set. LG recently announced it would sell a "smart TV upgrader," a box with the processing power and software for Internet access and apps that can be connected to existing TV sets.
+
+For manufacturers, the smart-TV push partly is driven by a need to bolster razor-thin profit margins. Last year's expected profit cushion, TV sets with three-dimensional displays, weren't as popular with consumers as manufacturers hoped. Manufacturers and retailers responded by cutting prices on 3-D sets to move inventory, squeezing profit margins.
+
+But even the premium that manufacturers can get for smart TVs may be short-lived. Internet-connected TV sets last year sold for about $300 more than nonconnected sets with comparably sized screens. But this year, prices for smart TVs, even with wireless and other new capabilities, are likely to fetch a premium of only $200 or so.
+
+TV makers will use the Consumer Electronics Show to meet with software developers to persuade them to develop apps for larger screens than smartphones and tablets, offering to give the developers a cut of the revenue.
+
+The risk for TV manufacturers is that, like PC companies, the TV makers will wind up providing commoditized products while other companies reap profits from software and content. "You can argue the PC makers should have had stronger control of the value of the content that you're using on the device, but they never got a piece of the action," says  Paul Semenza, a vice president at DisplaySearch. "It's hard to hold out a whole lot of hope for a different outcome in TVs." 
+
+TV-set makers also face several technical hurdles. The most obvious is how to let the consumer control on-screen apps without having to use complex remote controls or keyboards. Mr. Kang, of LG, said gesture technology, similar to that used in  Microsoft Corp.'s
+MSFT
+
+
+0.18
+%
+
+
+
+
+ new Kinect accessory for its Xbox game machine, will appear on some smart TVs this year and become common in coming years. "The combination of gesture and voice recognition will be introduced very soon," he says.
+
+TV manufacturers also are working to reduce the boot-up time associated with the smart part of smart TVs. Consumers are accustomed to TV sets turning on almost instantly and have gotten used to the always-on nature of smartphones.
+
+—Yukari Iwatani Kane contributed to this article.
+
+ Write to  Evan Ramstad at evan.ramstad@wsj.com 

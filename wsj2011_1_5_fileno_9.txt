@@ -1,0 +1,29 @@
+  Google Inc. won a key victory in a lawsuit against the U.S. Interior Department, two months after the Web giant accused the agency of improperly favoring rival  Microsoft Corp.
+MSFT
+
+
+0.18
+%
+
+
+
+
+ in a contract bid to provide a new email system.
+
+Susan Braden, a federal judge in Washington, D.C., on Monday issued a preliminary injunction that prevents the Interior Department from deciding to use Microsoft's email and collaboration tools for its 88,000 employees as part of the federal government's move to Web-based applications software.
+
+In an order unsealed late Tuesday in the U.S. Court of Federal Claims, Judge Braden wrote that Google had made a preliminary showing that the agency "violated the Competition in Contracting Act," which was passed in 1984 to promote "full and open competitive procedures" for federal contract bids.
+
+A spokesman for Google, which filed the suit in October of last year, said in a statement: "As a proponent of open competition on the Internet and in the technology sector in general, we're pleased with the court's decision."
+
+A spokeswoman for the Interior Department, which includes the National Park Service and U.S. Fish and Wildlife Service, declined to comment. A Microsoft spokeswoman said, "The full record will demonstrate that this award is in the best interest of the government and taxpayers." 
+
+Google and its government-reselling partner Onix Networking Corp. had argued that the Interior Department's request for bids was written to exclude Google Apps by stating the system had to include the Microsoft Business Productivity Online Suite.
+
+Judge Braden agreed, stating in her order that the agency's "failure to list Google's repeated express interest in this procurement cannot be explained as an oversight."
+
+  John H. Williamson, a government contracts lawyer at McGuireWoods LLP in Washington, D.C., said the decision "makes it very likely that Interior will take corrective action" and agree to seriously consider a Google software bid. The ruling is not a final result so the agency could still try to win the case over the next few weeks, but it faces an uphill climb and Judge Braden is unlikely to reverse her thinking, Mr. Williamson said.
+
+Should the agency continue to fight the lawsuit, it could appeal any final decision by Judge Braden to a higher court.
+
+ Write to  Amir Efrati at amir.efrati@wsj.com 

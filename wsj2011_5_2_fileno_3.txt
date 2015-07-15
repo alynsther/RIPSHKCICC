@@ -1,0 +1,35 @@
+  Sony Corp. said computer hackers breached security for a second online service, gaining access to personal information for 24.6 million customer accounts as part of a broader attack on the company that has compromised data for more than 100 million accounts.
+
+Sony Online Entertainment, a San Diego-based subsidiary that makes multiplayer games for personal computers, said it shut down its services Monday amid concerns a hacker may have accessed names, birth dates and addresses for its users. 
+
+The company said it doesn't believe credit-card information on those accounts was accessed, but said hackers may have stolen credit-card data for about 12,700 non-U.S. accounts and 10,700 bank-account numbers from an "outdated database from 2007."
+
+The company, which has come under fire for its handling of the security breach, said it detected the latest intrusion early May 2, Tokyo time, as part of an ongoing investigation of the attacks.
+
+On April 20, the company shut down its PlayStation Network, which lets console owners play against each other online. It later disclosed that a hacker had stolen names, birth dates and possibly credit-card numbers from 77 million accounts on the network. 
+
+Sony said the shutdown of Sony Online Entertainment, which hosts the popular "EverQuest" role-playing game, followed an intrusion on April 16 and April 17.
+
+"We temporarily took down [Sony Online Entertainment's] services as part of our continued investigation into the external intrusion that occurred in April," said  Michele Sturdivant, a spokeswoman. "This is not a second attack."
+
+The shutdown is the latest black eye for the Japanese electronics giant, whose executives apologized Sunday for the original breach in a hastily called news conference and unveiled measures to bolster security. 
+
+Sony executives said its online services have been under cyberattack for the past six weeks and they weren't sure what its attackers were seeking. The company is working with the Federal Bureau of Investigation to probe the attacks.
+
+
+
+The attacks have resulted in the loss of a significant amount of personal information that could be used in identity theft and have prompted inquiries from members of Congress.
+
+Sony declined Monday to testify before the congressional committee on energy and commerce, according to Ken Johnson, a spokesman for Rep. Mary Bono Mack (R., Calif.), who sent a letter to Sony last week. 
+
+However, the company has agreed to provide written answers Tuesday to questions, he said.
+
+"While we certainly understand the company's going through a difficult period, millions of American consumers are twisting in the wind and we are determined to get answers for them," Mr. Johnson said.
+
+Sony said it is cooperating with the request. 
+
+The high-profile attacks come as videogames increasingly add online functionality. Tens of millions of gamers now spend hours using the online hubs, representing millions of dollars in potential revenue for an industry still recovering from the recession. 
+
+Separately, Sony's U.S. unit said Monday reports the hackers had tried to blackmail the company by selling millions of allegedly stolen credit card numbers back were untrue. 
+
+"To my knowledge there is no truth to this report of a list, or that Sony was offered an opportunity to purchase the list," Sony spokesman  Patrick Seybold said in a statement. 

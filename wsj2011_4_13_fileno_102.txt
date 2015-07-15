@@ -1,0 +1,33 @@
+(See Correction & Amplification below .)
+
+Sens. John Kerry and John McCain proposed legislation Tuesday to create a "privacy bill of rights" to protect people from the increasingly invasive commercial data-collection industry.
+
+The bill, labeled the Commercial Privacy Bill of Rights Act of 2011, would impose new rules on companies that gather personal data, including offering people access to data about them, or the ability to block the information from being used or distributed. Companies would have to seek permission before collecting and sharing sensitive religious, medical and financial data with outside entities.
+
+The bipartisan proposal would create the nation's first comprehensive privacy law and largely adopts recommendations made by the Obama Administration last year. Current laws cover only the use of certain types of personal data, such as financial and medical information.
+
+The move comes amid widening scrutiny of the commercial data-gathering industry, which has been chronicled in The Wall Street Journal's "What They Know" series. In his comments, Sen. McCain, an Arizona Republican, read an excerpt from the Journal series revealing that 56 popular cellphone applications transmitted information about users to outsiders without users' awareness or consent. "Customers must have control of their data when it is transferred to a third party," Sen. McCain said. 
+
+"These companies can do virtually whatever they want with our personal information," said Sen. Kerry (D., Mass.). "Sen. McCain and I seek to change that."
+
+Some provisions of the bill changed from a draft the senators circulated a month ago. The bill no longer requires data gatherers to seek permission for sharing any data with outsiders—now the requirement is only for sensitive data. 
+
+The senators also added an exemption for companies that gather data through others, but have an "established business relationship" with a customer and are "clear, conspicuous and visible" to the customer. 
+
+Some privacy advocates said that could benefit Facebook Inc., which gathers data on its users as they browse other sites. A Facebook spokesman,  Andrew Noyes, said the company is pleased the bill "encourages those who offer products and services on the Internet to have a trusted relationship with their users."
+
+Sen. McCain said the senators attempted to "strike a balance" between consumer-advocacy groups and industry. 
+
+Other consumer-advocacy groups, including Consumers Union and the Center for Democracy and Technology, praised the bill, as did four big technology companies: Hewlett-Packard Co., Microsoft Corp., eBay Inc. and Intel Corp. 
+
+The Interactive Advertising Bureau, whose members are responsible for most online tracking, said the bill gave too much discretion to the Federal Trade Commission. The bill would give the FTC authority to write rules for personal-data gatherers. The Commerce Department could help craft those rules. 
+
+FTC Chairman Jon Leibowitz said in a statement, "It's terrific that we're seeing so much Congressional interest in protecting consumer privacy."
+
+Commerce Secretary Gary Locke said in a statement that he was pleased that the legislation incorporated the administration's recommendations.
+
+ Write to  Julia Angwin at julia.angwin@wsj.com 
+
+ Correction & Amplification 
+
+Interactive Advertising Bureau members were responsible for most of the online tracking discovered in a Wall Street Journal survey last year of the top 50 U.S. websites. This article incorrectly says that the group's members are responsible for most online tracking.

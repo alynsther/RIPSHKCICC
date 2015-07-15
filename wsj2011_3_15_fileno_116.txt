@@ -1,0 +1,57 @@
+A new version of  Microsoft Corp.'s
+MSFT
+
+
+0.46
+%
+
+
+
+
+ Internet Explorer to be released Tuesday will be the first major Web browser to include a do-not-track tool that helps people keep their online habits from being monitored. 
+
+Microsoft's decision to include the tool in Internet Explorer 9 means  Google Inc. and  Apple Inc.
+AAPL
+
+
+0.92
+%
+
+
+
+
+ are the only big providers of browsers that haven't yet declared their support for a do-no-track system in their products. In January, Mozilla Corp. said it would include a do-not-track feature in an upcoming version of its Firefox browser. Internet Explorer is the most widely used browser.
+
+The moves by Microsoft and Mozilla reflect an unusually fast adoption of an idea—the do-not-track system—that was first officially proposed by the Federal Trade Commission only three months ago. It highlights the pressure the industry faces to provide people with a way to control how they are tracked and targeted online, as lawmakers and regulators threaten to rein in the practice.
+
+Microsoft is also including a feature in Internet Explorer 9 called "tracking protection lists," which will let people prevent specific Web-tracking companies from snooping on their browsing habits. 
+
+Microsoft shelved a similar feature several years ago when it was working on a prior version of its browser, under intense pressure from online advertisers and publishers, who feared the features would deprive them of necessary data to sell lucrative targeted advertising. 
+
+Those compromises by Microsoft were first reported in The Wall Street Journal last year as part of the investigative series, "What They Know," which has examined the online information-gathering industry. 
+
+In an interview,  Dean Hachamovitch, head of Microsoft's Internet Explorer team, said Microsoft is emphasizing privacy more in its browser than before because popular awareness of online-privacy risks has risen sharply. He credited the Journal's "What They Know" series for helping to drive the change.
+
+"I think the landscape has changed dramatically between 2008 and 2011," Mr. Hachamovitch said. "It just did not have visibility before."
+
+It still isn't clear how effective the privacy protection tools in Microsoft's browser will be. The do-not-track feature automatically sends out a message to websites and others requesting that the user's data not be tracked. 
+
+But the system will only work if tracking companies agree to respect visitors' requests. So far, no companies have publicly agreed to participate in the system. 
+
+The Interactive Advertising Bureau, which represents the online advertising industry, says its members do not know how to respond to a do-not-track request, known as a header. 
+
+
+
+"There is no context to a do-not-track header, no common definitions, no standard operating procedures for how the thousands or even millions of entities that receive the header might detect or react to such a signal," said  Mike Zaneis, general counsel for the Interactive Advertising Bureau.
+
+Google spokesman  Chris Gaither said the company, which offers the Chrome Web browser and is also a major player in online advertising, "will continue to be involved closely" in discussions about do-not-track. 
+
+In the meantime, he said Google offers an add-on program for Chrome that users can download called "Keep My Opt-Outs" that will let users request that their data not be used for targeted advertising. 
+
+An Apple spokesman declined to comment on whether it will support a do-not-track tool in its Web browser, Safari. 
+
+Users of Internet Explorer 9 will immediately be able to block some snooping of their online habits through the browser's tracking protection list feature—provided they can figure out how to work it. 
+
+To activate it, users are directed from the browser's Safety menu to a Web page that currently contains 17 different lists, put together by others, that compile tracking companies. The do-not-track feature is automatically enabled once a user selects a tracking list.
+
+ Write to  Nick Wingfield at nick.wingfield@wsj.com and Julia Angwin at julia.angwin@wsj.com 

@@ -1,0 +1,45 @@
+ (Please see Corrections and Amplifications below.) 
+
+The case of Sudan, where a secession vote is taking place, underscores how many developing nations have borders that don't correspond to the histories of the people within them. A new paper tries to measure just how artificial those borders are.
+
+Though one of the researchers' metrics—identifying ethnic groups divided by a border—isn't new, a second is more innovative: measuring a border's "squiggliness." The study examined how square, or rectilinear, borders are—a property indicating that they were sketched by colonial powers, not created organically. 
+
+The countries in the top third on both measures—that is, with ethnic groups divided by artificially straight national borders—match up with troubled colonial histories, with examples including Chad, Ecuador, Guatemala, Jordan and Mali. Both metrics also correlate with low gross domestic product per person.
+
+ "Artificial States," Alberto Alesina, William Easterly, and Janina Matuszeski Journal of the European Economic Association (forthcoming) 
+
+A new study confirms the old axiom that full democracies are unlikely to go to war with each other—but it also suggests that limited democracies may, in fact, be even more bellicose than dictatorships.
+
+The authors, three economists, observe that the 19th and early 20th centuries saw many wars involving limited democracies, nations that either had limited voting rights or a parliament with restricted powers. And the post-Soviet era has seen many conflicts involving partial democracies—among them Russia, Georgia, Yugoslavia and Ethiopia. 
+
+Examining interactions between states from 1816 to 2000, the authors focused on pairs of countries, or "dyads." The dyad most likely to go to war—more than any mixed pair—was made up of two limited democracies. The likelihood of war dropped by 59% when the dyad shifted to two dictatorships. It dropped by 74% when it shifted to two full democracies.
+
+Analyzing the results, the authors suggest that hawkish elements of society wield more power in limited democracies than in full ones. As for dictators, they have "neither a hawkish nor a dovish bias."
+
+ "Domestic Political Survival and International Conflict: Is Democracy Good for Peace?" Sandeep Baliga, David Lucca and Tomas Sjöström, Review of Economic Studies (forthcoming) 
+
+BAE Systems engineers spent recent weeks testing a prototype laser weapon that, they hope, will let commercial ships fend off pirate attacks.
+
+The system generates a broad, low-power beam of the same sort used to treat eye disorders or to remove hair. It has a range of more than 1.2 miles—although, at that distance, it would serve essentially as a warning sign. Closer in, the beam would be bright enough to keep the pirates from aiming rifles or rocket-propelled grenades at the vessel, the company said, but without causing eye damage. One official of BAE, a British-based global defense giant, compared aiming at a laser-equipped ship to aiming at a plane flying out of the sun. 
+
+Sunglasses wouldn't foil the lasers, BAE said. (Classic pirate eye patches might work, but they would have to be worn over both eyes.)
+
+What's better, to buy an electronic device full of complex, challenging features or one that's cheaper and easier to use? What buyers select can depend on social context, a study finds.
+
+In tests involving 160 undergraduates, researchers asked the students to choose between a "feature rich" and a "feature poor" GPS device (with a corresponding price difference). When students thought their decision was private, 54% chose the feature-packed option. But if they were told another person would evaluate their choice, that proportion rose to 70%.
+
+Being thought of as tech-savvy is one thing, however; proving it is another. When the students were told they'd get to experiment with their device privately after their selection (but not keep it), 71% chose the feature-rich option. But if they were told they'd have to demonstrate the device's features to other people, the figure dropped to 39%.
+
+ "The Social Utility of Feature Creep," Debora V. Thompson and Michael I. Norton, Journal of Marketing Research (forthcoming) 
+
+Some male and female butterflies apparently trade roles as sexual initiator depending on the temperature they experienced as caterpillars.
+
+Researchers wondered why both males and females of the African species Bicyclus anynana have wing ornamentation typically used to attract mates. Male butterflies raised as larvae in hot conditions, simulating the wet season, aggressively made about a dozen approaches to target females per half hour, flashing their wings to impress; females did the choosing. Female butterflies raised as larvae in the heat did some courting, but far less.
+
+The tables turned during the cooler dry season: Females made the overtures, the males chose. That alternating pattern explains why both sexes have the markings, the researchers said. They suggest that females become more eager to mate with a male—any male—in the dry season because a nutritious "nuptial gift" that accompanies insemination would help them survive until the more fecund wet season. Then, the females can afford to be choosier.
+
+ "Developmental Plasticity in Sexual Roles of Butterfly Species Drives Mutual Sexual Ornamentation," Kathleen L. Prudic, Cheonha Jeon, Hui Cao, and Antónia Monteiro, Science (Jan. 7)  
+
+ Corrections and Amplifications 
+
+In the African butterfly species Bicyclus anynana, researchers found that males raised as larvae in hot conditions, simulating the wet season, aggressively courted females. The pattern was reversed with females raised during the cooler dry season. An earlier version of this article incorrectly referred to the hot season as dry and the cool season as wet in describing the conditions under which the butterflies were raised.

@@ -1,0 +1,43 @@
+A day after a heart-stopping rally drove the Japanese yen to one of its sharpest ascents in history, traders and bankers blamed a freak onslaught of forced buying by Japanese individual investors and hedge funds—a barrage that came at the exact time of day when the currency market is at its most vulnerable.
+
+In what seemed like an echo of the "flash crash" in U.S. stocks last May, the Japanese yen moved 4.6% within minutes on Wednesday, a surge that drove the currency through a record that held for 16 years and wreaked havoc on trading portfolios around the world.
+
+The move—which took the dollar from 80 yen to 76.32 shortly after 5 p.m. in New York—was one of yen's biggest in history. It snapped back almost as quickly, jumping above 79 by the time Asian markets were in full swing. 
+
+"It wasn't pretty," said  Robert Sinche, global head of currency strategy at RBS Global Bank and Markets. "You had a period where there was a lot of forced buying of the yen and just nobody on the other side."
+
+The biggest surprise was that the move occurred in one of the most actively traded corners of the world's financial markets. Trading between the dollar and the yen totals some $570 billion every day and such sharp moves are rare.
+
+But a confluence of buying by Japanese individuals, who can make up as much as 30% of trading in the yen, and hedge funds, many of whom had been predicting the yen would fall after the devastating earthquake and tsunami, came at the least active time for the market, when many traders weren't at their desks.
+
+Currency trading is often seen as a 24-hour affair, but every day, around 5 p.m. in New York, most of the electronic trading platforms shut down for 10 or 15 minutes. At that time, there is a changing of the guard between New York staff and Asia. Computer systems are reset. Those thin conditions also mean that currencies are vulnerable to fast swings.
+
+The yen recovered in Asia, and traded in a fairly narrow band in the U.S. on Thursday, moving to around 78.87 late in the day but remained above its previous record.
+
+Still, many were surprised that the Bank of Japan stayed on the sidelines. Some predicted the bank might move after a meeting of Group of Seven officials late in the day on Thursday. Others speculated the central bank may never step in to calm the yen's ascent.
+
+Policy makers typically avoid currency interventions, in part because they often fail to work over the long term. To succeed, they usually require a coordinated, global effort and broader policy changes. Central banks last acted together in 2000 to boost the euro. The Bank of Japan had limited success in its last effort to push down the yen in September 2010.
+
+Throughout much of the day Wednesday, the yen was on the rise but failed to cross the 80 level. Just before 5 p.m., however, the Japanese currency suddenly broke through. At first it bounced off its all-time high of 79.75, but then a wave of yen buying, predominantly against the U.S. dollar but also against the Australian dollar, swept through the markets. 
+
+Integral Development, which operates electronic trading networks, saw a flood of yen buying out of Japan. Volumes were eight times normal, said  Harpal Sandhu, president of Integral. Some 90% of the trades were for less than $100,000. Typically at that time of day, 40% of the trades are from individual investors, Mr. Sandhu said.
+
+"We think there were Japanese retail traders who were placing orders prior to going to work," Mr. Sandhu says. 
+
+Many of the trades appeared to have been stop-loss orders left in the market which would automatically buy yen as the currency hit certain levels. Others were unwinding so-called carry trades, which required them to buy yen and sell other currencies.
+
+Conditions quickly deteriorated. Banks widened the gap between the prices where yen could be bought or sold to 50 or 100 so-called pips—tiny increments of currency prices. In normal trading, spreads are around 0.8 to one pip. 
+
+At Barclays Capital, the bank's electronic trading system went offline for its routine 15-minute reset at 5 p.m. Amid the heavy trading, the bank's risk management systems delayed the restart until 5:29 p.m.
+
+At the same time, there was a surge of forced yen buying linked to derivatives, mainly options. The first wave kicked in as the old high was breached around 79.75 yen, again around 78 yen which was hit around 5:18 p.m. and then again near 77 yen, pierced just two minutes later. That burst of buying took the yen to its high of 76.32.
+
+David Gary, New York-based head of foreign-exchange derivatives at Deutsche Bank AG, said many investors had bet against the yen using a special kind of option called a "knockout." 
+
+An option gives its buyer the right, but not the obligation, to exchange a currency at a predetermined price in the future. Banks hedge against the risk of having to pay out clients trading such options. So, when knockout levels, such as 78 yen, were hit, Deutsche Bank and other banks had to buy more yen.
+
+When trading did get under way in Asia, however, big Japanese players, particularly corporations, jumped in to sell yen but they retreated as the Japanese central bank remained on the sidelines.
+
+—Neil Shah  contributed to this article.
+
+ Write to  Tom Lauricella at tom.lauricella@wsj.com and Katie Martin at katie.martin@dowjones.com 

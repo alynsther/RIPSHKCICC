@@ -1,0 +1,31 @@
+Friday's official report on the U.S. labor market was a contrast with other data suggesting stronger improvement last month. What's behind the disparities? 
+
+Much of the difference comes down to how the employment surveys are conducted and the problems that stem from producing estimates so quickly after the month ends. 
+
+The Labor Department's report is drawn from two separate monthly surveys, one looking at workers in households (to determine the unemployment rate, among other measures) and the other looking at payrolls for businesses (to provide figures on job creation). They don't alwaysmatch up each month because they are based on different samples, but over the long run they tend to line up fairly closely.
+
+The December payroll survey released Friday showed a modest gain of 103,000 jobs. But the prior two months were revised up by 70,000 jobs. The surprisingly weak November figure moved from a gain of 39,000 jobs, as reported last month, to a gain of 71,000 jobs. 
+
+Why such a large jump in the revision? The estimates for job creation are drawn from a fairly large sample size. The Bureau of Labor Statistics, a unit of the Labor Department, samples about 140,000 businesses and government agencies representing roughly 410,000 work sites. That sample covers a third of all nonfarm payroll workers. 
+
+But all the surveys don't come back in time for the government to release its initial estimate, usually on the first Friday of the next month. As more results come in later, the estimates become more reliable. The Labor Departmentupdates data for the prior two months before considering it final. It also does annual revisions of those figures to account for the creation of new businesses—a development that is hard to measure during turning points in the economy as companies are shutting down or starting up.
+
+Much of the anticipation of Friday's official figure—many forecasters had expected gains of about 150,000—was fueled by other surveys suggesting stronger improvement in the labor market.
+
+On Wednesday, an estimate based on data from payroll firm  Automatic Data Processing Inc.
+ADP
+
+
+0.20
+%
+
+
+
+
+ said private jobs increased by 297,000 in December. That figure is based on the firm's 340,000 U.S. business clients, representing 21 million U.S. workers, using the actual data of the number of people on business payrolls rather than surveys.The ADP measure, historically, hasn't served as a particularly reliable forecaster of the figure that comes two days later from the official Labor Department measure. But it does offer another data set to view trends in employment. The strong figure for December employment raised hopes that the job market might be improving at a faster pace. But the forecasting firm Macroeconomic Advisers, which prepares the report with ADP, warned Wednesday that its estimate of December job growth might have been stronger than merited because of seasonal-adjustment problems specific to the ADP data set. 
+
+Forecasters rely on a number of other measures to gauge employment trends. New claims for jobless benefits, indicating how much employers are cutting jobs, have headed lower in recent weeks. The Conference Board, a business-research group, conducts a survey of consumers assessing their optimism about finding jobs. (Consumers remain pessimistic.) Surveys of large and small businesses also indicate stronger sentiment from executives toward hiring this year. But a measure of hiring sentiment among purchasing managers indicated slower employment growth in December than in prior months.
+
+Putting all those measures together can provide a picture of trends that are developing over time, even if a single report can't provide a precise assessment in a particular month of the overall labor market. 
+
+ Write to  Sudeep Reddy at sudeep.reddy@wsj.com 

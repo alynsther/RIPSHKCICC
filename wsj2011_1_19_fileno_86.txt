@@ -1,0 +1,53 @@
+Two computer hackers have been arrested for allegedly using a security breach of  AT&T Inc.
+T
+
+
+-0.53
+%
+
+
+
+
+'s servers to gather email addresses and other personal information of about 120,000 users of Apple Inc.'s iPad, including corporate chiefs, U.S. government officials and Hollywood moguls.
+
+  Andrew Auernheimer, 26, and  Daniel Spitler, 25, were taken into custody on Tuesday, according to federal prosecutors. They have each been charged with conspiracy to access a computer without authorization and fraud in connection with personal information.
+
+AT&T acknowledged in June that a flaw in its website made it possible for iPad users' email addresses to be revealed and said it had fixed the problem. Mr. Auernheimer, part of a hacker group calling itself "Goatse Security," claimed at the time it had discovered the flaw.
+
+According to a criminal complaint unsealed Tuesday, Messrs. Auernheimer and Spitler allegedly breached the security of AT&T's servers in order to do damage to the telecommunications company, while simultaneously promoting themselves and Goatse Security.
+
+U.S. Attorney Paul Fishman said there was no evidence the two men used the information they acquired for criminal purposes.
+
+Mr. Auernheimer was expected to appear in federal court in Fayetteville, Ark., Tuesday, while Mr. Spitler was expected to appear in federal court in Newark.
+
+A phone call to the contact number for Goatse Security wasn't immediately returned Tuesday. An AT&T spokesman declined comment.
+
+Mr. Auernheimer, who identified himself as Escher Auernheimer in media interviews, told The Wall Street Journal at the time that AT&T had a "egregious lack of thought" at the time by not requiring a password to access Web pages with email addresses.
+
+The Federal Bureau of Investigation launched an investigation after the flaw in AT&T's website was revealed last year. 
+
+According to the criminal complaint, the hackers created a computer script known as the "iPad 3G Account Slurper," which attacked AT&T's servers over several days in June 2010. 
+
+The computer program was designed to mimic the behavior of an iPad 3G, so that AT&T's servers were fooled into believing they were communicating with an actual iPad, prosecutors said in the complaint. Once deployed, the program would randomly guess the unique identifier for each iPad. Each correct guess would result in the iPad's email address being displayed on AT&T's website, prosecutors said.
+
+Based on Internet chat logs, the FBI determined that Mr. Auernheimer and Mr. Spitler, who went by the name "JacksonBrown" were responsible for the data breach, according to the criminal complaint.
+
+In one chat on June 5, Mr. Auernheimer allegedly said, "this could be like, a future massive phishing operation" after the security flaw was discovered and said it was "valuable data."
+
+The next day, Mr. Spitler asked that Mr. Auernheimer protect his identity after Mr. Auernheimer suggested they reveal the security flaw to the press, prosecutors said in the complaint. 
+
+"Dunno how legal this is or if they could sue for damages," Mr. Spitler allegedly said.
+
+Mr. Spitler proceeded to write the computer script to harvest the email addresses, prosecutors said in the complaint. 
+
+Later on June 6, 2010, Mr. Auernheimer allegedly wrote to Mr. Spitler: "if we get 1 reporters address with this somehow we instantly have a story," prosecutors said in the complaint. Mr. Spitler then allegedly provided Mr. Auernheimer with the email address for a member of the board of directors of News Corp., which owns The Wall Street Journal, prosecutors said.
+
+On June 10, Mr. Auernheimer and Mr. Spitler allegedly discussed destroying evidence because they were fearful of the criminal repercussions of their actions, prosecutors said in the complaint.
+
+"I would like get rid of your (expletive) like are we gonna do anything else with this data?," Mr. Auernheimer allegedly said.
+
+"No should I toss it?," Mr. Spitler allegedly responded.
+
+"I dont think so either might be best to toss," Mr. Auernheimer allegedly said.
+
+ Write to  Chad Bray at chad.bray@dowjones.com 

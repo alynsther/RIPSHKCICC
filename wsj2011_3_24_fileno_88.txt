@@ -1,0 +1,61 @@
+TOKYO—Japan's chip makers are gradually starting to resume operations at their factories in the northeastern part of the country after a massive earthquake and tsunami and the subsequent power supply disruption forced most manufacturers in the region to halt production. 
+
+Still, even when the actual damages on facilities have been repaired, continued instability in the supply of power and a shortage of materials are preventing the companies from running their plants at their full capacity. 
+
+Chip plants are usually designed to operate around the clock, and some of the chip-manufacturing equipment is composed of so many machines that, once turned off, it can take a week to start up again. In addition, every time the entire production line is started, each machine must be inspected to ensure it can operate stably before being switched on.
+
+For the time being, some chip plants are keeping their newly resumed operation within the limited power supply to ensure stable production.
+
+  Fujitsu Ltd.
+FJTSY
+
+
+-1.76
+%
+
+
+
+
+ said Wednesday it resumed some operations at one of its chip-manufacturing factories in quake-struck northern Japan earlier in the day. 
+
+The plant in Miyagi Prefecture deals with the later stages of the chip-making process. For now, the resumed operation will be very limited, as the plant will focus on completing chips that had already been through the earlier stages of manufacturing prior to the quake, the company said. 
+
+  Renesas Electronics Corp.
+RNECY
+
+
+0.00
+%
+
+
+
+
+ partially resumed operations at four of its seven chip plants in the broad region affected by the quake. Renesas is the world's biggest maker of chip microcontrollers, chips used to control electronic operations in cars and consumer devices. 
+
+The production lines at the four facilities are fully operational, but the company can't run them at full capacity yet, partly because of the instability of power supply, said a Renesas spokeswoman. 
+
+The Renesas plant most affected by the quake is in Ibaraki Prefecture. The company has managed to restore electricity at the plant, and is checking all the facilities to gain a better understanding of its exact condition. 
+
+Two other Renesas plants remain suspended due to controlled power outages at local power suppliers. 
+
+At Fujitsu, operations at three chip plants in northern Japan, all in charge of the early part of a chip-making process, remain suspended. The company says it doesn't yet know when they can resume production. 
+
+One of the three suspended plants is in Iwate Prefecture, and the other two are in Fukushima Prefecture. 
+
+At  Toshiba Corp.
+TOSYY
+
+
+-2.04
+%
+
+
+
+
+, one chip plant in Iwate Prefecture that makes microcontrollers and other system chips was damaged by the quake. 
+
+Toshiba is a major global supplier of flash memory chips used to store data in smartphones, tablets and various other consumer electronics, but its flash memory plant in central Japan was not affected by the quake. 
+
+Still, Toshiba says it needs to continue monitoring the supplies of materials to the memory chip plant, after the quake disrupted the country's distribution network.
+
+ Write to  Juro Osawa at juro.osawa@dowjones.com 

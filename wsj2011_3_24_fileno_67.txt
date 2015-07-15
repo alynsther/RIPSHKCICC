@@ -1,0 +1,75 @@
+   BP PLC came within 1.4 inches or less of preventing the worst offshore oil spill in U.S. history, say engineers studying the safety device that failed in last year's Gulf of Mexico disaster.
+
+The device, known as a blowout preventer, was a massive set of valves that sat on the sea floor nearly a mile beneath the Deepwater Horizon drilling rig, which floated on the surface. It was equipped with powerful shears designed to cut through pipe and seal off the well in an emergency. Why the device failed has been one of the central mysteries of last year's disaster.
+
+In a report released Wednesday, engineers hired by U.S. investigators say they have solved it: The force of the blowout bent the drill pipe, knocking it off-center and jamming the shears. Rather than seal the well, the blades got stuck 1.4 inches or less apart, leaving plenty of space for 4.9 million barrels of oil to leak out.
+
+The investigators concluded the blowout preventer failed as a result of a design flaw, not because of misuse by BP or any of the other companies involved, and not because of poor maintenance. The fail-safe device, the last line of defense against a disaster, wasn't designed to handle a real-world blowout, according to investigators, who called for further study of the devices.
+
+"They have to rethink the whole design," said  Elmer P. Danenberger III, who is not involved in the investigation, but oversaw U.S. offshore drilling rules until he retired in December 2009.
+
+See a 3-D diagram of the Deepwater Horizon rig as the explosion happened, and learn more about the victims.
+
+See Journal graphics about the oil spill from the Deepwater Horizon rig -- from what went wrong to efforts to contain the spill to its impact on wildlife.
+
+The investigators' finding could be a problem for the oil industry. Drilling rigs around the world rely on blowout preventers, most of them with the same basic design as the one that failed on the Deepwater Horizon.
+
+The report doesn't address what caused the blowout itself. That has been the subject of several other major inquiries, which all have found that a series of decisions by BP and its contractors set the disaster in motion.
+
+Even if the device had worked, it wouldn't have saved the lives of the 11 rig workers killed in the accident. That's because no one even tried to activate the shears until after massive explosions killed the men and crippled the rig. But the device could have mostly prevented the oil spill that began when the Deepwater Horizon sank two days after the initial explosion.
+
+Drilling critics say the report is evidence of the industry's endemic problems.
+
+"This report calls into question whether oil-industry claims about the effectiveness of blowout preventers are just a bunch of hot air," Rep.  Edward Markey (D., Mass.) said Wednesday.
+
+The Bureau of Ocean Energy Management, Regulation and Enforcement, the offshore drilling regulator, declined to comment on the report, but pointed to new, tougher safety rules adopted in the wake of the Gulf spill. Those rules require increased testing of blowout preventers, but don't require that those tests be performed on bent or off-center pipe.
+
+  Erik Milito, head of exploration and production for the American Petroleum Institute, an industry group, said companies were still studying the report's findings, but were confident existing blowout preventers were up to the task. He added that the industry has introduced new measures to make a blowout less likely and to contain a spill should one occur.
+
+The new study was conducted by engineers from Norwegian risk-management company Det Norske Veritas, which was hired by federal investigators to examine the blowout preventer and figure out what went wrong.
+
+Its engineers found that when workers aboard the Deepwater Horizon first detected a problem within the well on the night of April 20, they initially activated parts of the blowout preventer meant to grab onto the pipe and cut off the flow around it, but that don't take the more extreme step of cutting the pipe entirely.
+
+Those parts of the blowout preventer worked, but they couldn't do anything to stop the explosive natural gas that had already flowed past the blowout preventer and were racing up to the surface. Once it reached the rig, the gas ignited, setting off a massive explosion that killed the 11 workers and knocked out the rig's power, leaving survivors with no way to trigger the final fail-safe on the blowout preventer, the pipe-cutting shears known as blind-shear rams, while they were still aboard the rig.
+
+Investigators aren't sure when, but at some point, the blind-shear rams were finally activated. That could have been done either by the rig's dead-man switch, which is meant to automatically trigger the shears when the rig loses its connection to the blowout preventer, or it could have triggered two days later when remote-controlled robots arrived on the scene. The shears activated successfully, but they didn't seal the well. The investigators found that the shears didn't work because they are designed to cut through pipe that is centered in the well. But the force of the blowout deformed the pipe, bending it and knocking it out of center, where the blades couldn't fully cut it.
+
+The findings could be good news for BP, which has argued the disaster was at least partially attributable to the failure of the blowout preventer, which was owned and maintained by rig owner  Transocean Ltd.
+RIG
+
+
+-3.41
+%
+
+
+
+
+ and built by  Cameron International Corp.
+CAM
+
+
+-1.48
+%
+
+
+
+
+ A BP spokeswoman said: "We support efforts by regulators and the industry to make BOPs more reliable and effective."
+
+The report could also be good news for Transocean, which said Wednesday the "findings confirm that the BOP was in proper operating condition and functioned as designed." Earlier investigations have questioned the company's maintenance of the blowout preventer. But the new study found that any maintenance flaws didn't explain the device's failure.
+
+The report could turn attention back to Cameron, which has until recently escaped most scrutiny. The company said Wednesday the device "was designed and tested to industry standards and customer specifications."
+
+The oil industry has long known that blowout preventers were prone to failure, especially as drilling has moved into deeper water, requiring thicker, tougher pipe. In 2004, a study commissioned by federal regulators found that only three of 14 newly built rigs had blowout preventers that could squeeze off and cut the pipe at the water pressure likely to be experiencedat the equipment's maximum water depth.
+
+"This grim snapshot illustrates the lack of preparedness in the industry to shear and seal a well with the last line of defense against a blowout," the study said. The Wall Street Journal first reported the study's findings in a story last May.
+
+The study singled out Cameron for relying on calculations to determine the needed strength of shear arms using "shear forces lower than required or desired in many cases."
+
+In testimony before the presidential commission investigating the spill last year, Bill Ambrose, a Transocean executive, said blowout preventers weren't designed to cut off a flowing well.
+
+"It is somewhat like snipping a fire hose with a pair of scissors," Mr. Ambrose said. "The blind shear ram is not designed for that particular condition."
+
+Some experts said the report emphasized the need to avoid blowouts in the first place.
+
+"The issue is not the BOP," said  Tadeusz Patzek, chairman of the petroleum engineer department at the University of Texas, "but making sure the BOP never has to be activated in such circumstances. You don't want to rely on a single device between you and eternity."

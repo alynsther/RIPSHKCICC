@@ -1,0 +1,45 @@
+BERLIN—Germany's highest civil court ruled Tuesday that  Deutsche Bank AG failed to properly advise a client of the risks of interest-rate swaps, in a verdict that could trigger a slew of judgments against the bank and lead to greater restrictions in the sale of derivatives in Germany.
+
+In its ruling, Germany's Federal Court of Justice ordered Deutsche Bank to repay €541,000 ($769,000) to German bathroom supplier Ille Papier Service GmbH, one of hundreds of small German companies that bought such swaps on the bank's advice in hope of saving on interest-rate payments.
+
+Deutsche Bank had a particular duty to disclose all of the risks to the company, as well as the bank's potential profit, because of its "gross conflict of interest" in marketing a product whose risk was stacked to the bank's advantage and "at the expense of the client," the court ruled.
+
+While the full implications of the verdict won't be clear until the court publishes its entire opinion in the coming weeks, the ruling is likely to ripple across Germany's banking sector, and could force banks to divulge more information about the risks of such products.
+
+The bank "must ensure that a client investing in such a highly complex product has essentially the same information and knowledge as its advisory bank," the court said in its ruling. "It was clear that the defendant has violated its obligation to give advice."
+
+The ruling is also likely to influence the outcome of dozens of other lawsuits that Deutsche Bank faces from municipalities and businesses across Germany that bought the interest-rate swaps from the bank in the early to mid-2000s.
+
+In a statement, Deutsche said it had to analyze the court's written ruling before assessing its impact, but that legal and financial repercussions associated with similar lawsuits was limited. One person familiar with the bank's estimates said its full legal exposure to the claims could be close to €50 million.
+
+More broadly, analysts said, the judgment could curtail the market in Germany for complex, high-risk financial instruments.
+
+"The verdict removes the financial incentives for the banks to sell the products," said  Jochen Weck, a lawyer who pled the case. "Few clients will knowingly pay large fees to buy an unlimited risk."
+
+The case that was decided involved a derivative contract that Deutsche Bank marketed as a "spread-ladder swap" that could help clients reduce their interest payments. In such a swap, the client places a bet that long-term interest rates will increase while the short-term interest rates will decrease. The client pays a floating rate, and the bank bets against it, paying fixed interest rates.
+
+In its ruling, the court said Deutsche Bank was particularly amiss in failing to disclose the contract's negative starting value of roughly €80,000, as it signaled which way the swap's risks were stacked. Instead, Deutsche Bank advised Ille in two separate meetings before it signed the contract in 2005 that the spread between the two interest rates would likely widen, making the investment profitable.
+
+After two years and substantial losses, Ille paid the bank €566,850 to dissolve the contract in January 2007.
+
+Deutsche Bank's attorney said during oral arguments last month that Ille was informed that losses were "theoretically infinite," and received a calculation and disclosure of all risks. "Every high-school graduate is able to understand such a calculation formula," he said.
+
+But the court said that banks need to advise clients "not in a trivializing manner," and make clear that the risks, dependent on interest rate developments, "may be real and ruinous."
+
+The verdict ends months of Deutsche Bank success in lower courts, where it had won eight of 11 such cases. The Federal Court of Justice's opinion will likely provide guidance for 17 cases pending in lower German courts and in seven other cases before the high court.
+
+The ruling could also influence a case in Italy, where Deutsche Bank,  J.P. Morgan Chase
+JPM
+
+
+0.23
+%
+
+
+
+
+ & Co.,  UBS AG and Depfa Bank PLC are on trial over allegations they misled Milan officials about their potential profits from arranging an interest-rate swap deal for the city government.
+
+Ille's founder,  Wilhelm Blatz, said at a news conference Tuesday morning that it was a "David verses Goliath" fight that the company didn't think it would win. "This makes us even happier about the just and trend-setting decision of the federal court."
+
+ Write to  Laura Stevens at laura.stevens@wsj.com and David Crawford at david.crawford@wsj.com 

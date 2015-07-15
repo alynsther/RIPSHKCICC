@@ -1,0 +1,77 @@
+BlackBerry maker  Research In Motion Ltd. is locking horns with wireless carriers over control of mobile-payment data, in an example of the battles erupting as smartphones evolve into electronic wallets.
+
+The dispute centers on where key data related to mobile payments will reside on the next generation of smartphones, slated to come out later this year. Now, such information is stored in the magnetic strip on a credit or debit card. RIM and other handset makers are poised to make phones that will store this data, known in industry parlance as "credentials," in the devices themselves. In a transaction, the customer would wave the phone near a special electronic reader at a store's checkout.
+
+But RIM and carriers like  Rogers Communications Inc. in Canada, and  AT&T Inc.
+T
+
+
+-0.85
+%
+
+
+
+
+ and T-Mobile USA in the U.S., disagree over exactly where on the phone the credentials should reside—and thus who will control the customers, revenue and applications that grow out of mobile payments.
+
+The carriers say they want to encrypt and store the credentials in the phone's SIM card, the small chips placed in the back of phones to activate access to mobile networks. SIM cards can be easily swapped from phone to phone. Such a system provides a single payment hub that doesn't depend on what kind of phone you have, the carriers argue.
+
+RIM wants the credentials built into a secure area of the BlackBerry itself, which would bind users to its devices and potentially cut carriers out of the loop, according to officials representing some of the carriers. RIM is already reaching out to banks on its own, these people say.
+
+North American carriers—which typically subsidize the cost of the phones they sell to customers and control distribution— are telling RIM to stop.
+
+"The carriers have been saying in a gentle way to RIM, 'Guys, you won't be doing this,'" said  Robin Dua, chief executive of EnStream LP, a firm set up by Canada's three biggest wireless companies to implement their mobile-payments strategy. "I think it's going to be a little bit of a fight, frankly."
+
+Executives at North American carriers downplay any dispute, but acknowledge competing visions between phone makers and carriers. "We expect some closed operating-system vendors will probably try to build [credentials directly] into the handset. RIM and [ Apple Inc.
+AAPL
+
+
+0.84
+%
+
+
+
+
+] fall into that category," said  Almis Ledas, a vice president, mobility corporate development at Bell Canada, the main operating unit of  BCE Inc.
+
+There is less of a dispute with carriers such as Verizon Wireless that use an alternate wireless technology called CDMA because their phones don't use SIM cards. But Verizon and others are moving to a new network technology called LTE, which does use a SIM card. 
+
+The dispute is a departure for RIM, which has historically crafted its handsets to carrier specifications. The company held off preloading its App World store on many BlackBerrys until last year because some carriers wanted to highlight their own app stores instead. Apple, meanwhile, launched its own iPhone App Store independent from carriers, and doesn't share any revenue with them.
+
+RIM executives declined to comment specifically about their mobile-payment strategy. But  Jim Tobin, senior vice president of software and business services, said the company's "mode of being carrier supportive will continue." 
+
+The conflict is the latest bump in the road to setting up a system in which users can buy things and pay bills with their phones.
+
+RIM recently said it's planning to put a chip that lets users make purchases by swiping their phones past a terminal—a technology known as near-field communication—in the BlackBerrys it launches this year. Google's Nexus S phone has NFC technology built into the device. Apple, meanwhile, is widely expected to integrate NFC technology into the next version of its iPhone.
+
+Google is also working on a potential partnership with electronic-payments company VeriFone Systems Inc., according to a person familiar with the matter. A Google spokeswoman said the company hasn't made any announcements yet regarding its mobile-payments strategy. A spokeswoman for Apple declined to comment. 
+
+RIM is reaching out to banks to get a first-mover advantage. The company is working on a trial with  Mastercard Inc.
+MA
+
+
+0.25
+%
+
+
+
+
+ to allow  Bank of America Corp.
+BAC
+
+
+3.62
+%
+
+
+
+
+ customers in New York to make payments with BlackBerrys. At the end of the year, Bank of America sent some of its BlackBerry-using customers in New York a memory card with an NFC chip capable of making a wireless payment when waved in front of special terminals found in subway stations, drug stores and taxi cabs. 
+
+The three companies plan to expand the trial to San Francisco and Atlanta in the next few months.
+
+Carriers are also testing the waters. In the U.S., AT&T, Verizon Wireless and T-Mobile USA, which have their own mobile-payments venture dubbed ISIS, are in a tug-of-war over control of mobile-payment revenue with credit-card companies. Executives at ISIS declined to comment.
+
+Canada's  Telus Corp., a national carrier, and some of its peers are also talking to banks about mobile payments. "It's very, very alive and kicking," said  Drazen Lalovic, vice president for market planning at Telus.
+
+—Roger Cheng  contributed to this article.

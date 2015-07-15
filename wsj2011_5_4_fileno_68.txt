@@ -1,0 +1,25 @@
+SEOUL—North Korea was behind a cyberattack that crippled one of South Korea's major commercial banks last month, prosecutors said Tuesday, in a high-profile case that has fueled concerns about corporate online security in the South. 
+
+National Agricultural Cooperative Federation, or Nonghyup, was forced to shut down its servers last month after hackers took control of the laptop of an information-technology security worker, which was then used to delete information on the servers. 
+
+Some 30 million customers at the bank were affected, with some unable to use their accounts for several days. Nonghyup has said it may never be able to fully recover all the data that were lost. 
+
+The Seoul Central District Prosecutors' Office said one of the IP addresses of an overseas server used for the attack matched one used in a previous cyberattack attributed to North Korea. The prosecutor's office also noted similarities in methods for the attack, including how malicious codes were planted in the compromised laptop. 
+
+"This is an unprecedented act of cyberterrorism involving North Korea," the prosecutors' office said. "The perpetrators used very similar and unique programming techniques as seen in [previous cyberattacks by North Korea]." 
+
+The prosecutors cited two incidents, one in July 2009 and another in March this year, in which dozens of South Korean websites were attacked by hackers. The South Korean government believes that at least some North Korean hackers are based in China.
+
+The Nonghyup incident, coupled with another major security breach at consumer lender Hyundai Capital in April, which hasn't been attributed to North Korea, has sparked criticism that the regulators and the financial industry have been too cavalier about ensuring data and network security. 
+
+The prosecutors criticized Nonghyup for lax security standards, including its failure to change internal passwords frequently and the fact that a password was given to a third-party IT worker. 
+
+Finance-industry officials have said local companies don't place enough emphasis on their IT operations, with much of the work outsourced. Some point out that IT staff are given little attention by top managers because they cost, rather than generate, money. 
+
+Lawmakers also have criticized regulators for inadequate oversight. In response, the regulators have vowed to add personnel and direct the companies to take necessary measures to ensure network security. 
+
+"This should be used as a catalyst to change the incorrect notion that security is simply a hassle, and upgrade security systems and awareness [of the issue] on a national level," the prosecutors' office said. 
+
+Nonghyup and Hyundai Capital have issued apologies and have vowed to strengthen their IT security. Nonghyup on Tuesday said it will invest 510 billion won ($478.4 million) by 2015 to strengthen its internal system and hire additional IT experts. 
+
+ Write to  Se Young Lee at vincent.lee@dowjones.com 

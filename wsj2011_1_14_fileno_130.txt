@@ -1,0 +1,95 @@
+Hedge funds scooped up shares of credit-card companies like big spenders on a shopping spree, making Visa Inc. and MasterCard Inc. among the most popular hedge-fund trades.
+
+The bets paid off for a while. But when bad news hit in May, many funds—including 10 hedge funds run by investors connected to the well-known Tiger Management LLC—rushed for the exits, together. Shares plunged.
+
+Hedge funds are crowding into more of the same trades these days, amplifying market swings during crises and unnerving investors. Such trading has stoked market jitters in recent months and helped to diminish the impact of corporate fundamentals on stock-market movements. Droves of small investors have reacted by pulling money from the market, questioning its stability and whether fast-moving traders are distorting prices.
+
+The pack behavior undermines the image of hedge-fund chiefs as savvy money managers who sniff out investment opportunities that others don't see—thereby justifying the hefty fees they charge clients. It also suggests that hedge funds are having a harder time coming up with money-making ideas in rocky markets.
+
+During the bull market, hedge funds regularly generated strong returns as broad stock-market indexes marched higher. But since the start of 2009, the average performance of hedge funds has trailed the return of the Standard & Poor's 500 Index in six out of eight quarters, according to Hedge Fund Research Inc. For 2010, hedge funds were up 10.4% on average, compared with a 15% gain for the Standard & Poor's 500 stock index, including dividends reinvested, according to the hedge-fund research firm. 
+
+Powerful macroeconomic forces such as government economic stimulus have been moving markets the past year, making it difficult for stock-picking hedge funds. That might account, in part, for the increase in pack behavior, says Nicolas Bollen, a finance professor at Vanderbilt University. "When there are these extraordinary forces at work in the market, the hedge-fund business model may not make sense," he says.
+
+Hedge funds have been having trouble keeping up with the stock market. Quarterly differences between hedge-fund returns and the S&P 500 index are shown below. Green bars reﬂect outperformance by hedge funds, blue bars mean the S&P did better.
+
+An analysis of hedge-fund returns by Andrew W. Lo, a Massachusetts Institute of Technology researcher and fund manager, shows that funds have become more likely to lose and gain money together over the past five years. There is a roughly 79% chance any randomly selected pair of hedge funds will move up and down in tandem in a given month from 2006 to 2010, compared with a roughly 67% likelihood from 2001 to 2005, according to his analysis.
+
+One explanation is that they are focusing increasingly on the same stocks. Last year, for example, stock in Apple Inc. was held by 55 of the nearly 200 large hedge funds tracked by AlphaClone LLC. In 2008, by comparison, the favorite hedge-fund stock, Microsoft Corp., was held by 34 funds.
+
+"The whole hedge-fund industry is a series of crowded trades," says Mr. Lo.
+
+In June, Mr. Lo and other researchers presented a paper to government economists and regulators suggesting that when hedge funds lose money, there has been an increasing risk of a "contagion" of losses rippling through the financial system.
+
+Regulators have been looking into the ripple effects from hedge-fund trades, and also have examined whether hedge funds are improperly coordinating their market moves, people familiar with the matter say.
+
+This past year has been a tricky one for hedge funds. Moves by the Federal Reserve to stabilize the economy, legislation affecting Wall Street and banks, and election-year uncertainty have led to market swings. 
+
+One reason for their pack behavior is that many managers use similar macroeconomic gauges to formulate their trades, whether they are analyzing companies or programming computer algorithms that drive trading. Another is that fickle investors often yank their money if funds lag behind rivals, giving managers an incentive to own some of the same stocks as their competitors.
+
+Many hedge-fund managers freely share investment ideas with one another—a practice that might seem at odds with their aspirations to post higher returns than competitors. Fund managers, traders and hedge-fund chiefs exchange ideas through instant messages, emails and private chats.
+
+Sharing ideas can reap financial benefits. When multiple hedge funds jump into the same stock, that tends to push the share price higher—an obvious benefit to the fund manager who got in first. 
+
+Such activity isn't legally problematic unless there is an agreement among funds that share ideas to artificially influence a security's price. That kind of behavior can be considered market manipulation, particularly if participants are deliberately passing false information to influence a security's price.
+
+Sometimes, trades stem from "idea dinners," where hedge-fund managers discuss stocks, markets and economic trends. 
+
+Last February, for example, research boutique Monness, Crespi, Hardt & Co., organized a gathering of more than a dozen hedge-fund chiefs and portfolio managers in Manhattan. One attendee, hedge-fund manager  David Einhorn of Greenlight Capital, touted his investment in CIT Group, according to others who were there. 
+
+The financial-services company had become one of Greenlight's biggest new bets in 2009's third quarter, Mr. Einhorn had said. At the end of 2009, Mr. Einhorn held 6.3 million CIT shares. 
+
+Other major hedge funds, including Paulson & Co., Eton Park Capital Management and Canyon Capital Advisors, also owned CIT shares, according to securities filings.
+
+Around the same time as the idea dinner, more hedge funds piled into CIT. In last year's first quarter, hedge-fund purchases of CIT jumped, with about 20 funds getting into the stock, bringing the total number to 48 hedge funds, according to AlphaClone.
+
+That same quarter, Mr. Einhorn added 4 million shares to his CIT stake; Eton Park acquired an additional one million; and Canyon Capital added 840,000, according to the filings. The stock rose more than 40% during the quarter.
+
+Soon, some hedge funds retreated from CIT, and the stock slipped. In the second quarter, some funds pared their holdings, according to AlphaClone, contributing to a 13% decline in the shares during the period. CIT shares gained 71% in 2010.
+
+A spokesman for Mr. Einhorn's fund says: "Greenlight has made no secret about its bullish view of CIT and believes it is very important and socially beneficial for investors to talk about stocks and share their research. The ability to do so is critical to a functioning free market." Spokespeople for other hedge-fund investors in CIT declined to comment. 
+
+Hedge-fund managers defend idea dinners and say they have good reasons for talking to each other. They say smarter investors improve transparency in the markets for everyone.
+
+Mr. Einhorn has told his investors that he and others from Greenlight attend a few dozen of such gatherings a year. "We find these events worthwhile because we sometimes get good ideas from others, and we can use the discussions to subject our own thinking to criticism and questions of our peers," he wrote to clients in April.
+
+Last year, the Justice Department launched an investigation into whether hedge funds might have banded together to drive down the value of the euro following the February Monness Crespi idea dinner. Justice recently dropped that investigation, people familiar with the matter say. It declined to comment. 
+
+In the summer, the SEC dropped a two-year investigation into whether hedge-fund manager  Daniel Loeb—head of Third Point LLC, which oversees about $4.7 billion in assets—did anything improper when swapping strategy and trading ideas with peers.
+
+Mr. Loeb, once a proponent of exchanging ideas, has changed his tune. "We will no longer discuss investments made prior to our public" filings, Mr. Loeb wrote in a June 2010 client letter. "We have found that discussing our ideas may result in 'piling on' by other hedge funds who may subsequently sell at inopportune times resulting in greater hedge fund concentration and volatility." Mr. Loeb, whose main fund gained 34% last year, declined to comment. 
+
+SEC examiners in recent months also have questioned "quantitative" traders, who rely on computer models, about any information they're passing to each other and how, say people familiar with the matter. The SEC declined to comment.
+
+Manipulation cases are challenging for regulators, lawyers say. "You have to prove fraudulent intent, which is a very difficult thing to prove," says Leor Landa, a hedge-fund lawyer at Davis Polk & Wardwell LLP.
+
+Sometimes groups of like-minded funds pour money into the same securities. That's what happened with funds connected to veteran manager  Julian Robertson of Tiger Management—"Tiger Cubs" run by investors who once worked for him, and "Tiger Seeds" to which Mr. Robertson provided seed investment money. In 2008 and 2009, as many as 10 of those funds held large positions in MasterCard, according to filings analyzed by AlphaClone. During those two years, shares of MasterCard rose 19%, to $255.
+
+MasterCard was among the top three contributors of profits in those years for Viking Global Investors, a Tiger Cub managing $12 billion in assets, Viking chief  Andreas Halvorsen told his investors.
+
+Among the 18 Tiger-connected hedge funds tracked by AlphaClone, MasterCard was the No. 4 stock at the end of 2009, based on the number of funds holding the shares among their 20 biggest stock positions.
+
+The Visa trade was even more popular, holding the top spot by the first quarter of 2010. At year-end 2009, 10 Tiger funds, including Mr. Halvorsen's, owned some 25 million shares, according to AlphaClone. Visa became his firm's new largest position, Mr. Halvorsen told investors.
+
+In May, the Senate voted to restrict debit-card fees, which caught many investors off guard and fanned fears of further fee regulation. Within days, shares of Visa and MasterCard plunged 22% and 18%, respectively. 
+
+Hedge funds didn't wait for the rebound. They dumped Visa en masse during the second quarter. The stock, which had been among the top 10 holdings of 177 hedge funds AlphaClone tracks, dropped from the top 20. 
+
+MasterCard had fallen off that list in the first quarter of 2010. In an April letter to investors, Viking's Mr. Halvorsen said MasterCard went from being the firm's biggest contributor of profits in 2007—and one of its top three in 2008 and 2009—to its biggest loser in the first quarter of 2010.
+
+Asked about the pack behavior, a spokesman for Tiger said "Tiger-seeded funds are independent and make their own decisions based on deep fundamental equity research. The fundamental analysis these managers do can generate similar holdings." Despite their common holdings, he said, the funds produce uncorrelated returns.
+
+In the April letter, Viking's Mr. Halvorsen said his fund doesn't "borrow" investment ideas "from another firm or individual, although we frequently find it informative to talk to other investors to understand the attributes they value." He added: "There is obviously some risk associated with being in an investment alongside like-minded investors." 
+
+Mr. Robertson said in interview that he didn't see pursuing similar investment strategies as a bad thing. He said Tiger-seeded funds benefit from sharing Manhattan office space and meeting to talk about investments and markets every couple of weeks. "We're not cutting people's tongues so they can't speak to each other," he said.
+
+Mr. Robertson's son Alex Robertson, a Tiger managing partner, acknowledges that "there's been a lot of speculation" about similar trading, but says Tiger-seeded funds, as a group, have diverse holdings and strategies.
+
+At times, hedge funds end up making the same trades without ever talking to one another about them, because they are acting on the same macroeconomic trends. Early in 2009, for example, many hedge funds were convinced that the global economy would rebound, so they made bets known as the "pro-growth trade." It involved bullish wagers on U.S. stocks, the dollar and commodities, coupled with bearish bets on U.S. Treasury bonds and the euro.
+
+The bet paid off, as the U.S. stock market jumped nearly 80% between March 2009 and April 2010. But by May, as worries mounted about sovereign-debt levels and the U.S. economy, the trade soured. Unable to quickly unwind the wager, hedge funds took a big hit. 
+
+For Moore Capital Management's biggest hedge fund, the trade contributed to a loss of 9.2% last May, its worst monthly performance ever. Other funds got hit, including New York-based Paulson. Spokesmen for the firms declined to comment.
+
+In all this, some on Wall Street see opportunity. In August, Roger Saks, a Barclays Capital managing director, pitched hedge-fund managers on the firm's expertise in helping them navigate the tumult.
+
+He emailed them a spreadsheet of heavily traded stocks. The subject line: "Are your ideas crowded?"

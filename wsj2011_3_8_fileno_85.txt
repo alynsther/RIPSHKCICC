@@ -1,0 +1,77 @@
+There's no rest for retirement investors. They spend decades worrying about the best way to put money into their accounts—and then they have to find the best way to take it out.
+
+It's a problem that's starting to hit home for the oldest baby boomers, who turn 65 this year. Many don't have traditional pension plans to dole out steady paychecks for the rest of their lives. They have to figure out the best way to pull money from retirement accounts so that they get a livable income each year—and the money doesn't run out too soon.
+
+And that means they have to account for a host of factors that are impossible to predict. "You can't control how long you'll live, which is a huge determinant of retirement income," says  Francis Kinniry, a principal at Vanguard Group. "And you can't control the markets."
+
+Many people are dealing with the uncertainty by simply working longer. But for those who were looking forward to a more retiring retirement, there's fresh hope.
+
+Financial advisers are rethinking retirement-spending rules of thumb and coming up with new withdrawal strategies that help clients maintain their standard of living regardless of the stock market's ups and downs. And financial-services firms are introducing new products to turn lumps of retirement savings into steady income without requiring people to lock up their money in an annuity. (Annuities, of course, may still be a good retirement-income solution for some people.)
+
+Read the full  Investing in Funds report .
+
+Below, we explain various strategies for spending down retirement savings. But don't feel compelled to choose one and follow it for a lifetime. The key to developing a successful strategy is flexibility, retirement experts say. Given all the variables in retirement spending, advisers suggest that investors regularly revisit their approach rather than religiously following a preset path. Those who are willing to make small adjustments along the way will run the smoothest course through retirement.
+
+Faced with the question of spending in retirement, many financial advisers fall back on "the 4% rule." With this approach, investors withdraw 4% of their retirement balance in the first year of retirement, or $40,000 from a $1 million portfolio. The dollar amount of the withdrawal is adjusted each year to keep up with inflation, and the remaining portfolio is rebalanced to the desired mix of stocks and bonds.
+
+Different investors may follow different versions of the rule, such as initially withdrawing 5% or 6%. That initial withdrawal amount can have a major impact on the strategy's success. Assuming a mix of 60% stocks and 40% bonds, an investor initially withdrawing 4% has a 10% chance of running out of money at age 97, according to T. Rowe Price Group Inc. With a 6% initial withdrawal, he has a 10% chance of running out of money at age 82. Many advisers have settled on 4% as the "safe" initial withdrawal rate.
+
+The 4% rule helps manage two big risks in retirement: longevity and inflation's tendency to gnaw away at your purchasing power, says  Stuart Ritter, a financial planner at T. Rowe Price.
+
+The rule also has the allure of simplicity, and at least in the short term, it gives investors steady amounts of spending money each year. The problem, critics say, is that this approach matches a rigid spending rule with an investment portfolio that can bounce all over the place. Given strong markets, investors may wind up with lots of money to leave their heirs. Given weak markets, they could run out of money halfway through their retirement.
+
+"This is a prescription for getting people into serious trouble," says  Laurence Kotlikoff, economics professor at Boston University.
+
+The 4% rule should be viewed as "a starting point," Mr. Ritter says, adding that it "gives people the ability to adjust along the way."
+
+Another simple approach to retirement spending is to withdraw a set percentage of the portfolio each year. 
+
+Unlike the 4%-plus-inflation rule, this approach automatically adjusts an investor's spending in response to market performance: If the portfolio grows, the withdrawal is larger; if the portfolio shrinks, the withdrawal is smaller. And investors will never completely run out of money.
+
+Of course, that means there can be major fluctuations in the amount of spending money from one year to the next. Given that many people want to maintain a steady standard of living in retirement, those ups and downs can be stomach-churning.
+
+Vanguard suggests a more flexible version of this strategy. Aim to withdraw a set percentage of the portfolio each year, but place upper and lower limits on the dollar amount, based on the prior year's spending.
+
+For example, an investor may decide that he'll withdraw 4% of his portfolio each year, but he doesn't want his spending amount to change more than 5% from one year to the next. Let's say he took out $40,000 from his $1 million balance last year, and this year strong markets have boosted his portfolio to $1.1 million. A strict 4% withdrawal would give him $44,000 in spending money this year, but given his 5% spending band he'll limit his withdrawal to $42,000.
+
+This is "a middle-of-the-road approach," says Vanguard's Mr. Kinniry. Spending levels remain relatively steady year to year, but the strategy also responds to changes in investment performance, helping the portfolio last through retirement.
+
+The bands around the dollar amount of spending don't have to be symmetrical, of course. Mr. Kinniry suggests allowing for more flexibility on the downside than on the upside. For example, you might cap the year-over-year increase in the withdrawal amount at 3%, so that in a good year you keep more of your profits in your portfolio—but if your investments take a beating allow withdrawals to fall as much as 5% or 10%. If markets perform poorly, "you don't want to compound" the effect on your portfolio by taking a large withdrawal, he says.
+
+Let's again assume that the investor took $40,000 last year from his $1 million portfolio. But this year his investments fell in value to $850,000. A strict 4% withdrawal would be $34,000. With a maximum 5% drop in the dollars he withdraws compared with last year's $40,000, he would take out $38,000. With a 10% maximum drop, he would take out $36,000.
+
+To build confidence that a portfolio will sustain a lifetime of spending, it helps to take a page from the playbook of defined-benefit pension plans, advisers say. With this approach, investors should think of each year's spending as a liability that must be matched with a chunk of your portfolio.
+
+The best match for those liabilities is a bond ladder, advisers say. With high-quality bonds such as Treasurys maturing in each year of retirement, creating a "spending floor," investors can feel confident their future spending needs will be met. 
+
+Pouring all your money into bonds, of course, can reduce your portfolio's growth potential. But it's possible to create a mix of steady income, upside potential and some longevity protection by starting retirement with a blend of 80% bonds and 20% stocks, says  Jason Scott, managing director of the retiree research center at investment advisers  Financial Engines Inc.
+FNGN
+
+
+-0.63
+%
+
+
+
+
+
+
+With bonds to meet your basic spending needs, "you're not subject to the vagaries of the [stock] market for that spending," Mr. Scott says. And if the equity allocation does well, investors can use the stock-market proceeds to extend their bond ladder further into retirement or raise their spending floor. So payouts won't drop when the stock market falls, but they can rise when stocks are rallying.
+
+Under Financial Engines' approach, roughly 65% of the portfolio goes into bonds to create payouts from age 65 to 84. A further 15% also goes into bonds, but it's considered a "longevity reserve," which allows the investor to extend his income stream through an annuity purchase at age 85. The other 20% is initially invested in stocks; as clients age, the firm gradually reduces the equity allocation to zero. The firm is now offering the approach inside 401(k) plans with a product called Income+, launched in January.
+
+A similar philosophy drives a new feature of the ESPlanner financial-planning software created by Boston University's Prof. Kotlikoff. A basic goal of the software is to help people maintain their standard of living throughout their lifetime. The "Upside Investing" feature, introduced in February, lays out a plan for investors to draw their spending money out of safe assets, such as Treasury inflation-protected securities, and not touch their riskier stock assets until they've converted them to something safe. "The program treats investing in the stock market like playing the casino," Prof. Kotlikoff says—and you don't spend your winnings until you've left the casino. "While we're sitting at the slot machine, we don't order a new car."
+
+The program tells investors how much they can spend out of their safe assets and still maintain their living standard. A version of ESPlanner that will save personal data costs $40, and the Upside Investing feature costs an additional $20.
+
+Many retirees have their savings in a hodgepodge of taxable accounts, tax-deferred vehicles such as 401(k)s and accounts created with after-tax contributions, such as Roth IRAs. Tapping all these in the right order can extend your portfolio's life by several years, advisers say.
+
+As a general rule, many advisers suggest tapping taxable accounts first, then tax-deferred and finally the Roth accounts. That sequence allows tax-favored investments to accumulate longer. Just remember that you must start taking required minimum distributions from traditional IRAs and qualified employer plans such as 401(k)s by April 1 of the year following the year you turn 70½.
+
+But truly maximizing tax efficiency can get a lot more complicated. In some cases, for example, it may make sense to draw from a 401(k) and a Roth in the same year. Withdrawals from the 401(k) are taxed as ordinary income and can bump you into a higher tax bracket.
+
+So an investor who would otherwise be in the 25% tax bracket may want to take only the amount from the 401(k) that will fully use the 15% tax bracket, and take the rest from the Roth, says  William Reichenstein, a Baylor University finance professor and director of research at Retiree Inc., a firm that creates customized withdrawal strategies for individuals. The general idea is to minimize the average tax rate on funds taken from the 401(k), he says.
+
+"There's more opportunity to add longevity to your assets by managing your withdrawal sequence" than by picking the right stocks, says  Bill Meyer, Retiree Inc.'s CEO. Managing tax efficiency is "a lot easier than trying to time the market."
+
+ Ms. Laise is a staff reporter for The Wall Street Journal in New York. She can be reached by email at eleanor.laise@wsj.com  

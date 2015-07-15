@@ -1,0 +1,51 @@
+Money isn't everything. But in measuring the success of nations, it isn't easy to find a substitute.
+
+Political leaders are increasingly expressing dissatisfaction with gross domestic product—a monetary measure of all the goods and services a country produces—as a gauge of a nation's success in raising living standards. 
+
+In November, British Prime Minister David Cameron announced plans to build measures of national well-being that would take into account factors such as peoples' life satisfaction, following a similar effort by French President Nicolas Sarkozy.
+
+Their efforts cut to the core of what economics is supposed to be about: What makes us better off? How can we all have more of it? Anyone hoping for a clear-cut answer, though, is likely to be disappointed.
+
+"There is more to life than GDP, but it will be hard to come up with a single measure to replace it and we are not sure that a single measure is the answer," said  Paul Allin, director of the Measuring National Well-Being Project at the U.K.'s Office of National Statistics. "Maybe we live in a multidimensional world and we have to get used to handling a reasonable number of bits of information. 
+
+  How are you doing compared to Dutch people? Fill in a questionnaire and find out.  
+
+After a session on creating a national success indicator at the annual meeting of the American Economic Association on Friday,  Carol Graham, fellow at the Brookings Institution, summed up the situation thus: "It's like a new science. There's still a lot of work to be done."
+
+For much of the past four decades, economists have puzzled over a paradox that cast doubt on GDP as the world's main indicator of success. 
+
+People in richer countries didn't appear to be any happier than people in poor countries. In research beginning in the 1970s, University of Pennsylvania economist  Richard Easterlin found no evidence of a link between countries' income—as measured by GDP per person—and peoples' reported levels of happiness. 
+
+More recent research suggests GDP isn't quite so bad. Using more data and different statistical techniques, three economists at the University of Pennsylvania's Wharton School— Daniel Sacks, Betsey Stevenson and  Justin Wolfers—found that a given percentage increase in GDP per person tends to coincide with a similar increase in reported well-being. The correlation held across different countries and over time. 
+
+Still, for measuring the success of policy, GDP is far from ideal. 
+
+Making everybody work 120 hours a week could radically boost a country's GDP per capita, but it wouldn't make people happier. Removing pollution limits could boost GDP per hour worked, but wouldn't necessarily lead to a world we'd want to live in. 
+
+One approach is to enhance GDP with other objective factors such as inequality, leisure and life expectancy. In a paper presented Saturday at the American Economic Association meeting, Stanford economists  Peter Klenow and  Charles Jones found that doing so can make a big difference. 
+
+By their calculation, accounting for longer life expectancy, additional leisure time and lower levels of inequality makes living standards in France and Germany look almost the same as those in the U.S., which otherwise leads the pack by a large margin. 
+
+Mr. Klenow points out that the calculation is fraught with difficulties. For one, many countries have poor data on crucial factors such as life expectancy.
+
+For the purpose of comparing well-being across countries, asking people how they feel might be better than monetary measures.  Angus Deaton, an economist at Princeton University, notes that placing values on the extremely different goods and services consumed in the U.S. and, say, Tajikistan, can be impossible to do in a comparable way. Just asking people about their situation could be much easier and no less accurate.
+
+Surveys already play a meaningful role in the way many countries assess their performance, from consumer confidence in the U.S. to the Netherlands's Life Situation Index, which accounts for factors such as relationships and community involvement. 
+
+As part of its effort to gauge well-being, the U.K. plans to add more subjective questions to its household surveys.
+
+But surveys can also send misleading policy signals. 
+
+Mr. Wolfers, for example, has found that surveys of women's subjective well-being in the U.S. suggest that they are less happy than they were four decades ago, despite improvements in wages, education and other objective measures. That, he says, doesn't mean the feminist movement should be reversed. Rather, it could be related to rising expectations or greater frankness among the women interviewed.
+
+Peoples' true preferences are often revealed more by what they do than by what they say. 
+
+Surveys suggest people with children tend to be less happy than those without, yet people keep having children—and nobody would advocate mass sterilization to improve overall well-being.
+
+"What we care about in the world is not just happiness," says Mr. Wolfers. 
+
+"If you measure just one part of what makes for a full life you're going to end up harming the other parts."
+
+For the time being, that leaves policy makers to choose the measures of success that seem most appropriate for the task at hand. That's not ideal, but it's the best economics has to offer.
+
+ Write to  Mark Whitehouse at mark.whitehouse@wsj.com 

@@ -1,0 +1,71 @@
+Mutual-fund investors had reason to cheer last month when Congress agreed to keep the top tax rate on long-term capital gains at its historic low of 15% for two more years. (Gains on investments held one year or less will continue to be taxed at ordinary-income rates.)
+
+Read the complete  Quarterly Investing in Funds report .
+
+But figuring profits and losses on mutual-fund sales remains a complex challenge for many investors. 
+
+And the process will undergo some big changes over the next few years as the Internal Revenue Service rolls out new tax regulations aimed at capturing nearly $1 billion a year lost to the U.S. Treasury from investors who fail—innocently or not—to report gains and losses correctly on their tax returns. 
+
+The new rules should improve compliance and make it easier for fund investors to do their taxes—eventually. For now, here's what you need to know:
+
+In the past, the IRS had no ready way of knowing whether taxpayers calculated investment gains and losses accurately. Brokers and mutual-fund companies were required to report only gross proceeds from the sale of securities in taxable accounts. That left it to investors to calculate their so-called cost basis—what they paid for the shares—and report that, along with their gains and losses, on Schedule D of the 1040.
+
+Beginning this year, all investment providers will be required to start tracking each customer's cost basis and holding period for securities purchased or acquired (as through gifts or inheritances) after certain effective dates, and reporting them, along with sale proceeds, on IRS Form 1099-B.
+
+Many brokers and fund companies have been providing some cost-basis information to investors as a courtesy to help them do their taxes. But that information was never shared with the IRS. Now it will be.
+
+Financial institutions had to begin tracking acquisitions and subsequent sales this week for domestic and foreign stocks and real-estate investment trusts. That means the first round of new basis information will be reported in early 2012, on 1099s for 2011.
+
+Tracking of open- and closed-end mutual funds will start on Jan. 1, 2012, with the first reports going to the IRS in 2013.
+
+Most exchange-traded funds will be subject to the new rules starting in 2012, too, says an IRS spokesperson. But for ETFs structured as unit investment trusts, the new rules kick in this year, although the IRS has indicated it may revisit that. Some exchange-traded products—such as grantor trusts and partnerships—aren't subject to cost-basis reporting and won't be affected by the new requirements.
+
+Still, there are differences in how financial firms are interpreting and implementing the new cost-basis reporting rules for ETFs. Fidelity Investments, for instance, has chosen to subject all ETFs to the new rules starting this year, while  Charles Schwab Corp.
+SCHW
+
+
+0.90
+%
+
+
+
+
+ says it doesn't believe it is required to start tracking any ETFs, including unit investment trusts, until 2012.
+
+Vanguard Group, meanwhile, is following a two-tiered approach: It has just begun tracking ETFs structured as unit investment trusts, including giant  SPDR S&P 500 
+SPY
+
+
+0.43
+%
+
+
+
+
+ and  PowerShares QQQ Trust. Next year it will start tracking all other ETFs, including its Vanguard ETFs. 
+
+The tax status of exchange-traded notes is less clear, according to  Stevie Conlon, senior director and tax counsel for Wolters Kluwer Financial Services. They aren't explicitly covered under the new rules, but the IRS could choose to subject them and any other security to cost-basis reporting after Jan. 1, 2013, when brokers must begin tracking individual bonds and options, she says.
+
+This filing season you have the same three main IRS-approved methods of figuring basis as before. With "first in, first out," or FIFO, the IRS presumes you sell your oldest shares first if you make a partial sale. With "specific identification," known as specific ID, you select the exact shares (or lots) to sell to realize a capital gain or loss, potentially boosting your after-tax return. To use either of these accounting methods, it is essential to have good records, including confirmations and account statements showing what you paid.
+
+Most likely your broker or mutual-fund company has been keeping a running calculation of your average cost basis per share, including any reinvested distributions. If you use the "average cost" method, sales are deemed to come from the oldest shares first for determining whether short-term or long-term capital-gains taxes apply. There's also so-called "double category" averaging, where you separate short-term from long-term holdings and find the average per-share cost for each group.
+
+If you've already used average cost for a certain fund, you may need IRS permission to switch to another method this filing season. If you've been using double-category averaging, this will be your last chance to do so, says Ms. Conlon. It is being eliminated under the new rules, and the two categories must be averaged together into a single category starting April 1.
+
+You have until a trade's settlement date to identify the shares you sold using specific ID. "As the transactions settle, the cost basis is calculated and locked," says  Brian Keil, director of cost-basis reporting at Schwab. "That is a really big sea change for clients," he says, noting that in the past many taxpayers waited until they filed their taxes to identify which shares were sold.
+
+If you don't tell your investment provider which shares to sell by the settlement date, the provider will use a default method. For stock investors, the law requires brokers to use FIFO as the default. For mutual funds and ETFs that also are eligible for average-cost accounting, the broker gets to pick the default method, says Ms. Conlon.
+
+Most mutual-fund companies will choose average cost as the default for most investors, she says. If that isn't your preference, speak up. Once you default to this method, you may only change methods prospectively. (If you buy more shares later, you can apply the new method when you sell the newer shares, but you will be stuck using average cost for the old shares)
+
+  Karen Gibian, a tax counsel at the Investment Company Institute, says the fund-industry group is petitioning the IRS to change this rule. "We don't want to have to lock our shareholders in to average cost," she says.
+
+Meanwhile, be proactive, says Schwab's Mr. Keil: Find out what cost-basis default method your broker uses and take time to decide if another method might be better for you. "We're asking clients to start thinking about that now," he says.
+
+Indeed, financial institutions are racing to sync their records with those of their clients, says  Maggie Serravalli, an executive vice president in Fidelity's institutional business. In the past, investors and their advisers didn't always inform brokers of what cost-basis accounting methods they were using, so what they reported to the IRS and what their brokers informally reported to them didn't always match. "Now we need to reconcile that," Ms. Serravalli says.
+
+And remember, brokers are required to report cost basis only for securities acquired (and subsequently sold) in 2011 and later. So if you own a fund, purchase more shares in the same fund in 2012 and then sell out, your broker doesn't have to tell the IRS the cost basis of the older shares—but you still do.
+
+So keep good records. Under the new rules, brokers are subject to penalties for reporting bad information but so, as always, are you. For a modest fee, services such as GainsKeeper (gainskeeper.com) and NetBasis (netbasis.com) can help you re-create the historical cost basis of positions in your portfolio.
+
+ Ms. Geer is a writer in Fairfield, Conn. Email her at reports@wsj.com. 

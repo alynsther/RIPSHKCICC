@@ -1,0 +1,25 @@
+Most football players see the NFL playoffs as a chance to get the kind of national recognition rarely afforded during the regular season. Scott Wells, the center for the Green Bay Packers, has a different goal. He hopes to be utterly invisible. "If we play well, we're not mentioned," he says of the members of the offensive line. "That's kind of the way it should be. Most of our stats are not positive."
+
+To those of us who like a little statistics with our football, one of the great exasperations of the NFL is that there's no simple way to measure the performance of one of the game's most integral units, the offensive line. It's no secret that the five enormous men who protect a team's thoroughbred running backs and pretty boy quarterbacks are essential to success. But in the official NFL statistical game books, or in the transcript of the telecast for that matter, there are few hints about how they did. 
+
+This season, Ben Alamar, a former high school offensive lineman who founded the Journal of Quantitative Analysis in Sports, decided to try his hand at something few people outside NFL front offices (and insomnia treatment centers) have ever attempted: grading the performances of offensive linemen. 
+
+Mr. Alamar spent a good portion of this fall (102.5 hours, to be exact) watching tapes of offensive linemen. Because the camera angles used in NFL broadcasts don't show enough of the field to allow a layman to see what happens with the line on every play, Mr. Alamar decided to ignore running plays to focus on passing plays. 
+
+Using a stopwatch, Mr. Alamar and research assistant Keith Goldner analyzed hundreds of passing plays. Based on the outcome, and the player's actions, each lineman was given a grade of successful or not successful. To be included in the study, a lineman had to be analyzed on at least 60 plays. To make sure the data sample was viable, Mr. Alamar used a Cox Regression, a statistical tool used in clinical trials for prescription drugs. 
+
+After 102.5 hours of analysis, Mr. Alamar had a percentage score for all the linemen on playoff teams. He then compared their scores to the league averages (left tackles are successful on 88% of pass plays, for instance). Based on these results, he was able to estimate the number of passing yards the player's performance likely added or subtracted from his team's season total. 
+
+Some of what he found was surprising. New York Jets linemen Brandon Moore and Damien Woody actually ranked higher in pass protection among playoff contenders than the team's big-name center, Nick Mangold, and its one-time No. 4 draft pick, D'Brickashaw Ferguson. 
+
+Other findings confirmed what we already suspected: Highly touted Baltimore Ravens center Matt Birk was ranked No. 1 his position, for instance, and the top-ranked left guard in the playoffs was Logan Mankins of the New England Patriots, a three-time pro bowler. The Patriots line also graded out No. 1 among the eight remaining playoff teams. The Ravens were ranked No. 2. 
+
+Don't get too excited about these results: Mr. Alamar's study only covers pass plays, so it's not a fair measure of a blocker's total value. The NFL linemen we interviewed for the story said there could be scenarios where a player's effectiveness might be difficult to calculate. In some blocking schemes, they say, it can look like a player missed a block when it was actually someone else's responsibility. 
+
+Tennessee Titans guard Jake Scott says he thinks individual stats for linemen would be nice, but that they're not always going to say much. Modern teams, Mr. Scott says, are moving away from individual blocking assignments and more toward new schemes and zone blocking techniques that involve the entire line acting in unison. 
+
+On passing plays, Mr. Scott says teams are putting more emphasis on picking up complicated blitzes than holding blocks for long periods. Often, that's more about communication between linemen, he says. A lot of teams, he says, have to "stop looking for a physical prototype and start looking for players that go together." 
+
+Cullen Jenkins, a defensive end for the Packers, has his own statistics for predicting success on the offensive line. "I notice the more I see them at the buffets, the better they do," he says. "There's some correlation there."
+
+ Write to  Reed Albergotti at reed.albergotti@wsj.com 

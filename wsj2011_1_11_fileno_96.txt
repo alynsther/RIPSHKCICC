@@ -1,0 +1,75 @@
+  Advanced Micro Devices Inc.
+AMD
+
+
+4.59
+%
+
+
+
+
+ forced out Chief Executive  Dirk Meyer, just as the long-struggling chip maker appeared to be gaining momentum in its turnaround. 
+
+The Sunnyvale, Calif., company said Monday that Mr. Meyer resigned. But people familiar with the situation said the move reflected pressure from the company's board, which concluded he wasn't moving quickly enough to improve AMD's position in markets such as server systems and tablet computers.
+
+"The board feels we've got opportunities for significant growth and superior financial returns, and a change in leadership can accelerate the ability to accomplish those goals," said Drew Prairie, an AMD spokesman. "We're marching in the right direction, but the issue was just with the pace and finding ways to accelerate the pace." 
+
+AMD named Chief Financial Officer  Thomas Seifert, 47 years old, as interim CEO while the company searches for a successor. Mr. Seifert, who will maintain his current responsibilities during the search, has asked not to be considered for the permanent role, the company said. 
+
+Mr. Meyer's departure stunned industry analysts, coming immediately after his appearance at last week's Consumer Electronics Show, where he launched a major new product line based on an effort called Fusion that combines microprocessor and graphics circuitryBesides appearing at a press event, Mr. Meyer hosted a party that featured television personality  Joel McHale. 
+
+Mr. Meyer, 49, couldn't be reached to comment. "My 15 years at AMD have included some amazing high points," he said in a statement provided by the company. "I wish the company well as AMD focuses successfully on the road ahead."
+
+A company filing with the Securities and Exchange Commission characterized Mr. Meyer's resignation as "a termination of employment without cause," indicating he is eligible for severance benefits. Mr. Prairie said no undisclosed financial or legal issues contributed to the board's decision.
+
+AMD projected Monday that fourth-quarter results—scheduled to be reported January 20—will be a bit better than Wall Street expected. The company's condition, and the announcement of the change before a successor to Mr. Meyer was named, contributed to analysts' consternation.
+
+"What's surprising is that now they have all the products back on track and that they're on the right trajectory, he exits," said  Patrick Wang, an analyst at Wedbush. 
+
+Other analysts said a key gap in AMD's product portfolio is in the mobile-device market, where smartphones and tablet computers have become a big business for chip makers and others that have long been consumed with supplying PC makers.  Rival Intel Corp.
+INTC
+
+
+-0.27
+%
+
+
+
+
+, for instance, built a particularly strong position in servers and notebook PCs and has succeeded in getting some chips designed recently into tablets. 
+
+AMD has recently introduced some products with lower power consumption, but Mr. Meyer at the trade show last week expressed less enthusiasm for tablets and smartphones because of their lower profit margins.
+
+The people familiar with the matter say Mr. Meyer in November gave directors a briefing on his plans,at an annual strategy session, and the board members concluded that they wouldn't produce change quickly enough. Directors decided AMD was at a stage of its history where it needed a CEO with different skills for the next phase of growth. 
+
+  Bruce Claflin, chairman of AMD's board of directors, praised Mr. Meyer for helping to stabilize AMD during a difficult time, including helping to oversee the spinoff of its manufacturing operations, the Fusion effort and a settlement with  Intel
+INTC
+
+
+-0.27
+%
+
+
+
+
+ that generated a $1.4 billion payment to AMD. 
+
+"However, the board believes we have the opportunity to create increased shareholder value over time," Mr. Claflin said in prepared remarks. "This will require the company to have significant growth, establish market leadership and generate superior financial returns. Webelieve a change in leadership at this time will accelerate the company's ability to accomplish these objectives."
+
+Mr. Meyer, a veteran chip engineer who served as AMD president and chief operating officer from 2006 to 2008, took over the CEO role in 2008 from  Hector Ruiz, who also helped lead the spinoff transaction that created the company Globalfoundries. Mr. Ruiz in 2009 was implicated in the Galleon Group insider-trading case, with the government accusing him of sharing advance information about AMD transactions that included the Globalfoundries deal. No charges were filed against him. 
+
+Reached Monday, Mr. Ruiz said he had no idea what prompted Mr. Meyer's departure. "I chose him to be my successor," he said. "It's very surprising."
+
+AMD co-founder  Jerry Sanders, who preceded Mr. Ruiz as CEO, praised Mr. Meyer's performance and called the board's action a disgrace. "They just don't understand the business," he said. "They are looking for some magic bullet to find a market where they don't compete with Intel."
+
+Mr. Seifert joined AMD in 2009 and was operating and financial chief at memory-chip maker Qimonda AG. 
+
+On Monday, AMD said it expects to report revenue of about $1.65 billion and a gross margin of about 45% for the final quarter of 2010. 
+
+The company in October had forecast revenue would be flat from the third quarter's $1.62 billion. Analysts polled by Thomson Reuters recently projected $1.62 billion.
+
+AMD's shares declined 4.4% to $8.79 in after-hours trading following the announcement Monday; the stock is down 2.6% in the past year, far underperforming the broader market. But the company's shares are up more than 60% since Mr. Meyer was named CEO, while Intel's stock is off about 6% during the same period.
+
+AMD—which makes graphics chips used in videogames and accessory products called chip sets as well as microprocessors that run computers and servers—reported a loss in the most recent period.
+
+ Write to  Don Clark at don.clark@wsj.com 

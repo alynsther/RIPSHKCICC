@@ -1,0 +1,49 @@
+WASHINGTON—Top federal regulators inched forward in their implementation of the new financial regulatory law, but didn't provide the clarity banks and others are seeking on two critical provisions.
+
+Regulators issued a series of recommendations on how to implement the "Volcker rule," a provision that restricts financial firms from trading with their own money. They also approved and released a draft rule setting out the framework for deciding which large financial companies, other than banks, are risky enough to warrant tighter scrutiny.
+
+Both documents were largely open-ended and deferred key decisions to regulators charged with crafting the specifics.
+
+"Those that thought today would bring clarity to the regulatory landscape were highly disappointed," said  Jaret Seiberg, an analyst with MF Global's Washington Research Group.
+
+On the Volcker rule, the new Financial Stability Oversight Council, comprising top federal financial regulators and the Treasury, issued a study that included 10 actions they "strongly" recommend regulators take into consideration as they implement the provision. 
+
+Named for former Federal Reserve Chairman Paul Volcker, it seeks to prevent banks from putting capital at risk by prohibiting proprietary trading and banning certain relationships with hedge funds and private-equity funds.
+
+As expected, the study didn't recommend a precise review of each trade to see if it complies with the law. But it did recommend firms flag each trade in a variety of ways, including whether a customer or the trader initiated the position.
+
+The council acknowledged it is difficult to distinguish between prohibited proprietary trading and a permitted activity, such as market-making, hedging or some other trade done on behalf of a bank's client. 
+
+Sorting out this "grey area" will be the key focus for the individual agencies, said  Mary Miller, Treasury assistant secretary for financial markets, during the open meeting.
+
+The study recommends requiring banks to close proprietary trading desks, since their activity is unambiguously in violation of the Volcker rule. This is already happening. Major Wall Street firms, including Goldman Sachs Group Inc. and Morgan Stanley, have seen high-profile traders depart or plan to start new firms in anticipation of the new restrictions.
+
+The study also recommends banks be required to set up internal controls and compliance regimes. 
+
+One new wrinkle getting notice on Wall Street: The study recommends company chief executives attest to their company's compliance, signaling how important the council considers the Volcker provision.
+
+The industry fought hard for regulators to resist an approach that would choke off trading with clients and, in some ways, they won on this point. Regulators seemed willing to allow Wall Street firms to draft the initial compliance programs.
+
+The study's approach "empowers the industry to write a bottoms-up program that reflects how things are done," says  William Sweet, a partner at Skadden, Arps, Slate, Meagher & Flom LLP. The big question now is how regulators will greet each firm's plan to comply with the Volcker Rule.
+
+The Securities Industry and Financial Markets Association, a Wall Street trade group, said in a statement that it appreciated the study avoiding a "one-size-fits-all" approach in trading, but added that the recommendations "are the first step in a complicated process" that it hopes will ensure trading such as hedging and market-making that it views as "critical to well functioning markets." 
+
+In its second major move, the council voted to approve a draft proposal on the framework it would use to determine which financial companies merit heightened government scrutiny, a first step toward preventing "too big to fail" firms from dragging down the economy. The proposal listed six factors the council would use to help it judge whether a company is "systemically important."
+
+Industry officials said the proposal put very little meat on the bones. Mr. Seiberg, the analyst, that there was nothing in the rule that market participants could use to sort out which firms were likely to get the designation and which are not. Being designated by the council subjects the firm to supervision by the Federal Reserve. 
+
+Analysts speculate that large insurance companies, hedge funds and GE Capital could be subject to the new regulatory regime.
+
+The rules now get kicked back into the regulatory process. For the Volcker rule, regulators have nine months to implement detailed regulations for the institutions they oversee, setting mid-September as the due date. 
+
+The proposal discussing which firms should be regulated by the Fed is now sent to a 30-day comment period. A Treasury official said the council should be ready to issue its final rule by late spring or early summer.
+
+Treasury Secretary Timothy Geithner said the reports and draft rule released Tuesday "mark another step in building the foundation for the reforms that Congress legislated." He also said he believes the U.S. is "substantially ahead" of the world's other major financial centers in addressing the financial crisis.
+
+Also Tuesday, the Treasury released a broad-brush assessment of new rules requiring banks that bundle loans to hold some credit risk on their balance sheets. The goal is to encourage banks to make more prudent loans. The study, also mandated by the Dodd-Frank law, was similarly shy of specifics. 
+
+The Treasury said it couldn't assess whether the new rules would have helped prevent the housing bubble, citing a lack of data and the fact that regulators haven't yet issued the rules.
+
+—Jessica Holzer contributed to this article.
+
+ Write to  Aaron Lucchetti at aaron.lucchetti@wsj.com 

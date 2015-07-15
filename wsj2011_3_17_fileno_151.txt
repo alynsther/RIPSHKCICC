@@ -1,0 +1,21 @@
+An experimental gene therapy used on people with Parkinson's disease has helped to significantly ease patients' motor-function problems, opening the way for a possible new treatment for the neurological disorder.
+
+In a study published Wednesday in Lancet Neurology, 45 patients with moderate to advanced Parkinson's disease were enrolled in a clinical trial run by Neurologix, Inc., which is developing the gene therapy.
+
+In the Phase 2 trial, 22 patients were randomly assigned the therapy and 23 underwent a "sham surgery" designed to make them believe they might have received the treatment. Patients, caregivers and the team evaluating the results were not told what group patients fell in.
+
+After six months, the patients who received gene therapy showed a 23.1% improvement in their motor score, against a 12.7% improvement in patients receiving the fake surgery. The motor score takes into account symptoms of the disorder including tremors, muscle spasms, and problems in walking and balance.
+
+Michael G. Kaplitt, vice chairman for research and neurological surgery at Weill Cornell Medical College and one of the designers of the trial, said researchers were working with the Food and Drug Administration to launch a Phase 3 trial—the next step before seeking approval to market the treatment. Dr. Kaplitt is a co-founder of Neurologix.
+
+People with Parkinson's disease lose brain cells that make dopamine, which regulates a circuit in the brain controlling movement. Current treatments use drugs that act like dopamine, but as more neurons are lost, the drugs lose effectiveness. 
+
+The gene treatment works differently, changing the way cells function in the part of the brain involved in motor function. A gene called glutamic acid decarboxylase, or GAD, is delivered to the cells via an inert virus. The gene makes a chemical called gamma-aminobutyric acid, or GABA. Patients with Parkinson's also lose GABA, which causes problems in the circuit that helps control movement.
+
+Scientists hailed the result but did not see it as a cure. "It does not get to the root cause of the degeneration. But it is an exciting step forward because it should reverse symptoms," said David Standaert, director of the UAB Center for Neurodegeneration and Experimental Therapeutics at the University of Alabama at Birmingham.
+
+Dr. Standaert said there were still concerns about gene therapy, which unlike existing treatments cannot be reversed. "This is changing the chemistry of that area of the brain permanently," he said. 
+
+ Write to  Amy Dockser Marcus at amy.marcus@wsj.com 
+
+ Corrections & Amplifications  Michael G. Kaplitt was one of the designers of a clinical trial for gene therapy in Parkinson's disease. A previous version of this article about Phase 2 trial results implied he was the sole designer.

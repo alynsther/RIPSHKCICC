@@ -1,0 +1,37 @@
+DENVER—Global financial reforms that have drawn howls from bankers aren't nearly enough to avert another disaster, said academic economists gathered here for the annual meeting of the American Economic Association.
+
+In recent months, regulators around the world have taken steps toward ensuring banks are able to weather tough times. New international rules will require big global banks to hold more equity to protect their depositors and other creditors. In the U.S., lawmakers have adopted measures intended to rein in risk at big banks and keep closer tabs on potential threats throughout the financial system.
+
+Over the past few days, though, economists here offered a litany of reasons why the reforms fall short. Among their concerns: The new capital requirements aren't tough or simple enough, there is too much uncertainty about how governments will deal with distress at the biggest lenders, and little has been done to prevent the kind of crisis that could occur if trouble broke out at many smaller institutions, such as hedge funds. 
+
+"I just don't think we're doing what we need to do," said Anat Admati, a finance professor at Stanford University. "We've allowed bankers to confuse us into keeping things pretty much the same."
+
+Bank-capital levels are one of the economists' primary concerns. Bankers have lamented new requirements that the largest global institutions hold common equity equal to at least 7% of their assets, compared with current standards of as little as 2%, saying the rules will stunt economic growth by increasing the cost of lending.
+
+Ms. Admati and other economists, though, see no good reason why banks can't have equity levels as high as 50%, arguing that the benefits of a stronger system far outweigh any costs.
+
+Banks prefer taking on debt to raising equity, economists say, largely because governments have regularly stepped in to rescue debt holders in times of crisis. That has made borrowing unnaturally cheap—a perverse incentive that would fade if banks had enough equity to make bailouts unnecessary.
+
+"The balance of argumentation leans in the direction of asking not why we should have more capital but why we don't," said  Andrew Haldane, executive director for financial stability at the Bank of England. 
+
+  John Cochrane, a professor at the University of Chicago who also consults for hedge funds, said new rules in the U.S. aggravate the problem by providing authorities with too much discretion in deciding whether to save big banks that get into trouble.
+
+"The incentive for the banks is to be as big, as systemically dangerous as possible" so the government will have no choice but to bail them out, he said.
+
+The U.S. reforms also didn't extend to giant government-controlled mortgage firms Fannie Mae and Freddie Mac, which many economists say present a threat by taking on massive obligations and encouraging American homeowners to do the same. Both rank among the largest financial institutions in the world.
+
+"Fannie Mae and Freddie Mac should be euthanized as soon as possible," said  Simon Johnson of the Massachusetts Institute of Technology. "These are very dangerous institutions."
+
+Recent history suggests that a capital requirement of 7% won't be enough to fend off bailouts. Many banks that required government support during the latest crisis, including the Royal Bank of Scotland and Citigroup, had capital levels exceeding 7% just before trouble hit in the third quarter of 2007.
+
+Beyond that, the sheer complexity of international rules can make reported capital ratios suspect. Risk-modeling errors alone, said Mr. Haldane, can lead to variations of several percentage points.
+
+ Another issue is banks' sometimes excessive reliance on short-term borrowing to finance their activities. Banks such as Lehman Brothers and the U.K.'s Northern Rock failed in part because they couldn't raise money to replace short-term debt coming due.  Douglas Diamond, an economist at the University of Chicago, noted that while regulators are requiring banks to keep more cash on hand to cover their debts, they have done little to prevent the kind of short-term borrowing that can lead to trouble. 
+
+Tougher rules could push more financial activity away from banks into other areas that don't face the same regulations. The so-called shadow banking sector, which includes everything from hedge funds to derivative markets, already plays a larger role in credit markets than traditional banking.
+
+"You need some way of dealing with the fact that there could be contagious runs in these markets all at once," said  Viral Acharya, a finance professor at New York University's Stern School of Business. New financial rules in the U.S. provide regulators with more power to oversee the shadow banking sector, and shed light on it by creating incentives to shift more derivatives trades into places where they can be monitored. But regulators have yet to work out exactly how they will identify dangerous situations in which many players have become exposed to similar risks.
+
+"If you focus only on the big institutions, you really might miss out on this herding-type crisis," said  Markus Brunnermeier of Princeton University. "One should not assume that the next crisis will look like the last one."
+
+ Write to  Mark Whitehouse at mark.whitehouse@wsj.com 

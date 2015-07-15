@@ -1,0 +1,41 @@
+The first comprehensive genetic study of bedbugs, the irritating pests that have enjoyed a world-wide resurgence in recent years, indicates they are quickly evolving to withstand the pesticides used to combat them.
+
+The new findings from entomologists at Ohio State University, reported Wednesday online in PLoS One, show that bedbugs may have boosted their natural defenses by generating higher levels of enzymes that can cleanse them of poisons.
+
+In New York City, bedbugs now are 250 times more resistant to the standard pesticide than bedbugs in Florida, due to changes in a gene controlling the resilience of the nerve cells targeted by the insecticide, researchers at the University of Massachusetts in Amherst recently reported.
+
+The findings add to a growing body of evidence from molecular-biology studies that bedbugs have recently evolved at leastthree improved biochemical defenses against common pesticides. Bedbugs today appear to have nerve cells better able to withstand the chemical effects, higher levels of enzymes that detoxify the lethal substances, and thicker shells that can block insecticides.
+
+"These bugs have several back doors open to escape," said evolutionary entomologist Klaus Reinhardt at the University of Tuebingen in Germany, who was familiar with the new research butn't involved in the projects. "Simple spraying around of some pesticides may not [be enough] now or in the future."
+
+In an era of antibiotic-resistant infections and herbicide-resistant weeds, the ability of bedbugs to survive once-lethal doses of insecticides is the newest evidence that efforts to eradicate pests that plague humankind may make some of them stronger. It is a key reason for the spread of bedbugs in the past decade, several researchers who study them said. 
+
+Well-adapted to homes, hotels and dormitories, these tiny blood-sucking parasites usually hide in mattresses, bed frames and furniture upholstery. Bedbugs feed every five to 10 days, leaving painful welts on the skin and sometimes triggering allergic reactions.
+
+Laboratory tests in the U.S., Europe and Africa show today's bedbugs can survive pesticide levels a thousand times greater than the lethal dose of a decade or so ago. "There is a phenomenal level of resistance," said bedbug entomologist Michael Siva-Jothy at the University of Sheffield in the U.K. "It has evolved very recently."
+
+Since the pesticide DDT was banned starting about 40 years ago, people usually have treated bedbug infestations with pesticides based on a family of compounds called pyrethroids, usually deltamethrin or lambda-cyhalothrin, synthetic versions of chemicals found in chrysanthemum blossoms.
+
+There are few chemical alternatives, because the residential market for insecticides is relatively small, and the cost of development, safety tests and regulatory approval is relatively high, several researchers said. Since the bugs don't transmit any serious infectious diseases, there also is little medical funding to research new control measures.
+
+Repeated applications of the same insecticides act as a form of natural selection for bedbugs. Any surviving insects pass on traits to their offspring and to succeeding generations.
+
+"Insect resistance is nothing more than sped-up evolution," said insect toxicologist John Clark at the University of Massachusetts, who led the research team there.
+
+By analyzing thousands of RNA sequences—the biochemical record of the parasite's genetic activity—entomologist Omprakash Mittapalli and his Ohio State colleagues found that bedbugs exposed to pesticides showed unusually high levels of activity among those genes controlling enzymes able to turn the toxic chemicals into water-soluble compounds that can be safely excreted.
+
+"When we mined our database for these specific genes, we found that the bedbug has quite a few of these enzyme systems," Dr. Mittapalli said.
+
+They all belong to a major family of enzymes called cytochrome P450 that act as a catalyst for a broad range of chemical reactions and are implicated in pesticide resistance in other insect species.
+
+In addition, an independent analysis of bedbugs by researchers at Virginia Polytechnic Institute in Blacksburg, Va., suggests that other genetic changes may be giving the insects sturdier hides that can keep these chemicals from penetrating their exoskeletons.
+
+Moreover, resistance to chemicals designed to kill the bugs can become a permanent part of their genetic inheritance. Researchers at the University of Kentucky showed that bedbugs, sampled at a half-dozen U.S. locations, remain relatively immune to DDT generations after the chemical was banned for general household use.
+
+"We have changed the genetic make-up of the bedbugs we have in the United States," said urban pest-management specialist Dini Miller at Virginia Tech. "That's what I call unnatural selection."
+
+The researchers hope that a fundamental understanding of the insect's biochemistry will lead one day to more lasting control measures.
+
+"This is an important first step," said Barry Pittendrigh, an expert in insect genomics at the University of Illinois at Urbana-Champaign.
+
+ Write to  Robert Lee Hotz at sciencejournal@wsj.com 

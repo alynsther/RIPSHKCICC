@@ -1,0 +1,51 @@
+  Verizon Communications Inc.
+VZ
+
+
+-0.35
+%
+
+
+
+
+ will pay $1.4 billion to acquire  Terremark Worldwide Inc., an operator of data centers, in a move aimed at selling more computing services to business customers.
+
+The deal, Verizon's largest since its $6.8 billion purchase of MCI in 2005, comes as telecom operators are moving deeper into selling processing power, data storage and software hosting services over the Internet as their landline businesses shrink.
+
+The acquisition could help the company secure more deals for such services—collectively known as "cloud computing"—and compete with companies like  Amazon.com Inc.,
+AMZN
+
+
+-0.81
+%
+
+
+
+
+ which runs a cloud-services business alongside its giant online store.
+
+  Kerry Bailey, Verizon business group president of cloud services, said the carrier has made cloud computing a key part of its growth strategy, in addition to the wireless business it runs with  Vodafone Group PLC.
+
+Verizon already operates more than 220 data centers in 23 countries. The deal for the Miami-based company would bring another 13 in the U.S., Europe and Latin America, as well as a strong position in federal government work. 
+
+Verizon said it plans to keep the Terremark brand and operate the new unit with its current management team as a wholly owned subsidiary.
+
+Terremark's clients include the Federal Communications Commission and the Library of Congress, a Terremark spokesman said. The federal government accounts for 21% of Terremark's revenue, according to J.P. Morgan analyst Philip Cusick.
+
+As revenue growth slows in the traditional phone business, it makes sense for telecom companies that serve business customers, such as Verizon, to "creep deeper into the information-technology environment," said  Steve Hilton, an analyst at research firm Analysys Mason. 
+
+Verizon is paying $19 a share in cash, a 35% premium to Terremark's stock, which was up 35 cents at $14.05 on Thursday on the Nasdaq Stock Market. Verizon said it expects to close the deal late in the first quarter. 
+
+Application hosting, in particular, is a rapidly growing market. Increasingly, "this is the way people are going to consume" computing resources, rather than building their own data centers, said  Lew Moorman, chief strategy officer at  Rackspace Hosting Inc.,
+RAX
+
+
+-0.54
+%
+
+
+
+
+ another data center operator.
+
+The deal reflects the long, slow rebound of the data-center business, an industry burned by the dot-com bust. Demand for the facilities housing thousands of computers has exploded in recent years, as Web traffic grows and companies look to centralize storage and computing power.

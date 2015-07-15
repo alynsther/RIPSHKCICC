@@ -1,0 +1,33 @@
+DETROIT– General Motors Co.
+GM
+
+
+0.28
+%
+
+
+
+
+ is licensing technology from the U.S. Energy Department that promises to cut in half the size of batteries, potentially reducing the cost of electric vehicles or extending their range.
+
+A new plant being constructed in Holland, Mich., by LG Chem Ltd. will begin using elements of the advanced lithium-ion battery technology when it opens in 2012. The intent is to have it fully ready for the next generation of Chevrolet Volt electric car that GM began selling last month.
+
+ None of the parties would disclose the terms of the licensing agreement. 
+
+The Volt goes 25 to 50 miles on battery power before a gasoline generator kicks on and sends electricity through the electric motor, extending the range to more than 300 miles.
+
+The Argonne National Laboratory technology that GM has licensed "improves the energy density of lithium-ion cells and that moves us closer to what we need to be competitive" with gasoline as a fuel, said  Jon Lauckner, the president of GM Ventures, which licensed the technology. 
+
+"This improved energy density can be used to either offer vehicles with the same number of cells and offer greater range or reduce the number of cells to reduce cost or some combination of both," he said.
+
+Argonne developed a new cathode—the part of a battery through which electricity flows into the cell—that it says allows for the performance improvement. The other elements in a battery are the anode and the electrolyte, other areas that could be improved to produce better performance.
+
+Argonne says the makeup of the new cathode also makes lithium-ion batteries safer. There have been incidents of batteries in laptop computers igniting and causing fires. Argonne said it has licensed the technology to other companies. 
+
+The chief roadblocks to electric vehicles are their limited range and high cost of batteries. The battery technology developed by Argonne could address both issues because the batteries might hold twice as much energy by weight compared to the current state of the art, said  Eric Isaacs, Argonne's director and president. 
+
+Battery costs are usually reported in terms cost per kilowatt hour and experts estimate the current range is $500 to $1,000 per kilowatt hour. The battery in the Volt holds 16.5 kilowatt hours. 
+
+GM has never said what its battery costs, but the Volt starts at $41,000 and the vehicle is roughly the same size as a $16,300 Chevrolet Cruze.
+
+ Write to  Mike Ramsey at michael.ramsey@wsj.com 

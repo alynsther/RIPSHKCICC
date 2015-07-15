@@ -1,0 +1,15 @@
+  Research in Motion Ltd. is joining with Sprint Nextel Corp. to enter the increasingly crowded tablet computing market. 
+
+RIM's Playbook tablet computer will run on Sprint's fast wireless 4G technology and be sold through the third largest wireless carrier in the U.S.
+
+However, the Sprint version of the tablet won't be available until the summer, and the companies have yet to reveal the price of the product. In addition, the Playbook won't run a significant number of the applications built for RIM's popular BlackBerry smartphone as it is built on a new operating system that RIM acquired through an acquisition last year.
+
+The Playbook features a 7-inch screen and dual core computer chip that enables the device to run high definition video and multiple application simultaneously. The device will also support the popular Flash technology made by Adobe that powers much of the video content found on the Web.
+
+Mr. Lazaridis said the company would make larger tablets in the future, but he would not say when or how large they would be. For now, Mr. Lazaridis said the 7-inch model is almost ideal since it is so portable and light.
+
+By not launching the wireless version of the Playbook until the summer, RIM risks losing out on the second wave of potential tablet customers. The Motorola Xoom tablet, announced today at CES, will also be available in the second quarter on Verizon Wireless, while the LG tablet, also announced today at CES, will be coming to T-Mobile in the "coming months." Both of those devices are based on Google's Android software. 
+
+Apple's iPad and Samsung's Galaxy Tab, the two most popular tablets, were released last year. RIM says it will release a WiFi-only version of the PlayBook in the first quarter.
+
+The new RIM operating system will help enhance the performance and functionality of its device. But the operating system, called QNX, is not as popular with software developers as Apple's software or Google's Android system. 

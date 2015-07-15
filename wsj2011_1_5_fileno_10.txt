@@ -1,0 +1,67 @@
+  AT&T Inc.
+T
+
+
+0.69
+%
+
+
+
+
+ flipped a switch and turned on its 4G wireless network Wednesday. The switch, however, was in the company's marketing department.
+
+By relabeling its existing 3G network, the country's second-largest wireless carrier joined the noisy fray over so-called fourth-generation wireless technology, which promises mobile Internet speeds so fast that huge files can be downloaded in minutes and streaming video can be watched without the interruptions of earlier-generation technologies.
+
+As recently as September, AT&T executives had referred to the company's current network, which runs on a technology it calls HSPA-plus, as 3G. But AT&T has subtly shifted its marketing message since then, now proclaiming "the nation's fastest mobile broadband network" instead of the fastest 3G network. 
+
+The 4G network claim is already prominent on its consumer website and will be affixed to new phones being rolled out for its network this year. 
+
+AT&T also said it will spend more aggressively to complete an even more advanced network technology called Long-Term Evolution by the end of 2013, a year ahead of its previous target. Customers won't see improvement in their services until 2012. 
+
+AT&T is under pressure to catch up with its major rivals, all of whom are using claims of fourth-generation speeds to win wireless customers. 
+
+The claims are relatively easy to make because the International Telecommunications Union, the wireless industry standards body, hasn't set a firm 4G definition. The United Nation agency is working to formalize one. In the meantime, the agency in December blessed applying the term to advanced 3G technologies. 
+
+As a result, carriers are labeling most all advances in speed as 4G.
+
+"The whole industry has come to equate more speed with 4G," said  Ralph de la Vega, chief executive of AT&T's wireless unit. He says consumers generally won't notice the difference in speed between AT&T's HSPA-plus and upcoming LTE networks, so it makes sense to call both 4G.
+
+John Donovan, AT&T's chief technology officer, said speeds on HSPA-plus and LTE phones will feel similar now, but users will start to notice a difference in the two technologies once richer applications become available.
+
+Smartphones and tablets geared for 4G networks have a leading role at this week's Consumer Electronics Show in Las Vegas, the gadget industry's annual bonanza. But the carriers' lack of agreement on what the label entails is muddying the water for consumers, who will have a hard time predicting what kind of speeds their phones might get.
+
+AT&T isn't alone in taking advantage of that lack of specificity. T-Mobile USA, a unit of  Deutsche Telekom AG, which uses the same HSPA-plus technology as AT&T, late last year rebranded its technology and began claiming the country's largest 4G network in ads that mocked AT&T's network as overloaded.
+
+The marketing move annoyed executives at Verizon Wireless, a joint venture of  Verizon Communications Inc.
+VZ
+
+
+0.44
+%
+
+
+
+
+ and  Vodaphone Group PLC, and at  Sprint Nextel Corp.
+S
+
+
+7.82
+%
+
+
+
+
+, the country's largest and third-largest carriers by number of subscribers, which have led rivals in rolling out networks more typically considered 4G.
+
+Overland Park, Kansas-based Sprint, which sells service on a technology called WiMax, has a two-year head start on 4G that it has used to stem subscriber defections and revenue declines. Verizon Wireless rolled out its LTE network in December. Each covers more than a third of the country's population.
+
+AT&T plans to start offering LTE service in some cities in the second half of the year and aims to cover between 70 million and 75 million people by the end of 2011. AT&T's Mr. Donovan said the carrier will speed up the LTE network build out in 2012 and 2013.
+
+The carrier said Wednesday it would offer 20 4G devices this year. The rollout plans will include three phones designed to work on its HSPA-plus network. In the second half of this year, AT&T also will roll out phones and tablets for LTE. 
+
+AT&T said subscribers won't have to pay any more for service on 4G phones that work on its HSPA-plus network. The carrier wouldn't say how it would price its LTE service. Sprint charges $10 a month more for 4G service in its data plans.
+
+—Shayndi Raice contributed to this article.
+
+ Write to  Roger Cheng at roger.cheng@dowjones.com and Shayndi Raice  at shayndi.raice@wsj.com 

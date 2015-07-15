@@ -1,0 +1,33 @@
+Tax season may be over, but FBAR season is here.
+
+That ugly, universally used acronym stands for "Foreign Bank Account Report." It refers to an odd but crucial June filing for U.S. taxpayers with one or more "foreign financial" accounts, which can include not only bank accounts but overseas life-insurance policies and nonbank accounts. Nonfilers ignore this form at their peril. 
+
+"It can be more dangerous not to file an FBAR than not to file a tax return," says  Andy Mattson, an accountant with Mohler, Nixon & Williams in Campbell, Calif. It's purely an information return, but FBAR penalties are among the most severe in the tax system: $100,000, or half the value of the account, per year, for willful failure to file.
+
+A basic checklist for filing.
+
+The FBAR is one element of a concerted push by Congress and the Internal Revenue Service to make sure U.S. taxpayers are paying what they owe on foreign accounts. Unlike other countries, Uncle Sam taxes citizens and residents on world-wide income. 
+
+Not all of it, of course: To prevent or lessen double taxation, a tax credit generally offsets foreign taxes paid, up to the amount of U.S. taxes. For U.S. citizens living abroad, the first $92,900 of earned income is tax-free as well in 2011.
+
+Related efforts include a second limited amnesty (the first was in 2009), ending Aug. 31, for taxpayers who didn't report offshore accounts in prior years. A new form also will be due with the 2011 1040 return requiring disclosures of even more foreign assets, although the IRS hasn't yet released it.
+
+Experts worry that despite extensive publicity, taxpayers and even preparers are still unaware of the FBAR requirement. "I've seen scores of returns where foreign income was reported, yet the preparer checked a box saying there were no foreign accounts," says  Barbara Kaplan, an attorney at Greenberg Traurig in New York, who is handling hundreds of amnesty cases.
+
+Recently the IRS released FBAR guidance; here are highlights. (For more, see the form's instructions at IRS.gov or seek professional help.)
+
+ • Who must file. U.S. taxpayers, including citizens, residents and entities, with foreign financial accounts totaling more than $10,000 at any point during a year. This trigger isn't indexed for inflation, and all affected assets or accounts are aggregated. Experts say those with signatory authority over foreign accounts (say, for a business) should be especially careful, as should U.S. citizens with non-U.S. family members. 
+
+The rules for figuring asset totals are confusing: One takes the highest value of the account during the year—even if a large payment such as a bonus was there for only a day or two—but converts it using exchange rates as of Dec. 31 of that year. 
+
+ • Covered assets. Generally included are foreign bank and brokerage accounts, offshore mutual funds or pooled investments (but not private-equity and hedge funds), some foreign trusts, foreign life insurance or annuities if they have cash value and overseas individual pension plans, such as the Canadian version of an IRA. 
+
+The rules note that an account with a U.S. bank at a branch physically located outside the U.S. must be reported, but an account with a foreign bank at a branch inside the U.S. doesn't. "The name of the institution is irrelevant, it's where it's located," says  Kevin Packman, an attorney with Holland & Knight in Miami. 
+
+ • Filing issues. Because the FBAR is not an IRS but a Treasury Department form (TD F 90-22.1), filing rules are different. The deadline is June 30 and the form must be received by that date, not just postmarked—it can't be e-filed. 
+
+ • Penalties. Even nonwillful failure to file an FBAR may trigger a $10,000 penalty per year. In practice, many who have come forward under the IRS's 2009 limited amnesty for undeclared offshore accounts have been forfeiting 40% to 70% of the current value of their accounts, plus attorney's fees, even if little or no tax was owed, according to Ms. Kaplan and other attorneys. 
+
+—Email: taxreport@wsj.com 
+
+ Write to  Laura Saunders at taxreport@wsj.com 

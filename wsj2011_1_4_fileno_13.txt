@@ -1,0 +1,93 @@
+The technology industry's most lucrative partnership—the long-running alliance between  Microsoft Corp.
+MSFT
+
+
+0.18
+%
+
+
+
+
+ and  Intel Corp.
+INTC
+
+
+-0.27
+%
+
+
+
+
+—is coming to a day of reckoning.
+
+Sales of tablets, smartphones and televisions using rival technologies are taking off, pushing the two technology giants to go their separate ways.
+
+The clearest sign that their interests are diverging: Microsoft on Wednesday is expected to unveil a future version of the company's flagship Windows operating system that runs on microprocessors designed by Intel rival  ARM Holdings
+ARMH
+
+
+0.66
+%
+
+
+
+
+ PLC, according to people familiar with its plans. 
+
+Microsoft still plans to make versions of Windows that also run on Intel chips, but the company's ARM plans amount to a huge bet on a chip technology that has become the de facto standard for smartphones, tablets and other mobile products.
+
+The marriage of Intel chip designs and Windows—what became known as the "Wintel" alliance—has shaped the PC business since the early 1980s, defining the standard for which software developers created applications. But both companies have struggled to capitalize on newer growth markets. 
+
+While Windows still powers more than 90% of global personal computers, research firm Gartner says Microsoft software ran less than 3% of smartphones in the third quarter. Despite pushing tablets for the past decade, no Wintel tablet has caught on with consumers.
+
+The success of  Apple Inc.
+AAPL
+
+
+-0.04
+%
+
+
+
+
+'s iPad has driven a deeper wedge between Microsoft and Intel. The two companies, in collaboration with hardware makers, haven't been able to come up with any tablet products that match the performance, power efficiency and ease-of-use of the iPad, a worrying trend as the Apple device has come to nibble into mobile PC sales. 
+
+Microsoft Chief Executive  Steve Ballmer will kick off the Consumer Electronics Show in Las Vegas Wednesday. The new version of Windows Microsoft is expected to show off there will be better suited to touch-screen interfaces and the power limitations of tablets, people familiar with the matter said. 
+
+Technology industry veterans say the move by Microsoft is a milestone in the slow decay of the Wintel alliance. "I think it's a deep fracture," says  Jean-Louis Gassee, a venture capitalist and Silicon Valley executive. 
+
+A Microsoft spokeswoman declined to comment.  Bill Kircos, an Intel spokesman, said the relationship between the two companies is "deep and strong." 
+
+"While we can't comment specifically on any future Windows plans, there is a tremendous business opportunity for both of us in the projected billions of devices, gadgets and machines going online in the next five years, above and beyond the more near-term tablet area," Mr. Kircos said. 
+
+Microsoft and Intel have been collaborating since before International Business Machines Corp. introduced its first PC in 1981, a machine that used Microsoft's DOS operating system and the Intel chip design known by the designation x86. The relationship became particularly lucrative after Microsoft's easier-to-use Windows software helped make PCs a mainstay in homes and companies. The vast majority of the more than 350 million PCs sold last year ran some form of Windows on x86 chips sold by Intel or  Advanced Micro Devices Inc.
+AMD
+
+
+4.59
+%
+
+
+
+
+
+
+The rise of smartphones—and more recently, tablets—has strained the relationship. A key reason people have long preferred Wintel-based PCs —compatibility with application programs for Windows—has so far not been an important selling point in the new mobile categories. Indeed, Apple and Google Inc. have had success in creating large markets for lightweight apps on smartphones and tablets—to the point that users don't seem to care much about Windows compatibility.
+
+At the same time, Intel's chips haven't been able to match the low-power consumption of chips based on designs licensed from ARM Holdings, which supply the processing power to the majority of mobile gadgets. Apple's iPad, for instance, has a 10-hour battery life and requires relatively little memory, attributes that are tough to match with Intel-powered designs, said Rick Whittington, an analyst at the research firm TechIndicators. 
+
+Microsoft has long made a version of Windows for mobile phones that run on ARM chips because of the power constraints of those devices, but not the flagship version that runs on PCs.
+
+Steve Perlman, chief executive of online game start-up OnLive Inc. and veteran of Microsoft and Apple, said Wintel technologies are "so deeply embedded in the information-era economy" that they will exist for a long time, but that the existing products from the companies are missing out on big growth opportunities in the mobile business. "The Wintel system is too heavyweight to move into these new markets," Mr. Perlman said. 
+
+Intel has been trying to lower the power consumption of its chips, and has made progress in the area. Paul Otellini, Intel's chief executive, said at a conference in December the company's chips are being designed into more than 35 tablet PCs. 
+
+Intel's effort to build up the software side of its business has also vexed Microsoft. In June 2009 Intel made a surprise $900 million bid to buy Microsoft rival Wind River Systems Inc., a company with an operating system for a range of non-computer applications. 
+
+More recently, Intel struck a deal to buy McAfee Inc., a maker of security software, for nearly $7.7 billion. Intel is jointly developing with Nokia Corp. an operating system for mobile devices based on Linux called Meego.
+
+After the McAfee deal closes, Intel will employ approximately 12,000 software developers at the company, out of a total workforce of roughly 90,000. 
+
+Intel has also thumbed its nose at Microsoft by collaborating with Microsoft archrival Google on Google TV, a technology for running televisions and other living room devices that connect to the Internet. Intel also contributed software technologies to Chrome OS, a new operating system from Google that will compete with Windows in the netbook computer market. Mr. Otellini has long been on Google's board of directors. 
+
+ Write to  Nick Wingfield at nick.wingfield@wsj.com and Don Clark at don.clark@wsj.com 

@@ -1,0 +1,35 @@
+NEW DELHI—A top executive of BlackBerry-maker  Research in Motion Ltd. said Indian security agencies are making "rather astonishing" demands for increased powers to monitor email and other data traffic, raising serious privacy issues that threaten to harm the country's reputation with foreign investors.
+
+  Robert Crow, vice president of industry and government relations for RIM, said India's Home Ministry, which oversees domestic security, wants the ability to intercept in real time any communication on any Indian network—including BlackBerry's highly secure corporate-email service—and get it in readable, plain-text format. 
+
+Such a broad requirement raises the question of whether the government believes any communications are legally off-limits, he said, including email conversations of foreign ambassadors and financial records that get transmitted over secure telecommunications networks to Indian outsourcing companies. 
+
+"You connect those dots and you're saying, 'Holy smokes,' " Mr. Crow said during an interview. "This claim is made in an environment where we don't really have any privacy- or data-protection laws—and where we have a pretty poor administrative record of keeping similar things like wiretaps secret." 
+
+A spokesman for India's Home Ministry declined to comment. Government officials in India have previously said they want to ensure suspected terrorists and criminals can't elude government surveillance by using newfangled communications technologies. Under current Indian law, the home secretary—the top bureaucrat in the Home Ministry—authorizes all telecom surveillance by central-government agencies for 60 days at a time.
+
+For several months, RIM has faced demands from India to give security agencies a way to access encrypted messages on BlackBerry's corporate-email service. BlackBerry has repeatedly said its system is designed so that it doesn't have the "keys" to unlock users' messages—and it has refused to change its technology architecture in any one of the 175 countries where it offers service. 
+
+Mr. Crow said he is heartened, at least, that India no longer appears to be singling out RIM. India has realized, he said, that other advanced services—such as virtual private networks, or VPNs, and peer-to-peer messaging services, are outside its surveillance reach. 
+
+It isn't clear whether the Indian government has set any firm deadline for when it should gain access to BlackBerry corporate-email and other services and whether it would take the drastic measure of shutting down services that aren't compliant. Indian media reports have said the government has told Indian telecom operators to submit plans by March 31 showing how they would accommodate security agencies' demands. But the government has made no announcement to that effect. 
+
+Mr. Crow said he is optimistic that India's telecom ministry, which is beginning to assert more authority on the matter, will have a better understanding of the technological constraints RIM faces and will find a solution to the issue that doesn't require BlackBerry to compromise user privacy. A telecom-ministry spokesman declined to comment. 
+
+But Mr. Crow said he expects talks with India to drag on, given the inherent delays in the country's democracy and the lack of well-defined regulations on data protection and privacy.
+
+"I think this may well go on and on in India, and frankly it will be one of those factors that people talk about in the Indian business environment—not one that will be seen in India's favor in international comparison," Mr. Crow said. 
+
+BlackBerry, which touts the highly secure nature of its email service as a key selling point globally, has faced intensifying demands from foreign governments for access to the service in recent months. The stakes in India are especially high, given that the country has more than 770 million wireless subscribers who are just beginning to shift from ordinary phones to smartphones such as BlackBerrys. 
+
+Mr. Crow said he has proposed ways for Indian intelligence and security agencies to advance investigations without gaining access to the actual content of encrypted BlackBerry email messages. He said telecom operators can glean so-called meta data about messages, such as the time messages were sent, and the corporate-email server they went through. 
+
+"If that pattern of communications were known to the authorities on lawful grounds," Mr. Crow said, "then the authorities would be in a position to go to the correct corporate entity that owns the server" and pursue their investigation of a suspect. 
+
+In January, RIM resolved India's security concerns with the BlackBerry Messenger chat service, which uses a lower level of encryption than corporate email. The company gave Indian telecom operators a system that lets them key in a suspect's phone number and get unscrambled versions of Messenger chats, when a legal order has been provided, Mr. Crow said. 
+
+Mr. Crow said RIM is "kicking the tires" on potential plans to expand in India, where it already has a data center and where about 11,000 software developers are making programs to run on BlackBerrys. One possibility down the line is for India to manufacture some of the several thousand parts that go into a BlackBerry. 
+
+"There's a heck of a lot of demand [for BlackBerrys] within three to four hours flight of most of the manufacturing places in India, including India itself," he said.
+
+ Write to  Amol Sharma at amol.sharma@wsj.com 

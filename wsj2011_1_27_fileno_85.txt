@@ -1,0 +1,23 @@
+The hunt for a substance that can improve memory took a promising turn Wednesday, as researchers said they had found a method that appears to reduce forgetting in rats. 
+
+According to a study published in the journal Nature, scientists from Mount Sinai School of Medicine in New York showed for the first time that a molecule that occurs naturally in the human brain during memory formation appeared to help rats enhance the strength and duration of some types of memories.
+
+Researchers said that when the substance—known as IGF-II, a protein-like molecule important for cell growth and development as well as tissue repair—was blocked from the brain, the rats didn't remember what they had learned.
+
+The findings are notable in part because they showed improvement in an area of memory known as declarative memory—the ability to remember places, facts and things. Declarative memory is affected in Alzheimer's disease and other forms of dementia, and researchers have long sought ways to improve or preserve it.
+
+It is too early to say whether IGF-II will be useful in humans, but the substance may hold more promise than molecules that have been studied up to now, according to Elizabeth Phelps, a cognitive neuroscientist at New York University who studies human learning and memory. Dr. Phelps, who wasn't involved in the study, called the Nature research "rigorous" and thoroughly conducted.
+
+One advantage of IGF-II is that it can cross the blood-brain barrier, so it could potentially be administered through the bloodstream or as a vapor through the nose, rather than injected directly into the brain. And because it exists in the body already, it's unlikely to be toxic. 
+
+However, researchers will watch for unwanted effects on other cells in the body, said Cristina Alberini, a neuroscience professor at Mount Sinai and the senior author of the paper.
+
+Certain proteins and molecules are needed to build and strengthen connections between nerve cells in the brain to form new long-term memories, and IGF-II appears to be one of those molecules. But more research is needed, according to Dr. Alberini.
+
+"The more we know, the more we're going to uncover what are the steps that make memory strong," she said. "Then we'll get ideas for other [molecular] targets."
+
+In the study, the rats were placed in a two-compartment cage where they would receive a mild foot shock at one end. They quickly learned to avoid that area. Some rats were then given an injection of IGF-II, in a part of their brain called the hippocampus. Even weeks later, rats that had received the IGF-II exhibited greater avoidance of the location than rats that had a control injection of another growth factor or saline solution. 
+
+The effect was seen only in certain parts of the brain. IGF-II didn't appear to improve memory in the amygdala, which deals more with memories of emotional reactions like fear. 
+
+The next step is to administer IGF-II to the entire body to see if it can produce the same memory-boosting effects as direct injection into brain regions, Dr. Alberini said. 

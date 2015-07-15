@@ -1,0 +1,27 @@
+Scientists funded by Microsoft Corp. co-founder Paul Allen unveiled a $55 million computerized atlas of the human brain Tuesday, offering the first interactive research guide to the anatomy and genes that animate the mind.
+
+A project of the Seattle-based Allen Institute for Brain Science, the online atlas offers researchers a powerful new tool to understand where and how genes are at work in the brain. That could help them find new clues to conditions rooted in the brain, such as Alzheimer's disease, autism and mental-health disorders like depression. 
+
+"Until now, a definitive map of the human brain at this level of detail simply hasn't existed," said Allan Jones, the nonprofit institute's chief executive. "For the first time, we have generated a comprehensive map of the brain that includes the underlying biochemistry."
+
+The institute is making the atlas freely available at www.brain-map.org as a resource for scientists studying brain diseases, along with a set of computational tools to help them analyze the data for clues to conditions such as Alzheimer's disease, autism and mental-health disorders like depression.
+
+Advances in the ability to probe the human brain have driven a renaissance in neuroscience in recent decades. The new online atlas is considered significant because it combines several reliable imaging techniques into one three-dimensional interactive archive that accurately maps overall anatomy, nerve structure, cell features and a comprehensive read-out of gene activity.
+
+"The Allen atlas tells you where a gene is turned on in the brain and that's why it is important," said neurologist Jeffrey L. Noebels, who studies epilepsy at the Baylor College of Medicine in Houston. 
+
+Until now, researchers have been hard-pressed to link symptoms of the diseases they study to the biochemistry of genes that might be responsible for them.
+
+"The location of where these genes are active is at the very center of understanding how brain diseases work," Dr. Noebels said.
+
+The atlas has cataloged 1,000 anatomical landmarks in each of two normal adult brains, donated for research, and then linked those tissues to thousands of genes that must act in complex combinations for normal neural development and function. The atlas encompasses more than 100 million data points measuring how strongly or weakly different genes acted at each landmark.
+
+As they assembled the brain images and genetic data, the researchers were surprised to discover that by this neural measure, any two people are 94% alike. Moreover, they found that more than 80% of all known human genes are actively at work in the brain.
+
+This first edition of the atlas took four years to compile and, in its preliminary drafts, has already become a research tool for 4,000 scientists who have adopted it to probe brain biology. It builds on computer techniques that the Allen Institute developed during the creation of an interactive atlas of the mouse brain, which it released in 2006.
+
+Yet the human brain atlas is far from finished. So far, the online archive is exclusively male. The researchers expect to add eight more brains to the archive by the end of next year, to better account for variations between people. The researchers said that, when completed, the online archive will include one or more female brains.
+
+In the meantime, "We feel confident that we are giving a good average picture of the human brain to the people who are mining this data," said Dr. Jones.
+
+ Write to  Robert Lee Hotz at sciencejournal@wsj.com 

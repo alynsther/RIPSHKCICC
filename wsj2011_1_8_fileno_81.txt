@@ -1,0 +1,41 @@
+A widely repeated statistic on underwater homes could use a cold shower.
+
+Several research companies track the troubling spread of negative equity—where the value of a home falls below the debt owed—as real-estate prices have tanked. And the number of such homes has risen from almost nothing during the housing market's peaks in the middle of last decade to nearly one in four U.S. homes with mortgages today. 
+
+The statistic has been wielded by the media and public officials to paint a troubling portrait of homeowners trapped by crippling debt, unable to tap their homes for credit or to sell and move for jobs elsewhere.
+
+But in a rare instance of mild good news in the housing market, the 1-in-4 figure, and the fear it provokes, seem overblown. It is calculated using assumptions in ways that inflate the number of underwater homes. And more than half of these homes are underwater by a small margin, meaning that for various reasons those homes are unlikely to trigger an epidemic of defaults.
+
+"Everyone likes to get headlines, so they tend to overstate problems like this, without doing ground-level research," says Kenneth Rosen, chair of the University of California, Berkeley, Fisher Center for Real Estate & Urban Economics. "We probably overstate the number of people who are in trouble by quite a bit."
+
+Two of the most closely watched tallies on underwater homes use different techniques to estimate elusive quantities: Which homes have how much debt attached to them, and how much those homes are worth. A homeowner's equity is how much of the home she owns, calculated by subtracting debt from home value and dividing the result by home value. Those with negative equity are considered underwater. They make up nearly one in four homeowners with mortgages, according to the real-estate data companies  CoreLogic
+CLGX
+
+
+0.26
+%
+
+
+
+
+ and Zillow.com.
+
+Before delving into the figures, it is important to realize that these estimates apply only to homes with mortgages. Such homes made up two-thirds of all homeowner-occupied housing units in 2009, according to the U.S. Census Bureau. So if 22.5% of homes with mortgages had negative equity in last year's third quarter, as CoreLogic reported last month, that means 15% of all homes were underwater. 
+
+The problem also is concentrated in several states. Arizona, California, Florida, Michigan and Nevada had about 31% of mortgaged homes but 53% of underwater ones. 
+
+The real number of underwater mortgages probably is lower than what these estimates suggest. That is because of the way the research companies estimate homes' value. Until a home is sold, its value is fuzzy. CoreLogic and Zillow approximate it by comparing it with nearby homes and similar properties that do sell. Each company regularly tests its valuation models against actual home sales, and makes sure that there is no bias in one particular direction, so that a home's value is just as likely to be overestimated as underestimated. Yet there is still some uncertainty in the calculations. CoreLogic says its estimate is within 10% of a sales price for between about 55% and 75% of homes, depending on the region. Zillow's estimate is within 10% of sales price almost half the time.
+
+These margins of error tend to inflate the number of underwater homes for a subtle statistical reason. There are many more homeowners who are slightly above water on their mortgages than those who are slightly underwater. So if home valuations are flawed, there is a greater chance that homes are incorrectly pushed into the negative-equity category than the other way around. 
+
+"At the margin, that probably occurs," says  Stan Humphries, Zillow's chief economist. "It's possible that would be the case," says  Mark Fleming, CoreLogic's chief economist. Both say it would be difficult to correct for this problem. Dr. Fleming adds, "The truth is unknown."
+
+Including homes with just a small amount of negative equity in the underwater category also overstates the problem. In practice, say housing experts, there is little difference between homes with a little bit of positive equity and ones with a little bit of negative equity. 
+
+For one thing, homeowners might not know which category they are in. Also, there is little benefit to strategic defaulting when equity is near zero. CoreLogic's data indicate default rates begin to rise sharply at 25% or more negative equity—a group that represents less than half of underwater homes.
+
+"At least as important" as the number of underwater homes, says housing economist Tom Lawler, "is the percent that are materially underwater. Would you seriously consider wasting your credit because you owe $5,000 more than you think your home is worth?"
+
+  Richard A. Smith, chief executive of Realogy Corp., the parent company of real-estate brokers Century 21 and Coldwell Banker, says the underwater total is an artificial number that means little except for homeowners looking to sell soon. "It's only an issue if tomorrow someone said, 'Everybody has to sell their house,' " Mr. Smith says. "We don't anguish over this number at all."
+
+ Write to  Carl Bialik at numbersguy@wsj.com 
