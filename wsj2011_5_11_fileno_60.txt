@@ -1,0 +1,13 @@
+NEW DELHI – The Corporate Affairs Ministry expects to issue by May 20 its final glossary and classification of terms related to the implementation of a computer language used for reporting financial statements.
+
+The ministry had earlier sought public comments on a draft glossary and classification—or taxonomy—developed with the help of accounting regulator Institute of Chartered Accountants of India. A notification on its Web site announced the expected date of publication..
+
+"The ministry is committed to timely implementation of eXtensible Business Reporting Language, and finalizing its taxonomy and business rules will help crystalise the initiative," said D.K. Mittal, secretary of the corporate affairs ministry.
+
+Migrating to the new language will help companies report their accounts based on standards similar to the International Financial Reporting Standards.
+
+Companies also will be spared from making separate filings with other regulators and stock exchanges as a common database will be created. The ministry expects to a tool to detect fraud and inadequate data filed by companies and take remedial measures.
+
+Filing in the new language is mandatory for all publicly traded companies and their units and those that have revenue of 1 billion rupees or more or paid-up capital of 50 million rupees in the first phase. Use of the computer language will later be applicable to all 900,000 companies registered in India.
+
+The ministry said companies should wait until final rules are in place before purchasing any accounting software. Oracle India, SAP India, IRIS Business Services, Fujitsu India and Softpark 21 are among vendors that will be selling software to companies.

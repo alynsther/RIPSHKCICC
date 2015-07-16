@@ -1,0 +1,21 @@
+TOKYO—Renesas Electronics Corp. now expects its earthquake-crippled chip factory to resume partial operations June 1, earlier than previously planned, with production capacity likely to return to half pre-quake levels by late July.
+
+Renesas, which produces 40% of the world's automotive microcontroller chips, had said in late April that its Naka plant—in Ibaraki Prefecture, north of Tokyo—would resume partial production by June 15.
+
+Before the March 11 earthquake, the Naka plant turned out a quarter of the company's microcontroller chips that control a variety of functions in vehicles. Given Renesas's market share, the plant's absence could translate into a 10% cut in global supplies of the chips. Renesas sells its chips to auto-parts makers, which in turn supply car companies.
+
+
+
+The company said Tuesday that the plant will run at 5% of normal capacity at the outset, rising to about 50% by late July. Renesas said it doesn't yet know when the plant's capacity will return to pre-quake levels, but that by late July it will also be able to make up for the missing 50% by producing more chips at its other plants and outsourcing some orders to other chip makers.
+
+This means the company's overall chip output capacity, including the output from all its factories and the portion outsourced to other chip makers, will return to pre-quake levels in late July, Renesas said.
+
+Still, it will take a while for the chips produced at Naka to reach customers. Early-stage chip fabrication alone takes several weeks to a few months. The chips will then be sent to other plants that specialize in chip assembly and packaging. Renesas said Wednesday that the Naka chips will likely start reaching customers, in phases, from late August.
+
+It will likely take until late October for the number of chips reaching customers, including those supplied through outsourcing, to return to pre-quake levels, the company said.
+
+The earthquake and subsequent power-supply problems affected eight Renesas plants in Japan. Operations were suspended at five of its 10 factories used in early-stage chip production, where clean rooms require uninterrupted power. Many shut down because of disrupted power supplies, not because of physical damage.
+
+The company has since resumed operations at all the affected factories except the Naka plant, which accounts for about 15% of the company's capacity for early-stage chip production.
+
+ Write to  Juro Osawa at juro.osawa@dowjones.com 

@@ -1,0 +1,25 @@
+The time it takes to get treated at emergency rooms in the U.S. is on the rise, but hospitals are trying new methods to reduce the wait.
+
+One tactic that's working: Some hospitals are redirecting people with less-urgent conditions to other health-care providers. But that practice comes with its own problems, some doctors say.
+
+About 14% to 27% of all emergency-room visits could take place at urgent-care centers or retail clinics, according to a study published last September in Health Affairs.
+
+Of course, beyond the inconvenience of a long wait time, treatment delays can be deadly. Consider the highly publicized 2006 case of a woman who went to an ER in Waukegan, Ill., with chest pains. She went into cardiac arrest after waiting two hours.
+
+In Milwaukee County, Wis., 48% of the 363,377 emergency-department visits last year were nonemergent, according to Paul Coogan, emergency-department medical director at Aurora Sinai Medical Center in Milwaukee.
+
+"There's a lot of nonurgent, nonemergent use of ERs because, let's face it, we're pretty quick, open 24/7, board-certified in emergency medicine and because of [federal] law, we have to see everybody who shows up," he says.
+
+Since starting a program in mid-2006 that matches nonurgent patients with alternate providers, Aurora Sinai has reduced its annual ER visits by about 23%, Dr. Coogan says. That percentage might have been higher if a nearby hospital had not closed, funneling more emergency patients into Aurora Sinai, he says.
+
+To meet federal legal guidelines, all arriving patients at Aurora Sinai's emergency department are seen and triaged by a physician, nurse practitioner or physician's assistant, he says. If a patient is found to have a nonemergent issue, he is educated about the appropriate use of the emergency room to reduce unnecessary future visits and then is sent to a scheduler to make a follow-up appointment with a primary-care provider.
+
+"We don't just kick the patient out," Dr. Coogan says. "We make sure they have an appointment with a primary-care doctor in hand, and that's whether they have insurance or not."
+
+Efforts to redirect ER patients are often criticized as not being effective because people don't show up at these follow-up appointments. But MyHealthDIRECT, the Web-based scheduling program that Aurora Sinai uses, was specifically developed to address reasons why people might miss appointments, says Jay Mason, chief executive and co-founder of the Milwaukee-based software developer.
+
+"We've learned through the years what the important variables are," he says. "So, for example, Jay lives in this neighborhood and needs to be seen tomorrow afternoon with a Spanish-speaking doctor who takes Medicaid."
+
+Taking nonurgent patients out of the ER only addresses one cause of the overcrowding that leads to longer wait times, says Jesse M. Pines, an emergency physician and director of George Washington University's Center for Health Care Quality.
+
+Other hospitals are addressing the wait-time issue by improving their processes -- for example, having patients seen first by doctors rather than nurses, he says. "Then people with more minor conditions who don't need tests can be discharged immediately, and people who need tests can get those ordered upfront and get through the system more quickly."

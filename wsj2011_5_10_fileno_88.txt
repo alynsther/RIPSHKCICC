@@ -1,0 +1,101 @@
+Cellphones that collect people's locations are only the tip of the iceberg: Auto makers, insurance companies and even shopping malls are experimenting with new ways to use this kind of data. 
+
+Location information is emerging as one of the hottest commodities in the tracking industry—the field of companies that are building businesses based on people's data. 
+
+Some companies are using the data to build better maps or analyze traffic patterns. Others send users advertisements for services near where they are located. Some insurers hope to use the data to provide discounts to better drivers. 
+
+
+
+
+
+On Tuesday in Washington, D.C., a Senate Judiciary subcommittee plans a hearing to consider whether a federal law is required to protect consumer privacy on mobile devices. The hearing was spurred by the public outcry over recent findings that  Apple Inc.
+AAPL
+
+
+0.92
+%
+
+
+
+
+ and  Google Inc. gather location-related data from iPhones and Android phones. Both companies are set to testify.
+
+In March, researchers found Apple's iPhones were keeping a database of nearby Wi-Fi networks and cellular towers, stretching back months. The Wall Street Journal reported that iPhones and Apple were collecting such data even when users had turned off location services and that Android phones were transmitting similar information to Google several times an hour, even when location apps weren't in use.
+
+Currently, there is no comprehensive federal law that protects personal data—including location—from being shared or sold to commercial partners. Last December, the Journal's "What They Know" series found that 47 of the 101 most popular smartphone apps sent location information to other companies. 
+
+The use of this trove of sensitive data is proving controversial. Last month,  TomTom
+TOM2
+
+
+1.09
+%
+
+
+
+
+ NV, maker of in-car navigation devices, apologized for selling aggregated data from its devices to the Dutch government, which was using it to set speed traps. 
+
+Executives from Apple and Google will testify Tuesday before Congress on mobile privacy.
+
+"We did not foresee this type of usage," said  Harold Goddijn, TomTom's chief executive. He said the company "fully understands some of [our] customers do not like this," and is taking steps to "stop this type of usage in near future."
+
+Insurance companies are starting to tap location and other data when drivers agree. Italy's Octo Telematics SpA makes technology that has been installed in more than 1.2 million cars in Europe that can send back aggregated data about a car's location, acceleration and other driving characteristics, said  Nino Tarantino, Octo's chief in North America. 
+
+Some insurers provide discounts to drivers who agree to install the Octo system. Other drivers may use the technology for roadside assistance or to locate a car if it is stolen. Mr. Tarantino says location is tracked in real time only in the case of theft or an emergency. In other cases, it is provided as an average, indicating that a car is driven most on a certain highway, for example.
+
+This month, Octo entered the U.S. market, signing Seattle-based Safeco Insurance, a member of Liberty Mutual Group, as its first customer. 
+
+Even shopping malls and retailers are getting into the location game.
+
+
+
+U.K.-based Path Intelligence Ltd. intercepts a unique identifier that is part of the regular communications between shoppers' cellphones and wireless carriers and uses the information to monitor the routes people take through stores and malls. The company started in 2007 and has since expanded to the U.S.
+
+Path says it doesn't identify individual users but pools information to give stores statistics on the number of people shopping in different sections. Path tracks them by collecting an anonymous number that is transmitted openly whenever the network pings the phone to ensure a connection is available. 
+
+"Our tagline is 'Google analytics for the offline world,'" said  Sharon Biggar, Path's co-founder.
+
+Interest in location data has surged in the past five years, as more devices such as smartphones and cars have become embedded with global-positioning system technology and other location identifiers. 
+
+And location capabilities on mobile phones are required for compliance with the Federal Communications Commission's rules on enhanced 911 services. By fall 2012, cellphone networks must be able to locate most 911 calls within 100 meters. 
+
+Both Apple and Google collect location-related data to improve their databases of locations of Wi-Fi hotspots, which can help phones get their locations even without the Global Positioning System, or GPS. Google also uses the data to provide traffic information on Google Maps, and Apple disclosed that it is working on a similar product. 
+
+Apple has released a software update that limits how much location data its devices store, and Google says it collects such data only after users agree when setting up the phone. Apple and Google say the data aren't tied to a specific user.
+
+Other companies are collecting location data for similar purposes.  Sprint Nextel Corp.
+S
+
+
+-3.88
+%
+
+
+
+
+ and Verizon Wireless, for example, send location data from phones to a company called AirSage Inc., which provides traffic information. Sprint's data are used in AirSage's products, but offerings that use Verizon's data have not yet been released, the companies said. The companies said the information is anonymous and aggregated. 
+
+AirSage says it provides real-time traffic information, as well as historical data that can help transportation departments decide where to build roads and can help retailers decide where to build stores or place ads. Cars also are increasingly being equipped with similar technology. Auto makers are scrambling to offer "connected vehicles" that can help people keep track of road conditions and mileage, among other things.
+
+Auto maker  BMW AG
+BMW
+
+
+-1.18
+%
+
+
+
+
+ is considering collecting location data from the navigation systems installed in its cars to provide real-time traffic reports. "We call it probe data," said  Tom Baloga, the vice president of engineering for BMW in the U.S. "It's anonymous. We just see that the vehicle is traveling on this road at this speed at this coordinate, so we can calculate that there's a slowdown."
+
+The collection of location data from mobile devices has also been a boon for law enforcement.
+
+The U.S. Marshals Service, for example, routinely asks cellular service providers to give them information on wireless tower locations being used by cellphones involved in investigations, according to a 2010 directive.
+
+The specific GPS coordinates of a phone require "probable cause" for a warrant, but data on the location of cell towers being used is available without a warrant establishing "probable cause," if a judge finds there are "reasonable grounds" to believe that the data is "relevant and material to an ongoing investigation" and issues a court order. 
+
+"Location information is paramount in apprehending violent felony fugitives and is received through many sources, including cellphones," said  Lynzey Donahue, a spokeswoman for the Marshals Service.
+
+ Write to  Julia Angwin at julia.angwin@wsj.com 

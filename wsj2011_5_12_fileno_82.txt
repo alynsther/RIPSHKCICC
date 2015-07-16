@@ -1,0 +1,37 @@
+The pocket-size, point-and-shoot digital camera was once a standard part of many consumers' electronic tool kit. But it has been challenged by smartphones with better and better built-in cameras and photo apps. While they lack some photographic capabilities, like physical zoom lenses, phones are carried everywhere all the time. Plus, they are wirelessly connected to email and the Web, where digital pictures often wind up.
+
+Now, Samsung has introduced a pocket camera that aims to erode the advantages of smartphones—even though the company also produces phones. This new camera, the SH100, has Wi-Fi built in. This isn't the first camera with built-in Wi-Fi, but Samsung hopes to better capitalize on it. It also competes with the add-on memory card called Eye-Fi, that brings Wi-Fi abilities to almost any camera. It has easy, preconfigured uploading to Facebook, YouTube, Picasa, email and other online destinations, plus a bunch of added wireless features, including cordless transfer of photos to a PC.
+
+I've been testing the SH100. It carries a list price of $200 without a memory card but can be found at various merchants for as little as $150. Its wireless capability requires no contract or monthly payment.
+
+My verdict is that the SH100 pretty much does what it promises as a wireless device, and takes very good photos and videos. Unlike on a cellphone, its wireless functions don't work almost everywhere. Still, for those who would like some of the wireless ease of a phone in a better camera, it might be tempting.
+
+The SH100 is a good-looking, pocket camera with a resolution of 14.2 megapixels, a 5x optical zoom and a wide-angle lens. Smartphones typically have much lower resolution and lack optical zoom lenses.
+
+It has a large, 3-inch touch screen on the back, for framing and viewing shots, and for controlling its many functions. There are only four physical buttons—a home button, a power button, a playback button, and a combination shutter and zoom controller. Everything else is controlled by tapping on icons and menus on the screen.
+
+
+
+The user interface has been designed to resemble the array of apps on a smartphone. Unfortunately, the SH100 uses a less expensive, and much less responsive, type of touch screen than is typically found on smartphones. So, tapping on icons, scrolling through menus and, especially, typing email addresses and wireless login details, can be a frustrating process for people trained now to use sensitive phone and tablet screens.
+
+This was my biggest gripe about the SH100. In my tests, using its screen required extra pressure, multiple presses and corrections. Samsung implicitly acknowledges this by including a plastic stylus with the camera. Using the stylus makes things easier, but it's another thing to carry and seems easy to lose.
+
+Samsung says the SH100 is mainly about connectivity, and its photographic capabilities and features aren't significantly different from those on its other point-and-shoot models. In my tests, it took sharp, vivid photos and videos, indoors and out. It has all the standard settings and effects I've seen in other point-and-shoot cameras, including auto and more manual modes, and various preconfigured settings for scenarios such as sunsets or beach photos.
+
+One of its nicer features is something called Magic Frame, which merges a photo you take with a background. For instance, it can place your photo in a poster on the side of a bus-stop shelter, or on the screen of an old black-and-white TV. It also has a 3-D carousel view for browsing through your photos, and another mode where you can flip through pictures by tilting the camera.
+
+But I mainly tested the camera as a wireless device, with mixed results. I was able to connect almost every time to noncommercial Wi-Fi networks in my home and office, and was easily able to post pictures to my accounts on Facebook and Picasa, and videos to my YouTube account. I also was easily able to email photos. This required a one-time setup process for each online account.
+
+But there were some issues. In one instance, during a meeting with Samsung officials to show me the camera, it wouldn't work with my office Wi-Fi, though my test unit later did fine in the office. Also, when uploading to Facebook, the camera installs a Facebook app called MashupSocial, which you may or may not want.
+
+More important, the camera's Wi-Fi won't work with many commercial Wi-Fi hot spots, such as those in coffee shops or airports, that require a login process via a browser, because it lacks a browser. To compensate, Samsung includes a free three-month trial subscription to Boingo, a service that automates logins to some of these services. After the trial ends, Boingo costs $8 a month, but it is optional. 
+
+Also, the camera can't automatically send any photo you snap. You can only choose to send photos when you are in playback mode. And this is a manual process. You also can't queue up photos you take outside of W-Fi range for later instant uploading when you get near a compatible Wi-Fi network. 
+
+To save battery life, the camera doesn't remain connected to Wi-Fi. It connects only when you choose to transmit, and then disconnects. This is a relatively slow process. Samsung says the SH100's battery can shoot more than 200 pictures on a single charge, but that battery life degrades if you use Wi-Fi a lot.
+
+I also successfully tested a couple of other wireless features. I was able to wirelessly transmit photos from the camera to a Windows PC using a special Samsung computer program called Auto Backup. (This doesn't work on Macs.) I also was able to use a feature called Remote Viewfinder that lets you control the camera remotely from a Samsung smartphone. The camera can also wirelessly beam photos to a compatible TV, but I wasn't able to test this.
+
+If you're willing to accept the wireless limitations of the SH100, and value its photographic advantages compared to a phone's camera, it might offer the right balance for you.
+
+—Find all Walt Mossberg's columns and videos at the All Things Digital website, walt.allthingsd.com. Email him at mossberg@wsj.com. 

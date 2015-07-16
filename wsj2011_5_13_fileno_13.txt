@@ -1,0 +1,65 @@
+One of the reactors at Japan's Fukushima Daiichi nuclear plant likely suffered a substantial meltdown of its core, operator  Tokyo Electric Power Co.
+9501
+
+
+0.14
+%
+
+
+
+
+ said Thursday, offering a fresh assessment of the reactor that suggests it came closer than the operator had previously revealed to a catastrophic meltdown.
+
+It is likely that the fuel rods that form the core of Reactor No. 1 had more than half melted in March, Tepco spokesman  Junichi Matsumoto said Thursday. That assessment came after Tepco this week determined that both of the vessels that surround the reactor core may be damaged, leaking water that is supposed to be keeping the core cool.
+
+The reactor core is still contained inside those vessels, Mr. Matsumoto said, and the temperature is stable. That indicates the accident didn't reach the most severe level, where fuel rods melt through those vessels and release massive amounts of radioactive material to the outside.
+
+The findings raise a host of questions about the chain of events that led to the damage and have implications for future plant regulation in Japan and beyond. It also suggests that radioactive water has leaked into the reactor's basement in greater-than-believed quantities, likely dealing additional delays to the stricken plant's cleanup.
+
+Tepco's assessment came after workers entered the reactor building this week and fixed a faulty water-level gauge. They determined that the reactor's pressure vessel—the cylindrical steel container that houses the fuel rods—had only about half the level of cooling water as previously thought. 
+
+That suggested Reactor No. 1 is likely more severely damaged than Tepco believed and could be leaking large amounts of highly radioactive water. It also shows that the area enclosing the fuel rods wasn't mostly submerged in cooling water, as Tepco had thought, but was instead high and dry.
+
+The finding spurred experts to ask whether leaks or holes could have been caused by the 9-magnitude earthquake that struck Japan's northeastern coast on March 11. Tepco has said the damage at Fukushima Daiichi resulted from the subsequent tsunami, which cut power to the plant's cooling systems, causing reactor temperatures and pressure to rise to damaging levels.
+
+If it turns out that Reactor No. 1's vessels were in fact damaged by the quake, that would lead to a wholesale review of earthquake standards for nuclear plants, warned  Ken Nakajima, a professor of nuclear engineering at the Research Reactor Institute, Kyoto University. 
+
+In the U.S., 23 reactors have designs similar to the reactors at the Fukushima Daiichi site. Findings about possible damage caused by the earthquake, independent of the tsunami, will be incorporated into an analysis of seismic hazards in the eastern and central U.S. being conducted by NRC, said Scott Burnell, spokesman for the U.S. Nuclear Regulatory Commission.
+
+Some U.S. experts said Tepco simply has acknowledged what U.S. nuclear experts already believed was the case—that severe core damage has occurred which allowed radioactive material to migrate outside the thick steel walls of the pressure vessel. One indication of this breakdown in normal protective barriers has been the high radiation readings in the containment area and reactor building.
+
+Previously, Tepco officials had said they believed there had been "damage" to the fuel rods but didn't specify what that meant. On Thursday, for the first time, officials conceded that the fuel rods likely had "melted," crumbled or changed shape, and that the fuel had probably fallen from its casings.
+
+The nuclear industry lacks a technical definition for a full meltdown, but the term is generally understood to mean that radioactive fuel has breached containment measures, resulting in a massive release of fuel. 
+
+Tepco engineers estimate that 90% of the fuel is still in the inner pressure vessel and that there are no cracks or obvious ruptures to the outer containment vessel, where Mr. Matsumoto said the rest of the fuel is likely contained. So the risk of a large radioactive release of fuel is minimal, he said. 
+
+In response to a question about whether the situation could be described as a "meltdown," Mr. Matsumoto said that if the definition is that the fuel rods melt and lose their shape, "that is fine." 
+
+Soon after the March 11 quake and tsunami knocked out the plant's cooling systems, temperatures in the No. 1 reactor likely rose to more than 2,000 degrees Celsius, experts have said, well above the point at which the metal casings of the fuel rods would begin to melt. The fuel pellets inside would start melting at 2,800 degrees, potentially fusing into a dangerous large mass. Tepco estimates the fuel rods in the No. 1 reactor have been 55% destroyed, making it the worst-damaged of the plant's six reactors. 
+
+The temperature in the pressure vessel now hovers around 100 to 120 degrees Celsius, indicating progress in the cooling effort, Mr. Matsumoto said. 
+
+The tops of the four-meter-long fuel rods reach a little more than nine meters from the bottom of the pressure vessel; past data suggested the water was eight meters deep, enough to mostly submerge them. When workers entered the reactor building this week and corrected the water gauge, it told them the depth was just four meters.
+
+If the rods were intact, that would leave them dry. But Mr. Matsumoto said he believes that some of the fuel slid down and is likely sitting in water.
+
+A top U.S. Nuclear Regulatory Commission official expressed concern Thursday with potential structural problems at a stricken Japanese nuclear plant. "The reliability of instrumentation complicates our understanding of the exact plant conditions at any given time," said Bill Borchardt, the commission's executive director of operations.
+
+Thursday's news signals likely delays as Tepco figures out how to deal with possible leaks. Tepco has injected 10.4 million liters of cooling water into the Reactor No. 1 vessel so far, much of which the company says it now suspects has been leaking from the pressure vessel and the larger beaker-shaped containment vessel that surrounds it.
+
+That water is likely accumulating in the basement of the reactor building, where radiation levels are still too high for anyone to enter. 
+
+If so, Tepco would need another huge operation to collect and decontaminate the water, similar to one already conducted at Reactor No. 2. 
+
+"The biggest challenge for us is how to repair damaged parts of the containment vessel," Mr. Matsumoto said.
+
+Tepco and regulators have a six-to-nine-month road map to bring all the reactors to a state of cold shutdown and end the continued release of radiation that has forced mass evacuations from the area.
+
+Since May 6, the company has tried to flood the No. 1 containment vessel with enough water to submerge the pressure vessel and bring the temperature of the fuel inside to a safe temperature. Tepco will have to revise its plans to fill the reactor unit with water, since that requires the containment vessel be whole. 
+
+Workers would have to fix any leaks in the containment vessel before the pressure vessel could be submerged, Mr. Matsumoto said. That presents problems too, since the area around the containment vessel is highly radioactive, meaning that workers can't be there for long. 
+
+—Ryan Tracy in Washington contributed to this article.
+
+ Write to  Phred Dvorak at phred.dvorak@wsj.com and Rebecca Smith at rebecca.smith@wsj.com 

@@ -1,0 +1,105 @@
+BERLIN—Germany's  SAP AG
+SAP
+
+
+1.28
+%
+
+
+
+
+ sees the business-software industry's future in a decidedly consumer-oriented tool—the app.
+
+For decades, business software has been focused around specialized users tied to large computers. Now, SAP is attempting to stretch those boundaries, betting that a broader set of workers will want access to business information via their mobile devices.
+
+The push is at the center of SAP's new growth strategy.  Bill McDermott and  Jim Hagemann Snabe, who took over as co-chief executives in February 2010 following revenue and profit shortfalls, have sold investors on a plan to make SAP a growth company again in part by bringing the consumer mobile-app craze to the enterprise.
+
+By combining its business-software assets with Sybase, which it acquired last year, SAP hopes to build a mobile powerhouse, offering its customers mobile versions of SAP's business software and the ability to easily build and securely manage their own mobile apps.
+
+On Tuesday, SAP is slated to launch the latest version of what it calls the Sybase Unwired Platform at its annual customer and partner event in Orlando, Fla., and 19 mobile apps for businesses covering areas such as sales, finance, procurement and human resources. With these new apps, SAP is hoping to build on its paying user base inside many of the Fortune 500 companies it already calls customers. The company will also be showcasing apps from over 24 partners at the event, and providing an update on its upcoming mobile app store, which will include some free apps and some paid apps.By the end of the year, SAP says it expects to have as many as 50 apps available from itself and partners.
+
+"That's where the growth is, and at the end of the day, we are a growth company," Mr. McDermott said in an interview.
+
+Getting companies to purchase SAP's mobile software is crucial in the company's effort to boost sales, as its core business of selling enterprise resource-planning software—which companies use to manage tasks such as sales, inventory and accounting—grows moderately. 
+
+SAP needs to sell more to its existing customers and find new customers to continue increasing revenue and profits, and ultimately stay independent in an industry where its closest competitors,  Microsoft Corp.
+MSFT
+
+
+0.31
+%
+
+
+
+
+ and  Oracle Corp.
+ORCL
+
+
+0.02
+%
+
+
+
+
+, are larger.
+
+Mr. McDermott says the company's core business is growing, but to increase revenue faster the company has to branch out and look at where the market is going.
+
+The shift to mobile devices and the mobile Internet, he says, is moving faster than any other technology shift in the history of the world. He adds that mobile software sales are currently increasing up to five times faster than SAP's enterprise software business.
+
+Last summer SAP approached  Boston Scientific Corp.
+BSX
+
+
+-0.89
+%
+
+
+
+
+, a Natick, Mass., medical-device manufacturer, with an idea on how the company could improve its sales force.
+
+Fresh from SAP's $5.8 billion acquisition last May of Sybase Inc., a mobile and database software company, SAP executives told  Rich Adduci, Boston Scientific's chief information officer, that, using Sybase's technology, they could take much of the software employees used on their personal computers and easily create mobile versions for multiple devices. Mr. Adduci, who was already eyeing  Apple Inc.
+AAPL
+
+
+0.96
+%
+
+
+
+
+'s iPad for internal use, found the idea intriguing and started a small pilot project within the company.
+
+In December, he rolled out Apple iPads and used the Sybase technology to launch an internal application store, akin to Apple's consumer App Store, for the company's U.S. sales force of more than 2,000. Currently, Boston Scientific is rolling out the iPad solution globally.
+
+"I think it's really helping change the way we interact with health-care professionals," says Mr. Adduci. "The sales force is able to be much more productive."
+
+With Sybase at its side, SAP is making a bet that it can crack a promising but elusive market for selling mobile software to businesses. The rapid boom in smartphones and mobile apps among consumers has piqued the interest of corporations, analysts say. That has led an increasing number of companies to outfit a broader set of employees such as senior executives with smartphones and other devices and software to enable them to work better out of the office.
+
+In addition, companies are increasingly allowing their employees to use their own mobile devices to work and deploying software to connect and secure them, instead of issuing company-owned devices, says  Stephen Drake, an analyst with IDC.
+
+Sales of mobile-enterprise application platforms, like those of SAP, are expected to reach over $1.5 billion by 2015 from just over $1 billion in 2010, IDC says.
+
+Still mobility is no slam dunk for SAP. Corporations have been hearing about mobility for the past decade, yet the industry has been slow to take off, analysts say.
+
+The company also faces competition from vendors such as Oracle, Spring Wireless and Antenna Software Inc.
+
+SAP needs to create new ways of working through mobile applications instead of just formatting the company's PC software for mobile devices says  Thomas Otter, an analyst with market researcher Gartner Inc. At SAP's Sapphire Now event in Orlando, he says, he'll be looking for SAP to launch products that combine the mobile expertise of Sybase with SAP's business knowledge.
+
+Mr. McDermott says SAP's ability to analyze large amounts of data in real time, through a technology called in-memory, which the company is also heavily investing in, will distinguish its mobile applications from the competition. 
+
+On stage at Tuesday's event, Mr. McDermott will cite  Avon Products Inc.
+AVP
+
+
+-2.36
+%
+
+
+
+
+ as one company taking advantage of both technologies to give its sales force the ability to check availability and ship dates of products in real time.
+
+ Write to  Christopher Lawton at christopher.lawton@wsj.com 

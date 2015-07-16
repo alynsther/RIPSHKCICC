@@ -1,0 +1,45 @@
+An 18-year-old man with fever and chills is sent home from the emergency room with Tylenol and later dies of sepsis, a blood infection. A 42-year-old woman with chest pains is discharged, only to suffer a heart attack two hours later. A 9-year-old girl's appendix ruptures after doctors rule she's just got a bellyache.
+
+Hospitals are drawing on lessons learned from these worst cases of missed or delayed diagnosis to overhaul emergency departments, where errors, oversights and a lack of teamwork between doctors and nurses can harm or kill patients. They are adopting new triage systems to ensure doctors and nurses jointly see at-risk patients soon after they arrive, requiring physicians and nurses to huddle to make sure no information is overlooked, and using time-outs at discharge to prevent patients with unresolved problems from leaving the ER.
+
+Often chaotic and overcrowded, with scant data available about new patients, the emergency room is among the top hospital departments responsible for malpractice suits—and diagnostic errors account for 37% to 55% of cases in studies of closed claims. The average payments and legal expenses for ER cases have more than doubled over the past two decades, according to the Physician Insurers Association of America, a nonprofit trade association whose members cover about 60% of emergency physicians. 
+
+Insurance broker Aon Corp. estimates malpractice suits arising from emergency-room incidents in 2009 alone will cost hospitals $1 billion. 
+
+While emergency-room errors often happen because a doctor misjudges symptoms, in almost all cases of missed or delayed diagnoses essential pieces of information weren't available at the time the doctor made a decision, according to  Dana Siegal, program director of risk-management services for Crico/RMF Strategies, whose parent company insures hospitals affiliated with Harvard University. 
+
+Gaps can include a missing medical history, no record of abnormal vital signs such as blood pressure or heart rate, a lack of timely access to radiology or lab reports, or information lost in a shift change. Crico's analyses show poor doctor-nurse communication at critical times often causes mistakes.
+
+Crico/RMF is working with 16 hospitals on a project to improve communication between doctors and nurses. Mannequins will be used to simulate various emergencies, and participants discuss what could have been done differently. 
+
+Among the strategies being tried by participating hospitals is a new system for triaging patients, dividing the emergency department into separate areas, such as pediatrics, obstetrics and psychiatry. 
+
+At Abington Memorial Hospital near Philadelphia,  Sue Cissone, clinical coordinator of the Emergency Trauma Center, says a pilot project is moving patients immediately to beds in the treatment area where they can be seen by a doctor and nurse together, helping ensure both hear vital information.
+
+Hospitals working with Crico are also using nurse-doctor huddles to review patient data. 
+
+At Taylor Hospital in Ridley Park, Pa., where 30,000 emergency patients are treated annually, emergency chief  Gregory Cuculino says maintaining electronic medical records has had an unexpected downside: Staffers type information into the system but don't verbally communicate with each other. "Huddles allow everyone to go over the case, so if someone says, 'Mrs. Smith in room four looks good,' the nurse has a chance to say, 'She just threw up again,' " says Dr. Cuculino.
+
+Because heart attacks are among the most commonly missed diagnoses, insurers are urging emergency departments not to assume women and men under the age of 55 are less likely to suffer one than an over-60 male. CNA Financial Corp., which provides malpractice insurance, suggests in a guide developed for its hospital clients that all patients with chest pain be admitted to the hospital, even if a heart attack is only a possibility, because the death rate among patients whose heart attack is missed is almost double that of patients who are admitted.
+
+Strokes are also often missed in younger patients, too, according to a study by a team at Wayne State University and Detroit Medical Center released in February. The study showed 15% of patients with a median age of 37.9 who reported to an emergency room with stroke symptoms were initially misdiagnosed. It recommended that younger patients with seemingly minor symptoms like vertigo and nausea be meticulously assessed and that an MRI be performed as soon as possible. 
+
+Emergency departments are also adopting time outs before a patient is released to allow nurses to stop the discharge process if they see anything that may have been overlooked, such as a vital sign that remains abnormal, or a patient's statement that didn't come out when a medical history was first taken.
+
+For example, meningitis, a bacterial infection with symptoms including headache, fever and dizziness, is often missed, closed claims show. 
+
+If a patient treated for a severe headache develops a fever during his stay in the emergency room and mentions for the first time at discharge that he passed at out at home before coming to the ER, "that is going to make us think about whether we should consider meningitis, when we had not been going down that track," says Assaad Sayah, who runs the emergency departments for the three hospitals in the Cambridge Health Alliance and is participating in the Crico project. 
+
+Beth Israel Deaconess Medical Center in Boston has started using a so-called trigger system that looks for abnormalities in five vital signs, including elevated heart rate and blood pressure, to determine which patients should be seen and treated faster. "If they meet one of the five triggers we intervene as quickly as we can," says  Carrie Tibbles, associate director of graduate medical education.
+
+Dr. Tibbles urges patients and families to provide as much information as possible up front about symptoms and medical history in the ER, along with contact information for their primary care doctor. Patients should also inquire about diagnostic tests and what they are for, and what the turnaround time is for results. "But recognize there are limitations in the system," she says. "Don't assume because you've shared your history once that the next person coming in the door knows about it."
+
+The changes to emergency-room systems come as ERs face a growing work load. In a survey released last month, the American College of Emergency Physicians said 80% of its members are reporting increased visits to emergency rooms and more than 90% expect increases next year. 
+
+  David Seaberg, president-elect of the group, says a growing shortage of primary-care physicians is driving many patients to the ER.
+
+Dr. Seaberg says the intense environment of the ER can make precision difficult. His group studies closed claims to find how patients can be better diagnosed while keeping the flow of patients moving efficiently, and offers programs to foster teamwork.
+
+ Write to  Laura Landro at laura.landro@wsj.com 
+
+ Corrections & Amplifications  Carrie Tibbles is associate director of graduate medical education at Beth Israel Deaconess Medical Center in Boston. A previous version of this column incorrectly stated her first name as Claire.

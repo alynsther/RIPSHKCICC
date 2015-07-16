@@ -1,0 +1,53 @@
+With home prices in what seems like an endless fall, why is it so fiendishly difficult to protect yourself against the risk of a further drop?
+
+This week, Zillow.com reported that real-estate prices fell nationwide in March for the 57th month in a row, echoing other home-price indexes that have kept dropping and defying hopes of a recovery in housing values. Economists are forecasting a decline of 1.4% for 2011. 
+
+And, while unlikely, "a 30-year decline in home prices [adjusted for inflation] is certainly a possibility," says Yale University economist  Robert Shiller. 
+
+It wouldn't be the first time prices dropped over three decades' time; they fell by 14% cumulatively, after inflation, between 1912 and 1945, according to Prof. Shiller's data.
+
+Everyone sees the need to buy homeowners' insurance to protect against the risk of fire or storm damage or burglary. The need to hedge against a continued bear market in real estate that could damage your home's future value is just as urgent. 
+
+That's especially true with roughly one in four homes "underwater," or worth less than the outstanding mortgage—which stifles job mobility by making people reluctant to move. Now more than ever, homebuyers would seem to take great interest in a financial product that could permit such mobility. 
+
+People can always rent, of course. But once you own a home free and clear, you have the option of selling it and using the proceeds to fund your retirement. That makes a fall in home prices worth protecting against. 
+
+Yet the market for that type of protection remains underdeveloped. "People know they are overexposed," says Prof. Shiller, who has been advocating protection against the chance of falling real-estate prices for more than 20 years. "Why they don't hedge the risk puzzles me."
+
+Part of the reason is that there aren't many liquid financial products suited to the task. Big insurance companies have never stepped forward to provide this kind of coverage. Even a 10% further drop in U.S. home values could add up to losses exceeding $1 trillion, and real-estate risks are hard to hedge in bulk—which could make traditional insurance costlier than it is worth.
+
+The idea of this kind of protection dates at least to 1925 and had some success in Illinois in the 1970s before fading away. In recent years, a few financial players have emerged to fill the vacuum, but they've had a difficult time gaining traction. 
+
+Consider the case of Home HeadQuarters, a nonprofit organization that offers protection against the risk of home-price declines in Syracuse, N.Y. Coverage costs only 1.5% of the protected value and lasts for up to 30 years. Yet Home HeadQuarters hasn't had an inquiry from any prospective customers over the past year, says the organization's director,  Kerry Quaglia. Since 2003, it has sold a total of just 150 protection plans. (The program isn't offered on properties outside of Syracuse.)
+
+On the  CME Group's
+CME
+
+
+0.61
+%
+
+
+
+
+ futures and options exchange, you can trade futures contracts on home prices in 10 metropolitan areas, including Boston, Miami and Las Vegas. 
+
+Volume on these contracts, which were inspired by Prof. Shiller's research and introduced in 2006, jumped more than 220% from March to April. A grand total of 45 contracts changed hands, up from 14 the month before.
+
+  John H. Dolan, who operates the informational website HomePriceFutures.com, says trading tends to pick up only around the last Tuesday of each month, when updated home-price data are released and speculators jump in. 
+
+When you sell a contract that covers your local market, you will make money if the underlying home-price index falls; with luck, that will at least partially offset any decline in your home's value. 
+
+Be prepared to post several thousand dollars of initial and maintenance margin, a kind of security deposit required by futures brokers; you may have to add more money if the broker demands a "margin call." 
+
+Entrepreneurial startups have struggled to offer financial products that provide this kind of protection. One outfit, ValueGuard Financial, has a backlog of some 750 prospective customers that it can't serve, says co-chief executive  Aaron Zagha, because the firm hasn't been able to get regulators to approve its offering. Another firm, Home Value Protection, launched in 2009 and then withdrew from the market; it has retooled its product as a conventional insurance policy and hopes to begin marketing this summer. 
+
+  Joe Melendez, a veteran insurance executive, has founded a company called Property Value Insurance. Starting next spring, he hopes to underwrite insurance against a fall in home values. 
+
+Such a policy, estimates Mr. Melendez, would cost an average of 1.5% of the sale price at the time a home changes hands. He says that getting the required regulatory approvals took two years and has been "a monumental task."
+
+Financial history shows, says Prof. Shiller, that "a lot of important ideas can take a long time to get established." This one has already taken too long.
+
+— twitter.com/jasonzweigwsj 
+
+ Write to  Jason Zweig at intelligentinvestor@wsj.com 

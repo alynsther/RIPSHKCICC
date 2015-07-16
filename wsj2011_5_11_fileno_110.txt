@@ -1,0 +1,47 @@
+For its first out-of-the-gate smartphone since acquiring Palm, Hewlett-Packard Co. is starting small. Really small. The $100 HP Veer 4G , available Sunday, has the surface area of a credit card and the thickness of a deck of playing cards.
+
+Over the past week, I've been carrying this pebble of a smartphone with me nearly unnoticed, since it only weighs 3.6 ounces. To borrow from the old saying, some good things come in small packages: The Veer is loaded with the latest version of webOS, Palm's stylish, fun, delightfully smart operating system. It has a slide-out Qwerty keyboard, a vibrant, albeit small, touch screen and it can work as a wireless hot spot for up to five devices. It comes in black or white, costs $100 with a two-year  AT&T
+T
+
+
+-1.11
+%
+
+
+
+
+ contract and requires a voice plan (the least expensive of which costs $40 a month) along with a $15 (200-megabyte) or $25 (2-gigabyte) data plan.
+
+But how small is too small? I loved the way the Veer fit perfectly in the palm of my hand in its closed position, and simple gestures let me navigate webOS using only the thumb of the same hand that held the device. Yet, I ran into trouble whenever I had to slide out the Veer's keyboard to type. Unlike some smartphones that offer both a physical keyboard and a virtual keyboard, the Veer only works with a physical keyboard. To slide it out, one must touch the screen with a thumb and push up, which, on several occasions, accidentally performed another function, like flicking an on-screen application away or selecting one of the five icons at the bottom of the screen. Typing on this little keyboard was surprisingly comfortable.
+
+I like a physical keyboard on smartphones, but the Veer's keyboard lacks some of the shortcuts found on others, like hitting space twice to display a period or holding down a letter key to create a capitalized letter. Auto correct is on, by default, so typing words like "youre" will automatically be fixed to "you're." But tapping the screen to place the cursor at a specific spot in an email is a challenge on this tiny, 2.6-inch touch screen since the Veer lacks a magnifying glass-like effect for pinpointing text. 
+
+The HP Veer 4G is a warm-up act for the much-anticipated TouchPad tablet the company plans to bring out this summer. WebOS, with its intuitive gestures and card-stacking organizational system, seems perfectly suited to a tablet. The Pre 3, a more normal-sized webOS smartphone, is also due out this summer. 
+
+While the back of the Veer carries the HP logo instead of the Palm name, this device still has reminders of Palm on it, like the first step to using the device: creating or signing into a Palm Profile. I signed in with a pre-HP Palm Profile I already had, and it still worked. Logging into this profile will restore previously set up accounts and apps to the device. H-P's spokeswoman said that Palm-specific nomenclature would be changed in an update.
+
+In a few steps, I had my email from two Google Gmail accounts, a Hotmail account and a .Mac account set up on my Veer. I set one Google account to sync contacts and calendar. A feature in webOS called HP Synergy automatically populates the Veer with contact information from Facebook, Google, Microsoft Exchange, LinkedIn and Yahoo account contacts if a user signs into these.
+
+For those unfamiliar with webOS, it uses a system that treats each opened program as a card that appears on the screen, and this latest version of webOS stacks related cards together. One swipe upward from the gesture area below the touch screen displays all opened cards, and a right or left swipe jumps from one opened app or program to another. A setting lets users switch from one app directly to the next by swiping all the way across the gesture area. 
+
+Unlike iOS,  Apple Inc.
+AAPL
+
+
+0.96
+%
+
+
+
+
+'s mobile operating system, webOS handles Adobe Flash with ease. I opened the "Charlie Rose" website, which runs in Flash, and watched a video of a reporter in Libya.
+
+The HP App Catalog virtual store offers only 6,000 apps (Apple offers some 350,000 apps), and it's still working out a few kinks. My search for Angry Birds returned Angry Birds Lite for Pixi (an older, small smartphone from Palm). A spokeswoman said that since the Pixi and Veer share the same screen size, any Pixi app is also available for Veer, hence the Pixi name showing up in an app title in the App Catalog for Veer. Still, people clueless about what the Pixi is will be confused by this. 
+
+Some apps come pre-installed on the Veer, but these don't include apps for Facebook and Twitter. The self-described premier Twitter app for webOS isn't free: It's a $2.99 app called Twee. The Facebook app is free.
+
+I found the Veer's battery life suitable for a full day's use, including Web browsing, watching videos, emailing, texting, playing games like Endless TriPeaks Solitaire and running apps like Twee and Facebook. HP's battery life claim is up to five hours of talk time and 300 hours standby time. Veer uses a speedy Qualcomm Inc. Snapdragon processor that the spokeswoman said is designed for efficiency and substantial talk time.
+
+If you're a fan of webOS and you prefer carrying a smaller, lighter device, the HP Veer 4G is fast and fun to use—though sliding out its keyboard isn't as easy as it should be. 
+
+ Write to  Katherine Boehret at katherine.boehret@wsj.com 

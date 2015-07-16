@@ -1,0 +1,49 @@
+Running out of pasta or chicken doesn't mean you need to eat takeout for dinner or sprint to the store. Online services can help you come up with a meal with the ingredients hiding in your pantry.
+
+The websites, which come up with recipes, are becoming more popular. The sites work like search engines: Users enter the ingredients they have and the results are recipes that make use of it all. For example, inputting leftover vegetables in the fridge can yield an unexpected pasta dish. The recipes are either user contributions or come from partner sites like allrecipes.com or food.com. 
+
+The ingredient-based search engines have seen traffic pick up amid the recent financial crisis as more people want to make the most of what they already have, the site founders say.
+
+We tested four sites with four main ingredients from three kitchens in hopes of finding a dinner dish to make on the fly. The sites are free to use, which means ads are plentiful but not too distracting. They don't require a login or sharing email addresses. 
+
+For each site, we typed in each kitchen's main ingredients plus some others that varied with each kitchen. The sites' lists of recipes incorporated all or some of our main ingredients as well as others that weren't on our original list. We cooked the recipes that seemed the most appealing and came closest to using all the ingredients. 
+
+We also gave each site one tough challenge: Find a recipe for broccoli, peanut butter, English muffins and canned tuna. The results at RecipePuppy.com were the best fit and gave a few dozen recipes that used two of our ingredients. The site gave us dishes like a tuna-broccoli soufflé and Thai peanut chicken, which both seemed like good options. (At the three other sites, most results only included one of our listed ingredients.) None of the sites were able to find a recipe that helped us use up all four ingredients. 
+
+We were surprised by how many recipe options there were—even on days when our pantry was depleted. 
+
+Most of the recipes were tasty and took about 30 minutes to prepare. At times, it was difficult to sort through the results for each ingredient, and in some cases, the spices or other ingredients the recipes called for were obscure. For all the sites we wished there was a better way to discern the quality of each recipe before making it.
+
+At RecipeKey, we dragged pictures of our main food items—boneless chicken, green beans, Portobello mushrooms and basil—into the site's virtual pantry to search recipes. We could sort the hundreds of results by difficulty, meal type and even cooking method. 
+
+Our best matches, using most of the ingredients, showed up first and listed how many ingredients we had in our virtual pantry. For a chicken dinner, we got 797 matches that used at least one of our four ingredients. 
+
+(For more targeted results, RecipeKey founder Ben Saur suggests users create a login that stores a running list all of the products in their kitchens.) 
+
+In the kitchen, though, the recipes brought mixed results: A garlic chicken with asparagus and mushrooms was too dry because the recipe didn't call for any kind of oil or sauce. However, our soon-to-expire yogurt yielded a refreshing yogurt cucumber salad. 
+
+RecipePuppy was the quickest to use but had the fewest features. (The site does have an iPhone and Android app.) We input all our main ingredients (also chicken, green beans, mushrooms and basil) at once into the site's search tab and got more than 10 pages of recipe results, which come from 30 partner sites. Though we could exclude certain ingredients, there was no way to sort the recipes.
+
+"The sorting is done on the back end," says founder Kris Brower. "The algorithm tries to match as many of those ingredients as possible." 
+
+For one dinner, we input squash, onion, garlic and couscous and got an Israeli couscous with summer squash dish that was easy to make. A garlic lemon green beans recipe was equally delicious. 
+
+Supercook was the easiest to use. After entering our main ingredients, including the aforementioned chicken, green beans, mushrooms and basil, we were asked what other ingredients we had in the house to further pinpoint the recipes. Users can create a username to keep track of their pantry and list allergies. 
+
+There were plenty of recipes to choose from and we could sort by entrées, starters and desserts but there was no way to track the quality of the recipes and see what other users thought of them. (Founder Assaf Rozenblatt says that a new version of the site due out in two months will give users review capabilities.)
+
+The quality of the recipes was hit or miss. A spaghetti al limone was bland and too creamy while a baked Parmesan chicken recipe was delicious. 
+
+At Recipematcher, we could find recipes according to a primary ingredient we choose, like the chicken we wanted to make for dinner. Site members submit all the recipes. Before committing to a recipe we could see what others thought of it or how they modified a dish. 
+
+The site, however, was extremely slow on two occasions. Navigating between the search pages was difficult and it took us a long time to find a recipe we liked.
+
+"That's been a big problem for us because the amount of traffic we've been getting," says site founder Mike Sasaki, who adds that a new quicker version will launch in two months. 
+
+Some recipes were vague but easy to follow. A recipe for California-inspired lime chicken soft tacos was a keeper but a quick lemon Dijon chicken recipe was chewier than expected.
+
+ Corrections & Amplifications 
+
+Allrecipes.com is one of the websites that provide recipes for ingredient-based recipe search engines. A previous version of this article incorrectly said allfood.com was a partner website.
+
+ Write to  Alina Dizik at alina.dizik@dowjones.com 

@@ -1,0 +1,31 @@
+Desperate to lower the price of HIV treatment, AIDS advocates have enlisted scientists to tinker with the chemistry used to synthesize a key drug, tenofovir, reducing the cost of manufacturing it.
+
+The Clinton Health Access Initiative, founded by former President Bill Clinton, is spearheading this push, with funding from the Bill and Melinda Gates Foundation and the U.K. government. The Clinton team hired former pharmaceutical-company chemists to work on the project. And a key step in the new recipe for making tenofovir was contributed by a student at Howard University in Washington, D.C. 
+
+The chemistry effort represents a new sophistication among AIDS advocates, who fear a wave of HIV deaths in developing countries due to flat funding for international treatment programs. 
+
+The HIV drugs, known as antiretrovirals, halt the disease's progression. But they must be taken every day for life, a costly burden. 
+
+The chasm between the need for the drugs and the available funding has spurred wide-ranging efforts to bring down the cost of antiretrovirals, from persuading drug makers to share patents of antiretrovirals to conducting trials using lower doses of existing drugs. 
+
+Beginning in 2005, the Clinton team saw a possible path in the laboratory to lowering the price of the drugs. Mr. Clinton's foundation had brokered discounts on first-line AIDS drugs, many of which were older and used relatively simple chemistry. Newer drugs, with advantages such as fewer side effects, were more complex and costly to make. 
+
+The Clinton group started working with  Joseph Fortunak, a prominent chemist who had recently left his job as Abbott Laboratories to teach at Howard. Since then, the Clinton team has contracted with other chemists and has even built a small laboratory, where two scientists work full time.
+
+A particularly difficult step in the manufacture of the antiretroviral drug tenofovir comes near the end. The mixture at that point is "like oatmeal, making it very difficult to stir," explained Prof. Fortunak. That slows the next reaction, a problem because the substance that will become the drug is highly unstable and decomposing, sharply lowering the yield.
+
+One of Prof. Fortunak's graduate students, Adrian Williams, painstakingly tested many possible methods to improve this step. His eureka moment came when he added a catalyst known as TBAB, short for tetrabutylammonium bromide. TBAB sped up the reaction and thinned the oatmeal-like mixture into something "like milk," Mr. Williams said. But, said Prof. Fortunak, "the really unexpected thing was it made the product more stable—this we did not expect at all." The result was a substantial increase in yield.
+
+The Jamaica-born Mr. Williams, 29, said he chose to work on the AIDS-drug project partly "because I wanted to leave a mark, to help." He is now living in Canada looking for a pharmaceutical chemistry job.
+
+The new formula is publicly available, but to sell tenofovir, companies must be licensed by Gilead Sciences Inc., of Foster City, Calif., which holds the world-wide rights to the drug, marketed as Viread. Licensed companies currently pay a 5% royalty. 
+
+"We're very supportive" of the Clinton effort to lower the cost of drugs through improving the chemistry, said Gregg Alton, a Gilead executive vice president.
+
+Other generics companies, such as Cipla and Mylan Inc., said they developed their own improvements to the chemistry and haven't used the Clinton formula. 
+
+One manufacturer of AIDS medications, Indian firm Aptuit Laurus Pvt. Ltd., said the new approach lowered the cost of producing tenofovir by about 20%. Aptuit Chief Executive  Satyanarayana Chava said his company sells the bulk drug to Aspen Pharmacare Holdings Ltd., based in South Africa. Aspen senior executive  Stavros Nicolaou said Aptuit was one of his company's two major suppliers of bulk tenofovir, which Aspen formulates into pills taken by about a quarter million patients in Africa. He declined to specify how many African patients are taking pills made with Aptuit's tenofovir, but said it was more than 50,000.
+
+Now, the Clinton team is focusing on a new goal—making pills that are more easily absorbed into the body. If successful, that would allow each pill to contain less antiretroviral medication while achieving the same effects.
+
+ Write to  Mark Schoofs at mark.schoofs@wsj.com 

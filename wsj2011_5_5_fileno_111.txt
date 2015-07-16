@@ -1,0 +1,51 @@
+The longest experiment in space physics began with three men in a university swimming pool arguing about Einstein. It ended Wednesday, after 52 years and $750 million, with scientists affirming his theory of relativity after studying the most perfect spheres ever made as they orbit around the Earth.
+
+Called Gravity Probe B, the exotic experiment measured how the revolving mass of Earth imperceptibly twists the fabric of space in a test of Einstein's general theory of relativity. By one finding, the distortion amounts to 1.1 inches off true across the 24,900-mile circumference of Earth.
+
+During decades of trial and error, the Stanford University scientists overcame engineering glitches, launch delays, budget fights, solar flares, faulty data and seven federal investigations. NASA threatened to cancel the project so many times that researchers could complete their work only through a $500,000 contribution from the founder of  Capital One Financial Corp.
+COF
+
+
+1.07
+%
+
+
+
+
+,  Richard Fairbank—a son of one of the physicists who conceived the experiment by the pool—and help from the Saudi royal family.
+
+Their achievement may stand largely as a milestone in scientific persistence. In the intervening years, Italian, German and U.S. research groups had already confirmed Einstein's ideas. "There ain't much room for surprise," said Nobel Prize-winning physicist Sheldon Glashow at Boston University, who wasn't involved in the projects.
+
+Albert Einstein published his theory of general relativity in 1916, offering a description of gravity, space and time that transformed how scientists understand the physical laws governing the known universe. It better accounted for oddities of nature, such as anomalies in the orbit of Mercury, that classical physics, as formulated by Newton, could not explain.
+
+Einstein called it "the happiest thought of my life."
+
+Scientists have sought to verify Einstein's theory ever since. They have measured microwaves as they warped around the sun, studied variations in the orbit of Mercury, and bounced signals off the Moon and Mars. 
+
+In 2004, researchers led by physicist Ignazio Ciufolini at the University of Salento in Lecce, Italy, used NASA and Italian satellites to measure relativity's gravitational effects with about the same accuracy as Gravity Probe B, the scientists said. The European Space Agency plans a probe called the Laser Relativity Satellite later this year.
+
+In the areas of space technology and applied physics, though, the Stanford experiment has no rival, several experts said. "Special technology breakthroughs were required in every single aspect of the experiment," said Rex Geveden, president of Teledyne Brown Engineering Inc., in Huntsville, Ala., who worked on the project.
+
+The experiment was the brain-child of three university scientists— Leonard Schiff, William Fairbank and  Robert Cannon—who wanted to use gyroscopes to measure how Earth's mass distorts space-time and pulls at objects orbiting the planet, as predicted by Einstein's theory. Stanford collaborated with  Lockheed-Martin Corp.
+LMT
+
+
+0.02
+%
+
+
+
+
+ to construct the equipment.
+
+At the heart of the experiment was a set of spinning crystal balls. To measure relativity's infinitesimal effects, the researchers devised four of the most precise gyroscopes ever made—a million times more sensitive than any available at the time. Each one was a super-chilled sphere of quartz crystal the size of a ping-pong ball, polished to within 40 atomic layers of a perfect sphere. They still hold a place in Guinness World Records as the most perfectly round objects ever made.
+
+Once in orbit, the gyroscopes were designed to keep the Gravity Probe B satellite perfectly aligned with a distant guide star in the constellation Pegasus. If Einstein had it right, the gyroscopes, spinning like a child's top, would tilt very slightly and wobble as they rotated, dragged off true by the vortex of space-time stirred by Earth. 
+
+After several false starts, the NASA satellite was launched in 2004, 45 years after work on the experiment began. As the probe circled Earth, the scientists found themselves contending with balky on-board electronics, unexpected sunspots on the guide star that interfered with the probe's alignment, and magnetic fluctuations distorting the measurement readings.
+
+It took the team five more years to refine its calculations. Their conclusions were published Wednesday in the journal Physics Review Letters and announced at a NASA briefing.
+
+"We have managed to test two of the most profound effects of general relativity and do so in a new way," said project leader  Frances Everitt, who joined the project in 1962. "We completed this landmark test of Einstein's universe, and Einstein survives."
+
+ Write to  Robert Lee Hotz at sciencejournal@wsj.com 

@@ -40,7 +40,7 @@ from datetime import datetime, timedelta
 #procs is the number of simultaneous processes to run
 #enter 0, 1 in order to just do it all with one process
 def processtextmine(index, procs):
-	first_date = datetime(2011, 3, 24)
+	first_date = datetime(2011, 5, 14)
 	delta = timedelta(days=1)
 	date = first_date - delta
 	last_date = datetime(2011, 12, 31)

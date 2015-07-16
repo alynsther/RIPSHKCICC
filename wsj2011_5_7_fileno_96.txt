@@ -1,0 +1,73 @@
+A spate of mutual funds debuted last year that allowed ordinary people to bet on one of the hottest market sectors: energy partnerships. But a quirk in the funds' tax treatment has made the portfolios perform so unpredictably that investors might want to think twice before diving in. 
+
+The new funds invest in so-called master limited partnerships, which are publicly traded companies that typically own and operate pipelines for natural gas and oil. In the past several years, MLPs' attractive distribution rates, recently around 6%, and the rapid growth in U.S. energy infrastructure investment, have tantalized investors. 
+
+But the partnerships require unusual and complex tax filings—including a rule that can oblige investors to file returns in each state where a pipeline operates. 
+
+While those headaches had long proved a deal breaker for many investors, the fund industry rushed into the breach last year, launching a slew of new mutual funds, closed-end funds and exchange-traded-fund-like securities aiming to simplify this daunting paperwork. Researcher  Morningstar Inc.,
+MORN
+
+
+-0.39
+%
+
+
+
+
+ which tracked just five such MLP vehicles at the start of 2010, now follows 24.
+
+The problem is that owning MLPs through a mutual fund presents its own set of woes, offsetting some of the benefits that made MLPs attractive in the first place. 
+
+On their own, MLPs aren't subject to federal and state corporate-income tax, usually levied at combined rates of 35% to 40%. But mutual funds that hold the partnerships don't enjoy that advantage, weighing on returns. 
+
+The result: While the Alerian MLP Infrastructure Index, an industry benchmark, soared 30% in the past year through Thursday, the $511 million SteelPath MLP Select 40 Fund, the largest conventional, open-end MLP mutual fund to launch in 2010, is up just 18%. The $1.1 billion  ALPS Alerian MLP 
+AMLP
+
+
+-1.38
+%
+
+
+
+
+ETF, touted as the first MLP ETF, is up 11% since hitting the market last August, compared with 18% for the index. 
+
+Executives at SteelPath Fund Advisors and ALPS Advisors Inc. concede fund investors face a big tax haircut, but say many, including sophisticated institutional clients, are willing to look past it for convenience's sake.
+
+"It's not perfect, but it's the best you can do," says  Brian Watson, director of research at SteelPath. "The shoe fits for some." 
+
+To some extent, the funds' flaws have been exacerbated by the recent gains. Over the past year, MLPs have posted unusually large returns, so the gains fund investors have missed, while proportionately the same as they might have been in other years, have looked more dramatic. 
+
+Of course, the funds could make up some of the lost ground in the future if MLP prices decline, since money they reserve for taxes in a bull market can later be reclaimed under certain circumstances. 
+
+Some mutual funds have fared better than others. A number of closed-end funds, which face the same tax hurdle, aim to eliminate the tax-related shortfalls by using borrowed money to magnify returns. The $2 billion  Kayne Anderson MLP Fund
+KYN
+
+
+-1.96
+%
+
+
+
+
+ returned 28% over the past year, trailing the benchmark by two percentage points, although it has missed by a wider margin over a five-year span. (Kayne Anderson Fund Advisors LLC, which prefers a different industry benchmark, says the fund has outperformed that target four out of the past six calendar years.)
+
+Exchange-traded notes also have fared better, but for a different reason. These investments don't face the same tax quirk as mutual funds and ETFs because, technically, they aren't funds at all but notes issued by a bank promising to pay investors returns that match a certain index. The most popular of these is the $2.7 billion  JPMorgan Alerian MLP Index
+AMJ
+
+
+-1.75
+%
+
+
+
+
+ ETN, which tracks a slightly different version of the benchmark followed by the ETF, and has also returned 28% in the past year.
+
+Yet ETNs have their own drawbacks. One is that the notes are issued by financial firms—and if those firms blow up, investors would lose their money even if the MLPs performed well. The other is that while ETNs avoid the tax hits faced by mutual funds, investors could get hit when they pay their personal taxes. 
+
+One benefit MLP mutual funds enjoy is that a big portion of the regular distributions they pass along to fundholders is tax-advantaged, allowing investors to put off tax bills until they sell and eventually make them eligible for lower, long-term capital-gains rates. ETN distributions, by contrast, are taxed at ordinary income rates.
+
+One solution analysts suggest: Buy ETNs only in tax-deferred retirement accounts. 
+
+ Write to  Ian Salisbury at ian.salisbury@dowjones.com 

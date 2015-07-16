@@ -1,0 +1,17 @@
+WASHINGTON, D.C.—A draft House bill with bipartisan support would prohibit companies from tracking children on the Internet without parental consent, restrict online marketing to minors and require an "Eraser Button" that would allow parents to eliminate kids' personal information already online.
+
+The draft of the "Do Not Track Kids Act of 2011"—released by Rep. Edward J. Markey, a Massachusetts Democrat, and Rep. Joe Barton, a Texas Republican—would go well beyond existing federal law. The Children's Online Privacy Protection Act of 1998 only requires websites aimed at children under 13 to obtain parental permission before collecting personal information such as kids' names or email addresses. The new legislation, among other things, would prohibit companies from using or providing to third parties personal information of kids under 18 for "targeted marketing purposes." 
+
+"We have reached a troubling point in the state of business when companies that conduct business online are so eager to make a buck, they resort to targeting our children," said Mr. Barton. "I strongly believe that information should not be collected on children and used for commercial purposes."
+
+The two congressmen co-chair the Bipartisan Congressional Privacy Caucus. "I look forward to hearing from stakeholders about this important legislation and working with my colleagues to move the bill forward," said Mr. Markey.
+
+The proposed legislation comes amidst a flurry of activity on Capitol Hill to try to restrict Internet tracking. On Friday, Sen. John Rockefeller (D, W.Va.) said he would introduce legislation requiring online firms to offer a do-not-track option. He also plans to conduct a hearing about mobile privacy later this month.Next week, Sen. Al Franken (D, Minn.) plans to hold a hearing on mobile privacy including testimony from Apple Inc. and Google Inc.— which have been under scrutiny for collecting location information from cellphone users.
+
+The legislation—called a "discussion draft"—cites the findings of The Wall Street Journal's "What They Know" series. In September, the newspaper reported that popular children's websites install more tracking technologies on personal computers than sites aimed at adults.
+
+Under the proposed bill, online firms would be required to explain the types of personal information collected on children and how that information is used and disclosed. The bill also would require a "Digital Marketing Bill of Rights for Teens" that limits the collection of personal information of minors, including geolocation information.
+
+A spokesman for the Interactive Advertising Bureau, a trade association of online advertisers, wasn't available for comment.
+
+ Write to  Steve Stecklow at steve.stecklow@wsj.com and Julia Angwin at julia.angwin@wsj.com 

@@ -1,0 +1,53 @@
+Television programs, like music and books, are migrating from their traditional form of delivery to transmission over the Internet for consumption on computers, tablets and smartphones. A growing number of people, at least some of the time, are choosing to watch shows on these devices rather than on television sets.
+
+Right now, this transition is something of a mess. Media, cable and technology companies are battling over what can be shown on which platforms in which time frames. Various shows and networks are available on some digital services and devices, but not others. Some services have commercials, others don't. Some have current shows, others mainly older ones. They use different payment models. Networks and shows can appear and disappear from digital services unpredictably.
+
+Despite all this industry jockeying, consumers can easily watch TV shows on their digital devices, legally. Apple's iPad, which dominates the new tablet category, has become a capable device for doing so. It made its debut a year ago with a TV app built in, and it continues to gain new TV apps. For instance, HBO just released one. These apps mainly offer delayed, not live, viewing. 
+
+
+
+
+
+You can certainly watch shows on computers and smartphones, but I find the iPad especially good for this purpose. It is a lighter, thinner and more immersive device than a laptop, yet it has a large enough screen and strong enough battery life to make TV viewing satisfying. It can even transmit shows, via a cable or wirelessly, to big TV screens if you like. Competing tablets also will be good platforms for this, but, so far, they have far fewer TV-watching apps, so the iPad is by far the best tablet for TV watching now.
+
+Here is a quick guide to how to view traditional TV shows on an iPad. It focuses on apps rather than the browser, because apps seem to be the main method distributors have chosen for making TV available on the device. I also focused only on TV you can obtain directly on the device, rather than via transfer from a computer. For this survey, I tested eight apps that bring TV to the top tablet.
+
+ iTunes: Since this service is owned by Apple, it was on the iPad from the start. It has a wide selection of TV programs, in both high definition and standard definition. Many of the shows are current, available just a day or so after airing on cable and broadcast networks. 
+
+
+
+Unlike other services covered here, iTunes sells TV by the episode, rather than by all-you-can-watch subscriptions. Episodes typically cost $1.99 for standard definition and $2.99 for HD. There are no commercials. You buy them via the iPad's iTunes app, and play them via its Videos app. 
+
+In my tests, both apps worked well, and playback was smooth and crisp. The shows are downloaded to your device, which means you can watch them even when you lack an Internet connection, as on most airplanes. But it also means that they eat up lots of storage until you delete them and can't be watched instantly.
+
+ Netflix: Once just a DVD-by-mail outfit, Netflix has become a video-streaming giant available on numerous devices. Its iPad iteration costs $8 a month for an unlimited number of ad-free TV shows. 
+
+These start playing instantly upon selection, requiring just an Internet connection. There's no need to add them to a queue.
+
+ In my tests, Netflix shows looked sharp on the iPad and only rarely froze or stuttered, even on slower Internet connections. But the selection is old, at least by a season and some much older. For instance, under "new arrivals," the app currently lists "The Cosby Show" from 1984. "Glee," a current blockbuster, has only 2009 episodes listed. Also, the interface is crowded and a bit confusing. But I use the app to watch old favorites.
+
+ Hulu Plus: This app, another streaming service that costs $8 a month, is the paid counterpart to the free, but computer-only, Hulu website. It has more current shows than Netflix. But it often has few episodes and seasons at any one time, and it includes ads. That may be because it is backed by most of the major broadcast networks, which are cautious about departing from the traditional TV system. (One backer, News Corp., also owns The Wall Street Journal and its websites.) 
+
+It was one of only two apps I tested (the other was HBO) that wouldn't work when the iPad is connected via cable to a TV. The app just posted text on the TV screen saying the company was "working hard" to enable the feature. 
+
+But the interface is clean and attractive, and the programs looked sharp and played smoothly.
+
+ ABC Player: This handsome app, available for the iPad from the start, streams shows free and in good quality, albeit with commercials. It has many top network series, such as "Desperate Housewives" and "Grey's Anatomy." But it usually offers only a handful of episodes from the current season, and sometimes not the freshest ones. For instance, the latest episode of "Modern Family" is from April 20.
+
+ Xfinity TV: This well-organized app is free to verified  Comcast subscribers, and is part of a trend whereby cable companies make programs available on other devices, free, but only to people who are already paying customers. (I could test only this one cable app, as Comcast is my cable company.) 
+
+Because of disputes between the networks and the cable companies, this app has only a handful of the networks Comcast offers on TV, and the show selection is incomplete. For instance, ABC, NBC, CBS and Fox are absent. And while HBO is present, its new series "Treme" isn't. 
+
+Some other cable apps offer live shows, when the iPad is on a home network, but this one doesn't, yet. Still, I found the interface easy to navigate and the playback quality very good, though the app only works over Wi-Fi.
+
+ HBO GO: The newest TV app for the iPad, this one is also tied to a cable subscription and isn't available to customers of every cable operator. It appears to have a good selection of past and present favorites and worked well in my tests. The interface is clean and easy to use.
+
+ WatchESPN: This is technically an iPhone app, but it plays on the iPad, and the quality is decent. It is also limited to cable subscribers or to customers of Verizon's high-speed Internet. It offers shows live. But it only works for subscribers to a handful of mostly smaller cable services.
+
+ MLB At Bat: This isn't an app that brings you a variety of shows, but it's beautifully done and allows you to watch almost every regular-season Major League baseball game, live, for a one-time payment of $15, provided you are a subscriber to MLB's TV service, which costs $90 a year. Video quality is excellent, and you also can view highlights of each game, even while the game is in progress. The main downside: As with television, some games are blacked out based on location.
+
+The iPad has been out just a year, and comparable competitors are just appearing. I hope eventually tablet offerings are more complete. 
+
+ Write to  Walter S. Mossberg at walt.mossberg@wsj.com 
+
+ Corrections & Amplifications:  An earlier version of this column erroneously stated that the MLB At Bat app provided access to every major league game, live, for just a $15 one-time fee. While that is the price of the app, the column should have mentioned that watching live games on the iPad also requires a $90 annual subscription.
