@@ -17,12 +17,14 @@ words = []
 lolists = []
 number = 10
 
+
 def choosing_num():
     global number
     global lolists
 
     number = int(raw_input("Number of posts: "))
     lolists = [[]] * number
+
 
 def import_from_txt():
     global string_list
@@ -37,12 +39,15 @@ def import_from_txt():
         string_list.append(text)
 
 
+
 def processing_text(string_list): 
     wordsList = lolists
     for i in range(len(string_list)):
         wordsList[i] = tokenizer.tokenize(string_list[i])
 
     return wordsList
+
+
 
 def process_content(words):
     pos_list = []
@@ -78,6 +83,8 @@ def process_content(words):
 
     return pos_list
 
+
+
 def build_wo_rept(pos_list):
     wo_rept = []
     for j in range(len(pos_list)):
@@ -86,6 +93,8 @@ def build_wo_rept(pos_list):
                 wo_rept.append(pos_list[j][i])
 
     return wo_rept
+
+
 
 def count_frequency(pos_list):
     wo_rept = build_wo_rept(pos_list)
@@ -98,6 +107,8 @@ def count_frequency(pos_list):
             count = pos_list[i].count(wo_rept[j])
             frequency[i].append(count)
     return frequency
+
+
 
 def tfidf(frequency):
     newFrequency = (np.array(frequency).T).tolist()
@@ -119,6 +130,8 @@ def tfidf(frequency):
             newFrequency[i][j] = newFrequency[i][j]*idf[i]
     return newFrequency
     
+
+
 def singularValueDecomposition(frequency,k):
     a = np.array(frequency)
     U,s,V = np.linalg.svd(a,full_matrices = False)
@@ -126,6 +139,8 @@ def singularValueDecomposition(frequency,k):
     topicFrequency=(np.array(TopicFrequency).T).tolist()
     return topicFrequency
     
+
+
 def findKNN(frequencyVector, newVector):
     samples = np.array(frequencyVector)
     neigh = NearestNeighbors(n_neighbors = 4, metric = "euclidean")
@@ -136,11 +151,15 @@ def findKNN(frequencyVector, newVector):
 
     return indexList
 
+
+
 def drawDendrogram(frequencyList):
     frequencyArray = np.array(frequencyList)
     condenseDis = scipy.spatial.distance.pdist(frequencyArray,"euclidean")
     square=scipy.spatial.distance.squareform(condenseDis)
     print square
+
+
     
 def main(i):
     frequency = count_frequency(pos_list)
@@ -150,6 +169,8 @@ def main(i):
     print topicFrequency
     drawDendrogram(topicFrequency)
     return indexList[0]
+
+
     
 choosing_num()
 import_from_txt()
