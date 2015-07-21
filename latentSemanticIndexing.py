@@ -40,6 +40,7 @@ wordnet_lemmatizer = WordNetLemmatizer()
 stemmer = SnowballStemmer("english")
 
 number = 0
+k = 0
 
 
 def daterange(start_date, end_date):
@@ -332,12 +333,12 @@ def tfidf(frequency):
         for j in range(len(normalizedFrequency[i])):
             normalizedFrequency[i][j] = normalizedFrequency[i][j] / normList[i]
     finalF = np.array(normalizedFrequency).T.tolist()
-    
+
     return finalF
     
 def singularValueDecomposition(frequency, k):
     a = np.array(frequency)
-    U,s,V = np.linalg.svd(a,full_matrices = False)
+    U, s, V = np.linalg.svd(a,full_matrices = False)
     for i in range(len(s)):
         for j in range(len(V[i])):
             V[i][j] = V[i][j] * s[i]
@@ -345,6 +346,49 @@ def singularValueDecomposition(frequency, k):
     topicFrequency = (np.array(TopicFrequency).T).tolist()
 
     return topicFrequency, U
+
+
+def singularValueDecomposition_09(frequency):
+    a = np.array(frequency)
+    U, s, V = np.linalg.svd(a, full_matrices = False)
+    print s
+    for i in range(len(s)):
+        for j in range(len(V[i])):
+            V[i][j]= V[i][j] * s[i]
+    EigenValues = []
+    for i in range(len(s)):
+        EigenValues.append(s[i] ** 2)
+    sumEigenvalues = sum(EigenValues)
+    k = 0
+    cumulativeSum = 0
+    for i in range(len(s)):
+        cumulativeSum += EigenValues[i]
+        k += 1
+        if float(cumulativeSum) / sumEigenvalues >= 0.9:
+            break
+    print k
+    TopicFrequency = (V.tolist())[:k]
+    topicFrequency = (np.array(TopicFrequency).T).tolist()
+
+    return topicFrequency, U, k
+
+
+def singularValueDecomposition_1(frequency):
+    a = np.array(frequency)
+    U, s, V = np.linalg.svd(a, full_matrices = False)
+    print s
+    for i in range(len(s)):
+        for j in range(len(V[i])):
+            V[i][j] = V[i][j] * s[i]
+    k = 0
+    for i in range(len(s)):
+        if s[i] > 1:
+            k += 1
+    print k
+    TopicFrequency = (V.tolist())[:k]
+    topicFrequency = (np.array(TopicFrequency).T).tolist()
+
+    return topicFrequency, U, k
 
 
 def findKNN(frequencyVector, newVector):
@@ -400,7 +444,7 @@ def main_output(pos_list):
 
     '''
     Calling functions.
-    Return the indices of the K-nearest.
+    Return the indices and distances of the K-nearest.
     '''
 
     wo_rept = build_wo_rept(pos_list)
@@ -408,6 +452,44 @@ def main_output(pos_list):
     tfidf_frequency= tfidf(frequency)
     topicFrequency, U = singularValueDecomposition(tfidf_frequency, 2)
     showTopic(wo_rept, 2, U, 10)
+    indexList = findKNN(topicFrequency[: len(topicFrequency) - 1], topicFrequency[len(topicFrequency) - 1])
+    indices = indexList[1].tolist()[0][1:]
+    distances = indexList[0].tolist()[0][1:]
+
+    return indices, distances
+
+
+def main_output_09(pos_list):    
+
+    '''
+    Calling functions.
+    Return the indices and distances of the K-nearest.
+    '''
+
+    wo_rept = build_wo_rept(pos_list)
+    frequency = count_frequency(wo_rept, pos_list)
+    tfidf_frequency= tfidf(frequency)
+    topicFrequency, U, k = singularValueDecomposition_09(tfidf_frequency)
+    showTopic(wo_rept, k, U, 10)
+    indexList = findKNN(topicFrequency[: len(topicFrequency) - 1], topicFrequency[len(topicFrequency) - 1])
+    indices = indexList[1].tolist()[0][1:]
+    distances = indexList[0].tolist()[0][1:]
+
+    return indices, distances
+
+
+def main_output_1(pos_list):    
+
+    '''
+    Calling functions.
+    Return the indices and distances of the K-nearest.
+    '''
+
+    wo_rept = build_wo_rept(pos_list)
+    frequency = count_frequency(wo_rept, pos_list)
+    tfidf_frequency= tfidf(frequency)
+    topicFrequency, U, k = singularValueDecomposition_1(tfidf_frequency)
+    showTopic(wo_rept, k, U, 10)
     indexList = findKNN(topicFrequency[: len(topicFrequency) - 1], topicFrequency[len(topicFrequency) - 1])
     indices = indexList[1].tolist()[0][1:]
     distances = indexList[0].tolist()[0][1:]
@@ -473,7 +555,7 @@ def price_finder_csv(indices):
             price_vector.append(price_change[csvdatelist.index(datelist[i + 2])])
         elif datelist[i + 3] in csvdatelist:
             price_vector.append(price_change[csvdatelist.index(datelist[i + 3])])
-        print ' ' + datelist[i], price_vector[indices.index(i)]
+        print ' >>>' + datelist[i], price_vector[indices.index(i)]
 
     print ' Price vector generated '
 
@@ -511,7 +593,15 @@ def main_partial():
 
     generate_date_p()
     pos_list = input_pos_list()
-    indices, distances = main_output(pos_list)
+    option = raw_input(' >>> Please selected method applied to choose k (a - default, b - 0.9, c - 1): ')
+    if option == 'a':
+        indices, distances = main_output(pos_list)
+    elif option == 'b':
+        indices, distances = main_output_09(pos_list)
+    elif option == 'c':
+        indices, distances = main_output_1(pos_list)
+    else:
+        print 'Ok.'
     price_vector = price_finder_csv(indices)
     result = weighter(price_vector, distances)
 
@@ -531,7 +621,15 @@ def main_whole():
     import_y_m_d(alldate)
     choosing_num()
     pos_list = process_content(processing_text(string_list))
-    indices, distances = main_output(pos_list)
+    option = raw_input(' >>> Please selected method applied to choose k (a - default, b - 0.9, c - 1): ')
+    if option == 'a':
+        indices, distances = main_output(pos_list)
+    elif option == 'b':
+        indices, distances = main_output_09(pos_list)
+    elif option == 'c':
+        indices, distances = main_output_1(pos_list)
+    else:
+        print 'Ok.'
     price_vector = price_finder_csv(indices)
     result = weighter(price_vector, distances)
 
@@ -546,7 +644,7 @@ def main():
     Yeah. 
     '''
 
-    order = raw_input("Run whole or partial (w/p): ")
+    order = raw_input(" >>> Run whole or partial (w/p): ")
     if order == 'w':
         main_whole()
     elif order == 'p':
