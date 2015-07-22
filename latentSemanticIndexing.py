@@ -26,8 +26,6 @@ import pandas.io.data
 '''
 Initiallizing everything...
 '''
-
-
 string_list = []
 words = []
 lolists = []
@@ -141,7 +139,7 @@ def import_y_m_d(alldate):
     for lines in f_takein:
         lines_dec = lines.decode("utf-8")
         text_takein = text_takein + lines_dec.rstrip() + ','
-    string_list.append(text_takein.lower())
+    string_list.append(text_takein.lower())                                     
 
     print ' Take-in file imported '
 
